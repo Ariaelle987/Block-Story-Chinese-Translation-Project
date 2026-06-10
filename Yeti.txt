@@ -1,0 +1,58 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/yeti/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Otherworldly Visitors"
+msgstr "天外来客"
+
+msgid ""
+"The yeti howls angrily and draws an image in the snow.  You recognize it at "
+"once.  The Visitors.  Mister Yeti clearly wants them eliminated."
+msgstr ""
+"雪人愤怒地嚎叫着，在雪地上画出一幅图案。你立刻认出来了——访客。雪人显然希望他们被消灭。"
+
+msgid "The yeti growls inquisitively at your progress."
+msgstr "雪人发出好奇的低吼，似乎在询问你的进展。"
+
+msgid "Tell the Yeti you have slain the visitors."
+msgstr "告诉雪人，你已经击败了访客。"
+
+msgid ""
+"The yeti howls joyfully at your triumph over the visitors.  He rummages "
+"through his treasure stash and presents you with a metal contraption.  "
+"Surely there is some use for it."
+msgstr ""
+"雪人因你战胜访客而欢呼雀跃。他翻遍自己的宝藏堆，递给你一个金属装置。看起来应该能派上用场。"
+
+# #-#-#-#-#  Yeti.po  #-#-#-#-#
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid ""
+"A big smile passes over the yeti's face as you tell him of your battle with "
+"the visitors, but it appears he is not satisfied, yet."
+msgstr ""
+"当你向雪人讲述与访客的战斗时，他脸上露出灿烂的笑容，但看起来似乎仍然不太满意。"
+

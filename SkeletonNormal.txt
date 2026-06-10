@@ -1,0 +1,52 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 18:15-0500\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/skeleton-normal/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#, fuzzy
+msgid "Splitting Skullache"
+msgstr "裂骨"
+
+#, fuzzy
+msgid ""
+"You have bested so many of us skeletons in battle, Dragon Rider.  Now I need "
+"your help.  Bring me the skulls of my fallen comrades, and I will reward you "
+"for your trouble."
+msgstr ""
+"你在战斗中击败了我们这么多骷髅，龙骑士。现在我需要你的帮助，把我倒下战友的头骨带来，我会酬谢你的辛苦。"
+
+#, fuzzy
+msgid ""
+"You can bring me up to ten skulls per day.  When I am satisfied, I will "
+"share an intriguing object I found with you."
+msgstr ""
+"你每天最多可以交给我十个头骨。等我满意了，我会把我发现的一个有趣的东西分享给你。"
+
+#, fuzzy
+msgid ""
+"Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
+msgstr ""
+"唉，可怜的约里克！我认识他，龙骑士。谢谢你带来这些头骨。"
+
+#, fuzzy
+msgid "Tell the Skeleton you have the skulls."
+msgstr "告诉多嘴骷髅你已收集到头骨。"
+
+#, fuzzy
+msgid ""
+"Now that we have gathered the skulls of my comrades, I can be at peace.  "
+"Thank you, Dragon Rider.  As promised, here is your reward.  I hope you can "
+"put it to good use."
+msgstr ""
+"现在我们收集齐了战友的头骨，我可以安心了。谢谢你，龙骑士。如约，这是你的奖励。希望你能好好利用它。"

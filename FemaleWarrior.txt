@@ -1,0 +1,1849 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/female-warrior/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:1
+msgid "Dragon Boots"
+msgstr "龙靴"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:6
+#, no-wrap
+msgid "Do not blame yourself.  None of us saw through the Dragon Lord’s ruse.  I feel so foolish."
+msgstr "别责怪自己。我们谁也没预料到这些。我也是够蠢的。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:14
+#, no-wrap
+msgid "When the dragons abandoned the Dragon Lord, they took his power with them.  In his weakened state he had no choice but to rely on someone else for help.  Someone powerful.  Someone...like you."
+msgstr "当龙主的龙弃他而去时，龙主的力量也随之而去。如此虚弱时，他别无选择，只能依靠别人。一个强大的人，比如...你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:17
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:27
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:37
+#, no-wrap
+msgid "Speak to Paula about the Wizard's betrayal."
+msgstr "与葆拉谈谈龙主的背叛。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:24
+#, no-wrap
+msgid "With the last of his magic, the Dragon Lord concealed himself with a glamer, taking on the appearance of a weak old man.  He then used you to do his bidding, to bring his dragons home, and make him more powerful than ever.  He tricked you.  We were all fooled."
+msgstr "龙主用他最后的魔力来掩饰自己，将自己变成一位无助的老人。然后，他利用了你，将龙带了回来，使他比以往任何时候都更具力量。所以他欺骗了你，我们都上当了。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:34
+#, no-wrap
+msgid "Our mission remains the same.  Stop the Dragon Lord at all costs.  To stand a chance against his power, you will need equipment that befits a Dragon Rider.  I can help you to get started."
+msgstr "我们的任务没有改变。要不惜一切代价阻止龙主。为了有机会与他抗衡，你需要一套适合龙骑士的装备。我可以帮你起个头。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:50
+#, no-wrap
+msgid ""
+"To think I had a hand in helping that monster, after what he did to me and my dragon.\n"
+"\n"
+"Craft the Dragon Boots to stand a chance against the Dragon Lord."
+msgstr ""
+"想想他对我和我的龙做了些什么，我却帮了那个怪物。\n"
+"\n"
+"制作龙靴吧，那样就有机会对抗龙主。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:62
+#, no-wrap
+msgid "Tell Paula you have crafted the Dragon Boots."
+msgstr "告诉葆拉，你制作了龙靴。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:58
+#, no-wrap
+msgid "Buckle on those boots, Dragon Rider.  There is still more to do."
+msgstr "龙骑士，穿上你的长靴。还有许多要做。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:77
+#, no-wrap
+msgid ""
+"The next piece of dragon gear takes inspiration from Nordic design.  I think you know where to go.\n"
+"\n"
+"My dear friend, please be swift.  You must make the Dragon Lord pay for his treachery."
+msgstr ""
+"下一件龙防具灵感来自北欧设计。我想你应该知道去哪里。\n"
+"\n"
+"朋友，赶快去吧。你必须让龙主为他的背叛付出代价。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:84
+#, no-wrap
+msgid "Speak to Ted about the next piece of dragon gear."
+msgstr "与泰德谈谈下一件龙防具。"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:1
+msgid "Dragon Hunting"
+msgstr "猎龙"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:23
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:44
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:65
+#, no-wrap
+msgid "Oh it’s good to see you!  How does your dragon fare today?  Would you show me the kindness of acquiring some Dragonscale for me?  My hope is to use it to assemble a fantastic new weapon."
+msgstr "噢，真高兴见到你！龙还好吗？你能收集一些龙鳞吗？我想用它们来制作出奇妙的新武器。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:24
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:45
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:66
+#, no-wrap
+msgid "I know that Dragonscale is not easy to acquire, but you are the Dragon Rider, after all."
+msgstr "我知道龙鳞不容易获取，可你毕竟是龙骑士。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:29
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:50
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:71
+#, no-wrap
+msgid "Tell Paula you have the Dragonscales."
+msgstr "告诉葆拉，你有龙鳞。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:25
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:67
+#, no-wrap
+msgid "Thank you so much!  Bring more tomorrow and I will continue work on my new weapon."
+msgstr "非常感谢！明天带来更多，我会继续研究新的武器。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:46
+#, no-wrap
+msgid "That should do it!  Oh, Dragon Rider, feast your eyes on this beauty!"
+msgstr "完成了！噢，龙骑士，看看这个！"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:1
+msgid "Dragon Rider"
+msgstr "龙骑士"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:6
+#, no-wrap
+msgid "Dragon Rider!  This is a pleasant surprise.  It has been too long."
+msgstr "龙骑士！这真是个不错的惊喜。好久不见了。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:19
+#, no-wrap
+msgid "It fills me with warmth to see you and your dragon.  I’ve missed you both so.  As for your mission, only through combat and rigorous training will your dragon grow stronger."
+msgstr "看到你和你的龙使我感到温暖。我真的很想你们。至于任务，只有通过战斗和严格的训练，你的龙才会变得更加强大。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:33
+#, no-wrap
+msgid ""
+"I smile when I think of your arrival in this land so long ago.  You’ve grown so much since then – and your dragon too, of course.\n"
+"\n"
+"When you are able to ride your dragon, speak to me again."
+msgstr ""
+"当我想到你很久以前来到这里时，我笑着。直到现在，你成长了很多 - 当然，你的龙也一样。\n"
+"\n"
+"当你能够骑龙的时候，请告诉我。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:43
+#, no-wrap
+msgid "Craft a Saddle and mount the dragon."
+msgstr "骑龙前要制作一个鞍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:59
+#, no-wrap
+msgid "Amazing!  Truly, you have earned the name Dragon Rider."
+msgstr "真是不可思议！你确实配得上龙骑士的称号。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:62
+#, no-wrap
+msgid "Tell Paula you can ride the dragon."
+msgstr "告诉葆拉，你能骑龙。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:75
+#, no-wrap
+msgid ""
+"I sense the Dragon Lord’s presence.  He is closer than I have felt in a long time.\n"
+"\n"
+"My prayers are with you.  I only wish we could fly dragons side by side.\n"
+"\n"
+"Return to the Wizard and complete your quest."
+msgstr ""
+"我能感受到龙主的存在。比以前任何时候都要强烈。\n"
+"\n"
+"我的祝福与你同在。我只希望我们可以与龙并肩飞翔。\n"
+"\n"
+"重返龙主那儿去，完成你的任务。"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:1
+msgid "Dragon Training"
+msgstr "训龙"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:6
+#, no-wrap
+msgid "So you wish to train this lizard whelp and take on the Dragon Lord?  Hey, it's your funeral."
+msgstr "所以，你想要培养这种蜥蜴仔，并意图打败龙主？嘿，这是自寻死路。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:14
+#, no-wrap
+msgid ""
+"Killing powerful monsters is the fastest way to strengthen your dragon.  As your dragon defeats monsters, it will level up and eventually grow into a magnificent creature.\n"
+"\n"
+"Find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
+msgstr ""
+"杀死强大的怪物是强化龙的最快方法。当龙打败怪物时，它会升级并最终成长为一位强大的生物。\n"
+"\n"
+"寻找一些狼人并制止他们的恐怖行为。狼人生活在红杉林的山上。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:19
+#, no-wrap
+msgid ""
+"I'm happy to help you.  The Dragon Lord killed . . . many people.  He needs to pay.\n"
+"\n"
+"But first find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
+msgstr ""
+"我很乐意帮助你。龙主杀了很多人。他必将血债血偿。\n"
+"\n"
+"但首先找到一些狼人并干掉他们。狼人生活在长了红杉树的山上。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:28
+#, no-wrap
+msgid "Tell Paula that you have slain the werewolves."
+msgstr "告诉葆拉，你杀死了狼人。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:24
+#, no-wrap
+msgid "Now that you have killed some of the werewolves, your dragon could use some more intense training.  It will need to be able to defeat even more powerful monsters before you will have a chance to defeat the Dragon Lord."
+msgstr "现在你已经杀了一些狼人，你可以更进一步训练你的龙。在你有机会打败龙主之前，它得能够击败更强大的怪物。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:43
+#, no-wrap
+msgid ""
+"Your dragon grows stronger by the day.  When dragons get big enough, you can ride them into battle.  For now, you must fight to make the dragon stronger.\n"
+"\n"
+"There are even more powerful werewolves with black fur that lurk in the mountains.  Find some of these black werewolves and put an end to their wickedness."
+msgstr ""
+"你的龙的能力与日俱增。当龙足够强大时，你可以将它投入战斗。现在你必须努力，让龙变得更强大。\n"
+"\n"
+"还有更厉害的带有黑色毛皮的狼人潜伏在山上。寻找这些黑色的狼人并干掉他们。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:48
+#, no-wrap
+msgid ""
+"Seeing you and your dragon work together as a team brings a smile to my face.  Dragons are majestic creatures, aren't they?  So strong.  So wise. I wish they were all as friendly as yours.\n"
+"\n"
+"But your dragon still needs training.  Find some black werewolves and put an end to their wickedness."
+msgstr ""
+"看到你和你的龙一起合作令我非常高兴。龙是很伟大的生物，不是吗？那么强大，那么聪明。我真希望它们都可以像你一样友善。\n"
+"\n"
+"但是你的龙仍然需要训练。寻找一些黑狼人并干掉他们。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:57
+#, no-wrap
+msgid "Tell Paula that you have slain the black werewolves."
+msgstr "告诉葆拉，你杀死了黑狼人。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:53
+#, no-wrap
+msgid "Some say the Dragon Lord's evil power draws monsters to this place and makes them violent.  The faster you defeat them, the faster more appear.  But still, every little bit helps.  Good work."
+msgstr "有人说，龙主的邪恶力量将吸引怪物到这个地方，还使得他们变得更加暴力。你越快地打败他们，它们就越快出现。但是，每一点的付出也有回报。做得好。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:76
+#, no-wrap
+msgid "Find Paula a pet spider."
+msgstr "替葆拉找一只宠物蜘蛛。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:72
+#, no-wrap
+msgid "It is nice to see you and your dragon getting along so well.  But the truth is, seeing you two reminds me of my grief.  Perhaps you guessed that I too was once a dragon rider.  Xordaraxus, that was my dragon's name.  And what a beautiful dragon he was, long necked and majestic, with scales like polished ebony.  Oh I miss him so.  Even more than flying among the clouds, I miss the companionship.  My dragon was my dearest friend."
+msgstr "很高兴看到你和你的龙相处得这么好。但看到你们也让我想起了一些悲伤的事。也许你已经猜到了，我曾是一位龙骑士。索达拉修斯，那是我的龙的名字。它是条很棒的龙，显出威严的长颈，乌木一般的鳞片。喔，我很想他。我想念他的陪伴比想在云里飞行更强烈。我的龙是我最亲爱的朋友。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:80
+#, no-wrap
+msgid "I could really use another companion.  Please leave me.  I'm too sad to talk right now."
+msgstr "我真的需要一个同伴。请让我一个人呆会。我太伤心不能谈话。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:85
+#, no-wrap
+msgid "Give Paula the pet spider."
+msgstr "给葆拉一只宠物蜘蛛。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:81
+#, no-wrap
+msgid "What?  You brought me a pet spider?  This little critter is adorable!  Sniff.  I will name him Xordy Jr.  Thank you so much!"
+msgstr "什么？你给我带来一只宠物蜘蛛？这小家伙真可爱！(吸鼻子)我会给它起名叫小索迪。非常感谢！"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:100
+#, no-wrap
+msgid "Thank you again for bringing Xordy Jr. to me.  When I play with him, I will always think of you.  These recent events remind me.  There was a monster Tyrannosaurus Rex and I could never defeat.  I should have taken that as a sign we were not strong enough to fight the Dragon Lord.  You and your dragon must defeat Rex, a dinosaur, as a test."
+msgstr "感谢你把小索迪带到我身边。当我和它玩耍时，总会想起你。最近发生的这些事给了我提醒。我一直战胜不了一只名为暴龙的怪物。借此我们知道自己还没有能力打败龙主。作为测试，你和你的龙必须击败暴龙。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:101
+#, no-wrap
+msgid "Careful of the dinosaur's deadly bite, and huge feet, or he'll squash you like a bug."
+msgstr "小心来自暴龙的致命一咬和它巨大的脚，否则他会像踩虫子一样踩扁你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:106
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:124
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:134
+#, no-wrap
+msgid "Tell Paula that Rex has been slain."
+msgstr "告诉葆拉，暴龙已被消灭。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:102
+#, no-wrap
+msgid "Unbelievable.  Rex is vanquished.  And it's all thanks to you.  Your dragon seems happy the battle is over."
+msgstr "难以置信。暴龙被征服。这一切都是你的功劳。你的龙似乎也很高兴战斗已经结束。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:121
+#, no-wrap
+msgid "I'm impressed with the progress you and your dragon have made.  I think it's time for you to embark on your first quest to defeat the Dragon Lord.  The wizard will tell you more."
+msgstr "你和你的龙所取得的进步给我留下了深刻的印象。是时候开始你首个击败龙主的任务了。 魔法师会告诉你更多消息。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:131
+#, no-wrap
+msgid "Good luck, Dragon Rider.  I'll never forget you."
+msgstr "祝你好运，龙骑士。我永远不会忘记你。"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:1
+msgid "Final Battle"
+msgstr "最终决战"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:6
+#, no-wrap
+msgid "The final battle is at hand."
+msgstr "最后的战斗即将到来。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:14
+#, no-wrap
+msgid "Help us, Dragon Rider.  Seek out the Dragon Lord and end it.  You’re this world’s only hope."
+msgstr "帮帮我们，龙骑士。找到龙主并击败他。你是这个世界的唯一希望。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:20
+#, no-wrap
+msgid "Defeat the Dragon Lord."
+msgstr "击败龙主。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:31
+#, no-wrap
+msgid "You did it!  The Dragon Lord is vanquished.  The world is saved!"
+msgstr "你做到了！龙主已经失败！世界有救了！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:34
+#, no-wrap
+msgid "Tell Paula you have defeated the Dragon Lord."
+msgstr "告诉葆拉，你击败了龙主。"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:1
+msgid "Final Training"
+msgstr "最终训练"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:6
+#, no-wrap
+msgid "We have all lost loved ones.  But soon our suffering will end."
+msgstr "我们都失去了所珍视之物。但不久痛苦就会结束。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:14
+#, no-wrap
+msgid "You must prepare.  If you and your dragon are not strong enough, you won’t stand a chance against the Dragon Lord."
+msgstr "你必须做好准备。要是你和你的龙不够强大，你不可能有机会击败龙主。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:15
+#, no-wrap
+msgid "What will I do when it’s all over?  Raise my animals in peace.  I suppose Ted will build his city.  What will you do?"
+msgstr "一切结束后我该去做什么？平静地饲养我的动物？我想帮泰德建造他的城市。你呢？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:18
+#, no-wrap
+msgid "Reach level 50 with the dragon."
+msgstr "将龙升至50级。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:29
+#, no-wrap
+msgid "You are the greatest person I have ever known.  I truly believe you can end our struggle."
+msgstr "你是我所认识的最伟大的人。我相信你可以给这场战争做个了断。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
+#, no-wrap
+msgid "Tell Paula the dragon has reached its maximum potential."
+msgstr "告诉葆拉，你的龙达到了最大潜力。"
+
+msgid "The Maturation of the Dragon"
+msgstr "龙的成熟"
+
+msgid "Tell Paula the Xordaraxus has reached its maximum potential."
+msgstr "告诉葆拉，索达拉修斯达到了最大潜力。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"I always believed in your victory and I am happy that I was not mistaken in "
+"you. \n"
+"    But why am I crying? These are tears of joy, because during the battle I "
+"saw my beloved dragon, whom I considered dead. Do you remember, I told you "
+"about my dragon Xordaraxus?"
+msgstr ""
+"我一直相信你会胜利，我很高兴没有看错人。\n"
+"但是我为什么要哭？这些是喜悦的眼泪，因为在战斗中我看到了自己心爱的龙，我以为它已经死了。你还记得我曾经的龙——索达拉修斯吗？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I grieved for him and missed so much, but it turns out, he did not die, he "
+"was stolen by this vile Dragon Lord! \n"
+"    Dear God, my handsome dragon has changed under the dark spell of the "
+"Lord ... \n"
+"    I could hardly recognize him, but it is undoubtedly him. I am so glad to "
+"be able to see him again."
+msgstr ""
+"我为它伤心，想念着它，事实证明，它没有死，它被这个卑鄙的龙主偷走了！\n"
+"    天哪，那只英俊的的龙在龙主的黑暗咒语下完全变了...\n"
+"    我几乎认不出它来，但这肯定是它。很高兴能够再见它一面。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I see that the Lord mistreated his dragons and he is not worthy to own them! "
+"But I can not take care of dragons. \n"
+"    Only you, the Dragon Rider, could pacify all three dragons and become "
+"their friend and mentor. \n"
+"    But this is not an easy goal, are you ready to start?"
+msgstr ""
+"我曾看见龙主虐待他的龙，他不配拥有它们！但我没法照顾小龙。\n"
+"    只有你，龙骑士，才能安抚这三条龙，并成为他们的良师益友。\n"
+"    但这不是一个简单的目标，你准备好开始了吗？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I did not doubt that you would agree to help the unfortunate dragons. Then "
+"let’s start immediately.\n"
+"      The Ice Dragon is very wayward and rebellious, to subdue it you will "
+"need a lot of effort. Only the power of the Dragon hearts will help conquer "
+"this obstinate dragon."
+msgstr ""
+"我想你无疑是会同意帮助不幸的龙。那么就开始吧。\n"
+"      冰龙非常任性和叛逆，要制服它，你得耗费大量精力。只有龙心的力量才能制服这家伙。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Sullen Dragon"
+msgstr "忧郁的龙"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Oh! Have you brought them already? You are a great warrior, Dragon Rider if "
+"you coped with this difficult quest so quickly.\n"
+"      Now it will be easier for you to subjugate the Ice Dragon. I will help "
+"you with this."
+msgstr ""
+"噢！你已经把它们带来了吗？若是你能够完成这项艰巨的任务，你就不失为一位伟大的战士，龙骑士。\n"
+"      现在，你可以更轻松地制服冰龙了。我会想办法帮你的。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"I know that you’ll take good care of your new dragon. But we still have a "
+"lot of work to do, and before we embark on it, I have to tell you something. "
+"Are you ready to listen to a long story?"
+msgstr ""
+"我知道你要精力照料新龙。但我们还有很多工作要做，在着手开始之前，我得告诉你一些事情。你准备好听一个长篇故事了吗？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Before I begin, I have to show you one amazing thing with the help of which "
+"you can gain power over the Fire Dragon."
+msgstr ""
+"在开始之前，我得向你展示一件令人惊奇的东西，借助你可以得到火龙的力量。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"This is a feather of a flamy bird that no one has ever seen in our world, we "
+"know about it only from legends. \n"
+"    Only the one who defeats it can subjugate the Fire Dragon. The Phoenix, "
+"as this bird is called, lives very far from here and to find it, you will "
+"need to go on a difficult journey."
+msgstr ""
+"这是一种火焰鸟的羽毛，在这片土地上从未有人见过，我们只能从传说中得知。\n"
+"    只有击败它的人才有能力制服火龙。菲尼克斯，就是这种鸟，它生活在离这里很远的地方，要找到它，你会度过一段极其艰难的旅程。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Legends say that beyond our world, there are also external, unknown worlds, "
+"and there is another huge world, beautiful and dangerous at the same time, a "
+"world that is hard to get into and even harder to survive there."
+msgstr ""
+"传说中描述，在我们的世界之外，还有在其外部的，未知的世界，还有另一个巨大的世界，同时美丽而危险，这个世界极难进入，连生存都非易事。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But you are not afraid of difficulties, Dragon Rider, are not you? If you "
+"still decide to go there, you will find not only a danger but also many "
+"adventures that you will remember for a very long time.\n"
+"      Rising higher and higher, you will see the cold moonlit wastelands, "
+"poisonous rivers and lakes with huge luminous cities on their banks, endless "
+"Mushroom Wetlands, and even higher, you’ll find the wild primeval jungle "
+"over which the Phoenix reigns."
+msgstr ""
+"但你不惧困难，龙骑士，不是吗？如果你决定去那里，你不仅会发现危险，而且会深深地记住一段很长时间的冒险经历。\n"
+"      随着高度的增长，你会看到寒冷的月光荒地，有毒的河流和湖泊，河岸上的巨大发光城市，无尽的蘑菇湿地，再更高些，你会发现处于凤凰菲尼克斯统治下的远古雨林。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Wild tribes live in this jungle, some of them are very warlike, and their "
+"tree houses are made of beautiful and very durable stone called amber. If "
+"you still decide to go to this dangerous world, could you grab some amber "
+"for me?\n"
+"      But what am I talking about? Because this is only a legend and no one "
+"knows if this world really exists for sure.\n"
+"      Probably the time has come to check whether ancient legends tell the "
+"truth because only you can go there."
+msgstr ""
+"野兽生活在这些丛林中，其中大都非常好战，其树屋由美丽且耐用的名为琥珀的石头制成。如果你仍要前往这个危险的世界，能带些回来吗？\n"
+"      但是我在说什么呢？这只是个传说，没人知道这个世界是否真的存在。\n"
+"      也许是时候检验一下这个传说是否真实了，因为只有你才能去那里。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Take the feather of a flamy bird, keep it with you until you can defeat it."
+msgstr ""
+"带上火焰鸟的羽毛，留着它，直到你有能力击败它为止。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Amber"
+msgstr "琥珀"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"It is time to hit the road, but follow my advice - leave your pets at home, "
+"they can’t survive in a strange cruel world. Only the Mechanical pet and "
+"Maty pet could accompany you on this journey."
+msgstr ""
+"现在是时候上路了，但是请遵循我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物和幽灵宠物可以与你相伴。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But let's not hesitate, go and finally reveal the secret of this mysterious "
+"world existence. I will look forward to hearing from you; I still have a lot "
+"to tell you. Bring amber to prove that this world really exists."
+msgstr ""
+"尽管这样，但还是让我们毫不犹豫地出发吧，揭示这个神秘世界的秘密。我期待你的消息。我还有很多要告诉你。带来琥珀，以证明这个世界确实存在。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How long have you been gone, Dragon Rider! I am glad to see you safe after "
+"such a difficult journey.\n"
+"      But what is it? Have you brought this amazing stone called amber? So "
+"the world in which you got it really exists!"
+msgstr ""
+"龙骑士，你离开太久了！想必你经历了艰难的旅程，我很高兴看到你平安归来。\n"
+"      但那是什么？你带来了这种叫琥珀的神奇石头吗？也就是说，那个世界确实存在！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"But you look so exhausted and tired, probably you had a hard time in this "
+"alien world.\n"
+"      I know how to help you. The news of your unusual journey spread far "
+"around, and Alchemist told me something interesting, which was told to him "
+"by Fuza, who live in the Ice cities."
+msgstr ""
+"但是你看起来如此疲惫，想必你在外星世界度过了一段艰难的时光。\n"
+"      我知道怎么帮你。有关你不寻常的旅程的消息四处传播，炼金术士告诉了我一些有趣的事情，那是住在冰城的一种外星人——“富扎”对他说的。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Of course, you have already met these strange creatures living on ice in the "
+"middle of the ocean, and others similar to them, who live in glass "
+"underwater domes and on the Heavenly islands. \n"
+"      But have you ever wondered where they came from in our world?"
+msgstr ""
+"当然，你或许早就遇到了这些生活在海洋浮冰上的奇怪生物，以及与它们相似的其他生物，它们生活在亚特兰蒂斯和天堂的岛屿上。\n"
+"      但你是否想知道它们来自何处？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Ancient legends say that the world from which you just returned is their "
+"homeland. That once, very long ago, they flew from there in a large flying "
+"ship that could fly in the sky without the help of magic. \n"
+"      They were prisoners and outcasts in their homeland, but they managed "
+"to escape from there to our world. At first, they landed on the Heavenly "
+"islands, but there lived a mighty Ashkor, whom they were very afraid of. \n"
+"      Therefore, they decided to go down to the ground. Some of them still "
+"remained on the Heavenly islands to be closer to their homeland, the rest "
+"flew down..."
+msgstr ""
+"古代传说中描述，你刚刚到达过的世界即为他们的故乡。很久以前，它们曾乘大型飞船从那里飞过，这种飞船无需借助魔法就能在空中翱翔。\n"
+"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，阿什科尔，他们非常害怕。\n"
+"      因此，它们决定扎根海洋。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But their flying ship fell into the sea and sank. They say that it is still "
+"there. Eccentric Ted even claims that once, when he was fishing on a clear "
+"sunny day and the sea was especially calm, he saw its outlines through the "
+"water, but no one believes him.\n"
+"      But the visitors who were on the ship did not die. At first, they "
+"built underwater domes and lived in them, rising to the surface only at "
+"night, since the light of the sun was destructive for them. \n"
+"      But once they managed to get an unusual substance - a mutagen. With "
+"the help of it, they found the opportunity to live on the surface."
+msgstr ""
+"但是它们的飞船掉入海中沉没了。他们说它仍在那里。泰德甚至声称，有一次，当他在明朗的晴天钓鱼时，大海特别平静，他透过水看到了它的轮廓，但没人相信他。\n"
+"      船上的游客并没有死掉。最初，他们建造了水下圆顶房并居住在其中，太阳的光亮会杀死他们，直到夜晚他们才去往地面。\n"
+"      直到它们设法获得一种不寻常的物质 - 诱变剂后。在它的帮助下，它们才找到了在地表生活的机会。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Not all visitors resolved upon a bold experiment, some of them remained "
+"underwater in glass domes. The rest settled on ice, away from people and "
+"predatory animals, and live a peaceful life. We humans do not like talking "
+"to them, and only Alchemist conducts trade with them."
+msgstr ""
+"并非所有的访客都决定进行这项大胆的实验，其中一些仍呆在水下的玻璃圆顶房中。其余的定居在冰上，远离人类和猛兽，过着和平的生活。我们人类不喜欢与他们交谈，只有炼金术士和他们交易。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But why do I tell you all this? Fuza, hearing about your trip (of course it "
+"was Alchemist who chatted with them about it) were very happy. \n"
+"      They said that their people, which they left, and who, they hope, "
+"still live in the endless Mushroom Wetlands, have a relic that they call The "
+"Miracle Stone. \n"
+"      This stone is not only beautiful but also has unique properties that "
+"will help us create equipment with which you can stay in an alien world for "
+"as long as you want without any harm to health."
+msgstr ""
+"但是为什么我要告诉你这一切？那些外星人，很高兴得知你的旅行消息(当然，是炼金术士对他们说的)。\n"
+"      他们说，那儿留下的人民以及他们仍希望生活在无尽的蘑菇湿地中，那儿有一种被称为奇迹之石的遗物。\n"
+"      这块石头不仅美丽，而且具有独特的特性，这将有助于我们做出可以让你在外星球上呼吸的设备，只要你想保持健康。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"They asked you to get this relic for them so that they could keep it in "
+"memory of their abandoned homeland. But they left their homeland so long ago "
+"that none of them remember exactly where this relic is stored. \n"
+"      They only know that this stone must be sought in one of the mushroom "
+"houses in the settlements of Umhi in the Mushroom Wetlands. But be careful, "
+"they said, this relic is not so easy to pick up. I do not know what these "
+"words mean, you have to figure it out by yourself."
+msgstr ""
+"他们要求你为他们得到这个遗物，以便存放在被遗弃的家园中。但他们很久以前就离开了家园，以致没有谁确切记得这东西的存放地。\n"
+"      它们只知道要在蘑菇湿地的同类的定居点中其中一个蘑菇屋里寻找这块石头。它们说，要小心，这东西不是那么容易得到。我不知道这是什么意思，所以你不得不自己搞清楚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "Spacesuit"
+msgstr "宇航服"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How beautiful this stone is, the relic of Umhi! Now you can create the "
+"equipment for a new trip to an alien world."
+msgstr ""
+"这块石头真是漂亮，是他们的遗物！现在，你可以为新的外星之旅打下基础了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"Your armor seems to me not strong enough to fight a flamy bird. But is there "
+"any armor that can withstand the onslaught of the Phoenix? \n"
+"    While you wandered in search of the Umhi relic, the goblin, who also "
+"wanted to help you, studied many ancient legends in search of an answer to "
+"this question. \n"
+"    He spent days and nights in a desert tower, where a lot of old books are "
+"kept, and finally, in one very old book, he found mention of armor that "
+"would help you withstand this fight."
+msgstr ""
+"在我看来，你的装备不足以与凤凰抗衡。但是，是否有能够抵抗凤凰猛攻的盔甲呢？\n"
+"    当你四处寻找遗迹时，哥布林也想出一份力，他研究了许多古代传说，以寻找该问题的答案。\n"
+"    他在沙漠塔上呆了几天，那里保存着许多旧书，最后，在一本古籍中，有提到可以助你取胜的盔甲。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"This book says that in that part of the outside world where huge trees grow "
+"and a flamy bird lives, you can find huge pyramids and temples hidden in the "
+"thicket of the forest. \n"
+"    These are the buildings of the ancient disappeared people who lived "
+"there long before the advent of Umhi and Dagi. No one knows who the builders "
+"of these pyramids really were. \n"
+"    The book mentions that they called themselves Maya, but I do not know "
+"whether to believe it or not."
+msgstr ""
+"书中说，在那拥有大树、凤凰的太空中，你可以找到隐藏在森林中的巨大金字塔和庙宇。\n"
+"    这些是在他们到来之前很久就在那里的古代建筑。没人知道这些金字塔的建造者是谁。\n"
+"    书中提到他们自称玛雅，但我不确定能否相信它。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"The residents, inhabitants of amber houses, try to circumvent the pyramids "
+"and never go inside. According to their beliefs, everyone who dares to go "
+"into the pyramid will surely die. \n"
+"      Many daredevils tried to penetrate these ancient structures, but none "
+"of them came back. Also, each pyramid is guarded by numerous and ferocious "
+"dreamcats."
+msgstr ""
+"那里的居民，就是琥珀屋的居民，他们试图绕开金字塔，并且从不进去。按他们的信仰，进入金字塔的人永远不可能出得来。\n"
+"      许多冒险家试图一探这些古老的建筑，但没有一个回来。而且，每个金字塔都被众多凶猛的蓝豹守卫着。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I hope you won’t be afraid of some cats, even big ones, and you won’t "
+"believe the superstitions of forest aborigines, right? \n"
+"    Because it is there, in the cache of one of these pyramids, that what we "
+"need is located, the unusual amber block, which we need to create a new "
+"durable armor."
+msgstr ""
+"希望你不要害怕一些豹子，即使那是大豹子，也不要相信森林土著居民的迷信，好吧？\n"
+"    因为在这些金字塔之一中，会有我们需要的不寻常的琥珀砖块，我们需要用它来制作新的更耐用的盔甲。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Unfortunately, the book in which Goblin read all this is badly damaged by "
+"the time, and it is impossible to read the description of the pyramid in "
+"which the cache with the amber block is located."
+msgstr ""
+"不幸的是，当时哥布林阅读的这本书因时间问题已严重受损，无法阅读有关琥珀砖房间所在的金字塔的描述。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have to find the necessary pyramid among others and find the path to the "
+"cache in it."
+msgstr ""
+"你得找到那个必要的金字塔，并理清通往房间的路径。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "The Amber Armor"
+msgstr "琥珀盔甲"
+
+msgid "Tell Paula that you found Amber Bricks."
+msgstr "告诉葆拉，你找到了琥珀砖。"
+
+msgid "Tell Paula you have dragon hearts."
+msgstr "告诉葆拉，你拥有了龙心。"
+
+msgid "Tell Paula that you found Amber."
+msgstr "告诉葆拉，你找到了琥珀。"
+
+msgid "Tell Paula that you found Miracle Stone."
+msgstr "告诉葆拉，你找到了奇迹之石。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Surprisingly, you did it! You found the amber block in these terrible "
+"pyramids! Perhaps you are the first who did this and returned alive. "
+"However, I always suspected that ancient legends are dramatizing everything."
+msgstr ""
+"不可思议，你做到了！你在这些可怕的金字塔中发现了琥珀砖！说不定你是第一个活着回来的探险者。但是，我一直觉得那些古老的传说有点夸大其词。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Alchemist searching for you. Go check him. It looks like he knows how to get "
+"Amber Bricks recipe from Fuza.\n"
+"    Then come back to me, I have an important task for you."
+msgstr ""
+"炼金术士在找你。去和他谈谈，看来他知道如何从富扎那儿获得琥珀砖的配方。\n"
+"     过后来找我，我有一项重要的任务给你。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Work with Alchemist until you get Amber Bricks recipe."
+msgstr "完成炼金术士的任务，直到获得琥珀砖的配方。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Flamy Bird"
+msgstr "火焰鸟"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "How is your progress in getting a recipe from Fuza?"
+msgstr "从富扎那儿获取配方的过程如何？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I already told you that only the one who defeats the Phoenix can subjugate "
+"the Red dragon. Now when you have everything you need, it's time for a "
+"decisive battle. \n"
+"    But this struggle will not be easy. To call on the Phoenix you need to "
+"find its egg and break it. Only a very strong warrior such as you can break "
+"the egg of a Flamy bird. \n"
+"    Dying, the Phoenix can reborn again and again. Its crushing power "
+"increases with its every revival, and when it becomes very strong, the fire "
+"begins to fall from its wings..."
+msgstr ""
+"我已经告诉过你了，只有击败凤凰的人才能征服红龙。现在，你已经准备好一切，是时候迎来决定性的战斗了。\n"
+"    但这场战斗绝不会轻松。要召唤凤凰，你必须找到它的蛋并将其打碎。只有像你这样强大的战士才能做到。\n"
+"    凤凰死了可以一次又一次重生。每次复活，它的力量都会增强，当它变得极其强大时，火焰甚至会从它的翅膀上倾泻而下……"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I see you are a little pale, ha? Perhaps I’m telling you all this in vain, "
+"but you should be prepared for what you’ll see.\n"
+"      But don't let us waste time. Return to the primeval jungle, the "
+"kingdom of the Phoenix, find it and fight with it. \n"
+"      I believe in your victory because you are the greatest warrior of all "
+"that I know."
+msgstr "我看到你脸色有点苍白，哈？或许我说这些都是徒劳，但你得为即将面对的一切做好准备。\n"
+"      不要浪费时间了。回到原始雨林——凤凰的王国，找到它并与之战斗吧。\n"
+"      我相信你会获胜，因为你是我所认识的最伟大的战士。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"To call on the Phoenix you need to find its egg and break it. Only a very "
+"strong warrior such as you can break the egg of a Flamy bird. \n"
+"      Dying, the Phoenix can reborn again and again. Its crushing power "
+"increases with its every revival, and when it becomes very strong, the fire "
+"begins to fall from its wings..."
+msgstr ""
+"要召唤凤凰，你必须找到它的卵并将其打碎。只有像你这样强大的战士才能破开火焰鸟的卵。\n"
+"      凤凰即使死亡，也会一次又一次地重生。每一次重生，它的破坏力都会增强，当它变得极其强大时，烈焰将从翅膀上倾泻而下……"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Have you found all the hearts?"
+msgstr "找到所有的心了吗？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Have you found this beautiful stone?"
+msgstr "找到那块漂亮的石头了吗？"
+
+msgid "Have you found Amber Bricks?"
+msgstr "找到琥珀砖了吗？"
+
+msgid "Tell Paula that you killed Phoenix."
+msgstr "告诉葆拉，你杀死了凤凰。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I knew that you would win, I always believed in you. Now you can tame the "
+"Fire dragon and your strength will increase even more. \n"
+"      I am sure you will get along well with each other."
+msgstr ""
+"我知道你会赢，我一直相信着你。现在，你可以驯服火龙，并且你的力量将会进一步增强。\n"
+"      我相信你们会相处得很好。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"You have to get the last, most powerful dragon.\n"
+"      We do not need to tame it, because I am sure that this is my favorite "
+"dragon, my Xordaraxus. \n"
+"      Are you asking me why I won’t leave him to myself because I loved him "
+"so much and grieved for his loss?"
+msgstr ""
+"你必须获得最后、也是最强大的那条龙。\n"
+"      我们不需要驯服它，因为我确信，那正是我最喜爱的龙——我的索达拉修斯。\n"
+"      你是不是在问我，为什么我不把它留在自己身边，毕竟我曾如此爱它，也为失去它而悲痛？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"After the dark spell of the Lord, Xordaraxus became so strong that his power "
+"and strength frighten me. I am afraid that I will not be able to deal with "
+"him. \n"
+"      You are stronger than me, Dragon Rider, and only you are worthy to own "
+"this dragon.\n"
+"      I know you for a long time, we have experienced a lot together, but "
+"still, I want to make sure that your strength is sufficient to wield all "
+"these dragons."
+msgstr ""
+"在龙主的黑暗咒语之后，索达拉修斯变得如此强大，以至于它的力量令我感到恐惧。我担心自己无法与它抗衡。\n"
+"      龙骑士，你比我更强大，只有你才配拥有这条龙。\n"
+"      我认识你已经很久了，我们一起经历了许多，但即便如此，我仍想确保你的力量足以驾驭这些巨龙。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have already visited the Mushroom Wetlands in search of the Umhi relic, "
+"but did you know that the terrible creature Swamp Golem lives there? \n"
+"      They say that he has a stone heart, his body is armor and he is so "
+"strong that he can kill a person with one hit. \n"
+"      If you could defeat this terrible monster, then I would not doubt "
+"about your strength."
+msgstr ""
+"为寻找来访者的遗物，你已参观了蘑菇沼泽，但你是否知道那里还住着一种可怕的生物 - 沼泽傀儡呢？都说它铁石心肠，身披铠甲，强壮到可以一击致任何人死亡。如果你能打败这个可怕的怪物，那我就对你的实力毫无怀疑了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Xordaraxus"
+msgstr "索达拉克斯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"If you could defeat this terrible monster, then I would not doubt about your "
+"strength."
+msgstr ""
+"要是你能击败这个可怕的怪物，那么我不会再怀疑你的实力。"
+
+msgid "Tell Paula that you killed Swamp Golem."
+msgstr "告诉葆拉，你杀死了沼泽傀儡。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Incredible, you did it! You defeated the terrible Swamp Golem! How powerful "
+"you are, Dragon Rider, now I'm sure I can trust you with my beloved "
+"Xordaraxus."
+msgstr ""
+"难以置信，你做到了！你击败了可怕的沼泽傀儡！龙骑士，你真的有足够实力。现在，我相信我心爱的索达拉修斯可以信任你了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+msgid ""
+"We have completed our quest, and all three dragons are now yours. I am sure "
+"that they will be well under your protection, and they will become your "
+"faithful friends and helpers. And I am very glad that Xordaraxus will be "
+"with you too."
+msgstr ""
+"我们已经完成了任务，现在所有的三只龙都是你的了。我相信它们会很好地受到你的呵护，它们将成为你忠实的朋友和助手。我很高兴索达修斯也将与你同在。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Now it's time to train Xordaraxus so it reaches his maximum power. Just like "
+"in old good days."
+msgstr ""
+"现在是时候训练索达拉修斯了，让他达到自己的最大潜力。就像它在曾经那光辉岁月时一样。"
+
+msgid "Reach level 50 with the Xordaraxus."
+msgstr "将索达拉克斯升至50级。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How big and strong Xordaraxus became, how beautiful he is, just like in the "
+"good old days, when we flew with him under the clouds. I will miss him, "
+"although I understand that he will feel better with you."
+msgstr ""
+"就像在昔日的美好时光中，索达拉修斯变得如此巨大且强壮，他多么美丽，就像我在云端与他一同飞行时那样。我会想念他的，尽管我知道它会与你相伴。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Now when you have gained power over the dragons, your strength has increased "
+"manifold. But I must warn you. Not everyone will be able to withstand the "
+"burden of such power, the temptation to use your power for evil will always "
+"accompany you. \n"
+"      You may not be able to cope with yourself, as the Lord, and the dark "
+"forces prevailed over him. Whether you fall for temptations or resist, I do "
+"not know. But I know that this incredible power can drive a person crazy, as "
+"it did to the Dragon Lord."
+msgstr ""
+"现在，当你获得对龙的控制权时，你的力量就会增强。我必须警告你。 并非每个人都能承受这种权力的负担，将权力用于邪恶的欲望总是伴随着你。\n"
+"      作为主人，你可能无法应付，黑暗势力曾击溃了龙主。你喜欢接受还是抗拒，我不清楚。但我知道，这种不可思议的力量会使人疯狂，就像那龙主一样。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have to choose your own path. I want to hope that we will see each other "
+"again. But just in case, goodbye, Dragon Rider."
+msgstr ""
+"你必须选择自己的道路。但愿我们能再次见面。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid ""
+"You feel how power begins to overwhelm you. Talk to the Dragon Lord to "
+"dispel your doubts once and for all."
+msgstr ""
+"你能感受到力量渐渐压迫你。与龙主交谈，将所有疑虑彻底消除吧。"
+
+msgid "Tell Paula that you could resist the temptation of dark forces."
+msgstr "告诉葆拉，你成功抵御了黑暗力量的诱惑。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I knew that you would return, even though I had doubts because only a person "
+"of incredible willpower could resist the temptation of unlimited power, but "
+"in my heart, I always believed in you. \n"
+"    Now we will get done with the Dragon Lord forever because this world has "
+"a protector no less powerful than him."
+msgstr ""
+"我知道你会回来，尽管我有疑问，因为只有一个拥有难以置信的意志力的人才能抵抗无限权力的诱惑，但是我内心始终对你保有信任。\n"
+"    现在，我们将永远与龙主达成共识，因为这个世界拥有一个与它一样强大的守护者。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"It remains only to cleanse our world from a terrible creature, a creature of "
+"darkness, which appears every night of nowhere and creates many troubles. \n"
+"    You can’t hide from him anywhere, and his name is usually mentioned only "
+"in a whisper."
+msgstr ""
+"现在剩下的，只有清除我们世界中的一个可怕生物 —— 一个黑暗之物。它每晚都有可能无声出现，制造无数麻烦，\n"
+"    没有地方能躲得过它，而它的名字通常只会被低声提起。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Dark Spirit"
+msgstr "黑暗之灵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"He came to us from another world, for a long time he only watched, without "
+"interfering in the life of people. \n"
+"    And only his eyes, which sometimes appeared in the night sky, were "
+"terrifying. But then he showed up to people, and there was no salvation from "
+"him. \n"
+"    Perhaps the dark spell of the Lord called him. He is an evil that "
+"appears at night and for which there are no barriers. \n"
+"    This is an evil dark spirit that claimed many lives and his name is Mati."
+msgstr ""
+"他来自另一个世界，很长一段时间里，他只是默默观察，从未干涉人类的生活。\n"
+"    只有他的眼睛偶尔在夜空中闪现，令人心生恐惧。但后来，他出现在人们面前，无人能逃脱他的威胁。\n"
+"    或许是龙主的黑暗咒语召唤了他。他是夜晚出现的邪恶之灵，无物可挡。\n"
+"    这是一位夺走无数生命的黑暗恶灵，他的名字叫玛蒂。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"He is covered with evil spells and ordinary weapons are powerless against "
+"him. Only magic spells can defeat this monster. I know your strength is "
+"great, but it won't hurt you to arm better.\n"
+"\n"
+"    Take this staff, it will help you kill this evil spirit."
+msgstr ""
+"他身上布满了邪恶的咒语，普通武器对他毫无作用。只有魔法才能打败这个怪物。我知道你的实力非凡，更好地武装自己对你没有坏处。\n"
+"\n"
+"    拿上这根法杖，它将帮助你消灭这只恶灵。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Now go and clear this world from this evil spirit."
+msgstr "现在，杀掉这个邪恶的灵魂以净化世界。"
+
+msgid "Tell Paula that you killed Mati."
+msgstr "告诉葆拉，你杀死了玛蒂。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Finally, it is finished with this terrible creature, which everyone was so "
+"afraid of! You cleansed our land of evil and chose the hard path of the "
+"protector of this world. Legends will be composed of your exploits."
+msgstr ""
+"最后，这个可怕的生物消失了，那个每个人都害怕的生物！你净化了世界的邪恶之地，选择了保护这个世界的艰难道路。传奇将由你的成就组成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Take good care of your dragons, train and mentor them, because evil can come "
+"back at any moment.\n"
+"    \n"
+"    Good luck, Dragon Rider, maybe we'll meet again and I will reveal to you "
+"new secrets of our world."
+msgstr ""
+"照顾好你的龙，指导并训练它们，因为邪恶会随时归来。\n"
+"    祝你好运，龙骑士，也许我们会再见面。那样的话，我将向你透露世界的新秘密。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"It is time to hit the road, but follow my advice - leave your pets at home, "
+"they can’t survive in a strange cruel world. Only the Mechanical pet and "
+"Mati pet could accompany you on this journey."
+msgstr ""
+"现在是时候上路了，但先听听我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物和玛蒂宠物可以与你相伴。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Ancient legends say that the world from which you just returned is their "
+"homeland. That once, very long ago, they flew from there in a large flying "
+"ship that could fly in the sky without the help of magic. \n"
+"      They were prisoners and outcasts in their homeland, but they managed "
+"to escape from there to our world. At first, they landed on the Heavenly "
+"islands, but there lived a mighty Ashkore, whom they were very afraid of. \n"
+"      Therefore, they decided to go down to the ground. Some of them still "
+"remained on the Heavenly islands to be closer to their homeland, the rest "
+"flew down..."
+msgstr ""
+"古代传说中描述，你刚刚返回的那个世界正是它们的故乡。很久很久以前，它们曾驾驶一艘庞大的飞行船从那里起航，这艘船无需魔法便能在空中飞行。\n"
+"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的生物，艾希科尔，它们对此心生畏惧。\n"
+"      因此，它们决定降落到地面。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
+
+
