@@ -136,7 +136,7 @@ msgid "Skull and Bones"
 msgstr "骷髅骨"
 
 msgid "Goblin Miner"
-msgstr "小妖精矿工"
+msgstr "哥布林矿工"
 
 msgid "Necromancy"
 msgstr "回魂术"
@@ -300,7 +300,7 @@ msgstr "大赠品"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
 msgid "Receive {0} consecutive daily gifts."
-msgstr "每天连续收到 {0} 份礼物。"
+msgstr "连续领取 {0} 天每日礼物。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -321,7 +321,7 @@ msgstr "黑暗"
 
 #, fuzzy
 msgid "World Breaker"
-msgstr "世界崩解者"
+msgstr "世界破坏者"
 
 #, fuzzy
 msgid "Stone Lifeform"
@@ -542,7 +542,7 @@ msgstr "锁定成就"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Complete quest from {0} to unlock."
-msgstr "完成{0}的请求来完成解封问题。"
+msgstr "完成来自{0}的任务后即可解锁。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
