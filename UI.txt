@@ -3066,7 +3066,7 @@ msgid "Stats"
 msgstr "属性"
 
 msgid "Hide GUI"
-msgstr "隐藏界面"
+msgstr "隐藏GUI"
 
 msgid "Drop All"
 msgstr "全部丢弃"
