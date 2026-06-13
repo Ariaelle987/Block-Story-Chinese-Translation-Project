@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "BabyDeer"
-msgstr "斑比"
+msgstr "鹿宝宝"
 
 msgid "BlackSheep"
 msgstr "黑羊"
@@ -808,7 +808,7 @@ msgstr "风暴使者"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Umbrosk"
-msgstr "暗影之虫"
+msgstr "暗影龙虫"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -822,21 +822,21 @@ msgstr "冰雪龙虫"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "EmberTyr"
-msgstr "地狱之虫"
+msgstr "地狱龙虫"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Seraphax"
-msgstr "天空之虫"
+msgstr "天空龙虫"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Zerath"
-msgstr "褐甲之虫"
+msgstr "褐甲龙虫"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
