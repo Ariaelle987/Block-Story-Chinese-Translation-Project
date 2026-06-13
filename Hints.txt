@@ -59,6 +59,9 @@ msgstr ""
 msgid "A lost world resides deep underwater."
 msgstr "深海里存在着一个迷失的世界。"
 
+msgid   "Be sure to check out the official [FF0000]Discord[-]!"
+msgstr  "别忘了加入官方[FF0000]Discord[-]服务器！"
+
 msgid "Go to [FF0000]www.blockstory.net[-] for more info about the game."
 msgstr ""
 "到[FF0000] www.blockstory.net [-]去了解关于游戏的更多资讯。"
