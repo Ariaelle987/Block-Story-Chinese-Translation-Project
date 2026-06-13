@@ -16,7 +16,7 @@ msgid "BabyDeer"
 msgstr "斑比"
 
 msgid "BlackSheep"
-msgstr "羊"
+msgstr "黑羊"
 
 msgid "Turtle"
 msgstr "海龟"
@@ -133,7 +133,7 @@ msgid "GiantSpider"
 msgstr "阿拉戈克"
 
 msgid "Ashkore"
-msgstr "阿什科尔"
+msgstr "艾希科尔"
 
 msgid "Werewoolf"
 msgstr "狼人"
@@ -357,7 +357,7 @@ msgid "Snowman_Pet"
 msgstr "雪人"
 
 msgid "BabyAshkore_Pet"
-msgstr "阿什科尔"
+msgstr "艾希科尔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
