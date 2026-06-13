@@ -84,7 +84,7 @@ msgid "Reach Level {0}."
 msgstr "到达水平 {0}."
 
 msgid "Necrophobia"
-msgstr "蜘蛛恐惧症"
+msgstr "亡灵恐惧症"
 
 msgid "Legendary Blockster"
 msgstr "传奇方块"
