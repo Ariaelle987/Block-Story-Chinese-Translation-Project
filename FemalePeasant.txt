@@ -103,11 +103,11 @@ msgid ""
 "fresh water to drink. If you can bring us buckets of water, maybe we can "
 "make some deals to get you some supplies in return."
 msgstr "你好旅行者！我们真的很需要你的帮助。我们被困住了。我们很难在夜 "
-"晚存活。你能帮我们吗？我们很渴。我们把我们的饮用水丢了，需要找可以喝的水 "
+"晚存活。你能帮我们吗？我们很渴。我们的饮用水已经喝完了，需要找到一些可以喝的淡水 "
 "要是你可以给我们带几桶水的话，我们可以优惠价给你一些资源。"
 
 msgid "Have you managed to get the buckets of water yet? We are very thirsty!"
-msgstr "你找到水了吗？我们渴死了！"
+msgstr "你找到水了吗？我们快渴死了！"
 
 msgid ""
 "Thank you so much for bringing us these buckets of water! We will be able to "
@@ -220,7 +220,7 @@ msgstr "哦，旅行者，我们又见面了！太神奇了，这些哨兵灵木
 "报，我会给你一些法力药水。"
 
 msgid "Have you managed to get the wheat yet? Our people are hungry!"
-msgstr "你拿到小麦了吗？我们的人民都饿死了！"
+msgstr "你拿到小麦了吗？我们的人民都快饿死了！"
 
 msgid ""
 "Thank you so much for bringing us this Wheat! We will be able to bake some "
