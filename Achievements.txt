@@ -1347,3 +1347,37 @@ msgstr "寻宝猎人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "New Best Friend"
 msgstr "新的最佳伙伴"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:104 
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:673 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
+msgid "Lunar Lights Out"
+msgstr "月辉熄灭"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:104 
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243 
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:673 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
+msgid "Whale, That Escalated Quickly"
+msgstr "鲸然闹大了"
