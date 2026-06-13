@@ -1363,7 +1363,7 @@ msgstr "新的最佳伙伴"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Lunar Lights Out"
-msgstr "月辉泯灭"
+msgstr "月辉消逝"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
