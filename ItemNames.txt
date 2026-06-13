@@ -847,16 +847,16 @@ msgid "Neck"
 msgstr "颈部"
 
 msgid "Klorium Block"
-msgstr "辉石方块"
+msgstr "辉石块"
 
 msgid "Cryptonite Block"
-msgstr "氪石方块"
+msgstr "氪石块"
 
 msgid "Forgotten Light"
 msgstr "被遗忘之光"
 
 msgid "Meteorite Block"
-msgstr "陨石方块"
+msgstr "陨石块"
 
 msgid "Devil Coal Ore"
 msgstr "恶魔煤矿石"
@@ -865,10 +865,10 @@ msgid "Devil Ruby Ore"
 msgstr "恶魔红宝石矿石"
 
 msgid "Sulphure Block"
-msgstr "硫磺方块"
+msgstr "硫磺块"
 
 msgid "Unobtainium Block"
-msgstr "难得素方块"
+msgstr "难得素块"
 
 msgid "Slime"
 msgstr "史莱姆"
@@ -883,7 +883,7 @@ msgid "Pal"
 msgstr "伙伴"
 
 msgid "Pet Space Suit"
-msgstr "宠物太空服"
+msgstr "宠物宇航服"
 
 msgid "Creative Kelp"
 msgstr "创意海带"
@@ -922,7 +922,7 @@ msgid "Cryptonite Ore"
 msgstr "氪石矿石"
 
 msgid "Crystal Block Yellow"
-msgstr "黄水晶方块"
+msgstr "黄水晶块"
 
 msgid "Unobtainium From Bar"
 msgstr "难得素锭配方"
@@ -936,20 +936,41 @@ msgstr "氪石锭"
 msgid "Poison Potion"
 msgstr "毒药药水"
 
-msgid   "Nebula Rock"
-msgstr  "星云之岩"
+msgid "Nebula Rock"
+msgstr "星云岩"
 
-msgid   "Star Core"
-msgstr  "星核"
+msgid "Star Core"
+msgstr "星核"
 
-msgid   "Asteroid Stone"
-msgstr  "星彩岩"
+msgid "Asteroid Stone"
+msgstr "星彩岩"
 
-msgid   "Dark Matter"
-msgstr  "暗物质"
+msgid "Dark Matter"
+msgstr "暗物质"
 
-msgid   "Nebula Cloud"
-msgstr  "星云"
+msgid "Nebula Cloud"
+msgstr "星云"
+
+msgid "Obsidian"
+msgstr "黑曜石"
+
+msgid "Obsidian Shard"
+msgstr "黑曜石碎片"
+
+msgid "Obsidian Block"
+msgstr "黑曜石块"
+
+msgid "Cosmic Helmet"
+msgstr "宇宙头盔"
+
+msgid "Cosmic Armor"
+msgstr "宇宙胸甲"
+
+msgid "Cosmic Boots"
+msgstr "宇宙靴子"
+
+msgid "Cosmic Pants"
+msgstr "宇宙护腿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
@@ -2186,7 +2207,7 @@ msgstr "凤凰盾"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Space Suit"
-msgstr "宇航服"
+msgstr "宇航头盔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
