@@ -4526,42 +4526,167 @@ msgstr "序曲唱片，可在留声机中播放。"
 
 #, fuzzy
 msgid "Skill Reset Scroll"
-msgstr "一卷刻有奥秘符文的古老卷轴，可令持有者忘却先前习得的全部技能，并重新分配能力点。\n"
-"深受老练的战士与睿智的法师喜爱，他们以此寻求全新的修行之路。"
+msgstr "挑战炼金术士，获得这张魔法卷轴。它可以返还你所有已使用的技能点，是用来重置过往选择的实用道具。要是现实里也有就好了？"
 
 #, fuzzy
 msgid "Swamp Grass"
-msgstr ""
-"生长在沼泽或水域中的植物。其内部结构可限制空气流失，让你在水中短暂呼吸。"
-"可收集后放置在家中，用于制作简易电梯。"
+msgstr "黏糊糊的沼泽草，小心脚下！"
 
 #, fuzzy
 msgid "Peony Flower"
-msgstr ""
-"一种深绿色的花朵，可在泥土或草地中找到。通常生长在蓝色花朵附近。"
-"也可以在方块内外进行捉迷藏。"
+msgstr "一种粉色花朵，只生长在稀有的浮空岛上，这些岛屿据说是从通往过去的裂隙中浮现出来的。"
 
 #, fuzzy
 msgid "Swamp Plank"
-msgstr "一种肮脏的深褐色木板，外观与其他木板相似，可进行上漆处理。"
+msgstr "带有阴森气息的灰白色腐朽木板。"
 
-# UnityGame/Assets/Localization/BaseTranslation.cs:46 
-# UnityGame/Assets/Localization/BaseTranslation.cs:348 
-# UnityGame/Assets/Localization/T.cs:94 
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:222 
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:50 
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Elf Column"
-msgstr "精灵石柱"
+msgstr "古代先驱种族留下的立柱，如今被重新利用的遗迹。"
 
-#, fuzzy
 msgid "Elf Bricks"
-msgstr ""
-"这是已知最坚固的方块之一，可作为强大的根基与防御结构。\n"
-"\n"
-"由[FF0000]清澈石打造而成。"
+msgstr "古代先驱种族留下的装饰性砖块，是被重新利用的遗迹。"
 
+msgid "Elf Brick Fence"
+msgstr "古代先驱种族留下的精美栅栏，是被重新利用的遗迹。"
+
+msgid "Kelp"
+msgstr "一种生长在海床的海藻，为海洋内外的生命提供多种益处。在水下的沙地上生长，最高可达16格。"
+
+msgid "Enhalus"
+msgstr "用于水下种植的植物，最高可生长4格。\n"
+"深受[FF0000]炼金术士[-]青睐，因其稀有特性。\n"
+"仅能生长在水下沙地上。"
+
+msgid "Kombu"
+msgstr "一种特殊的[FF0000]海带[-]品种，因其丰富风味与矿物质含量，以及在无数料理中的应用而备受珍视。在水下沙地上生长，最高可达16格。"
+
+msgid "Anemone"
+msgstr "一种水下掠食性无脊椎生物，用带毒触手捕食猎物。虽然对多数生物具有攻击性，但与[FF0000]小丑鱼[-]存在互利共生关系：后者帮助清理并驱赶捕食者，而海葵则用刺状触手为其提供庇护。"
+
+msgid "Creative Anemone"
+msgstr "海葵的创造模式版本。可任意放置，但不具备生长能力。"
+
+msgid "Creative Enhalus"
+msgstr "海草的创造模式版本。可任意放置，但不具备生长能力。"
+
+msgid "Creative Kombu"
+msgstr "昆布的创造模式版本。可任意放置，但不具备生长能力。"
+
+msgid "Creative Kelp"
+msgstr "海带的创造模式版本。可任意放置，但不具备生长能力。"
+
+msgid "Klorium Block"
+msgstr "在[FF0000]被遗忘的天空[-]中发现的浅绿色矿石方块。\n"
+"被采掘时会掉落[FF0000]辉石[-]。\n"
+"也可将9个辉石在[FF0000]熔炉[-]中合成为此方块。"
+
+msgid "Cryptonite Block"
+msgstr "在[FF0000]被遗忘的天空[-]中发现的翡翠绿色矿石方块。\n"
+"被采掘时会掉落[FF0000]氪石[-]。\n"
+"也可将9个氪石在[FF0000]熔炉[-]中合成为此方块。"
+
+msgid "Forgotten Light"
+msgstr "世界上最奇异的存在之一，由凝结成晶体的光子构成的异常方块。\n"
+"或许能在你从[FF0000]被遗忘的天空[-]边缘坠落时救你一命。"
+
+msgid "Meteorite Block"
+msgstr "一种极其坚硬的材料……真的不是正朝我们世界飞来吧？"
+
+msgid "Devil Coal Ore"
+msgstr "仅存在于[FF0000]地狱[-]最深处的恶魔岩矿块。\n"
+"被采掘时会像洞穴煤矿一样掉落[FF0000]煤炭[-]。"
+
+msgid "Devil Ruby Ore"
+msgstr "仅存在于[FF0000]地狱[-]最深处的恶魔岩矿块。\n"
+"被采掘时会像洞穴矿石一样掉落[FF0000]红宝石[-]。"
+
+msgid "Sulphure Block"
+msgstr "这是什么味道？把这堆[FF0000]硫磺[-]拿远点！"
+
+msgid "Unobtainium Block"
+msgstr "由[FF0000]炎魔[-]的憎恨形成的方块。"
+
+msgid "Slime"
+msgstr "一种存在于[FF0000]地狱[-]土壤中的黏液状方块；虽然是固体，却可以像液体一样穿过。\n"
+"不建议掉进去，否则会被困住（真的不是什么好主意）。"
+
+msgid "Radar Recipe"
+msgstr "制作[FF0000]雷达[-]的配方。"
+
+msgid "Melon Slice"
+msgstr "就是一片...西瓜。吃掉就行。"
+
+msgid "Pal"
+msgstr "某人的挚友...不过只有在完成对其主人残酷谋杀后才能获得。"
+
+msgid "Pet Space Suit"
+msgstr "感到烦躁？孤独？在黑暗宇宙中漂浮却没有同伴？那么试试这个：给你心爱的宠物准备的宇航服！"
+
+msgid "Forgotten Grass 3D"
+msgstr "分布在[FF0000]被遗忘的天空[-]各处的小型非立方植被簇。"
+
+msgid "Yellow Crystals"
+msgstr "黄色水晶"
+
+msgid "Klorium Ore"
+msgstr "从天空中开采出的独特绿色矿石。除其难以理解的魔法特性外，仍然相当神秘。"
+
+msgid "Cryptonite Ore"
+msgstr "可在[FF0000]被遗忘的天空[-]中发现的绿色晶体。其治疗与防御特性使其在多种用途上极具价值。"
+
+msgid "Crystal Block Yellow"
+msgstr "黄色水晶块"
+
+msgid "Unobtainium From Bar"
+msgstr "难得素锭"
+
+msgid "Klorium From Ore"
+msgstr "辉石锭"
+
+msgid "Cryptonite From Ore"
+msgstr "氪石锭"
+
+msgid "Poison Potion"
+msgstr "想结束一切却又不敢面对Boss或跳崖？那就用你最爱的“灼胃饮料”来淹没悲伤吧；据说源自世界上最恐怖生物的巢穴。"
+
+msgid "Nebula Rock"
+msgstr "当引力将[FF0000]星云[-]聚合在一起时，高密度岩石便形成了。\n"
+"或许我们正在见证一颗新星的诞生？"
+
+msgid "Nebula Cloud"
+msgstr "这些彩色尘埃乍看无害，但终将形成一颗恒星，请保持警惕。"
+
+msgid "Asteroid Stone"
+msgstr "由小行星携带、来自高空宇宙的岩石。\n"
+"一旦了解其坚固程度，就会明白其撞击为何如此毁灭性。"
+
+msgid "Star Core"
+msgstr "每颗恒星的核心都是致密的热质团，释放耀眼光芒与灼热能量。\n"
+"这类方块用途尚未完全被发现，但据称可用于戒指、工具与以太护甲的制作。"
+
+msgid "Dark Matter"
+msgstr "维系恒星与星系之间联系的粘合物，使其不至于飘散至虚空。\n"
+"凝视其漆黑时，你会发现它远没有[FF0000]泰德[-]的灵魂那么黑。"
+
+msgid "Obsidian"
+msgstr "已知最致密的建筑材料之一，可抵御任何爆炸，徒手开采需要很长时间。\n"
+"存在于[FF0000]地狱[-]的柱状结构中。"
+
+msgid "Obsidian Shard"
+msgstr "等等！如果黑曜石是火山玻璃做的，为什么这么硬……"
+
+msgid "Obsidian Block"
+msgstr "已知最致密的建筑材料之一，可抵御任何爆炸，徒手开采需要很长时间。\n"
+"存在于[FF0000]地狱[-]的柱状结构中。"
+
+msgid "Cosmic Helmet"
+msgstr "轻盈易碎的头盔。其神秘组件可提升法术能力。"
+
+msgid "Cosmic Armor"
+msgstr "太空机车风格夹克，大幅提升法术伤害与魔力，但会降低护甲值。"
+
+msgid "Cosmic Boots"
+msgstr "虽看似沉重，但其独特组件能让穿戴者跳得更高、更迅捷。"
+
+msgid "Cosmic Pants"
+msgstr "线条流畅的长裤，可显著提升法术能力与移动速度。"
