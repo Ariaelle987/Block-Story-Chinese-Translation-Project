@@ -4286,104 +4286,6 @@ msgstr "秋天金黄色的树叶，给人一种浪漫的感觉。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Aragog"
-msgstr "阿拉戈克唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Ashkore"
-msgstr "艾希科尔唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Dragon Lord"
-msgstr "龙主唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Mati"
-msgstr "玛蒂唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Phoenix"
-msgstr "菲尼克斯唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Swamp Golem"
-msgstr "沼泽傀儡唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Space Mushrooms"
-msgstr "太空蘑菇唱片"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
-msgid "Record Aragog"
 msgstr "阿拉戈克唱片，可在留声机中播放。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -4398,7 +4300,7 @@ msgstr "阿拉戈克唱片，可在留声机中播放。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ashkore"
-msgstr "艾希科尔唱片，可在留声机中播放。"
+msgstr "阿什科尔唱片，可在留声机中播放。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
