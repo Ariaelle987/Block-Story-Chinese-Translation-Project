@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: 54ca55defcf933aff3000136\n"
 "POT-Creation-Date: 2017-12-07 17:21-0600\n"
@@ -166,7 +166,7 @@ msgstr "我感觉心跳恢复正常。好——危机解除。现在我们可以
 #: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:63
 #, no-wrap
 msgid "You have the ability, Dragon Rider.  I believe in you.  Assemble the weapons you need to defeat Ashkore!"
-msgstr "你有能力，龙骑士。我相信你。组装你需要的武器去击败艾希科尔！"
+msgstr "你有能力，龙骑士。我相信你。组装你需要的武器去击败阿什科尔！"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:71
@@ -520,5 +520,3 @@ msgstr "与泰德谈谈他目前的困境。"
 #~ "现在你看起来像个真正的武士。\n"
 #~ "\n"
 #~ "嗯……或许你能帮我解决目前的困境。"
-
-
