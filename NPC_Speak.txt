@@ -58,7 +58,7 @@ msgid "I'm so tired of these monsters.  :(  They appear every night."
 msgstr "我对这些怪物感到厌倦了。:( 它们每晚都出现。"
 
 msgid "Beware of Ashkore!  He's your worst nightmare."
-msgstr "小心艾希科尔！他是你最糟的噩梦。"
+msgstr "小心阿什科尔！他是你最糟的噩梦。"
 
 msgid "Why is everything made out of blocks? Where I am?"
 msgstr "为什么一切都由方块组成？我在哪？"
@@ -360,7 +360,7 @@ msgstr "你太天真了，凡人！"
 # UnityGame/Assets/Localization/T.cs:82
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
 msgid "Ashkor is strong and powerful, beware of him!"
-msgstr "艾希科尔强大有力，小心点！"
+msgstr "阿什科尔强大有力，小心点！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -412,7 +412,7 @@ msgstr "你打不过我，陌生人！"
 # UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
 #, fuzzy
 msgid "Ashkor gives me the power to crush you!"
-msgstr "艾希科尔赋予我力量以粉碎你！"
+msgstr "阿什科尔赋予我力量以粉碎你！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -472,7 +472,7 @@ msgstr "我的剑充满了雷霆之力！"
 # UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
 #, fuzzy
 msgid "Ashkor lightning gives me strength, but they can kill you!"
-msgstr "艾希科尔的闪电能给我力量，但它们也能杀了你！"
+msgstr "阿什科尔的闪电能给我力量，但它们也能杀了你！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
