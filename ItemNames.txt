@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: 54ca55defcf933aff3000136\n"
 "PO-Revision-Date: 2023-09-06 22:39+0000\n"
@@ -49,7 +49,7 @@ msgid "Hammer"
 msgstr "石锤"
 
 msgid "Oak Leaves"
-msgstr "橡树树叶"
+msgstr "橡树叶"
 
 msgid "Poplar Leaves"
 msgstr "白杨树叶"
@@ -154,7 +154,7 @@ msgid "Meat"
 msgstr "肉"
 
 msgid "Desert Bird Spawner"
-msgstr "沙漠鸟产卵"
+msgstr "沙漠鸟 刷怪箱"
 
 msgid "Yellow Coral"
 msgstr "黄珊瑚"
@@ -163,10 +163,10 @@ msgid "Teleportation Arrow"
 msgstr "传送箭"
 
 msgid "Gold Ore"
-msgstr "金矿"
+msgstr "金矿石"
 
 msgid "Baobab Plant"
-msgstr "猴面包树树苗"
+msgstr "猴面包树苗"
 
 msgid "Car"
 msgstr "汽车"
@@ -262,7 +262,7 @@ msgid "Iron Hammer"
 msgstr "铁锤"
 
 msgid "Crystal Block Blue"
-msgstr "蓝宝石块"
+msgstr "蓝水晶块"
 
 msgid "Window"
 msgstr "窗户"
@@ -415,7 +415,7 @@ msgid "Book Shelf"
 msgstr "书架"
 
 msgid "Iron Ore"
-msgstr "铁矿"
+msgstr "铁矿石"
 
 msgid "Grass 3D"
 msgstr "草"
@@ -445,7 +445,7 @@ msgid "Blue Dye"
 msgstr "蓝染料"
 
 msgid "Ashkore"
-msgstr "阿什科尔"
+msgstr "艾希科尔"
 
 msgid "Yellow Dye"
 msgstr "黄染料"
@@ -517,7 +517,7 @@ msgid "Hydra"
 msgstr "海德拉"
 
 msgid "Crystal Block Black"
-msgstr "黑色水晶块"
+msgstr "黑水晶块"
 
 msgid "Swamp Stone"
 msgstr "沼泽石"
@@ -646,7 +646,7 @@ msgid "Spruce Plant"
 msgstr "云杉树苗"
 
 msgid "Oak Tree Plant"
-msgstr "橡树树苗"
+msgstr "橡树苗"
 
 msgid "Clear Plank"
 msgstr "纯净木板"
@@ -706,7 +706,7 @@ msgid "Mistic Ring"
 msgstr "神秘戒指"
 
 msgid "Duck Spawner"
-msgstr "鸭子产卵"
+msgstr "鸭子 刷怪箱"
 
 msgid "Dragon Helmet"
 msgstr "龙盔"
@@ -715,7 +715,7 @@ msgid "Teleport"
 msgstr "传送"
 
 msgid "Swamp Spawner"
-msgstr "{0}产卵"
+msgstr "{0} 刷怪箱"
 
 msgid "Bark"
 msgstr "原木"
@@ -730,7 +730,7 @@ msgid "Crystal Sword"
 msgstr "水晶剑"
 
 msgid "Bones Shield"
-msgstr "骨之盾"
+msgstr "骨盾"
 
 msgid "Dog Soul"
 msgstr "狗之魂"
@@ -754,7 +754,7 @@ msgid "Red Leaves"
 msgstr "红叶"
 
 msgid "Red Crystals"
-msgstr "红宝石"
+msgstr "红水晶"
 
 msgid "Lava"
 msgstr "岩浆桶"
@@ -814,7 +814,7 @@ msgid "Rose Flower"
 msgstr "玫瑰花"
 
 msgid "Blue Crystals"
-msgstr "蓝宝石"
+msgstr "蓝水晶"
 
 msgid "Craft Table"
 msgstr "工作台"
@@ -862,7 +862,7 @@ msgid "Devil Coal Ore"
 msgstr "恶魔煤矿石"
 
 msgid "Devil Ruby Ore"
-msgstr "恶魔红宝石矿石"
+msgstr "恶魔红水晶矿石"
 
 msgid "Sulphure Block"
 msgstr "硫磺块"
@@ -1330,7 +1330,7 @@ msgstr "传送器"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Baby Ashkore Soul"
-msgstr "阿什科尔宝宝之魂"
+msgstr "艾希科尔宝宝之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2998,7 +2998,7 @@ msgstr "老旧的龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Blue Dragon Armor"
-msgstr "蓝宝石龙甲"
+msgstr "蓝水晶龙甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3011,7 +3011,7 @@ msgstr "蓝宝石龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Red Dragon Armor"
-msgstr "红宝石龙甲"
+msgstr "红水晶龙甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3024,7 +3024,7 @@ msgstr "红宝石龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Emerald Dragon Armor"
-msgstr "绿宝石龙甲"
+msgstr "绿水晶龙甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -4091,5 +4091,3 @@ msgstr "创造海草"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Anemone"
 msgstr "创造海葵"
-
-
