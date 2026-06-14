@@ -3000,7 +3000,7 @@ msgid "Interactive Leaves"
 msgstr "可交互树叶"
 
 msgid "Show Mob Indicator"
-msgstr "显示怪物指示器"
+msgstr "显示生物指示器"
 
 msgid "Fire quality: [FF0000]{0:0}"
 msgstr "火焰质量: [FF0000]{0:0}"
