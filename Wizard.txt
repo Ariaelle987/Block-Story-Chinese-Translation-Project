@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: 54ca55defcf933aff3000136\n"
 "POT-Creation-Date: 2017-12-07 17:21-0600\n"
@@ -633,13 +633,13 @@ msgstr "一个我从未怀疑你能完成的简单任务。现在，进入你旅
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:522
 #, no-wrap
 msgid "The final dragon, the Bolt Dragon, Ashkore, awaits.  But you will not last three seconds in that monster’s presence without more suitable equipment.  Speak to Aaron, that mewling coward may be able to help you."
-msgstr "最后一条龙，雷龙 艾希科尔正在等待你。但没有更合适的装备，你在它面前连三秒都撑不过。去找艾伦，那只胆小鬼可能会帮你。"
+msgstr "最后一条龙，雷龙 阿什科尔正在等待你。但没有更合适的装备，你在它面前连三秒都撑不过。去找艾伦，那只胆小鬼可能会帮你。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:523
 #, no-wrap
 msgid "Speak to Aaron, Dragon Rider.  You must learn how to vanquish the Bolt Dragon, Ashkore."
-msgstr "与艾伦交谈，龙骑士。你必须学会如何击败雷龙 艾希科尔。"
+msgstr "与艾伦交谈，龙骑士。你必须学会如何击败雷龙 阿什科尔。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:526
@@ -651,7 +651,7 @@ msgstr "与艾伦交谈，学习如何制作更好的装备。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:540
 #, no-wrap
 msgid "Work quickly, Dragon Rider.  You must vanquish the Bolt Dragon, Ashkore."
-msgstr "快点，龙骑士。你必须征服雷龙 艾希科尔。"
+msgstr "快点，龙骑士。你必须征服雷龙 阿什科尔。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:543
@@ -663,13 +663,13 @@ msgstr "向艾伦学习如何制作更好的装备。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:553
 #, no-wrap
 msgid "Hello.  During your absence, I have been meditating on Ashkore’s powers."
-msgstr "你好。在你不在的时候，我一直在沉思 艾希科尔的力量。"
+msgstr "你好。在你不在的时候，我一直在沉思 阿什科尔的力量。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:569
 #, no-wrap
 msgid "Ashkore resides in the Sky World high above this land.  Your dragon will need to be strong if you hope to fly there.  Perhaps that pet trainer, Paula, can help you."
-msgstr " 艾希科尔居住在这片土地上方的天空世界。要飞到那里，你的龙必须足够强大。也许驯兽师葆拉可以帮你。"
+msgstr " 阿什科尔居住在这片土地上方的天空世界。要飞到那里，你的龙必须足够强大。也许驯兽师葆拉可以帮你。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:572
@@ -699,13 +699,13 @@ msgstr "你依然让我惊讶，龙骑士。现在你已经准备好翱翔天空
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:609
 #, no-wrap
 msgid "We are nearly finished.  Ohhhh...the old bones can FEEL it.  Now go!  Head to the Sky World and weaken Ashkore’s defenses."
-msgstr "我们快完成了。噢……老骨头可以感觉到了。现在出发！前往天空世界，削弱 艾希科尔的防御。"
+msgstr "我们快完成了。噢……老骨头可以感觉到了。现在出发！前往天空世界，削弱 阿什科尔的防御。"
 
 #. (itstool) path: killstep/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:610
 #, no-wrap
 msgid "Ashkore is the strongest of the Dragon Lord’s terrible brood.  His land is the hardest to get to, his minions the most vicious, his breath the most deadly.  Even a skilled dragon slayer like you could perish."
-msgstr " 艾希科尔是龙主可怕后代中最强的。它的领地最难抵达，手下最凶狠，吐息最致命。即便是像你这样的熟练屠龙者也可能陨命。"
+msgstr " 阿什科尔是龙主可怕后代中最强的。它的领地最难抵达，手下最凶狠，吐息最致命。即便是像你这样的熟练屠龙者也可能陨命。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:615
@@ -723,7 +723,7 @@ msgstr "擦干净你的刀，准备好咒语。还有更多工作要做。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:631
 #, no-wrap
 msgid "What are you waiting for?  Eliminate the last of Ashkore’s monsters so you can capture him!  Go!  I grow tired of this dawdling."
-msgstr "你还在等什么？消灭 艾希科尔最后的怪物，好让你捕获它！快去！我受够拖拖拉拉了。"
+msgstr "你还在等什么？消灭 阿什科尔最后的怪物，好让你捕获它！快去！我受够拖拖拉拉了。"
 
 #. (itstool) path: killstep/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:632
@@ -751,9 +751,9 @@ msgid ""
 "\n"
 "Capture Ashkore for me."
 msgstr ""
-"艾希科尔凭借自身力量制造了巨大的风暴，从云端宫殿恐吓人们。龙主在掌控这片土地时充分利用了这种力量。这可能再次发生。\n"
+"阿什科尔凭借自身力量制造了巨大的风暴，从云端宫殿恐吓人们。龙主在掌控这片土地时充分利用了这种力量。这可能再次发生。\n"
 "\n"
-"为我捕获艾希科尔。"
+"为我捕获阿什科尔。"
 
 #. (itstool) path: removestep/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:658
@@ -765,13 +765,13 @@ msgid ""
 msgstr ""
 "力量……如此强大。我感觉到了！\n"
 "\n"
-"为我捕获艾希科尔。"
+"为我捕获阿什科尔。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:667
 #, no-wrap
 msgid "Tell the Wizard you have captured Ashkore."
-msgstr "告诉魔法师你已捕获艾希科尔。"
+msgstr "告诉魔法师你已捕获阿什科尔。"
 
 #. (itstool) path: removestep/finish
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:663
