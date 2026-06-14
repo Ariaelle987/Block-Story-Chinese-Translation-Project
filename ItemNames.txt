@@ -445,7 +445,7 @@ msgid "Blue Dye"
 msgstr "蓝染料"
 
 msgid "Ashkore"
-msgstr "艾希科尔"
+msgstr "阿什科尔"
 
 msgid "Yellow Dye"
 msgstr "黄染料"
@@ -1330,7 +1330,7 @@ msgstr "传送器"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Baby Ashkore Soul"
-msgstr "艾希科尔宝宝之魂"
+msgstr "阿什科尔宝宝之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3742,7 +3742,7 @@ msgstr "阿拉戈克唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ashkore"
-msgstr "艾希科尔唱片"
+msgstr "阿什科尔唱片"
 
 #, fuzzy
 msgid "Record Dragon Lord"
