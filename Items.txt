@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: 54ca55defcf933aff3000136\n"
 "Report-Msgid-Bugs-To: support@blockstory.net\n"
@@ -2001,7 +2001,7 @@ msgstr "强大的盔甲。 由[FF0000]琥珀[-]制成。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "World Breaker"
 msgstr ""
-"将[FF0000]天使剑[-]与[FF0000]凤凰剑[-]结合而成的造物。"
+"将[FF0000]天使双剑[-]与[FF0000]菲尼克斯双剑[-]结合而成的造物。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2013,7 +2013,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Phoenix Swords"
-msgstr "在凤凰之火中锻造了不可思议的双剑。"
+msgstr "在不死鸟之火中锻造了不可思议的双剑。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -2801,7 +2801,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Onyx Soul"
 msgstr ""
-"传奇的凤凰会站在你这边战斗。\n"
+"传奇的不死鸟菲尼克斯会站在你这边战斗。\n"
 "\n"
 "用[FF0000]鱼翅汤[-]、[FF0000]面包[-]、[FF0000]肉[-]、[FF0000]苹果[-]和[FF0000]椰子[-]来补充它的饥饿值。"
 
@@ -3222,7 +3222,7 @@ msgstr "[FF0000]天使之翼[-]的材料。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Phoenix Wing"
-msgstr "凤凰的羽毛。"
+msgstr "不死鸟菲尼克斯的羽毛。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3234,7 +3234,7 @@ msgstr "凤凰的羽毛。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Essence"
-msgstr "凤凰掉落的难以置信的炽热粒子。"
+msgstr "不死鸟菲尼克斯掉落的难以置信的炽热粒子。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3534,7 +3534,7 @@ msgstr ""
 #, fuzzy
 msgid "Flame of the Cosmic Forge"
 msgstr ""
-"来自远古宇宙文明熔炉的火焰，以字母 S 的形状燃烧，被用来制造一种非常强大的武器，旨在击败凤凰。太空中的五个秘密房间保存着它其余成分的秘密。\n"
+"来自远古宇宙文明熔炉的火焰，以字母 S 的形状燃烧，被用来制造一种非常强大的武器，旨在击败不死鸟菲尼克斯。太空中的五个秘密房间保存着它其余成分的秘密。\n"
 "2 1 2\n"
 "2 1 2\n"
 "4 3 4"
@@ -4354,7 +4354,7 @@ msgstr "玛蒂唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Phoenix"
-msgstr "凤凰唱片"
+msgstr "菲尼克斯唱片"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -4452,7 +4452,7 @@ msgstr "马蒂唱片，可在留声机中播放。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Phoenix"
-msgstr "凤凰唱片，可在留声机中播放。"
+msgstr "菲尼克斯唱片，可在留声机中播放。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
