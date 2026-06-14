@@ -279,24 +279,24 @@ msgid ""
 "return, I'll make sure to reward you with some of the best cooked food you "
 "can find for your efforts!"
 msgstr "很高兴见到你回来，旅行者！我们的小镇夜晚越来越黑了，人们的安全出行也变得 "
-"越来越困难。我们急需一些帮助来照亮小镇。如果你能给我们带来一些火把，我们可以 "
+"越来越困难。我们急需一些帮助来照亮小镇。如果你能给我们带来一些火炬，我们可以 "
 "用它们为人们照亮小镇。作为回报，我一定会用你能找到的最美味的食物来奖励你！"
 
 msgid ""
 "Have you managed to get the Wall Torches yet? Our town could really use some "
 "light at night!"
-msgstr "你拿到了火把了吗？我们的小镇晚上需要一点灯光！"
+msgstr "你拿到了火炬了吗？我们的小镇晚上需要一点灯光！"
 
 msgid ""
 "Thank you so much for bringing us these Wall Torches! We will be able to "
 "light up the town and keep our people safe at night thanks to your help! As "
 "promised, here are some of the best cooked fish I could find for you! Keep "
 "helping us out and I might have something special for you soon."
-msgstr "太感谢你为我们带来这些火把了！有了你的帮助我们就能晚上让小镇亮起来 "
+msgstr "太感谢你为我们带来这些火炬了！有了你的帮助我们就能晚上让小镇亮起来 "
 "并晚上保护我们的村民们！你收下这些烧鱼把，这是我能给你找到的最好的烧鱼！ "
 "要是你继续帮我们的话我会给你一个特殊的礼物。"
 
 msgid "Tell a Countrywoman you crafted the Wall Torches."
-msgstr "告诉一个农妇你制作了火把"
+msgstr "告诉一个农妇你制作了火炬"
 
 
