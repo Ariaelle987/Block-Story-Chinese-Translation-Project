@@ -196,10 +196,10 @@ msgid "Bread"
 msgstr "面包"
 
 msgid "Baobab Leaves"
-msgstr "猴面包树树叶"
+msgstr "猴面包树叶"
 
 msgid "Crystal Block Red"
-msgstr "红宝石块"
+msgstr "红水晶块"
 
 msgid "Glass"
 msgstr "玻璃"
@@ -235,7 +235,7 @@ msgid "Watermelon"
 msgstr "西瓜"
 
 msgid "Pine Plant"
-msgstr "松树树苗"
+msgstr "松树苗"
 
 msgid "Bow"
 msgstr "弓"
@@ -244,7 +244,7 @@ msgid "Unobtainium Bar"
 msgstr "难得素锭"
 
 msgid "Brick Fence"
-msgstr "红砖栏"
+msgstr "砖块栅栏"
 
 msgid "Stone"
 msgstr "石头"
@@ -526,7 +526,7 @@ msgid "Rose Bush"
 msgstr "玫瑰灌木"
 
 msgid "Sand Stone"
-msgstr "沙石"
+msgstr "砂岩"
 
 msgid "Bed"
 msgstr "床"
@@ -538,7 +538,7 @@ msgid "Nest"
 msgstr "{0}巢"
 
 msgid "Spider Venom"
-msgstr "毒药"
+msgstr "蜘蛛毒液"
 
 msgid "Dark Staff"
 msgstr "黑暗法杖"
@@ -886,16 +886,16 @@ msgid "Pet Space Suit"
 msgstr "宠物宇航服"
 
 msgid "Creative Kelp"
-msgstr "创意海带"
+msgstr "创造海带"
 
 msgid "Creative Kombu"
-msgstr "创意昆布"
+msgstr "创造昆布"
 
 msgid "Creative Enhalus"
-msgstr "创意海草"
+msgstr "创造海草"
 
 msgid "Creative Anemone"
-msgstr "创意海葵"
+msgstr "创造海葵"
 
 msgid "Kelp"
 msgstr "海带"
@@ -916,10 +916,10 @@ msgid "Yellow Crystals"
 msgstr "黄色水晶"
 
 msgid "Klorium Ore"
-msgstr "辉石矿石"
+msgstr "辉石矿"
 
 msgid "Cryptonite Ore"
-msgstr "氪石矿石"
+msgstr "氪石矿"
 
 msgid "Crystal Block Yellow"
 msgstr "黄水晶块"
@@ -2151,7 +2151,7 @@ msgstr "菲尼克斯双剑"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "World Breaker"
-msgstr "世界崩解者"
+msgstr "世界破坏者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2753,7 +2753,7 @@ msgstr "恩典"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Phoenix Wing"
-msgstr "菲尼克斯的羽翼"
+msgstr "菲尼克斯羽翼"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2803,7 +2803,7 @@ msgstr "轨道尾"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle son Note"
-msgstr "装着纸条的瓶子"
+msgstr "符印纸条瓶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2816,7 +2816,7 @@ msgstr "装着纸条的瓶子"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle Poi Note"
-msgstr "装着纸条的瓶子"
+msgstr "纹记纸条瓶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2829,7 +2829,7 @@ msgstr "装着纸条的瓶子"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle Empty Note"
-msgstr "装着纸条的瓶子"
+msgstr "空瓶纸条"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2845,7 +2845,7 @@ msgstr "空白纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Poi"
-msgstr "带有符号的纸条"
+msgstr "纹记纸条"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2853,7 +2853,7 @@ msgstr "带有符号的纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note son"
-msgstr "带有符号的纸条"
+msgstr "符印纸条"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2889,7 +2889,7 @@ msgstr "空白纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Poi Iron"
-msgstr "带有符号的纸条"
+msgstr "铁质纹记纸条"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2897,7 +2897,7 @@ msgstr "带有符号的纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note son Iron"
-msgstr "带有符号的纸条"
+msgstr "铁质符印纸条"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3496,7 +3496,7 @@ msgstr "唱片 - 仙境"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - 8bit"
-msgstr "传统唱片 - 8比特"
+msgstr "传统唱片 - 像素风"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3742,7 +3742,7 @@ msgstr "阿拉戈克唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ashkore"
-msgstr "阿什科尔唱片"
+msgstr "艾希科尔唱片"
 
 #, fuzzy
 msgid "Record Dragon Lord"
@@ -4033,7 +4033,7 @@ msgstr "海葵"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Kelp"
-msgstr "创意海带"
+msgstr "创造海带"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4052,7 +4052,7 @@ msgstr "创意海带"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Kombu"
-msgstr "创意昆布"
+msgstr "创造昆布"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4071,7 +4071,7 @@ msgstr "创意昆布"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Enhalus"
-msgstr "创意海草"
+msgstr "创造海草"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4090,6 +4090,6 @@ msgstr "创意海草"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Anemone"
-msgstr "创意海葵"
+msgstr "创造海葵"
 
 
