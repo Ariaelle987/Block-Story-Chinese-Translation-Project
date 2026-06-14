@@ -243,25 +243,25 @@ msgid ""
 "Health Potions meet your needs?"
 msgstr "很高兴再次见到你，旅行者！多亏了你，这座城镇才如此繁荣！是时候为我们的 "
 "城镇增添一些优美的风景了。我们的镇上的人一直在说，要是家周围能有些花园该有多好。 "
-"你能帮我们收集一些玫瑰花丛，在城镇周围种植吗？如果你能给我们带来一些玫瑰花丛，我 "
+"你能帮我们收集一些玫瑰灌木，在城镇周围种植吗？如果你能给我们带来一些玫瑰灌木，我 "
 "们可以为你换取另一份奖励。生命药水如何？"
 
 msgid ""
 "Have you managed to get the rose bushes yet? Our town could really use some "
 "beautification!"
-msgstr "你拿到了玫瑰丛了吗？我们的小镇真的需要装饰一下！"
+msgstr "你拿到了玫瑰灌木了吗？我们的小镇真的需要装饰一下！"
 
 msgid ""
 "Thank you for bringing us these Rose Bushes! We will be able to plant them "
 "around our town and make it look so much better thanks to you! Here you go! "
 "These Health Potions should help you on your adventures. Keep helping us out "
 "and I might have something special for you soon."
-msgstr "谢谢你为我们带来这些玫瑰丛！我们会把他们才村里种下的。应为有了你的帮助， "
+msgstr "谢谢你为我们带来这些玫瑰灌木！我们会把他们才村里种下的。应为有了你的帮助， "
 "我们的小镇变得多么的美丽。给你，这些生命药水因该会帮助你的。要是你继续帮我们的话 "
 "我会给你一个特殊的礼物。"
 
 msgid "Tell a Countrywoman you have the Rose Bushes."
-msgstr "告诉一个农妇你拿到了玫瑰丛"
+msgstr "告诉一个农妇你拿到了玫瑰灌木"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
