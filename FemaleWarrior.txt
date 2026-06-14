@@ -471,7 +471,7 @@ msgid ""
 "be able to see him again."
 msgstr ""
 "我为它伤心，想念着它，事实证明，它没有死，它被这个卑鄙的龙主偷走了！\n"
-"    天哪，那只英俊的的龙在龙主的黑暗咒语下完全变了...\n"
+"    天哪，那只英俊的龙在龙主的黑暗咒语下完全变了...\n"
 "    我几乎认不出它来，但这肯定是它。很高兴能够再见它一面。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -612,7 +612,7 @@ msgid ""
 "need to go on a difficult journey."
 msgstr ""
 "这是一种火焰鸟的羽毛，在这片土地上从未有人见过，我们只能从传说中得知。\n"
-"    只有击败它的人才有能力制服火龙。菲尼克斯，就是这种鸟，它生活在离这里很远的地方，要找到它，你会度过一段极其艰难的旅程。"
+"    只有击败它的人才有能力制服火龙。不死鸟菲尼克斯，就是这种鸟，它生活在离这里很远的地方，要找到它，你会度过一段极其艰难的旅程。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -682,7 +682,7 @@ msgid ""
 "      Probably the time has come to check whether ancient legends tell the "
 "truth because only you can go there."
 msgstr ""
-"野兽生活在这些丛林中，其中大都非常好战，其树屋由美丽且耐用的名为琥珀的石头制成。如果你仍要前往这个危险的世界，能带些回来吗？\n"
+"生活在这些丛林中的野兽大都非常好战，其树屋由美丽且耐用的名为琥珀的石头制成。如果你仍要前往这个危险的世界，能带些回来吗？\n"
 "      但是我在说什么呢？这只是个传说，没人知道这个世界是否真的存在。\n"
 "      也许是时候检验一下这个传说是否真实了，因为只有你才能去那里。"
 
@@ -734,7 +734,7 @@ msgid ""
 "they can’t survive in a strange cruel world. Only the Mechanical pet and "
 "Maty pet could accompany you on this journey."
 msgstr ""
-"现在是时候上路了，但是请遵循我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物和幽灵宠物可以与你相伴。"
+"现在是时候上路了，但是请遵循我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物，外星狗宠物和玛蒂宠物可以与你相伴。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -845,7 +845,7 @@ msgid ""
 "flew down..."
 msgstr ""
 "古代传说中描述，你刚刚到达过的世界即为他们的故乡。很久以前，它们曾乘大型飞船从那里飞过，这种飞船无需借助魔法就能在空中翱翔。\n"
-"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，阿什科尔，他们非常害怕。\n"
+"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，艾希科尔，他们非常害怕。\n"
 "      因此，它们决定扎根海洋。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -1053,7 +1053,7 @@ msgid ""
 "dreamcats."
 msgstr ""
 "那里的居民，就是琥珀屋的居民，他们试图绕开金字塔，并且从不进去。按他们的信仰，进入金字塔的人永远不可能出得来。\n"
-"      许多冒险家试图一探这些古老的建筑，但没有一个回来。而且，每个金字塔都被众多凶猛的蓝豹守卫着。"
+"      许多冒险家试图一探这些古老的建筑，但没有一个回来。而且，每个金字塔都被众多凶猛的梦豹守卫着。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1548,7 +1548,7 @@ msgid ""
 "good old days, when we flew with him under the clouds. I will miss him, "
 "although I understand that he will feel better with you."
 msgstr ""
-"就像在昔日的美好时光中，索达拉修斯变得如此巨大且强壮，他多么美丽，就像我在云端与他一同飞行时那样。我会想念他的，尽管我知道他与你相伴会更好。"
+"就像在昔日的美好时光中，索达拉修斯变得如此巨大且强壮，它多么美丽，就像我在云端与它一同飞行时那样。我会想念它的，尽管我知道它与你相伴会更好。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1574,7 +1574,7 @@ msgid ""
 "it did to the Dragon Lord."
 msgstr ""
 "现在，当你获得对龙的控制权时，你的力量就会增强。我必须警告你。 并非每个人都能承受这种权力的负担，将权力用于邪恶的欲望总是伴随着你。\n"
-"      作为主人，你可能无法应付，黑暗力量曾击溃了龙主。你喜欢接受还是抗拒，我不清楚。但我知道，这种不可思议的力量会使人疯狂，就像那龙主一样。"
+"      作为主人，你可能无法应付，黑暗力量的诱惑曾击溃了龙主。你喜欢接受还是抗拒，我不清楚。但我知道，这种不可思议的力量会使人疯狂，就像那龙主一样。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
