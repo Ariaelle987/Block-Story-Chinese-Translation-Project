@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Claim Reward"
-msgstr ""
+msgstr "要求报酬"
 
 msgid "Stone Breaker"
 msgstr "破石者"
