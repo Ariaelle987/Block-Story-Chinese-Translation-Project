@@ -1,0 +1,14 @@
+# 排除 CI 相关文件
+.github/ export-ignore
+tools/ export-ignore
+
+# 排除脚本文件
+*.py export-ignore
+
+# 排除文档文件
+README.md export-ignore
+旧修改记录 export-ignore
+
+# 排除 git 相关文件
+.gitattributes export-ignore
+.gitignore export-ignore
