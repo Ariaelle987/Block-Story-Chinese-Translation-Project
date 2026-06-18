@@ -21,11 +21,11 @@ msgid ""
 "Ashkore continues to antagonize the sky world.  Please defeat him and bring "
 "me his Electrite."
 msgstr ""
-"艾希科尔仍在不断挑衅天空世界。请击败它，并把它的雷晶带给我。"
+"阿什科尔仍在不断挑衅天空世界。请击败它，并把它的雷晶带给我。"
 
 msgid "Ashkore is not a creature to be trifled with.  Exercise caution."
 msgstr ""
-"艾希科尔不是可以轻视的敌人。务必小心。"
+"阿什科尔不是可以轻视的敌人。务必小心。"
 
 msgid ""
 "This will do for now, but I will need more Electrite tomorrow.  Bring me "
