@@ -16,7 +16,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Splitting Skullache"
-msgstr "裂骨"
+msgstr "裂颅之痛"
 
 #, fuzzy
 msgid ""
@@ -24,20 +24,20 @@ msgid ""
 "your help.  Bring me the skulls of my fallen comrades, and I will reward you "
 "for your trouble."
 msgstr ""
-"你在战斗中击败了我们这么多骷髅，龙骑士。现在我需要你的帮助，把我倒下战友的头骨带来，我会酬谢你的辛苦。"
+"你在战斗中击败了我们许多同族，龙骑士。现在我需要你的帮助：将阵亡同伴的头骨带来，我会给予你酬谢。"
 
 #, fuzzy
 msgid ""
 "You can bring me up to ten skulls per day.  When I am satisfied, I will "
 "share an intriguing object I found with you."
 msgstr ""
-"你每天最多可以交给我十个头骨。等我满意了，我会把我发现的一个有趣的东西分享给你。"
+"你每天最多可交给我十个头骨。当我满意时，我会将一件有趣的物品交给你。"
 
 #, fuzzy
 msgid ""
 "Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
 msgstr ""
-"唉，可怜的约里克！我认识他，龙骑士。谢谢你带来这些头骨。"
+"唉，可怜的约里克！我曾与他相识，龙骑士。感谢你带来这些头骨。"
 
 #, fuzzy
 msgid "Tell the Skeleton you have the skulls."
@@ -49,4 +49,4 @@ msgid ""
 "Thank you, Dragon Rider.  As promised, here is your reward.  I hope you can "
 "put it to good use."
 msgstr ""
-"现在我们收集齐了战友的头骨，我可以安心了。谢谢你，龙骑士。如约，这是你的奖励。希望你能好好利用它。"
+"既然战友的头骨已经收集齐，我也可以安心了。谢谢你，龙骑士。如约，这是你的奖励。愿你善加利用。"
