@@ -1,0 +1,68 @@
+name: 生成繁体版本
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '*.txt'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 获取代码
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: 设置 Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: 安装转换工具
+      run: pip install opencc-python-reimplemented
+    
+    - name: 转换简体到繁体
+      run: |
+        python -c "
+        import os
+        import glob
+        from opencc import OpenCC
+        
+        # 创建临时文件夹
+        os.makedirs('Traditional_TW', exist_ok=True)
+        
+        # 转换所有txt文件
+        cc = OpenCC('s2tw')
+        for file in glob.glob('*.txt'):
+            if file in ['check_translation.py']:
+                continue
+            with open(file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            converted = cc.convert(content)
+            output_path = f'Traditional_TW/{file}'
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write(converted)
+            print(f'已转换: {file}')
+        "
+    
+    - name: 提交到繁体分支
+      run: |
+        # 设置 Git
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 切换到繁体分支（如果不存在则创建）
+        git checkout -b traditional-chinese || git checkout traditional-chinese
+        
+        # 把繁体文件移到根目录
+        cp Traditional_TW/* ./
+        rm -rf Traditional_TW
+        
+        # 添加所有txt文件
+        git add *.txt
+        git commit -m "自动更新繁体版本" || echo "没有变更"
+        git push -f origin traditional-chinese
