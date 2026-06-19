@@ -23,21 +23,21 @@ msgid ""
 "Dark BOSS has returned, even more powerful than before.  You must defeat him "
 "to restore peace to our land."
 msgstr ""
-"黑暗魔王回來了，比以前更強大。你必須擊敗他，才能讓我們的土地重歸和平。"
+"黑暗魔王再次歸來，比以往更加強大。擊敗他，才能讓這片土地重獲和平。"
 
 #, fuzzy
 msgid ""
 "I have the rare rockets you seek, but I must know Dark BOSS is defeated "
 "before I can part with them."
 msgstr ""
-"我這裡有你需要的稀有火箭，但在確認黑暗魔王被擊敗之前，我無法交給你。"
+"我有你需要的稀有火箭，但在確定黑暗魔王已被擊敗前，還無法交給你。"
 
 #, fuzzy
 msgid ""
 "I am glad to hear of your triumph over Dark BOSS.  Place these rockets in "
 "the Mech's inventory to properly use them."
 msgstr ""
-"聽到你擊敗了黑暗魔王，我很高興。將這些火箭放入機械寵物的揹包中即可正確使用。"
+"聽聞你已擊敗黑暗魔王，我十分欣慰。將這些火箭放入機械寵物的揹包中即可使用。"
 
 #, fuzzy
 msgid "Tell the Source of Life you have slain the Dark BOSS."
