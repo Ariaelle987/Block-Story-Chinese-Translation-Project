@@ -31,7 +31,7 @@ msgid "Saw Shield"
 msgstr "圓鋸盾牌"
 
 msgid "Animal Spawner"
-msgstr "{0} 動物生怪磚"
+msgstr "{0}動物生怪磚"
 
 msgid "Old Stone Fence"
 msgstr "老舊石欄"
@@ -139,7 +139,7 @@ msgid "Skull"
 msgstr "頭骨"
 
 msgid "Monster Spawner"
-msgstr "{0} 生怪磚"
+msgstr "{0}生怪磚"
 
 msgid "Acacia Plant"
 msgstr "金合歡樹苗"
@@ -154,7 +154,7 @@ msgid "Meat"
 msgstr "肉"
 
 msgid "Desert Bird Spawner"
-msgstr "沙漠鳥 生怪磚"
+msgstr "沙漠鳥生怪磚"
 
 msgid "Yellow Coral"
 msgstr "黃珊瑚"
@@ -301,7 +301,7 @@ msgid "Wood Door"
 msgstr "木門"
 
 msgid "Antique Spawner"
-msgstr "{0} 生怪磚"
+msgstr "{0}生怪磚"
 
 msgid "Acid"
 msgstr "硫酸桶"
@@ -706,7 +706,7 @@ msgid "Mistic Ring"
 msgstr "神秘戒指"
 
 msgid "Duck Spawner"
-msgstr "鴨子 生怪磚"
+msgstr "鴨子生怪磚"
 
 msgid "Dragon Helmet"
 msgstr "龍盔"
@@ -715,7 +715,7 @@ msgid "Teleport"
 msgstr "傳送"
 
 msgid "Swamp Spawner"
-msgstr "{0} 生怪磚"
+msgstr "{0}生怪磚"
 
 msgid "Bark"
 msgstr "原木"
