@@ -12,16 +12,6 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.7.1\n"
-使用原则（关键）
-
-这个表的设计目标是：
-
-不做“全量简繁转换”
-只做修正补丁
-用于覆盖：
-简转繁库错误
-游戏术语语义偏差
-UI固定术语
 
 msgid "Claim Reward"
 msgstr "要求报酬"
