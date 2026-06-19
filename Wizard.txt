@@ -207,7 +207,7 @@ msgstr "龍主"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:6
 #, no-wrap
 msgid "I have a confession to make.  My motivations to help you, and to train you, have not been entirely altruistic.  Will you listen to this old man's tale of the Dragon Lord?"
-msgstr "我必須坦白，我幫助你、訓練你，並非完全出於無私。願意聽聽一個老者關於龍之主的故事嗎？"
+msgstr "我必須坦白，我幫助你、訓練你，並非完全出於無私。願意聽聽一個老者關於龍主的故事嗎？"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:13
@@ -219,7 +219,7 @@ msgstr "那麼，你或許並非我所期待的英雄。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:21
 #, no-wrap
 msgid "The Dragon Lord is a wicked sorcerer who has plagued this land for many years.  He commands three terrible monsters: the Ice Dragon, the Fire Dragon, and the Bolt Dragon.  These dragons have been known to burn fields and raze whole villages.  They must be stopped.  But until now, until you, there has been no one to stand up to the Dragon Lord.  It is said that only another dragon rider of equal power stands a chance of defeating the Dragon Lord.  Will you become a dragon rider and defeat the Dragon Lord?"
-msgstr "龍之主是一名邪惡的法師，多年來一直蹂躪這片土地。他統御三隻恐怖的巨獸：冰龍、火龍與雷龍。這些龍曾焚燬農田、夷平村莊，必須被阻止。但直到你出現之前，無人敢正面對抗龍之主。據說，唯有與他同等力量的龍騎士，才有機會將其擊敗。你願意成為龍騎士，擊敗龍主嗎？"
+msgstr "龍主是一名邪惡的法師，多年來一直蹂躪這片土地。他統御三隻恐怖的巨獸：冰龍、火龍與雷龍。這些龍曾焚燬農田、夷平村莊，必須被阻止。但直到你出現之前，無人敢正面對抗龍主。據說，唯有與他同等力量的龍騎士，才有機會將其擊敗。你願意成為龍騎士，擊敗龍主嗎？"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:28
@@ -323,7 +323,7 @@ msgstr "告訴魔力師，你已掌握施展火焰魔力的能力。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:131
 #, no-wrap
 msgid "Dragon Rider, you continue to amaze these old eyes.  Are you a wizard now too?  The Dragon Lord will quake when he sees you coming."
-msgstr "龍騎士，你繼續讓我這把老骨頭驚歎。你現在也是巫師了嗎？龍主見到你到來必定顫抖。"
+msgstr "龍騎士，你繼續讓我這把老骨頭驚歎。你現在也是法師了嗎？龍主見到你到來必定顫抖。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:146
@@ -705,7 +705,7 @@ msgstr "我們快完成了。噢……老骨頭可以感覺到了。現在出發
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:610
 #, no-wrap
 msgid "Ashkore is the strongest of the Dragon Lord’s terrible brood.  His land is the hardest to get to, his minions the most vicious, his breath the most deadly.  Even a skilled dragon slayer like you could perish."
-msgstr " 阿什科爾是龍之主麾下最強的存在。它的領地最難抵達，它的爪牙最為兇殘，它的吐息最為致命。即便是你這樣的屠龍者，也可能隕命於此。"
+msgstr " 阿什科爾是龍主麾下最強的存在。它的領地最難抵達，它的爪牙最為兇殘，它的吐息最為致命。即便是你這樣的屠龍者，也可能隕命於此。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:615
@@ -751,7 +751,7 @@ msgid ""
 "\n"
 "Capture Ashkore for me."
 msgstr ""
-"阿什科爾以其力量製造毀滅性的風暴，從雲端宮殿俯視並恐嚇這片土地的生靈。龍之主曾藉助它的力量鞏固統治。這樣的災厄，不能再次發生。\n"
+"阿什科爾以其力量製造毀滅性的風暴，從雲端宮殿俯視並恐嚇這片土地的生靈。龍主曾藉助它的力量鞏固統治。這樣的災厄，不能再次發生。\n"
 "\n"
 "為我捕獲阿什科爾。"
 
@@ -1072,7 +1072,7 @@ msgstr "太好了，幹得不錯。我準備了一些物品，幫助你適應環
 #: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:152
 #, no-wrap
 msgid "That crafting table you built has many uses.  With it, you can forge powerful weapons, construct magnificent contraptions, perhaps even tap into the arcane power of MAGIC!"
-msgstr "你建造的工作臺用途極多。藉助它，你可以鍛造強力武器、製造精巧裝置，甚至接觸到魔力的力量！"
+msgstr "你建造的工作臺用途極多。藉助它，你可以鍛造強力武器、製造精巧裝置，甚至觸碰到魔力的力量！"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:155
@@ -1120,16 +1120,16 @@ msgid ""
 "\n"
 "Click on your inventory and open the Recipe Book in the lower left hand corner."
 msgstr ""
-"怎麼了？沒打開過書嗎？我猜你更像是個武士而不是學者，不過該學的還是得學。\n"
+"怎麼了？沒打開過書嗎？我猜你更像是個武士而不是學者，不過該學的還是得學！\n"
 "\n"
-"打開揹包，然後點擊左下角的配方書。"
+"打開揹包，然後查看左下角的配方書。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:174
 #: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:231
 #, no-wrap
 msgid "Open the Recipe Book within your Inventory."
-msgstr "打開揹包中的配方書。"
+msgstr "查看揹包中的配方書。"
 
 #. (itstool) path: condition/label
 #: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:178
