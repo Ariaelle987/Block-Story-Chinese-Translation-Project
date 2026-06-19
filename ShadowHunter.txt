@@ -139,20 +139,21 @@ msgid ""
 "\n"
 "But you are going to need to craft a Cauldron to make those kinds of discoveries."
 msgstr ""
-"化学就像人一样。当两种化学物质结合时，会产生反应。也许很温和，但有时，结果却会爆炸！化学就是爱，我的朋友。\n"
-"不过，你需要制作一个大锅才能进行这样的实验。"
+"化学物质就像人一样。当两种化学物质混合在一起时，就会产生反应。也许反应平淡无奇，但有时结果会十分惊人！化学就像爱情一样，我的朋友。\n"
+"\n"
+"不过，要进行这些发现，你得先制作一个炼药锅。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:71
 #, no-wrap
 msgid "Tell the Alchemist that you have the cauldron."
-msgstr "告诉炼金术士，你有大锅。"
+msgstr "告诉炼金术士你已经制作好了炼药锅。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:67
 #, no-wrap
 msgid "Do you expect me to be impressed?  You crafted a cauldron.  Have a trophy.  Let's get ready to create your first potion."
-msgstr "你以为我会被你惊艳到吗？你制作了一个大锅，奖励可拿好了。现在，准备炼制你的第一瓶药水吧。"
+msgstr "你该不会以为我会因此大吃一惊吧？你只是做了个炼药锅而已。喏，奖杯给你。现在准备制作你的第一瓶药水吧。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:86
