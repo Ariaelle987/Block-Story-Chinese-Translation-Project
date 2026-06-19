@@ -12,6 +12,23 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.7.1\n"
+===== 測試內容 =====
+
+歡迎來到 Block Story 遊戲！
+
+這裡是遊戲的世界，你會發現許多有趣的內容。
+
+開發團隊正在努力製作更多精彩的內容。
+
+請享受遊戲，並告訴我們你的想法！
+
+如果你遇到任何問題，請聯繫我們。
+
+我們會盡快回復你的消息。
+
+祝你遊戲愉快！
+
+===== 測試結束 =====
 
 msgid "Claim Reward"
 msgstr "要求報酬"
