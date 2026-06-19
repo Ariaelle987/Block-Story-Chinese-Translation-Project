@@ -14,10 +14,10 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Claim Reward"
-msgstr "要求报酬"
+msgstr "领取奖励"
 
 msgid "Stone Breaker"
-msgstr "破石者"
+msgstr "碎石者"
 
 msgid "Break {0} blocks with the {1}."
 msgstr "使用{1}去打破{0}方块。"
@@ -32,10 +32,10 @@ msgid "Tasty Frog Legs"
 msgstr "美味的青蛙腿"
 
 msgid "Kill {0}{1} with the {2}."
-msgstr "用{2}去杀死{0}{1}。"
+msgstr "使用{2}击杀{0}{1}。"
 
 msgid "Kill {0}{1}."
-msgstr "杀死{0}{1}。"
+msgstr "击杀{0}{1}。"
 
 msgid "Slayer of Legends"
 msgstr "传奇杀手"
@@ -66,7 +66,7 @@ msgid "Stone Miner"
 msgstr "石头矿工"
 
 msgid "Stone Chopper"
-msgstr "石头刀"
+msgstr "碎石者"
 
 msgid "Apprentice Miner"
 msgstr "学徒矿工"
