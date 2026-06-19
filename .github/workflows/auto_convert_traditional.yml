@@ -2,7 +2,7 @@ name: 生成繁体版本
 
 on:
   push:
-    branches: [ main ]
+    branches: [ simplified-chinese ]
     paths:
       - '*.txt'
   workflow_dispatch:
