@@ -31,7 +31,7 @@ msgid "Saw Shield"
 msgstr "圓鋸盾牌"
 
 msgid "Animal Spawner"
-msgstr "{0} 動物刷怪箱"
+msgstr "{0} 動物生怪磚"
 
 msgid "Old Stone Fence"
 msgstr "老舊石欄"
@@ -139,7 +139,7 @@ msgid "Skull"
 msgstr "頭骨"
 
 msgid "Monster Spawner"
-msgstr "{0} 刷怪箱"
+msgstr "{0} 生怪磚"
 
 msgid "Acacia Plant"
 msgstr "金合歡樹苗"
@@ -154,7 +154,7 @@ msgid "Meat"
 msgstr "肉"
 
 msgid "Desert Bird Spawner"
-msgstr "沙漠鳥 刷怪箱"
+msgstr "沙漠鳥 生怪磚"
 
 msgid "Yellow Coral"
 msgstr "黃珊瑚"
@@ -301,7 +301,7 @@ msgid "Wood Door"
 msgstr "木門"
 
 msgid "Antique Spawner"
-msgstr "{0} 刷怪箱"
+msgstr "{0} 生怪磚"
 
 msgid "Acid"
 msgstr "硫酸桶"
@@ -706,7 +706,7 @@ msgid "Mistic Ring"
 msgstr "神秘戒指"
 
 msgid "Duck Spawner"
-msgstr "鴨子 刷怪箱"
+msgstr "鴨子 生怪磚"
 
 msgid "Dragon Helmet"
 msgstr "龍盔"
@@ -715,7 +715,7 @@ msgid "Teleport"
 msgstr "傳送"
 
 msgid "Swamp Spawner"
-msgstr "{0} 刷怪箱"
+msgstr "{0} 生怪磚"
 
 msgid "Bark"
 msgstr "原木"
@@ -883,7 +883,7 @@ msgid "Pal"
 msgstr "夥伴"
 
 msgid "Pet Space Suit"
-msgstr "寵物宇航服"
+msgstr "寵物太空衣"
 
 msgid "Creative Kelp"
 msgstr "創造海帶"
@@ -1455,7 +1455,7 @@ msgstr "釣魚竿"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fried Meat"
-msgstr "熟肉"
+msgstr "烤肉"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1643,7 +1643,7 @@ msgstr "鯊魚"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wall Torch"
-msgstr "火炬"
+msgstr "壁掛火把"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348

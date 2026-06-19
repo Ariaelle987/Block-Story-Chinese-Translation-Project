@@ -49,7 +49,7 @@ msgid "There are some really scary creatures further below.  Be careful."
 msgstr "地下有些可怕的怪物。當心。"
 
 msgid "What? No more spawners? But where are all these creatures coming from?"
-msgstr "什麼？沒有刷怪箱了？那這些生物是從哪兒來的？"
+msgstr "什麼？沒有生怪磚了？那這些生物是從哪兒來的？"
 
 msgid "These stupid sharks are everywhere. Be careful!"
 msgstr "這些蠢鯊魚無處不在。當心！"
@@ -275,7 +275,7 @@ msgid "The sky is quite beautiful."
 msgstr "這天太美了。"
 
 msgid "Travel the world and discover the wonders of life."
-msgstr "週遊世界，發現生活中的奇蹟。"
+msgstr "周遊世界，發現生活中的奇蹟。"
 
 msgid   "Hey kid, you sure do look wimpy. Now build me a boat."
 msgstr  "嘿，小鬼，你看起來真弱。現在給我造一艘船。"
@@ -624,7 +624,7 @@ msgstr "殺，是什麼？"
 msgid ""
 "We recently installed platforms around our floating villages to make it "
 "easier to get out of the ocean. Hope these help travelers like you. "
-msgstr "我們最近在漂浮村莊週圍安裝了平臺，讓大家更容易上岸。希望能對像你這樣的旅者有所幫助。"
+msgstr "我們最近在漂浮村莊周圍安裝了平臺，讓大家更容易上岸。希望能對像你這樣的旅者有所幫助。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -689,7 +689,7 @@ msgstr "我們曾經數星星只是為了好玩。如今數星星只為忘記飢
 msgid ""
 "The Prince says we’re safe. He hasn’t seen the shark fins circling our "
 "floating villages!"
-msgstr "王子說我們很安全。可他可沒看到那些在我們浮動村莊週圍盤旋的鯊魚鰭！"
+msgstr "王子說我們很安全。可他可沒看到那些在我們浮動村莊周圍盤旋的鯊魚鰭！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 

@@ -31,7 +31,7 @@ msgid "Сreature mounted"
 msgstr "生物已騎乘"
 
 msgid "Increases maximum mana."
-msgstr "提升法力值上限。"
+msgstr "提升魔力值上限。"
 
 msgid "Combat"
 msgstr "戰鬥"
@@ -143,7 +143,7 @@ msgid "Time:"
 msgstr "時間:"
 
 msgid "Underwater Breath:"
-msgstr "水下呼吸值:"
+msgstr "水下氧氣值:"
 
 msgid "FPS counter"
 msgstr "幀率顯示"
@@ -161,7 +161,7 @@ msgstr ""
 "感覺越爽 :)"
 
 msgid "Screenshot Resolution"
-msgstr "截屏解析度"
+msgstr "截屏分辨率"
 
 msgid "Game Over"
 msgstr "遊戲結束"
@@ -301,7 +301,7 @@ msgid "Reset"
 msgstr "重置"
 
 msgid "Not enough mana!  Try attacking the creature first!"
-msgstr "法力值不足！先嚐試攻擊怪物！"
+msgstr "魔力值不足！先嚐試攻擊怪物！"
 
 msgid ""
 "Normal creative mode:\n"
@@ -321,7 +321,7 @@ msgid "Exit Game"
 msgstr "離開遊戲"
 
 msgid "Resolution"
-msgstr "解析度"
+msgstr "分辨率"
 
 msgid "Get Content"
 msgstr "獲取聯繫"
@@ -409,7 +409,7 @@ msgid "Settings"
 msgstr "設置"
 
 msgid "Not enough Mana..."
-msgstr "法力值不足..."
+msgstr "魔力值不足..."
 
 msgid ""
 "Bullets: [00FF00]{0}[-]\n"
@@ -454,7 +454,7 @@ msgid "Blocks"
 msgstr "方塊"
 
 msgid "Player Mana:"
-msgstr "玩家法力值:"
+msgstr "玩家魔力值:"
 
 msgid ""
 "Use the following keys:\n"
@@ -750,7 +750,7 @@ msgid "Tilt speed: [FF0000]{0:0.0}"
 msgstr "傾斜速度: [FF0000]{0:0.0}"
 
 msgid "Good spawn"
-msgstr "好的刷怪箱"
+msgstr "好的生怪磚"
 
 msgid "Fantastic"
 msgstr "太棒了"
@@ -835,7 +835,7 @@ msgstr ""
 "開啟天氣變化"
 
 msgid "Screen Resolution"
-msgstr "屏幕解析度"
+msgstr "屏幕分辨率"
 
 msgid "You can increase digging speed by spending some skill points here."
 msgstr "你可以在此花費技能點以提升挖掘速度。"
@@ -880,7 +880,7 @@ msgid ""
 "Screen\n"
 "Resolution"
 msgstr ""
-"屏幕解析度"
+"屏幕分辨率"
 
 msgid "Horizontal load distance: [FF0000]{0:0}"
 msgstr "水平區塊加載: [FF0000]{0:0}"
@@ -904,7 +904,7 @@ msgid "Walking"
 msgstr "行走"
 
 msgid "Texture resolution: [FF0000]{0:0}"
-msgstr "圖像解析度: [FF0000]{0:0}"
+msgstr "圖像分辨率: [FF0000]{0:0}"
 
 msgid "Full version only"
 msgstr "僅限完整版"
@@ -974,7 +974,7 @@ msgid "Come build something EPIC!"
 msgstr "來創造史詩吧！"
 
 msgid "Spawners"
-msgstr "刷怪箱"
+msgstr "生怪磚"
 
 msgid "Skip"
 msgstr "跳過"
@@ -1125,7 +1125,7 @@ msgid "Enable Hand tools tilt effect"
 msgstr "開啟手持工具傾斜效果"
 
 msgid "Epic Spawners"
-msgstr "史詩刷怪箱"
+msgstr "史詩生怪磚"
 
 msgid "Spawn point"
 msgstr "重生點"
@@ -2800,7 +2800,7 @@ msgstr "垂直同步"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1254 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440 
 msgid "Disable Music Cutoff"
-msgstr "停用音樂中斷"
+msgstr "禁用音樂中斷"
 
 #, fuzzy
 msgid "Enable Jumping Sounds"

@@ -571,7 +571,7 @@ msgstr "傳聞黑暗魔王將受害者埋入地下，沒有鎬子，也無路可
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:441
 #, no-wrap
-msgid "Tell the Wizard you have slain the Dark 頭目."
+msgid "Tell the Wizard you have slain the Dark BOSS."
 msgstr "告訴魔力師，你已消滅黑暗魔王。"
 
 #. (itstool) path: killstep/finish
@@ -584,7 +584,7 @@ msgstr "你已成為一名熟練的殺手，龍騎士。你帶來如此多的死
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:457
 #, no-wrap
 msgid "No more games.  The time to face the Fire Dragon has come.  It will take all your strength and skill to vanquish him.  Remember!  Bring me the Fire Dragon’s spawner once he is defeated.  Now go."
-msgstr "玩笑結束了。是時候面對火龍了。要擊敗它，你需要傾盡全力與所有技巧。記住！擊敗火龍後，將它的刷怪箱帶給我。現在出發吧。"
+msgstr "玩笑結束了。是時候面對火龍了。要擊敗它，你需要傾盡全力與所有技巧。記住！擊敗火龍後，將它的生怪磚帶給我。現在出發吧。"
 
 #. (itstool) path: removestep/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:458
@@ -603,7 +603,7 @@ msgstr "告訴魔力師，你已捕獲火龍。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:459
 #, no-wrap
 msgid "Yes, at last!  At long last.  Give me the Fire Dragon Spawner.  I will put it to good use."
-msgstr "是的，終於！把火龍刷怪箱給我，我會好好利用它。"
+msgstr "是的，終於！把火龍生怪磚給我，我會好好利用它。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:479
@@ -1149,7 +1149,7 @@ msgstr "這不很簡單嘛？現在你可以開始真正的製作了。"
 #. (itstool) path: UnityGame/Assets/Quests/Wizard/Tutorial.xml/quest@title
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1
 msgid "Tutorial"
-msgstr "教學"
+msgstr "教程"
 
 #. (itstool) path: step/intro
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:14
@@ -1179,7 +1179,7 @@ msgstr "按照指示學習如何移動。"
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:46
 #, no-wrap
 msgid "Look Around"
-msgstr "環顧四週"
+msgstr "環顧四周"
 
 #. (itstool) path: condition/label
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:98
@@ -1291,7 +1291,7 @@ msgstr ""
 "\n"
 "對著方塊按住 R2 來破壞它。\n"
 "\n"
-"這是挖洞、開鑿通道以及改變週圍環境的最佳方式。"
+"這是挖洞、開鑿通道以及改變周圍環境的最佳方式。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:441
@@ -1313,7 +1313,7 @@ msgstr ""
 "\n"
 "對著方塊按住鼠標左鍵以破壞它。\n"
 "\n"
-"這是挖洞、開鑿通道以及改變週圍環境的最佳方式。"
+"這是挖洞、開鑿通道以及改變周圍環境的最佳方式。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:455
@@ -1335,7 +1335,7 @@ msgstr ""
 "\n"
 "長按方塊以破壞它。\n"
 "\n"
-"這是挖洞、開鑿通道以及改變週圍環境的最佳方式。"
+"這是挖洞、開鑿通道以及改變周圍環境的最佳方式。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Tutorial.xml:469

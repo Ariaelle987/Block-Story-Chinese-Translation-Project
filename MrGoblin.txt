@@ -492,7 +492,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:49
 #, fuzzy, no-wrap
 msgid "Word has spread that Mr. Goblin has an innovative idea for faster travel.  Speak to him to learn more."
-msgstr "有消息稱，哥布林先生有一個新穎的想法，可以更快地旅行。與他交談以瞭解更多資訊。"
+msgstr "有消息稱，哥布林先生有一個新穎的想法，可以更快地旅行。與他交談以瞭解更多信息。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336

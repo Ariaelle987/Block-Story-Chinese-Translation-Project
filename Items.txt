@@ -66,7 +66,7 @@ msgstr "生長在[FF0000]沙子[-]上。"
 
 msgid "Oak Leaves"
 msgstr ""
-"一種有橡子在內的葉子。通常在草原生物群落髮現。如果你夠走運，你可以找到它週圍的蜂巢。"
+"一種有橡子在內的葉子。通常在草原生物群落髮現。如果你夠走運，你可以找到它周圍的蜂巢。"
 
 msgid "Poplar Leaves"
 msgstr "沙漠楊樹的葉子。"
@@ -130,7 +130,7 @@ msgid "Wood Window"
 msgstr "美麗的柳條編製成的窗戶。與小房子是絕配。"
 
 msgid "Soul Catcher"
-msgstr "這種魔力能夠將生物變成刷怪箱。"
+msgstr "這種魔力能夠將生物變成生怪磚。"
 
 msgid "Miner Helmet"
 msgstr ""
@@ -193,7 +193,7 @@ msgstr ""
 
 msgid "Monster Spawner"
 msgstr ""
-"邪惡神秘的刷怪箱，可以產生各種蠕動的生物。它可以是個討厭的東西，發出紅色的光。"
+"邪惡神秘的生怪磚，可以產生各種蠕動的生物。它可以是個討厭的東西，發出紅色的光。"
 
 msgid "Plank"
 msgstr ""
@@ -408,7 +408,7 @@ msgid "Antique Spawner"
 msgstr ""
 "所有哥布林家族都有一個東西讓他們盡全力守護。\n"
 "\n"
-"用[FF0000]靈魂的守望者[-]來抓一些生物以製成刷怪箱。"
+"用[FF0000]靈魂的守望者[-]來抓一些生物以製成生怪磚。"
 
 msgid "Palm Stairs"
 msgstr ""
@@ -450,7 +450,7 @@ msgid "Spruce Plant"
 msgstr "生長在[FF0000]雪[-]上。"
 
 msgid "Radar"
-msgstr "顯示週遭的生物及你和床的位置。"
+msgstr "顯示周遭的生物及你和床的位置。"
 
 msgid "Forgotten Stone Old"
 msgstr "已被忘記了的石頭。"
@@ -498,7 +498,7 @@ msgid "Blue Crystals"
 msgstr ""
 "洞穴中的藍色礦物。\n"
 "\n"
-"不觸摸它時會產生藍光去照耀四週。\n"
+"不觸摸它時會產生藍光去照耀四周。\n"
 "\n"
 "可以用來製作藍染料。"
 
@@ -767,7 +767,7 @@ msgid "Red Crystals"
 msgstr ""
 "洞穴中的紅色礦物。\n"
 "\n"
-"不觸摸它時會產生紅光去照耀四週。\n"
+"不觸摸它時會產生紅光去照耀四周。\n"
 "\n"
 "可用來施展黑暗魔力或製作紅染料。"
 
@@ -843,7 +843,7 @@ msgstr ""
 msgid "Spirit Necklace"
 msgstr ""
 "一個由受困的靈魂和腐敗的[FF0000]難得素[-]製成的黑暗物品。\n"
-"提高使用者的能力且能補充他們的法力值。"
+"提高使用者的能力且能補充他們的魔力值。"
 
 msgid "Gold Block"
 msgstr "黃金製成的方塊。"
@@ -899,7 +899,7 @@ msgstr ""
 
 msgid "JetPack"
 msgstr ""
-"一種交通工具，允許你不消耗法力值飛行。\n"
+"一種交通工具，允許你不消耗魔力值飛行。\n"
 "\n"
 "用[FF0000]引力子[-]給引擎提供動力。"
 
@@ -993,7 +993,7 @@ msgstr ""
 
 msgid "Duck Spawner"
 msgstr ""
-"看起來很不一樣的刷怪箱，由水上的百合葉組成。我想知道青蛙會不會跳到它們上面去。"
+"看起來很不一樣的生怪磚，由水上的百合葉組成。我想知道青蛙會不會跳到它們上面去。"
 
 msgid "Dragon Helmet"
 msgstr "由[FF0000]龍鱗[-]製成。"
@@ -1127,7 +1127,7 @@ msgstr "你知道的，一朵黃色的花。"
 
 msgid "Mana Potion"
 msgstr ""
-"使用法力藥水恢復法力值。\n"
+"使用法力藥水恢復魔力值。\n"
 "\n"
 "需要[FF0000]大鍋[-]來製作。"
 
@@ -1252,7 +1252,7 @@ msgstr "機械寵物的一部分。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Computer"
-msgstr "用於發出命令和處理資訊的設備。"
+msgstr "用於發出命令和處理信息的設備。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1916,7 +1916,7 @@ msgstr "允許你在[FF0000]太空[-]中呼吸。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Angel Wings"
-msgstr "允許你不消耗法力值飛行。"
+msgstr "允許你不消耗魔力值飛行。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3051,7 +3051,7 @@ msgstr "來自太空的樹葉。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Space Flower"
-msgstr "來自太空的花朵。"
+msgstr "來自太空花朵。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -4510,7 +4510,7 @@ msgid "Pal"
 msgstr "某人的好夥伴……可惜，你只有殘忍殺害它的主人後才能得到它。"
 
 msgid "Pet Space Suit"
-msgstr "感到煩躁？孤獨？在黑暗宇宙中漂浮卻沒有同伴？那麼試試這個：給你心愛的寵物準備的宇航服！"
+msgstr "感到煩躁？孤獨？在黑暗宇宙中漂浮卻沒有同伴？那麼試試這個：給你心愛的寵物準備的太空衣！"
 
 msgid "Forgotten Grass 3D"
 msgstr "分佈在[FF0000]被遺忘的天空[-]各處的小型非立方植被簇。"

@@ -51,7 +51,7 @@ msgid "SwordDamage"
 msgstr "{0} 劍類傷害"
 
 msgid "Breath"
-msgstr "{0} 最大水下呼吸值"
+msgstr "{0} 最大水下氧氣值"
 
 msgid "PoisonDamage"
 msgstr "{0} 劇毒傷害"
@@ -63,7 +63,7 @@ msgid "LightningMagic"
 msgstr "{0} 閃電傷害"
 
 msgid "BreathMagic"
-msgstr "增加 {0} 呼吸值"
+msgstr "增加 {0} 氧氣值"
 
 msgid "SlowTime"
 msgstr "減慢時間 {0} 秒"
@@ -123,7 +123,7 @@ msgid "RadialDamage"
 msgstr "{0} 傷害"
 
 msgid "BreathRegenMagic"
-msgstr "增加 {0} 呼吸值恢復"
+msgstr "增加 {0} 氧氣值恢復"
 
 msgid "AcidDamage"
 msgstr "{0} 硫酸傷害"
@@ -132,7 +132,7 @@ msgid "GunDamage"
 msgstr "{0} 槍類傷害"
 
 msgid "BreathRegen"
-msgstr "{0} 最大呼吸值恢復"
+msgstr "{0} 最大氧氣值恢復"
 
 msgid "HealingMagic"
 msgstr "增加 {0} 生命值"
@@ -177,7 +177,7 @@ msgstr "{0} 飢餓值回覆"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "SpaceBreathRegen"
-msgstr "{0} 最大太空呼吸值"
+msgstr "{0} 最大太空氧氣值"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
