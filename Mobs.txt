@@ -76,7 +76,7 @@ msgid "Bull"
 msgstr "公牛"
 
 msgid "Wizard"
-msgstr "魔法師"
+msgstr "魔力師"
 
 msgid "Snake"
 msgstr "蛇"

@@ -12,23 +12,16 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.7.1\n"
-===== 測試內容 =====
+使用原則（關鍵）
 
-歡迎來到 Block Story 遊戲！
+這個表的設計目標是：
 
-這裡是遊戲的世界，你會發現許多有趣的內容。
-
-開發團隊正在努力製作更多精彩的內容。
-
-請享受遊戲，並告訴我們你的想法！
-
-如果你遇到任何問題，請聯繫我們。
-
-我們會盡快回復你的消息。
-
-祝你遊戲愉快！
-
-===== 測試結束 =====
+不做“全量簡繁轉換”
+只做修正補丁
+用於覆蓋：
+簡轉繁庫錯誤
+遊戲術語語義偏差
+UI固定術語
 
 msgid "Claim Reward"
 msgstr "要求報酬"
@@ -613,7 +606,7 @@ msgstr "偵探"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Real magic"
-msgstr "真正的魔法"
+msgstr "真正的魔力"
 
 #, fuzzy
 msgid "Heroic Pathfinder"

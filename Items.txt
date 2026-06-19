@@ -66,7 +66,7 @@ msgstr "生長在[FF0000]沙子[-]上。"
 
 msgid "Oak Leaves"
 msgstr ""
-"一種有橡子在內的葉子。通常在草原生物群落髮現。如果你夠走運，你可以找到它周圍的蜂巢。"
+"一種有橡子在內的葉子。通常在草原生物群落髮現。如果你夠走運，你可以找到它週圍的蜂巢。"
 
 msgid "Poplar Leaves"
 msgstr "沙漠楊樹的葉子。"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgid "Gravity Boots"
 msgstr ""
-"魔法靴子會人工製造重力。\n"
+"魔力靴子會人工製造重力。\n"
 "可以和[FF0000]潛水服[-]一起使用。"
 
 msgid "Ticket"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgid "Life Magic"
 msgstr ""
-"使用[FF0000]氪石[-]的魔法特質來治療傷口。\n"
+"使用[FF0000]氪石[-]的魔力特質來治療傷口。\n"
 "對亡靈造成傷害。"
 
 msgid "Dragon Soul"
@@ -450,7 +450,7 @@ msgid "Spruce Plant"
 msgstr "生長在[FF0000]雪[-]上。"
 
 msgid "Radar"
-msgstr "顯示周遭的生物及你和床的位置。"
+msgstr "顯示週遭的生物及你和床的位置。"
 
 msgid "Forgotten Stone Old"
 msgstr "已被忘記了的石頭。"
@@ -498,7 +498,7 @@ msgid "Blue Crystals"
 msgstr ""
 "洞穴中的藍色礦物。\n"
 "\n"
-"不觸摸它時會產生藍光去照耀四周。\n"
+"不觸摸它時會產生藍光去照耀四週。\n"
 "\n"
 "可以用來製作藍染料。"
 
@@ -688,7 +688,7 @@ msgid "Fire"
 msgstr ""
 "你媽媽告訴你不要玩火。\n"
 "\n"
-"如果你夠小心，你可以用它烹調食物、點燃弓箭、製作火把、蠟燭、一些魔法物品，熔金屬及製作玻璃。"
+"如果你夠小心，你可以用它烹調食物、點燃弓箭、製作火把、蠟燭、一些魔力物品，熔金屬及製作玻璃。"
 
 msgid "Wheat"
 msgstr ""
@@ -736,7 +736,7 @@ msgstr ""
 
 msgid "Energy"
 msgstr ""
-"道具擁有在[FF0000]煤炭[-]、[FF0000]原木[-]、[FF0000]木板[-]和[FF0000]木棍[-]上擁有的能量，可用於製作[FF0000]熔爐[-]和[FF0000]大鍋[-]。"
+"物品擁有在[FF0000]煤炭[-]、[FF0000]原木[-]、[FF0000]木板[-]和[FF0000]木棍[-]上擁有的能量，可用於製作[FF0000]熔爐[-]和[FF0000]大鍋[-]。"
 
 msgid "Rose Bush"
 msgstr "幾朵玫瑰長在一根美麗的主幹上。"
@@ -767,9 +767,9 @@ msgid "Red Crystals"
 msgstr ""
 "洞穴中的紅色礦物。\n"
 "\n"
-"不觸摸它時會產生紅光去照耀四周。\n"
+"不觸摸它時會產生紅光去照耀四週。\n"
 "\n"
-"可用來施展黑暗魔法或製作紅染料。"
+"可用來施展黑暗魔力或製作紅染料。"
 
 msgid "Saddle"
 msgstr "騎生物時用得到。"
@@ -842,7 +842,7 @@ msgstr ""
 
 msgid "Spirit Necklace"
 msgstr ""
-"一個由受困的靈魂和腐敗的[FF0000]難得素[-]製成的黑暗道具。\n"
+"一個由受困的靈魂和腐敗的[FF0000]難得素[-]製成的黑暗物品。\n"
 "提高使用者的能力且能補充他們的法力值。"
 
 msgid "Gold Block"
@@ -989,7 +989,7 @@ msgstr ""
 
 msgid "Mistic Ring"
 msgstr ""
-"某位巫師的道具。這個戒指強化使用者與靈魂的聯繫。由附魔的[FF0000]蜘蛛網[-]及[FF0000]阿拉戈克[-]的眼睛製造而成。"
+"某位巫師的物品。這個戒指強化使用者與靈魂的聯繫。由附魔的[FF0000]蜘蛛網[-]及[FF0000]阿拉戈克[-]的眼睛製造而成。"
 
 msgid "Duck Spawner"
 msgstr ""
@@ -1152,7 +1152,7 @@ msgstr "美麗的白玫瑰。小心它的刺。"
 
 msgid "Craft Table"
 msgstr ""
-"便利的工匠道具。少了它你就沒辦法制作任何物品。\n"
+"便利的工匠物品。少了它你就沒辦法制作任何物品。\n"
 "\n"
 "製作需要3x3格子的東西時使用。"
 
@@ -1252,7 +1252,7 @@ msgstr "機械寵物的一部分。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Computer"
-msgstr "用於發出命令和處理信息的設備。"
+msgstr "用於發出命令和處理資訊的設備。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1381,7 +1381,7 @@ msgstr "[FF0000]地獄[-]中常見的方塊。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dark Axe"
 msgstr ""
-"強化過的戰斧，能夠用黑暗魔法造成傷害。"
+"強化過的戰斧，能夠用黑暗魔力造成傷害。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -3359,7 +3359,7 @@ msgstr "*--* --- **"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Magic Scroll"
 msgstr ""
-"獨特的魔法卷軸，包含古老工具的配方。"
+"獨特的魔力卷軸，包含古老工具的配方。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3522,7 +3522,7 @@ msgstr ""
 #, fuzzy
 msgid "Flame of the Cosmic Forge"
 msgstr ""
-"來自遠古宇宙文明熔爐的火焰，以字母 S 的形狀燃燒，被用來製造一種非常強大的武器，旨在擊敗不死鳥菲尼克斯。太空中的五個秘密房間保存著它其餘成分的秘密。\n"
+"來自遠古宇宙文明熔爐的火焰，以字母 S 的形狀燃燒，被用來製造一種非常強大的武器，旨在擊敗不死鳥菲尼克斯。太空中的五個秘密房間儲存著它其餘成分的秘密。\n"
 "2 1 2\n"
 "2 1 2\n"
 "4 3 4"
@@ -4252,7 +4252,7 @@ msgstr ""
 "一根能夠阻止 64 格範圍內生物生成的樹枝。\n"
 "有些人說它還擁有將生物傳送到安全地點的能力。"
 "\n"
-"不會阻止 [FF0000]刷怪籠[-] 的刷新"
+"不會阻止 [FF0000]刷怪籠[-] 的重新整理"
 
 #, fuzzy
 msgid "Sakura Leaves"
@@ -4416,7 +4416,7 @@ msgstr "序曲唱片，可在留聲機中播放。"
 
 #, fuzzy
 msgid "Skill Reset Scroll"
-msgstr "挑戰[FF0000]鍊金術士[-]，獲得這張能返還所有已使用技能點的魔法卷軸。對於想改寫過去決定的人來說，它絕對是件實用的寶貝。現實裡要是也有就好了？"
+msgstr "挑戰[FF0000]鍊金術士[-]，獲得這張能返還所有已使用技能點的魔力卷軸。對於想改寫過去決定的人來說，它絕對是件實用的寶貝。現實裡要是也有就好了？"
 
 #, fuzzy
 msgid "Swamp Grass"
@@ -4519,7 +4519,7 @@ msgid "Yellow Crystals"
 msgstr "黃色水晶"
 
 msgid "Klorium Ore"
-msgstr "從天空中開採出的獨特綠色礦石。除了令人費解的魔法特性外，它本身依舊充滿謎團。"
+msgstr "從天空中開採出的獨特綠色礦石。除了令人費解的魔力特性外，它本身依舊充滿謎團。"
 
 msgid "Cryptonite Ore"
 msgstr "可在[FF0000]被遺忘的天空[-]中發現的綠色晶體。其治療與防禦特性使其在多種用途上極具價值。"

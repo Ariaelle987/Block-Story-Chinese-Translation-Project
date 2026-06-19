@@ -188,7 +188,7 @@ msgid ""
 "\n"
 "If you ever need anything metal-related, like weapons or armor, I’m your man.  You can think of me as your alloy ally."
 msgstr ""
-"現在你有了新武器，該回到魔法師那裡了。我相信他對你有很大的計劃。\n"
+"現在你有了新武器，該回到魔力師那裡了。我相信他對你有很大的計劃。\n"
 "\n"
 "如果你需要任何金屬相關的東西，比如武器或盔甲，找我就對了。你可以把我當作你的合金盟友。"
 
@@ -316,7 +316,7 @@ msgid ""
 msgstr ""
 "你知道我的座右銘：“如果你知道自己贏不了，就趕快逃跑，別成為別人的晚餐。”\n"
 "\n"
-"保重，去問魔法師下一步該做什麼。"
+"保重，去問魔力師下一步該做什麼。"
 
 #. (itstool) path: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml/quest@title
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:1
@@ -368,20 +368,20 @@ msgstr ""
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:45
 #, no-wrap
 msgid "You remember how to brew a Mana Potion, right?  Well, with Mana Potions it’s a snap to create Magic Arrows."
-msgstr "你還記得怎麼煉製法力藥水吧？很好，有了法力藥水，製作魔法箭就輕而易舉了。"
+msgstr "你還記得怎麼煉製法力藥水吧？很好，有了法力藥水，製作魔力箭就輕而易舉了。"
 
 #. (itstool) path: craftstep/intro
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:61
 #, no-wrap
 msgid "You’re going to love how cool-looking and powerful Magic Arrows are.  Give it a try."
-msgstr "你一定會喜歡魔法箭的炫酷外觀和強大威力，試試看吧。"
+msgstr "你一定會喜歡魔力箭的炫酷外觀和強大威力，試試看吧。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:69
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:94
 #, no-wrap
 msgid "Tell Aaron you have crafted the Magic Arrows."
-msgstr "告訴艾倫，你已經製作好了魔法箭。"
+msgstr "告訴艾倫，你已經製作好了魔力箭。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:65

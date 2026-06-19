@@ -104,7 +104,7 @@ msgid "World seed"
 msgstr "世界種子"
 
 msgid "Auto save frequency: [FF0000]{0:0}"
-msgstr "自動保存頻率：[FF0000]{0:0}"
+msgstr "自動儲存頻率：[FF0000]{0:0}"
 
 msgid "Profiles"
 msgstr "資料"
@@ -161,7 +161,7 @@ msgstr ""
 "感覺越爽 :)"
 
 msgid "Screenshot Resolution"
-msgstr "截屏分辨率"
+msgstr "截屏解析度"
 
 msgid "Game Over"
 msgstr "遊戲結束"
@@ -190,7 +190,7 @@ msgid "Selector quality: [FF0000]{0:0}"
 msgstr "選擇器質量: [FF0000]{0:0}"
 
 msgid "Saving..."
-msgstr "保存中..."
+msgstr "儲存中..."
 
 msgid "Recipe Book"
 msgstr "配方書"
@@ -214,7 +214,7 @@ msgid "Theme"
 msgstr "主題"
 
 msgid "Auto Save"
-msgstr "自動保存"
+msgstr "自動儲存"
 
 msgid "Error"
 msgstr "錯誤"
@@ -318,10 +318,10 @@ msgstr ""
 "任務、技能、製作。"
 
 msgid "Exit Game"
-msgstr "退出遊戲"
+msgstr "離開遊戲"
 
 msgid "Resolution"
-msgstr "分辨率"
+msgstr "解析度"
 
 msgid "Get Content"
 msgstr "獲取聯繫"
@@ -563,7 +563,7 @@ msgid "My world #blockstory"
 msgstr "我的世界#blockstory"
 
 msgid "Exit To Menu"
-msgstr "退出至菜單"
+msgstr "離開至菜單"
 
 msgid "Player Health:"
 msgstr "玩家生命值:"
@@ -657,7 +657,7 @@ msgid "Gun Power:"
 msgstr "槍類威力:"
 
 msgid "Magic Items"
-msgstr "魔法物品"
+msgstr "魔力物品"
 
 msgid ""
 "Drag any item here to see it's description.\n"
@@ -714,7 +714,7 @@ msgid "Credits"
 msgstr "開發人員"
 
 msgid "Exit"
-msgstr "退出"
+msgstr "離開"
 
 msgid "Create new world"
 msgstr "創建新世界"
@@ -804,7 +804,7 @@ msgid "SURE!"
 msgstr "當然！"
 
 msgid "Save and exit"
-msgstr "保存並退出"
+msgstr "儲存並離開"
 
 msgid "Leveling down..."
 msgstr "等級下降..."
@@ -835,7 +835,7 @@ msgstr ""
 "開啟天氣變化"
 
 msgid "Screen Resolution"
-msgstr "屏幕分辨率"
+msgstr "屏幕解析度"
 
 msgid "You can increase digging speed by spending some skill points here."
 msgstr "你可以在此花費技能點以提升挖掘速度。"
@@ -880,7 +880,7 @@ msgid ""
 "Screen\n"
 "Resolution"
 msgstr ""
-"屏幕分辨率"
+"屏幕解析度"
 
 msgid "Horizontal load distance: [FF0000]{0:0}"
 msgstr "水平區塊加載: [FF0000]{0:0}"
@@ -904,7 +904,7 @@ msgid "Walking"
 msgstr "行走"
 
 msgid "Texture resolution: [FF0000]{0:0}"
-msgstr "圖像分辨率: [FF0000]{0:0}"
+msgstr "圖像解析度: [FF0000]{0:0}"
 
 msgid "Full version only"
 msgstr "僅限完整版"
@@ -925,7 +925,7 @@ msgid "Characters"
 msgstr "角色"
 
 msgid "Save"
-msgstr "保存"
+msgstr "儲存"
 
 msgid "Water quality: [FF0000]{0:0}"
 msgstr "水質: [FF0000]{0:0}"
@@ -1101,7 +1101,7 @@ msgid ""
 "for the casting bar to reach full.  Magic can be the most powerful weapon in "
 "your inventory, but need you time to cast it.  Be careful!  ;)"
 msgstr ""
-"提升法術傷害。要使用，請按住敵人，然後等到施法條讀滿。法杖可以成為你揹包中最強大的武器，但你需要時間施放魔法。務必小心! ;)"
+"提升法術傷害。要使用，請按住敵人，然後等到施法條讀滿。法杖可以成為你揹包中最強大的武器，但你需要時間施放魔力。務必小心! ;)"
 
 msgid "Français"
 msgstr "法語"
@@ -1222,7 +1222,7 @@ msgid "Controller Connected"
 msgstr "控制器已連接"
 
 msgid "Exit To Desktop"
-msgstr "退出至桌面"
+msgstr "離開至桌面"
 
 msgid "Joystick"
 msgstr "操縱桿"
@@ -2090,7 +2090,7 @@ msgstr "顯示電量"
 #, fuzzy
 msgid "Critical battery power, the game will automatically quit in 15 seconds"
 msgstr ""
-"電池電量嚴重不足，遊戲將在15秒內自動退出"
+"電池電量嚴重不足，遊戲將在15秒內自動離開"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2522,7 +2522,7 @@ msgstr "世界 {0}，{1}上傳失敗"
 # UnityGame/Assets/Localization/T.cs:77
 # UnityGame/Assets/Boxit/ListMyWorlds.cs:78
 #, fuzzy
-msgstr "正在搜索遠程世界 {0}"
+msgstr "正在搜尋遠程世界 {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2541,7 +2541,7 @@ msgstr "從緩衝區粘貼密碼"
 # UnityGame/Assets/Localization/T.cs:77
 # UnityGame/Assets/Boxit/ListMyChars.cs:60
 #, fuzzy
-msgstr "正在搜索遠程角色 {0}"
+msgstr "正在搜尋遠程角色 {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2800,7 +2800,7 @@ msgstr "垂直同步"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1254 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440 
 msgid "Disable Music Cutoff"
-msgstr "禁用音樂中斷"
+msgstr "停用音樂中斷"
 
 #, fuzzy
 msgid "Enable Jumping Sounds"
@@ -2976,7 +2976,7 @@ msgstr "隱藏虛擬搖桿"
 
 #, fuzzy
 msgid "Auto Saving..."
-msgstr "保存中…"
+msgstr "儲存中…"
 
 msgid "Apply"
 msgstr "應用"

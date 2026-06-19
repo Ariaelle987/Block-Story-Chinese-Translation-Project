@@ -96,7 +96,7 @@ msgid "Effects"
 msgstr "效果"
 
 msgid "Magic"
-msgstr "{0} 魔法傷害"
+msgstr "{0} 魔力傷害"
 
 msgid "Armor"
 msgstr "{0} 護甲"

@@ -469,7 +469,7 @@ msgid "Dragon Heart"
 msgstr "龍心"
 
 msgid "Magic Arrow"
-msgstr "魔法箭"
+msgstr "魔力箭"
 
 msgid "Coal"
 msgstr "煤炭"
@@ -2873,7 +2873,7 @@ msgstr "帶有符號的紙條"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Magic Scroll"
-msgstr "魔法卷軸"
+msgstr "魔力卷軸"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348

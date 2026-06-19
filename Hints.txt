@@ -40,7 +40,7 @@ msgid "Make some [00FF00]Torch[-] before you go exploring."
 msgstr "探索之前，製作一些[00FF00]火把[-]。"
 
 msgid "Complete [FF0000]Aarons'[-] quests to unlock the radar recipe."
-msgstr "完成[FF0000]魔法師[-]的任務以解鎖雷達配方。"
+msgstr "完成[FF0000]魔力師[-]的任務以解鎖雷達配方。"
 
 msgid "Go into caves to easily find ore."
 msgstr "洞穴中很容易找到礦石。"

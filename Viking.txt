@@ -332,13 +332,13 @@ msgstr "龍騎士，有傳聞說，還有一個海中生物比肯塔克隆更可
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:72
 #, no-wrap
 msgid "I’m glad to see ya returned in one piece.  Go wash the ink off your hands and then come talk to me.  I have a message from His Wizardliness."
-msgstr "很高興你安然無恙地回來。先把手上的墨洗掉，再來找我。我有一條來自魔法師閣下的消息。"
+msgstr "很高興你安然無恙地回來。先把手上的墨洗掉，再來找我。我有一條來自魔力師閣下的消息。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:92
 #, no-wrap
 msgid "While you were out tanglin’ with Tentaclon, the Wizard told me he’s \"ready for ya,\" whatever that means.  I’d head over there and see what’s up."
-msgstr "你去應付肯塔克隆的時候，魔法師跟我說"他已經等著你了"，雖然我也不太明白這是什麼意思。你最好過去看看發生了什麼。"
+msgstr "你去應付肯塔克隆的時候，魔力師跟我說"他已經等著你了"，雖然我也不太明白這是什麼意思。你最好過去看看發生了什麼。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/Viking/Scary Giant.xml:23
@@ -579,7 +579,7 @@ msgstr "告訴泰德，你已經制作了一把鋤頭。"
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:43
 #, no-wrap
 msgid "That wasn’t so hard, was it?  Must seem a bit anticlimactic after slaying dragons and casting magic spells, but a true hero is someone who feeds the hungry, clothes the needy, ya know what I mean?"
-msgstr "其實也不難吧？殺過巨龍、施過魔法後，做這些事可能有點小平淡，但真正的英雄，是會餵飽飢餓的人、給需要的人送去衣物的那種，你懂我的意思吧？"
+msgstr "其實也不難吧？殺過巨龍、施過魔力後，做這些事可能有點小平淡，但真正的英雄，是會餵飽飢餓的人、給需要的人送去衣物的那種，你懂我的意思吧？"
 
 #. (itstool) path: craftstep/intro
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:63
@@ -737,13 +737,13 @@ msgstr "維京介紹"
 #: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:7
 #, no-wrap
 msgid "Ahoy!  Eh?  That crazy old wizard sent you?  Well where's my iron then?"
-msgstr "啊哈！嗯？是那個瘋老魔法師派你來的？那我的鐵在哪兒？"
+msgstr "啊哈！嗯？是那個瘋老魔力師派你來的？那我的鐵在哪兒？"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:20
 #, no-wrap
 msgid "You brought this iron for me?  Well I'm much obliged, stranger!  You must be the wizard's new assistant.  I'm glad you're here.  There's plenty of other work to do."
-msgstr "你給我帶來鐵礦？太感謝了，陌生人！你一定是魔法師的新助手。我很高興你來了，還有很多工作等著做呢。"
+msgstr "你給我帶來鐵礦？太感謝了，陌生人！你一定是魔力師的新助手。我很高興你來了，還有很多工作等著做呢。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:23

@@ -340,7 +340,7 @@ msgstr "難以置信。暴龍被征服。這一切都是你的功勞。你的龍
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:121
 #, no-wrap
 msgid "I'm impressed with the progress you and your dragon have made.  I think it's time for you to embark on your first quest to defeat the Dragon Lord.  The wizard will tell you more."
-msgstr "你和你的龍所取得的進步給我留下了深刻的印象。是時候開始你首個擊敗龍主的任務了。 魔法師會告訴你更多消息。"
+msgstr "你和你的龍所取得的進步給我留下了深刻的印象。是時候開始你首個擊敗龍主的任務了。 魔力師會告訴你更多消息。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:131
@@ -844,7 +844,7 @@ msgid ""
 "remained on the Heavenly islands to be closer to their homeland, the rest "
 "flew down..."
 msgstr ""
-"古代傳說中描述，你剛剛到達過的世界即為他們的故鄉。很久以前，它們曾乘大型飛船從那裡飛過，這種飛船無需藉助魔法就能在空中翱翔。\n"
+"古代傳說中描述，你剛剛到達過的世界即為他們的故鄉。很久以前，它們曾乘大型飛船從那裡飛過，這種飛船無需藉助魔力就能在空中翱翔。\n"
 "      它們曾是自己家園中的囚徒和流浪者，設法從那裡逃到了我們的世界。起初，他們降落在天堂中的島嶼上，但在那裡住著一個強大的怪物，阿什科爾，他們非常害怕。\n"
 "      因此，它們決定紮根海洋。它們中的一些人仍留在天堂中的島嶼上，以更接近自己的家園，其餘的則飛了下來..."
 
@@ -1002,7 +1002,7 @@ msgid ""
 msgstr ""
 "在我看來，你的裝備不足以與不死鳥抗衡。但是，是否有能夠抵抗不死鳥猛攻的盔甲呢？\n"
 "    當你四處尋找遺蹟時，哥布林也想出一份力，他研究了許多古代傳說，以尋找該問題的答案。\n"
-"    他在沙漠塔上呆了幾天，那裡保存著許多舊書，最後，在一本古籍中，有提到可以助你取勝的盔甲。"
+"    他在沙漠塔上呆了幾天，那裡儲存著許多舊書，最後，在一本古籍中，有提到可以助你取勝的盔甲。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1721,7 +1721,7 @@ msgid ""
 "\n"
 "    Take this staff, it will help you kill this evil spirit."
 msgstr ""
-"他身上佈滿了邪惡的咒語，普通武器對他毫無作用。只有魔法才能打敗這個怪物。我知道你的實力非凡，更好地武裝自己對你沒有壞處。\n"
+"他身上佈滿了邪惡的咒語，普通武器對他毫無作用。只有魔力才能打敗這個怪物。我知道你的實力非凡，更好地武裝自己對你沒有壞處。\n"
 "\n"
 "    拿上這根法杖，它將幫助你消滅這隻惡靈。"
 
@@ -1832,6 +1832,6 @@ msgid ""
 "remained on the Heavenly islands to be closer to their homeland, the rest "
 "flew down..."
 msgstr ""
-"古代傳說中描述，你剛剛返回的那個世界正是它們的故鄉。很久很久以前，它們曾駕駛一艘龐大的飛行船從那裡起航，這艘船無需魔法便能在空中飛行。\n"
+"古代傳說中描述，你剛剛返回的那個世界正是它們的故鄉。很久很久以前，它們曾駕駛一艘龐大的飛行船從那裡起航，這艘船無需魔力便能在空中飛行。\n"
 "      它們曾是自己家園中的囚徒和流浪者，設法從那裡逃到了我們的世界。起初，他們降落在天堂中的島嶼上，但在那裡住著一個強大的生物，阿什科爾，它們對此心生畏懼。\n"
 "      因此，它們決定降落到地面。它們中的一些人仍留在天堂中的島嶼上，以更接近自己的家園，其餘的則飛了下來..."
