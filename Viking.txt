@@ -28,7 +28,7 @@ msgstr "你知道這片荒野真正需要什麼嗎？一座城市！沒有什麼
 #: UnityGame/Assets/Quests/Viking/City%20Construction.xml:15
 #, no-wrap
 msgid "NO?!  Waddayamean no?  Well then what good are ya, anyway?"
-msgstr "不？！你說不？那你到底有什麼用呢？"
+msgstr "不？！什麼意思，你居然說不？"
 
 #. (itstool) path: removestep/intro
 #: UnityGame/Assets/Quests/Viking/City%20Construction.xml:23
@@ -82,7 +82,7 @@ msgstr "告訴泰德你已經收集到珍貴礦物了。"
 #: UnityGame/Assets/Quests/Viking/City%20Construction.xml:61
 #, no-wrap
 msgid "G-g-g-gold!  And gems!  When ya spelunk ya bring the funk, my friend.  Here's your cut of our profits.  Now comes the fun part of building our city."
-msgstr "金子——還有寶石！朋友，你在探險中真是帶來了驚喜。這是你應得的獎勵。現在，最有趣的部分來了——建造我們的城市！"
+msgstr "金子——還有寶石！朋友，你這趟洞穴探險可真是滿載而歸啊！這是你應得的獎勵。現在，最有趣的部分來了——建造我們的城市！"
 
 #. (itstool) path: collectstep/intro
 #: UnityGame/Assets/Quests/Viking/City%20Construction.xml:82
@@ -131,7 +131,7 @@ msgstr "龍盔"
 #: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:6
 #, no-wrap
 msgid "Oi!  Can ya believe that dastardly Dragon Dolt?  Ya gotta help me clobber him!"
-msgstr "嘿！你能相信那個卑鄙的龍傻子嗎？你得幫我狠狠教訓他一頓！"
+msgstr "嘿！你能相信那個卑鄙的蠢貨龍王嗎？你得幫我狠狠教訓他一頓！"
 
 #. (itstool) path: craftstep/intro
 #: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:19
@@ -196,7 +196,7 @@ msgid ""
 "\n"
 "Why are ya smilin’?"
 msgstr ""
-"雪國的雪人真是令人討厭得要命……\n"
+"那些雪人可真是名副其實的“可憎雪怪”……\n"
 "\n"
 "什麼？\n"
 "\n"
@@ -314,7 +314,7 @@ msgstr "告訴泰德，你已經解決了那些鯊魚。"
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:50
 #, no-wrap
 msgid "Is that a shark tooth stickin’ outta your knuckle?  Holy chum, Dragon Rider.  You’re one tough fisherman."
-msgstr "你指節上那是鯊魚牙？我的天哪，龍騎士，你簡直是個狠角色的漁夫。"
+msgstr "你指節上那是鯊魚牙？老天爺啊！龍騎士，你簡直是個狠角色的漁夫。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:70
@@ -332,13 +332,13 @@ msgstr "龍騎士，有傳聞說，還有一個海中生物比肯塔克隆更可
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:72
 #, no-wrap
 msgid "I’m glad to see ya returned in one piece.  Go wash the ink off your hands and then come talk to me.  I have a message from His Wizardliness."
-msgstr "很高興你安然無恙地回來。先把手上的墨洗掉，再來找我。我有一條來自魔力師閣下的消息。"
+msgstr "很高興你安然無恙地回來。先把手上的墨洗掉，再來找我。我有一條來自偉大的魔力師大人的消息。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:92
 #, no-wrap
 msgid "While you were out tanglin’ with Tentaclon, the Wizard told me he’s \"ready for ya,\" whatever that means.  I’d head over there and see what’s up."
-msgstr "你去應付肯塔克隆的時候，魔力師跟我說"他已經等著你了"，雖然我也不太明白這是什麼意思。你最好過去看看發生了什麼。"
+msgstr "你去應付肯塔克隆的時候，魔力師跟我說：“他已經等著你了”，雖然我也不太明白這是什麼意思。你最好過去看看發生了什麼。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/Viking/Scary Giant.xml:23
@@ -354,7 +354,7 @@ msgstr "嘿！這不是我老朋友龍騎士嘛。外面有隻討人厭的暴龍
 #: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:66
 #, no-wrap
 msgid "Don’t let its scraggly little arms fool ya.  One chomp from those big jaws and you’ll be a piece of used chewin’ gum, Dragon Rider."
-msgstr "不要被它那彎曲的小胳膊所欺騙。但凡你被它的大顎咬中一下，你就會變成一塊二手口香糖，龍騎士。"
+msgstr "不要被它那彎曲的小胳膊所欺騙。但凡你被它的大顎咬中一下，你會被嚼得像塊嚼過的口香糖一樣，龍騎士。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:29
@@ -369,13 +369,13 @@ msgstr "告訴泰德，你殺了暴龍。"
 #: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:67
 #, no-wrap
 msgid "That’s the Dragon Rider I know!  Tomorrow I’ll have more dinosaurs for you to squash.  Heck, I’d give my own leg to someone who could get rid of them all."
-msgstr "這才是我所知的龍騎士！但明天肯定還會有更多暴龍。很好，我會想辦法幫可以解決這些傢伙的人的。"
+msgstr "這才是我所知的龍騎士！但明天肯定還會有更多暴龍。很好，誰要是能把它們全解決，我連自己的腿都願意送出去。"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:46
 #, no-wrap
 msgid "You’ve thinned the herd of T-Rexes in this land, ole pal.  I can’t give ya my own leg (I need it for stuff) but I will give ya this other leg I found."
-msgstr "老朋友，你讓這片土地上的暴龍減少了。我不能幫你原來的忙(我自己需要它們)，但我可以幫你另外一個忙。"
+msgstr "老朋友，你讓這片土地上的暴龍減少了。我不能把自己的腿給你(我自己需要它們)，但我可以幫你另外一個忙。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -486,7 +486,7 @@ msgstr "你學得不錯。現在是時候給你一次真正的考驗了。"
 #: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:103
 #, fuzzy, no-wrap
 msgid "I think you are ready to go to the deep ocean and catch something good.  Live sharks are very valuable,  if you catch a few, I will reward you generously! Grab your fishing road and hit the road."
-msgstr "我認為你已經準備好去深海捕捉一些好東西了。 活鯊魚非常有價值，如果你抓到一些，我會給你慷慨的回報！帶上釣竿上路吧。"
+msgstr "我認為你已經準備好去深海捕捉一些好東西了。 活鯊魚非常有價值，如果你抓到一些，我會給你慷慨的回報！拿起你的魚竿，出發吧！"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:110
@@ -543,7 +543,7 @@ msgstr "真高興你來了，龍騎士，正是時候！那些熊一直在攪亂
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:20
 #, no-wrap
 msgid "Bet ya didn’t know a pack of bears was called a sleuth, did ya?  I may be a copper-headed Viking but I still know a thing or two."
-msgstr "打賭你不知道一群熊叫做“sleuth”，對吧？我雖然頭腦簡單，但這些小知識我還是懂的。"
+msgstr "打賭你不知道一群熊的統稱叫“熊群偵團”吧？我雖然是個銅發維京人，但多少還是懂點冷知識的。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:25
@@ -615,7 +615,7 @@ msgid ""
 "\n"
 "A fence.  A fence is what will hit ‘em."
 msgstr ""
-"好啦！瞬間柵欄搭好。那些偷菜的小傢伙根本搞不清狀況！\n"
+"變出來啦！瞬間柵欄搭好。那些偷菜的小傢伙根本搞不清狀況！\n"
 "\n"
 "...\n"
 "\n"
@@ -708,7 +708,7 @@ msgstr "告訴泰德，你已消滅了龍蝙蝠。"
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:172
 #, no-wrap
 msgid "Phew!  Thank gravy ya took care of them dragon bats."
-msgstr "呼！太好了，你把這些龍蝙蝠都解決了。"
+msgstr "呼！謝天謝地，你把這些龍蝙蝠都解決了。"
 
 #. (itstool) path: step/intro
 #: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:192
@@ -951,7 +951,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Tell Ted you captured Purplefish."
-msgstr "告訴泰德你抓住了紫雷達魚。"
+msgstr "告訴泰德你抓住了紫火魚。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1137,7 +1137,7 @@ msgstr "告訴泰德你抓住了鄧氏魚。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "What a big and terrible it is!"
-msgstr "真是又大又嚇人！"
+msgstr "這傢伙也太巨大、太可怕了！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1178,7 +1178,7 @@ msgid ""
 "Probably it was worth a lot of work to tear off its shell. Leave it to me, I "
 "want to take a look more closely at it."
 msgstr ""
-"拆掉外殼可能值得進行大量工作。留給我，我想更仔細地看看。"
+"剝下它的甲殼可能值得進行大量工作。留給我，我想更仔細地看看。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1321,7 +1321,7 @@ msgid ""
 "Hmm, I see such a creature for the first time. Not very big, but I hope "
 "we’ll have enough for two when you fry it."
 msgstr ""
-"嗯，我是第一次見到這樣的生物。不太大，但我覺得烹飪後足夠給兩人吃了。"
+"嗯，我是第一次見到這樣的生物。不算大，但我覺得烹飪後足夠給兩人吃了。"
 
 #, fuzzy
 msgid "Tell Ted that you have done fried Gulper."
@@ -1393,7 +1393,7 @@ msgid ""
 "this is true."
 msgstr ""
 "我聽說外界有兩種古老生物的傳聞。一種叫海王龍，生活在蘑菇沼澤，另一種滑齒龍則生活在叢林湖泊中。\n"
-"這些生物非常強大，無法被殺死。我很想知道這是否屬實。"
+"傳聞這些生物強大到根本無法被殺死。我很想知道這是否屬實。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1443,7 +1443,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Tell Ted you killed all fishes."
-msgstr "告訴泰德你殺了所有魚。"
+msgstr "告訴泰德，你已經擊敗了所有魚類生物。"
 
 #, fuzzy
 msgid "Tell Ted that you have done fried Purplefish."
