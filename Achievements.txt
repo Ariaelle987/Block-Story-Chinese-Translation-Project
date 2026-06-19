@@ -14,37 +14,37 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Claim Reward"
-msgstr "要求报酬"
+msgstr "要求報酬"
 
 msgid "Stone Breaker"
 msgstr "破石者"
 
 msgid "Break {0} blocks with the {1}."
-msgstr "使用{1}去打破{0}方块。"
+msgstr "使用{1}去打破{0}方塊。"
 
 msgid "Journeyman Miner"
-msgstr "熟练矿工"
+msgstr "熟練礦工"
 
 msgid "Iron Miner"
-msgstr "钢铁矿工"
+msgstr "鋼鐵礦工"
 
 msgid "Tasty Frog Legs"
 msgstr "美味的青蛙腿"
 
 msgid "Kill {0}{1} with the {2}."
-msgstr "用{2}去杀死{0}{1}。"
+msgstr "用{2}去殺死{0}{1}。"
 
 msgid "Kill {0}{1}."
-msgstr "杀死{0}{1}。"
+msgstr "殺死{0}{1}。"
 
 msgid "Slayer of Legends"
-msgstr "传奇杀手"
+msgstr "傳奇殺手"
 
 msgid "Heroic Miner"
-msgstr "英雄矿工"
+msgstr "英雄礦工"
 
 msgid "Legendary Miner"
-msgstr "传奇矿工"
+msgstr "傳奇礦工"
 
 msgid "Stone Digger"
 msgstr "掘石者"
@@ -57,49 +57,49 @@ msgstr ""
 "{0}[-]"
 
 msgid "Heroic Blockster"
-msgstr "英雄方块"
+msgstr "英雄方塊"
 
 msgid "Break {0} blocks."
-msgstr "打破{0}方块。"
+msgstr "打破{0}方塊。"
 
 msgid "Stone Miner"
-msgstr "石头矿工"
+msgstr "石頭礦工"
 
 msgid "Stone Chopper"
-msgstr "石头刀"
+msgstr "石頭刀"
 
 msgid "Apprentice Miner"
-msgstr "学徒矿工"
+msgstr "學徒礦工"
 
 msgid "Journeyman Blockster"
-msgstr "熟练方块"
+msgstr "熟練方塊"
 
 msgid "Apprentice Blockster"
-msgstr "学徒方块"
+msgstr "學徒方塊"
 
 msgid "Arachnophobia"
-msgstr "蜘蛛恐惧症"
+msgstr "蜘蛛恐懼症"
 
 msgid "Reach Level {0}."
-msgstr "到达水平 {0}."
+msgstr "到達水平 {0}."
 
 msgid "Necrophobia"
-msgstr "亡灵恐惧症"
+msgstr "亡靈恐懼症"
 
 msgid "Legendary Blockster"
-msgstr "传奇方块"
+msgstr "傳奇方塊"
 
 msgid "Itsy Bitsy Spider"
 msgstr "水管小蜘蛛"
 
 msgid "Dragon Slayer"
-msgstr "屠龙者"
+msgstr "屠龍者"
 
 msgid "Mythical Beast"
-msgstr "神话野兽"
+msgstr "神話野獸"
 
 msgid "Prehistoric Legend"
-msgstr "史前传说"
+msgstr "史前傳說"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -116,7 +116,7 @@ msgstr "史前传说"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
 msgid "Professional Hunter"
-msgstr "专业猎人"
+msgstr "專業獵人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -133,25 +133,25 @@ msgstr "专业猎人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
 msgid "Skull and Bones"
-msgstr "骷髅骨"
+msgstr "骷髏骨"
 
 msgid "Goblin Miner"
-msgstr "哥布林矿工"
+msgstr "哥布林礦工"
 
 msgid "Necromancy"
-msgstr "回魂术"
+msgstr "回魂術"
 
 msgid "Thalassophobia"
 msgstr "恐海症"
 
 msgid "Frog Leg Delicacy"
-msgstr "青蛙腿佳肴"
+msgstr "青蛙腿佳餚"
 
 msgid "Frog Leg Feast"
 msgstr "青蛙腿盛宴"
 
 msgid "King of Dragons"
-msgstr "龙王"
+msgstr "龍王"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:286
@@ -169,7 +169,7 @@ msgstr "龙王"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Community Service"
-msgstr "社区服务"
+msgstr "社區服務"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:286
@@ -188,7 +188,7 @@ msgstr "社区服务"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Complete {0} daily quests."
-msgstr "完成 {0} 个每日任务。"
+msgstr "完成 {0} 個每日任務。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:334
@@ -205,7 +205,7 @@ msgstr "完成 {0} 个每日任务。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Angelic Avenger"
-msgstr "天使复仇者"
+msgstr "天使復仇者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:334
@@ -239,7 +239,7 @@ msgstr "冰雕"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Extinguisher"
-msgstr "灭火器"
+msgstr "滅火器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:334
@@ -256,7 +256,7 @@ msgstr "灭火器"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Scorched Fate"
-msgstr "焦灼的命运"
+msgstr "焦灼的命運"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:334
@@ -273,7 +273,7 @@ msgstr "焦灼的命运"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "3...2...1...Ignition"
-msgstr "3...2...1...点火"
+msgstr "3...2...1...點火"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -286,7 +286,7 @@ msgstr "3...2...1...点火"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
 msgid "Grand Giveaway"
-msgstr "大赠品"
+msgstr "大贈品"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -300,7 +300,7 @@ msgstr "大赠品"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
 msgid "Receive {0} consecutive daily gifts."
-msgstr "连续领取 {0} 天每日礼物。"
+msgstr "連續領取 {0} 天每日禮物。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -321,11 +321,11 @@ msgstr "黑暗"
 
 #, fuzzy
 msgid "World Breaker"
-msgstr "世界破坏者"
+msgstr "世界破壞者"
 
 #, fuzzy
 msgid "Stone Lifeform"
-msgstr "石之生命体"
+msgstr "石之生命體"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -342,7 +342,7 @@ msgstr "石之生命体"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "New Tech"
-msgstr "新技术"
+msgstr "新技術"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -359,7 +359,7 @@ msgstr "新技术"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Rocket Power"
-msgstr "火箭动力"
+msgstr "火箭動力"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -376,7 +376,7 @@ msgstr "火箭动力"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Essence"
-msgstr "火焰精华"
+msgstr "火焰精華"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -393,7 +393,7 @@ msgstr "火焰精华"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Vicious Seal"
-msgstr "恶毒封印"
+msgstr "惡毒封印"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -410,7 +410,7 @@ msgstr "恶毒封印"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Moonlight"
-msgstr "月辉"
+msgstr "月輝"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -419,7 +419,7 @@ msgstr "月辉"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
 msgid "First Dragon"
-msgstr "第一条龙"
+msgstr "第一條龍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -428,7 +428,7 @@ msgstr "第一条龙"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
 msgid "Driver"
-msgstr "司机"
+msgstr "司機"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -446,7 +446,7 @@ msgstr "狡滑的蜥蜴"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
 msgid "Astronaut"
-msgstr "宇航员"
+msgstr "宇航員"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -496,7 +496,7 @@ msgstr "沙人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Hidden Achievement"
-msgstr "隐藏成就"
+msgstr "隱藏成就"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -511,7 +511,7 @@ msgstr "隐藏成就"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Complete achievement to unlock it."
-msgstr "完成成就即可解锁。"
+msgstr "完成成就即可解鎖。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -526,7 +526,7 @@ msgstr "完成成就即可解锁。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Locked Achievement"
-msgstr "锁定成就"
+msgstr "鎖定成就"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -542,7 +542,7 @@ msgstr "锁定成就"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Complete quest from {0} to unlock."
-msgstr "完成来自{0}的任务后即可解锁。"
+msgstr "完成來自{0}的任務後即可解鎖。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -551,7 +551,7 @@ msgstr "完成来自{0}的任务后即可解锁。"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Viking legacy"
-msgstr "维京遗产"
+msgstr "維京遺產"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -560,7 +560,7 @@ msgstr "维京遗产"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Lucky Bottle"
-msgstr "幸运瓶"
+msgstr "幸運瓶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -587,7 +587,7 @@ msgstr "玻璃收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Detective"
-msgstr "侦探"
+msgstr "偵探"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -600,11 +600,11 @@ msgstr "真正的魔法"
 
 #, fuzzy
 msgid "Heroic Pathfinder"
-msgstr "英雄开拓者"
+msgstr "英雄開拓者"
 
 #, fuzzy
 msgid "Legendary Discoverer"
-msgstr "传奇探索者"
+msgstr "傳奇探索者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -622,7 +622,7 @@ msgstr "传奇探索者"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Stunt Tester"
-msgstr "特技测试员"
+msgstr "特技測試員"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -652,7 +652,7 @@ msgstr "步行 {0} 米。"
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:511
 msgid "Travel {0} meters while mounted on the creature."
-msgstr "骑在生物身上行驶 {0} 米。"
+msgstr "騎在生物身上行駛 {0} 米。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -667,7 +667,7 @@ msgstr "骑在生物身上行驶 {0} 米。"
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:511
 msgid "Drive {0} meters in vehicle."
-msgstr "开车 {0} 米。"
+msgstr "開車 {0} 米。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -677,7 +677,7 @@ msgstr "开车 {0} 米。"
 # UnityGame/Assets/Scripts/Achievements/Options/AchieveOption.cs:34
 # UnityGame/Assets/Scripts/Achievements/Options/Collect/AchieveCollectItem.cs:75
 msgid "Old recipe"
-msgstr "旧食谱"
+msgstr "舊食譜"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -703,7 +703,7 @@ msgstr "石化蛋"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Steel and skin"
-msgstr "钢铁与皮肤"
+msgstr "鋼鐵與皮膚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -721,7 +721,7 @@ msgstr "打火石"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Cold metal"
-msgstr "冷金属"
+msgstr "冷金屬"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -730,7 +730,7 @@ msgstr "冷金属"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Perfect forging"
-msgstr "完美锻造"
+msgstr "完美鍛造"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -741,7 +741,7 @@ msgstr "完美锻造"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:62
 msgid "Steel and Skin"
-msgstr "钢铁与皮肤"
+msgstr "鋼鐵與皮膚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -750,7 +750,7 @@ msgstr "钢铁与皮肤"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Forged in space"
-msgstr "在太空锻造"
+msgstr "在太空鍛造"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -768,7 +768,7 @@ msgstr "木活塞收集器"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Electric Torch collector"
-msgstr "电筒收集者"
+msgstr "電筒收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -777,7 +777,7 @@ msgstr "电筒收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Light Sensor collector"
-msgstr "光传感器收集者"
+msgstr "光傳感器收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -786,7 +786,7 @@ msgstr "光传感器收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Motion Sensor collector"
-msgstr "运动传感器收集者"
+msgstr "運動傳感器收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -795,7 +795,7 @@ msgstr "运动传感器收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Timer collector"
-msgstr "定时器收集者"
+msgstr "定時器收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -804,7 +804,7 @@ msgstr "定时器收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Relay collector"
-msgstr "继电器收集者"
+msgstr "繼電器收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -813,7 +813,7 @@ msgstr "继电器收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Remote Transmitter collector"
-msgstr "远程发射器收集者"
+msgstr "遠程發射器收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -831,7 +831,7 @@ msgstr "控制器收集者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Variable Resistor collector"
-msgstr "可变电阻收集者"
+msgstr "可變電阻收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -859,7 +859,7 @@ msgstr "活塞收集者"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Diode collector"
-msgstr "二极管收集者"
+msgstr "二極管收集者"
 
 #, fuzzy
 msgid "Heroic Explorer"
@@ -897,7 +897,7 @@ msgstr "鼠患清除者"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Exterminator"
-msgstr "害虫清除者"
+msgstr "害蟲清除者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -906,7 +906,7 @@ msgstr "害虫清除者"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160 
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138 
 msgid "Naughty Christmas"
-msgstr "调皮圣诞节"
+msgstr "調皮聖誕節"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -920,7 +920,7 @@ msgstr "调皮圣诞节"
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:540 
 msgid "Get Off My Lawn"
-msgstr "别碰我的地盘"
+msgstr "別碰我的地盤"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -937,7 +937,7 @@ msgstr "别碰我的地盘"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Iron Collector"
-msgstr "钢铁收集者"
+msgstr "鋼鐵收集者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -971,7 +971,7 @@ msgstr "淘金者"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Ruby Jeweler"
-msgstr "红水晶工匠"
+msgstr "紅水晶工匠"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -988,7 +988,7 @@ msgstr "红水晶工匠"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Sapphire Jeweler"
-msgstr "蓝水晶工匠"
+msgstr "藍水晶工匠"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1022,7 +1022,7 @@ msgstr "翡翠工匠"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Sky Miner"
-msgstr "天堂矿工"
+msgstr "天堂礦工"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1073,7 +1073,7 @@ msgstr "可收集的"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Amber Essence"
-msgstr "琥珀精华"
+msgstr "琥珀精華"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1090,7 +1090,7 @@ msgstr "琥珀精华"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Scavenger Hunter"
-msgstr "拾荒猎人"
+msgstr "拾荒獵人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1124,7 +1124,7 @@ msgstr "吉格勒斯先生"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Storm Chaser"
-msgstr "逐风者"
+msgstr "逐風者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1141,7 +1141,7 @@ msgstr "逐风者"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Ice Dragon Slayer"
-msgstr "冰龙杀手"
+msgstr "冰龍殺手"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1158,7 +1158,7 @@ msgstr "冰龙杀手"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Fire Dragon Slayer"
-msgstr "火龙杀手"
+msgstr "火龍殺手"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1175,7 +1175,7 @@ msgstr "火龙杀手"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Ruler of Reptiles"
-msgstr "爬行动物之王"
+msgstr "爬行動物之王"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1192,7 +1192,7 @@ msgstr "爬行动物之王"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Predator Predation"
-msgstr "捕食者猎杀"
+msgstr "捕食者獵殺"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1209,7 +1209,7 @@ msgstr "捕食者猎杀"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Multi Miner"
-msgstr "多重矿工"
+msgstr "多重礦工"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1226,7 +1226,7 @@ msgstr "多重矿工"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Wings Of The Void"
-msgstr "虚空之翼"
+msgstr "虛空之翼"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1243,7 +1243,7 @@ msgstr "虚空之翼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "First Contact… Final Outcome"
-msgstr "首次接触……最终结果"
+msgstr "首次接觸……最終結果"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1277,7 +1277,7 @@ msgstr "星之巨蛇"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Galactic Hellhound"
-msgstr "银河地狱犬"
+msgstr "銀河地獄犬"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1294,7 +1294,7 @@ msgstr "银河地狱犬"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Galactic Jungle Hunter"
-msgstr "银河丛林猎手"
+msgstr "銀河叢林獵手"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1329,7 +1329,7 @@ msgstr "收集物品"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Treasure Hunter"
-msgstr "寻宝猎人"
+msgstr "尋寶獵人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1346,7 +1346,7 @@ msgstr "寻宝猎人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "New Best Friend"
-msgstr "新的最佳伙伴"
+msgstr "新的最佳夥伴"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1363,7 +1363,7 @@ msgstr "新的最佳伙伴"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Lunar Lights Out"
-msgstr "月辉消逝"
+msgstr "月輝消逝"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1380,5 +1380,5 @@ msgstr "月辉消逝"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1534 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:935 
 msgid "Whale, That Escalated Quickly"
-msgstr "鲸然闹大了"
+msgstr "鯨然鬧大了"
 

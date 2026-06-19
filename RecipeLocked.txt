@@ -13,13 +13,13 @@ msgstr ""
 "X-Generator: Weblate 2.3\n"
 
 msgid "Locked recipe"
-msgstr "锁定配方"
+msgstr "鎖定配方"
 
 msgid "To unlock this recipe you need finish some quests."
-msgstr "完成任务以解锁此配方。"
+msgstr "完成任務以解鎖此配方。"
 
 msgid "Complete quest from {0} to unlock."
-msgstr "完成{0}的任务以解锁。"
+msgstr "完成{0}的任務以解鎖。"
 
 msgid "Complete achievement {0} to unlock."
-msgstr "完成成就 {0} 以解锁。"
+msgstr "完成成就 {0} 以解鎖。"

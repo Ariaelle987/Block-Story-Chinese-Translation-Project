@@ -13,55 +13,55 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "BabyDeer"
-msgstr "鹿宝宝"
+msgstr "鹿寶寶"
 
 msgid "BlackSheep"
 msgstr "黑羊"
 
 msgid "Turtle"
-msgstr "海龟"
+msgstr "海龜"
 
 msgid "MrGoblin"
-msgstr "哥布林布鲁先生"
+msgstr "哥布林布魯先生"
 
 msgid "Shiva"
 msgstr "希瓦"
 
 msgid "SmallHugo"
-msgstr "雨果宝宝"
+msgstr "雨果寶寶"
 
 msgid "DuckF"
-msgstr "鸭小姐"
+msgstr "鴨小姐"
 
 msgid "BobCat"
-msgstr "山猫"
+msgstr "山貓"
 
 msgid "DuckM"
-msgstr "鸭先生"
+msgstr "鴨先生"
 
 msgid "ForgottenGoblin"
 msgstr "天使哥布林"
 
 msgid "ClownFish"
-msgstr "小丑鱼"
+msgstr "小丑魚"
 
 msgid "JungleBat"
-msgstr "丛林蝙蝠"
+msgstr "叢林蝙蝠"
 
 msgid "WerewoolfBlack"
 msgstr "黑狼人"
 
 msgid "MediumWorm"
-msgstr "中型蠕虫"
+msgstr "中型蠕蟲"
 
 msgid "GruntFish"
-msgstr "咕哝鱼"
+msgstr "咕噥魚"
 
 msgid "SkeletonNormal"
-msgstr "多嘴骷髅"
+msgstr "多嘴骷髏"
 
 msgid "BigWorm"
-msgstr "巨型蠕虫"
+msgstr "巨型蠕蟲"
 
 msgid "Cow"
 msgstr "牛"
@@ -76,25 +76,25 @@ msgid "Bull"
 msgstr "公牛"
 
 msgid "Wizard"
-msgstr "魔法师"
+msgstr "魔法師"
 
 msgid "Snake"
 msgstr "蛇"
 
 msgid "Eagle"
-msgstr "鹰"
+msgstr "鷹"
 
 msgid "Visitors"
-msgstr "访客"
+msgstr "訪客"
 
 msgid "Dolphin"
 msgstr "海豚"
 
 msgid "BabyBearPolar"
-msgstr "北极熊宝宝"
+msgstr "北極熊寶寶"
 
 msgid "Dragon_Pet"
-msgstr "龙"
+msgstr "龍"
 
 msgid "IceElemental"
 msgstr "冰元素"
@@ -103,7 +103,7 @@ msgid "Basilisk"
 msgstr "蛇怪"
 
 msgid "LionFish"
-msgstr "狮子鱼"
+msgstr "獅子魚"
 
 msgid "PoisonDartFrog"
 msgstr "箭毒蛙"
@@ -112,7 +112,7 @@ msgid "DarkBoss"
 msgstr "黑暗魔王"
 
 msgid "TriggerFish"
-msgstr "炮弹鱼"
+msgstr "炮彈魚"
 
 msgid "Panther"
 msgstr "豹"
@@ -124,34 +124,34 @@ msgid "Lizard"
 msgstr "蜥蜴"
 
 msgid "DragonBug"
-msgstr "龙虫"
+msgstr "龍蟲"
 
 msgid "SwampSnake"
-msgstr "沼泽水蛇"
+msgstr "沼澤水蛇"
 
 msgid "GiantSpider"
 msgstr "阿拉戈克"
 
 msgid "Ashkore"
-msgstr "阿什科尔"
+msgstr "阿什科爾"
 
 msgid "Werewoolf"
 msgstr "狼人"
 
 msgid "Chicken"
-msgstr "鸡"
+msgstr "雞"
 
 msgid "Spider_Pet"
 msgstr "阿拉奇"
 
 msgid "ShadowHunter"
-msgstr "暗影猎手"
+msgstr "暗影獵手"
 
 msgid "Tiger"
 msgstr "虎"
 
 msgid "BabyGoblin"
-msgstr "哥布林宝宝"
+msgstr "哥布林寶寶"
 
 msgid "BigHugo"
 msgstr "雨果"
@@ -160,22 +160,22 @@ msgid "Deer"
 msgstr "鹿"
 
 msgid "BearPolar"
-msgstr "北极熊"
+msgstr "北極熊"
 
 msgid "SkeletonMage"
-msgstr "黑暗法师"
+msgstr "黑暗法師"
 
 msgid "ColoredSheep"
 msgstr "羊"
 
 msgid "FeralPig"
-msgstr "野猪"
+msgstr "野豬"
 
 msgid "SkeletonFresh"
-msgstr "黑暗杀人狂"
+msgstr "黑暗殺人狂"
 
 msgid "Jackelope"
-msgstr "杰克洛普"
+msgstr "傑克洛普"
 
 msgid "Spider"
 msgstr "蜘蛛"
@@ -184,19 +184,19 @@ msgid "SourceOfLife"
 msgstr "生命之源"
 
 msgid "Striker"
-msgstr "蝎子"
+msgstr "蠍子"
 
 msgid "Megalodon"
-msgstr "巨齿鲨"
+msgstr "巨齒鯊"
 
 msgid "BabyBearGrizzly"
-msgstr "灰熊宝宝"
+msgstr "灰熊寶寶"
 
 msgid "FemaleWarrior"
 msgstr "葆拉"
 
 msgid "Raven"
-msgstr "乌鸦"
+msgstr "烏鴉"
 
 msgid "BearGrizzly"
 msgstr "灰熊"
@@ -205,61 +205,61 @@ msgid "Bear"
 msgstr "熊"
 
 msgid "WhiteRaven"
-msgstr "白鸦"
+msgstr "白鴉"
 
 msgid "Squid"
-msgstr "乌贼"
+msgstr "烏賊"
 
 msgid "Stingray"
-msgstr "黄貂鱼"
+msgstr "黃貂魚"
 
 msgid "DarkWorm"
-msgstr "黑暗蠕虫"
+msgstr "黑暗蠕蟲"
 
 msgid "Pig"
-msgstr "猪"
+msgstr "豬"
 
 msgid "Viking"
 msgstr "泰德"
 
 msgid "Urchin"
-msgstr "海胆"
+msgstr "海膽"
 
 msgid "Alien_Dog_Pet"
-msgstr "冈塔"
+msgstr "岡塔"
 
 msgid "SkeletonDark"
-msgstr "黑暗骑士"
+msgstr "黑暗騎士"
 
 msgid "SnowWorm"
-msgstr "冰雪蠕虫"
+msgstr "冰雪蠕蟲"
 
 msgid "DarkBigWorm"
-msgstr "黑暗巨型蠕虫"
+msgstr "黑暗巨型蠕蟲"
 
 msgid "WhiteSheep"
 msgstr "白羊"
 
 msgid "Enemy"
-msgstr "敌人"
+msgstr "敵人"
 
 msgid "Rooster"
-msgstr "公鸡"
+msgstr "公雞"
 
 msgid "SnowBigWorm"
-msgstr "冰雪巨型蠕虫"
+msgstr "冰雪巨型蠕蟲"
 
 msgid "Dragon"
-msgstr "火龙"
+msgstr "火龍"
 
 msgid "Barlog"
 msgstr "炎魔"
 
 msgid "Yeti"
-msgstr "亚蒂萨斯"
+msgstr "亞蒂薩斯"
 
 msgid "Cat_Pet"
-msgstr "珀尔修斯"
+msgstr "珀爾修斯"
 
 msgid "Bird"
 msgstr "雷恩"
@@ -268,10 +268,10 @@ msgid "MissDeer"
 msgstr "鹿小姐"
 
 msgid "BabyHorse"
-msgstr "马宝宝"
+msgstr "馬寶寶"
 
 msgid "IceDragon"
-msgstr "冰龙"
+msgstr "冰龍"
 
 msgid "Hydra"
 msgstr "海德拉"
@@ -280,44 +280,44 @@ msgid "Tentaclon"
 msgstr "肯塔克隆"
 
 msgid "GoblinWarrior"
-msgstr "哥布林战士"
+msgstr "哥布林戰士"
 
 msgid "SmallWorm"
-msgstr "小型蠕虫"
+msgstr "小型蠕蟲"
 
 msgid "Warrior"
-msgstr "艾伦"
+msgstr "艾倫"
 
 msgid "BabyBear"
-msgstr "熊宝宝"
+msgstr "熊寶寶"
 
 msgid "DragonBat"
-msgstr "龙蝙蝠"
+msgstr "龍蝙蝠"
 
 msgid "Otter"
-msgstr "水獭"
+msgstr "水獺"
 
 msgid "Horse"
-msgstr "马"
+msgstr "馬"
 
 msgid "Chupacabra"
 msgstr "卓柏卡布拉"
 
 msgid "Shark"
-msgstr "大白鲨"
+msgstr "大白鯊"
 
 msgid "Crescent Ray"
-msgstr "新月鳐"
+msgstr "新月鰩"
 
 msgid "Orbis Felix"
-msgstr "奥比斯·菲利克斯"
+msgstr "奧比斯·菲利克斯"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
 # UnityGame/Assets/Localization/T.cs:127
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
 msgid "Trex"
-msgstr "暴龙"
+msgstr "暴龍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -335,10 +335,10 @@ msgstr "暴龙"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
 msgid "TRex"
-msgstr "暴龙"
+msgstr "暴龍"
 
 msgid "DragonLord"
-msgstr "龙主"
+msgstr "龍主"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -357,7 +357,7 @@ msgid "Snowman_Pet"
 msgstr "雪人"
 
 msgid "BabyAshkore_Pet"
-msgstr "阿什科尔"
+msgstr "阿什科爾"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -376,7 +376,7 @@ msgstr "阿什科尔"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mati"
-msgstr "玛蒂"
+msgstr "瑪蒂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -388,7 +388,7 @@ msgstr "彩虹蛇怪"
 
 #, fuzzy
 msgid "Mati_Pet"
-msgstr "玛蒂"
+msgstr "瑪蒂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -396,15 +396,15 @@ msgstr "玛蒂"
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
 msgid "Onyx_Pet"
-msgstr "玛瑙"
+msgstr "瑪瑙"
 
 #, fuzzy
 msgid "Daithir_Pet"
-msgstr "达伊希尔"
+msgstr "達伊希爾"
 
 #, fuzzy
 msgid "Vairmut_Pet"
-msgstr "维尔穆特"
+msgstr "維爾穆特"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -412,11 +412,11 @@ msgstr "维尔穆特"
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
 msgid "Xordaraxus_Pet"
-msgstr "索达拉修斯"
+msgstr "索達拉修斯"
 
 #, fuzzy
 msgid "SwampGolem"
-msgstr "沼泽傀儡"
+msgstr "沼澤傀儡"
 
 #, fuzzy
 msgid "VikingShip"
@@ -439,7 +439,7 @@ msgstr "泰德"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "AlchemistShip"
-msgstr "炼金术士"
+msgstr "鍊金術士"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -477,7 +477,7 @@ msgstr "水母"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Manowar"
-msgstr "玛诺瓦"
+msgstr "瑪諾瓦"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -496,7 +496,7 @@ msgstr "玛诺瓦"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "DumboOctopus"
-msgstr "小飞象章鱼"
+msgstr "小飛象章魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -515,7 +515,7 @@ msgstr "小飞象章鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dunkleosteus"
-msgstr "邓氏鱼"
+msgstr "鄧氏魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -534,7 +534,7 @@ msgstr "邓氏鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fangtooth"
-msgstr "尖牙鱼"
+msgstr "尖牙魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -553,7 +553,7 @@ msgstr "尖牙鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Gulper"
-msgstr "宽咽鱼"
+msgstr "寬咽魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -572,7 +572,7 @@ msgstr "宽咽鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Purplefish"
-msgstr "紫火鱼"
+msgstr "紫火魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -591,7 +591,7 @@ msgstr "紫火鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Tylosaurus"
-msgstr "海王龙"
+msgstr "海王龍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -610,11 +610,11 @@ msgstr "海王龙"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Liopleurodon"
-msgstr "滑齿龙"
+msgstr "滑齒龍"
 
 #, fuzzy
 msgid "Dagi"
-msgstr "达吉星人"
+msgstr "達吉星人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -633,7 +633,7 @@ msgstr "达吉星人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Rucal"
-msgstr "鲁卡尔犬"
+msgstr "魯卡爾犬"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -641,11 +641,11 @@ msgstr "鲁卡尔犬"
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
 msgid "Mech"
-msgstr "机械"
+msgstr "機械"
 
 #, fuzzy
 msgid "Bulm"
-msgstr "布伦蝙蝠"
+msgstr "布倫蝙蝠"
 
 #, fuzzy
 msgid "Umhi"
@@ -668,11 +668,11 @@ msgstr "尤希星人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dreamcat"
-msgstr "梦豹"
+msgstr "夢豹"
 
 #, fuzzy
 msgid "Screl"
-msgstr "斯克雷尔蛇"
+msgstr "斯克雷爾蛇"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -739,7 +739,7 @@ msgstr "菲尼克斯蛋"
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:79
 # UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:36
 msgid "Eldriar_Pet"
-msgstr "艾德里亚"
+msgstr "艾德里亞"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -780,7 +780,7 @@ msgstr "男村民"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Space Wren"
-msgstr "太空鹪鹩"
+msgstr "太空鷦鷯"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -801,42 +801,42 @@ msgstr "青蛙"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Stormbringer"
-msgstr "风暴使者"
+msgstr "風暴使者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Umbrosk"
-msgstr "暗影龙虫"
+msgstr "暗影龍蟲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Glaciros"
-msgstr "冰雪龙虫"
+msgstr "冰雪龍蟲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "EmberTyr"
-msgstr "地狱龙虫"
+msgstr "地獄龍蟲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Seraphax"
-msgstr "天空龙虫"
+msgstr "天空龍蟲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Zerath"
-msgstr "褐甲龙虫"
+msgstr "褐甲龍蟲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 

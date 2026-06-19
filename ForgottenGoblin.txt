@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Worthy Opponent"
-msgstr "值得一战的对手"
+msgstr "值得一戰的對手"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -32,7 +32,7 @@ msgid ""
 "receive my grace, you will be able to possess them. But are you worthy? "
 "Let's check your strength."
 msgstr ""
-"终于，我见到了一位值得一战的对手！看看我华丽的翅膀，你也想拥有吗？它们能赋予你力量和飞行的自由，你将不再需要使用那个骗子炼金术士的药水。等你收到我赐予你的恩典后，你便能拥有它们。但你配得上吗？让我们来测试一下你的实力吧。"
+"終於，我見到了一位值得一戰的對手！看看我華麗的翅膀，你也想擁有嗎？它們能賦予你力量和飛行的自由，你將不再需要使用那個騙子鍊金術士的藥水。等你收到我賜予你的恩典後，你便能擁有它們。但你配得上嗎？讓我們來測試一下你的實力吧。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -50,7 +50,7 @@ msgstr ""
 msgid ""
 "I see you're not ready to fight me yet. Muster up the nerve and come next "
 "time, I do not want to think that you are a coward."
-msgstr "我看你还没有准备好。鼓起勇气，下次再来，我可不想认为你是个懦夫。"
+msgstr "我看你還沒有準備好。鼓起勇氣，下次再來，我可不想認為你是個懦夫。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -72,7 +72,7 @@ msgstr "我看你还没有准备好。鼓起勇气，下次再来，我可不想
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Talk to Angel Goblin."
-msgstr "与天使哥布林谈谈。"
+msgstr "與天使哥布林談談。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -91,7 +91,7 @@ msgid ""
 "I'm still not sure of your strength. Your victory could be an accident. I "
 "will fight you every day until I am convinced that you are worthy to receive "
 "my wings."
-msgstr "我仍然不确定你的实力，你的胜利可能只是偶然。我会每天和你战斗，直到我相信你配得上我的翅膀。"
+msgstr "我仍然不確定你的實力，你的勝利可能只是偶然。我會每天和你戰鬥，直到我相信你配得上我的翅膀。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -109,7 +109,7 @@ msgstr "我仍然不确定你的实力，你的胜利可能只是偶然。我会
 # UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
 msgid "Talk to Angel Goblin about your victory."
-msgstr "告诉天使哥布林，你赢了。"
+msgstr "告訴天使哥布林，你贏了。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -125,7 +125,7 @@ msgstr "告诉天使哥布林，你赢了。"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 msgid "Now I see that you are worthy. You can take my wings."
-msgstr "现在我相信你配得上这双翅膀了，你可以拥有它们。"
+msgstr "現在我相信你配得上這雙翅膀了，你可以擁有它們。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -136,7 +136,7 @@ msgstr "现在我相信你配得上这双翅膀了，你可以拥有它们。"
 # UnityGame/Assets/Scripts/Quests/Quest.cs:379
 # UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
 msgid "Finally, I see a worthy opponent! What I see, you want more grace?"
-msgstr "终于，一位值得一战的对手！什么，你还想获得更多恩典？"
+msgstr "終於，一位值得一戰的對手！什麼，你還想獲得更多恩典？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -154,5 +154,5 @@ msgstr "终于，一位值得一战的对手！什么，你还想获得更多恩
 msgid ""
 "Now I see that you are worthy. Come back tomorrow if you need more grace, I "
 "need some time to replenish it."
-msgstr "现在我知道你配得上这双翅膀了。明天再来吧，我需要一些时间来补充恩典。"
+msgstr "現在我知道你配得上這雙翅膀了。明天再來吧，我需要一些時間來補充恩典。"
 

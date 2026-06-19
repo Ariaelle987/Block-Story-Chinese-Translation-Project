@@ -13,58 +13,58 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Sky Leaves"
-msgstr "空之叶"
+msgstr "空之葉"
 
 msgid "Axe"
 msgstr "石斧"
 
 msgid "Jungle Bush Plant"
-msgstr "丛林灌木"
+msgstr "叢林灌木"
 
 msgid "Goblin Pants"
-msgstr "地精裤子"
+msgstr "地精褲子"
 
 msgid "Tentackle Staff"
-msgstr "触须法杖"
+msgstr "觸鬚法杖"
 
 msgid "Saw Shield"
-msgstr "圆锯盾牌"
+msgstr "圓鋸盾牌"
 
 msgid "Animal Spawner"
-msgstr "{0} 动物刷怪箱"
+msgstr "{0} 動物刷怪箱"
 
 msgid "Old Stone Fence"
-msgstr "老旧石栏"
+msgstr "老舊石欄"
 
 msgid "Goblin PickAxe"
-msgstr "哥布林地精镐"
+msgstr "哥布林地精鎬"
 
 msgid "TRex"
-msgstr "暴龙"
+msgstr "暴龍"
 
 msgid "Bricks"
-msgstr "砖块"
+msgstr "磚塊"
 
 msgid "Hammer"
-msgstr "石锤"
+msgstr "石錘"
 
 msgid "Oak Leaves"
-msgstr "橡树叶"
+msgstr "橡樹葉"
 
 msgid "Poplar Leaves"
-msgstr "白杨树叶"
+msgstr "白楊樹葉"
 
 msgid "Wheat Seed"
-msgstr "小麦种子"
+msgstr "小麥種子"
 
 msgid "Brick Stairs"
-msgstr "砖楼梯"
+msgstr "磚樓梯"
 
 msgid "Jungle Bush Green"
-msgstr "丛林绿灌木"
+msgstr "叢林綠灌木"
 
 msgid "Dragonscale"
-msgstr "龙鳞"
+msgstr "龍鱗"
 
 msgid "Shiva"
 msgstr "希瓦"
@@ -73,31 +73,31 @@ msgid "Chest"
 msgstr "箱子"
 
 msgid "Warrior Boots"
-msgstr "战士长靴"
+msgstr "戰士長靴"
 
 msgid "Arrow"
 msgstr "箭"
 
 msgid "Replicon"
-msgstr "诱变剂"
+msgstr "誘變劑"
 
 msgid "Old Stone Stairs"
-msgstr "老旧石楼梯"
+msgstr "老舊石樓梯"
 
 msgid "Gravity Boots"
 msgstr "重力靴"
 
 msgid "Ticket"
-msgstr "奖券"
+msgstr "獎券"
 
 msgid "Electrite"
 msgstr "雷晶"
 
 msgid "Necklace Of Life"
-msgstr "生命项链"
+msgstr "生命項鍊"
 
 msgid "Palm Plank"
-msgstr "棕榈木板"
+msgstr "棕櫚木板"
 
 msgid "Boat"
 msgstr "木船"
@@ -106,10 +106,10 @@ msgid "Wood Window"
 msgstr "木窗"
 
 msgid "Leaves"
-msgstr "树叶"
+msgstr "樹葉"
 
 msgid "Miner Helmet"
-msgstr "矿工头盔"
+msgstr "礦工頭盔"
 
 msgid "Pumpkin"
 msgstr "南瓜"
@@ -118,7 +118,7 @@ msgid "Cactus Plant"
 msgstr "仙人掌苗"
 
 msgid "Palm Bark"
-msgstr "棕榈木"
+msgstr "棕櫚木"
 
 msgid "Cryptonite"
 msgstr "氪石"
@@ -127,25 +127,25 @@ msgid "Life Magic"
 msgstr "生命法杖"
 
 msgid "Dragon Soul"
-msgstr "巨龙之魂"
+msgstr "巨龍之魂"
 
 msgid "Tentackle Magic"
-msgstr "触须法杖"
+msgstr "觸鬚法杖"
 
 msgid "Spider Soul"
 msgstr "蜘蛛之魂"
 
 msgid "Skull"
-msgstr "头骨"
+msgstr "頭骨"
 
 msgid "Monster Spawner"
 msgstr "{0} 刷怪箱"
 
 msgid "Acacia Plant"
-msgstr "金合欢树苗"
+msgstr "金合歡樹苗"
 
 msgid "Birch Plank"
-msgstr "桦木木板"
+msgstr "樺木木板"
 
 msgid "water"
 msgstr "水桶"
@@ -154,58 +154,58 @@ msgid "Meat"
 msgstr "肉"
 
 msgid "Desert Bird Spawner"
-msgstr "沙漠鸟 刷怪箱"
+msgstr "沙漠鳥 刷怪箱"
 
 msgid "Yellow Coral"
-msgstr "黄珊瑚"
+msgstr "黃珊瑚"
 
 msgid "Teleportation Arrow"
-msgstr "传送箭"
+msgstr "傳送箭"
 
 msgid "Gold Ore"
-msgstr "金矿石"
+msgstr "金礦石"
 
 msgid "Baobab Plant"
-msgstr "猴面包树苗"
+msgstr "猴麵包樹苗"
 
 msgid "Car"
-msgstr "汽车"
+msgstr "汽車"
 
 msgid "Apple Tree Plant"
-msgstr "苹果树苗"
+msgstr "蘋果樹苗"
 
 msgid "Food"
 msgstr "食物"
 
 msgid "Gun"
-msgstr "枪"
+msgstr "槍"
 
 msgid "Dragon Armor"
-msgstr "龙甲"
+msgstr "龍甲"
 
 msgid "Birch Bark"
-msgstr "白桦木"
+msgstr "白樺木"
 
 msgid "Ring"
 msgstr "戒指"
 
 msgid "Angelic Swords"
-msgstr "天使双剑"
+msgstr "天使雙劍"
 
 msgid "Bread"
-msgstr "面包"
+msgstr "麵包"
 
 msgid "Baobab Leaves"
-msgstr "猴面包树叶"
+msgstr "猴麵包樹葉"
 
 msgid "Crystal Block Red"
-msgstr "红水晶块"
+msgstr "紅水晶塊"
 
 msgid "Glass"
 msgstr "玻璃"
 
 msgid "Diver Suit"
-msgstr "潜水服"
+msgstr "潛水服"
 
 msgid "Forgotten Grass"
 msgstr "空之草"
@@ -220,55 +220,55 @@ msgid "Magic Orb"
 msgstr "魔珠"
 
 msgid "Dragon Shield"
-msgstr "龙盾"
+msgstr "龍盾"
 
 msgid "Fire Arrow"
 msgstr "火焰箭"
 
 msgid "Gold Bar"
-msgstr "金锭"
+msgstr "金錠"
 
 msgid "Birch Stairs"
-msgstr "桦木楼梯"
+msgstr "樺木樓梯"
 
 msgid "Watermelon"
 msgstr "西瓜"
 
 msgid "Pine Plant"
-msgstr "松树苗"
+msgstr "松樹苗"
 
 msgid "Bow"
 msgstr "弓"
 
 msgid "Unobtainium Bar"
-msgstr "难得素锭"
+msgstr "難得素錠"
 
 msgid "Brick Fence"
-msgstr "砖块栅栏"
+msgstr "磚塊柵欄"
 
 msgid "Stone"
-msgstr "石头"
+msgstr "石頭"
 
 msgid "Clouds"
-msgstr "云"
+msgstr "雲"
 
 msgid "Spider Web"
-msgstr "蜘蛛网"
+msgstr "蜘蛛網"
 
 msgid "Seed"
-msgstr "种子"
+msgstr "種子"
 
 msgid "Iron Hammer"
-msgstr "铁锤"
+msgstr "鐵錘"
 
 msgid "Crystal Block Blue"
-msgstr "蓝水晶块"
+msgstr "藍水晶塊"
 
 msgid "Window"
-msgstr "窗户"
+msgstr "窗戶"
 
 msgid "Gold Block"
-msgstr "金块"
+msgstr "金塊"
 
 msgid "Aragog Eye"
 msgstr "阿拉戈克之眼"
@@ -277,28 +277,28 @@ msgid "Spider Fang"
 msgstr "蜘蛛牙"
 
 msgid "Wheat Crop"
-msgstr "麦苗"
+msgstr "麥苗"
 
 msgid "Iron Shovel"
-msgstr "铁铲"
+msgstr "鐵鏟"
 
 msgid "Fence"
-msgstr "木栅栏"
+msgstr "木柵欄"
 
 msgid "Health Potion"
-msgstr "治疗药水"
+msgstr "治療藥水"
 
 msgid "Stick"
 msgstr "木棍"
 
 msgid "Green Coral"
-msgstr "绿珊瑚"
+msgstr "綠珊瑚"
 
 msgid "Cauldron"
-msgstr "大锅"
+msgstr "大鍋"
 
 msgid "Wood Door"
-msgstr "木门"
+msgstr "木門"
 
 msgid "Antique Spawner"
 msgstr "{0} 刷怪箱"
@@ -307,49 +307,49 @@ msgid "Acid"
 msgstr "硫酸桶"
 
 msgid "Megalodon Tooth"
-msgstr "巨齿鲨齿"
+msgstr "巨齒鯊齒"
 
 msgid "Hunting Knife"
-msgstr "猎刀"
+msgstr "獵刀"
 
 msgid "Palm Stairs"
-msgstr "棕榈楼梯"
+msgstr "棕櫚樓梯"
 
 msgid "Trident"
 msgstr "三叉戟"
 
 msgid "Dig"
-msgstr "石镐"
+msgstr "石鎬"
 
 msgid "Pumpkin Head"
-msgstr "南瓜头"
+msgstr "南瓜頭"
 
 msgid "Unobtainium"
-msgstr "难得素"
+msgstr "難得素"
 
 msgid "Sulphure Ore"
 msgstr "硫磺"
 
 msgid "Shirt"
-msgstr "衬衫"
+msgstr "襯衫"
 
 msgid "Sand Clock"
 msgstr "沙漏"
 
 msgid "Radar"
-msgstr "雷达"
+msgstr "雷達"
 
 msgid "Forgotten Stone Old"
-msgstr "被遗忘的仿古石"
+msgstr "被遺忘的仿古石"
 
 msgid "Iron Axe"
-msgstr "铁斧"
+msgstr "鐵斧"
 
 msgid "Dragon Pants"
-msgstr "龙裤"
+msgstr "龍褲"
 
 msgid "Blue Flower"
-msgstr "蓝花"
+msgstr "藍花"
 
 msgid "Soul Catcher"
 msgstr "噬魂法杖"
@@ -361,13 +361,13 @@ msgid "Graviton"
 msgstr "引力子"
 
 msgid "Air Ring"
-msgstr "空气戒指"
+msgstr "空氣戒指"
 
 msgid "Deerskin"
 msgstr "鹿皮"
 
 msgid "Elevator"
-msgstr "电梯"
+msgstr "電梯"
 
 msgid "Energy"
 msgstr "能量"
@@ -379,61 +379,61 @@ msgid "TNT"
 msgstr "TNT"
 
 msgid "Great Sword"
-msgstr "大剑"
+msgstr "大劍"
 
 msgid "Shark Fin Soup"
-msgstr "鱼翅汤"
+msgstr "魚翅湯"
 
 msgid "Red Flower"
-msgstr "红花"
+msgstr "紅花"
 
 msgid "Jungle Tree Plant"
-msgstr "丛林树苗"
+msgstr "叢林樹苗"
 
 msgid "Epic Sword"
-msgstr "史诗剑"
+msgstr "史詩劍"
 
 msgid "Torch"
-msgstr "灯笼"
+msgstr "燈籠"
 
 msgid "Generator"
-msgstr "发电机"
+msgstr "發電機"
 
 msgid "Drill"
 msgstr "消除者"
 
 msgid "Snow Leaves"
-msgstr "覆雪树叶"
+msgstr "覆雪樹葉"
 
 msgid "Apple"
-msgstr "苹果"
+msgstr "蘋果"
 
 msgid "Cat Soul"
-msgstr "猫之魂"
+msgstr "貓之魂"
 
 msgid "Book Shelf"
-msgstr "书架"
+msgstr "書架"
 
 msgid "Iron Ore"
-msgstr "铁矿石"
+msgstr "鐵礦石"
 
 msgid "Grass 3D"
 msgstr "草"
 
 msgid "Palm Plant"
-msgstr "棕榈树苗"
+msgstr "棕櫚樹苗"
 
 msgid "CarBody"
-msgstr "车身"
+msgstr "車身"
 
 msgid "Dragon Boots"
-msgstr "龙靴"
+msgstr "龍靴"
 
 msgid "Iron Block"
-msgstr "铁块"
+msgstr "鐵塊"
 
 msgid "Electric Pipe"
-msgstr "电子管"
+msgstr "電子管"
 
 msgid "Grass"
 msgstr "草皮"
@@ -442,31 +442,31 @@ msgid "Poisoned Arrow"
 msgstr "毒箭"
 
 msgid "Blue Dye"
-msgstr "蓝染料"
+msgstr "藍染料"
 
 msgid "Ashkore"
-msgstr "阿什科尔"
+msgstr "阿什科爾"
 
 msgid "Yellow Dye"
-msgstr "黄染料"
+msgstr "黃染料"
 
 msgid "Swamp"
-msgstr "沼泽桶"
+msgstr "沼澤桶"
 
 msgid "Hand Torch"
 msgstr "火把"
 
 msgid "BoarSkin"
-msgstr "野猪皮"
+msgstr "野豬皮"
 
 msgid "Stone Stairs"
-msgstr "石楼梯"
+msgstr "石樓梯"
 
 msgid "Springs"
-msgstr "弹簧鞋"
+msgstr "彈簧鞋"
 
 msgid "Dragon Heart"
-msgstr "龙心"
+msgstr "龍心"
 
 msgid "Magic Arrow"
 msgstr "魔法箭"
@@ -475,16 +475,16 @@ msgid "Coal"
 msgstr "煤炭"
 
 msgid "Hoe"
-msgstr "锄头"
+msgstr "鋤頭"
 
 msgid "Letter"
 msgstr "信"
 
 msgid "Candle"
-msgstr "蜡烛"
+msgstr "蠟燭"
 
 msgid "Fence Gate"
-msgstr "木栅栏门"
+msgstr "木柵欄門"
 
 msgid "Fuel"
 msgstr "燃料"
@@ -496,19 +496,19 @@ msgid "Fire"
 msgstr "火"
 
 msgid "Wheat"
-msgstr "小麦"
+msgstr "小麥"
 
 msgid "Pants"
-msgstr "裤子"
+msgstr "褲子"
 
 msgid "My Precious"
-msgstr "我的宝贝"
+msgstr "我的寶貝"
 
 msgid "Epic Shield"
-msgstr "史诗盾"
+msgstr "史詩盾"
 
 msgid "Jungle Grass"
-msgstr "丛林草"
+msgstr "叢林草"
 
 msgid "Ice"
 msgstr "冰"
@@ -517,10 +517,10 @@ msgid "Hydra"
 msgstr "海德拉"
 
 msgid "Crystal Block Black"
-msgstr "黑水晶块"
+msgstr "黑水晶塊"
 
 msgid "Swamp Stone"
-msgstr "沼泽石"
+msgstr "沼澤石"
 
 msgid "Rose Bush"
 msgstr "玫瑰灌木"
@@ -544,31 +544,31 @@ msgid "Dark Staff"
 msgstr "黑暗法杖"
 
 msgid "Forgotten Stone"
-msgstr "被遗忘的石头"
+msgstr "被遺忘的石頭"
 
 msgid "Forgotten Stone Antique"
-msgstr "被遗忘的仿古石"
+msgstr "被遺忘的仿古石"
 
 msgid "Shovel"
-msgstr "石铲"
+msgstr "石鏟"
 
 msgid "Crystal Block Green"
-msgstr "翡翠块"
+msgstr "翡翠塊"
 
 msgid "Birch Leaves"
-msgstr "白桦树叶"
+msgstr "白樺樹葉"
 
 msgid "Wax"
-msgstr "蜡"
+msgstr "蠟"
 
 msgid "Iron Dig"
-msgstr "铁镐"
+msgstr "鐵鎬"
 
 msgid "Brush"
 msgstr "刷子"
 
 msgid "Birch Fence"
-msgstr "桦木栅栏"
+msgstr "樺木柵欄"
 
 msgid "Coco Bean"
 msgstr "椰子"
@@ -577,7 +577,7 @@ msgid "GiantSpider"
 msgstr "阿拉戈克"
 
 msgid "Furnace"
-msgstr "熔炉"
+msgstr "熔爐"
 
 msgid "Paraffin"
 msgstr "蜂巢"
@@ -592,13 +592,13 @@ msgid "Boots"
 msgstr "靴子"
 
 msgid "Spirit Necklace"
-msgstr "灵魂项链"
+msgstr "靈魂項鍊"
 
 msgid "Forgotten Bushes"
-msgstr "被遗忘的灌木"
+msgstr "被遺忘的灌木"
 
 msgid "Bullet"
-msgstr "子弹"
+msgstr "子彈"
 
 msgid "Magic"
 msgstr "黑暗法杖"
@@ -613,67 +613,67 @@ msgid "Saddle"
 msgstr "鞍"
 
 msgid "Red Dye"
-msgstr "红染料"
+msgstr "紅染料"
 
 msgid "Warrior Armor"
-msgstr "战士铠甲"
+msgstr "戰士鎧甲"
 
 msgid "Nature Staff"
 msgstr "自然法杖"
 
 msgid "Pan Tool"
-msgstr "筛子"
+msgstr "篩子"
 
 msgid "Stone Fence"
-msgstr "石栏"
+msgstr "石欄"
 
 msgid "Palm Leaves"
-msgstr "棕榈树叶"
+msgstr "棕櫚樹葉"
 
 msgid "Skeletone Helmet"
-msgstr "骷髅头盔"
+msgstr "骷髏頭盔"
 
 msgid "JetPack"
-msgstr "喷气背包"
+msgstr "噴氣揹包"
 
 msgid "Spikes Magic"
 msgstr "尖峰法杖"
 
 msgid "Bone"
-msgstr "骨头"
+msgstr "骨頭"
 
 msgid "Spruce Plant"
-msgstr "云杉树苗"
+msgstr "雲杉樹苗"
 
 msgid "Oak Tree Plant"
-msgstr "橡树苗"
+msgstr "橡樹苗"
 
 msgid "Clear Plank"
-msgstr "纯净木板"
+msgstr "純淨木板"
 
 msgid "Wheel"
-msgstr "车轮"
+msgstr "車輪"
 
 msgid "Hat"
 msgstr "帽子"
 
 msgid "Replicator"
-msgstr "复制者"
+msgstr "複製者"
 
 msgid "Coal Ore"
-msgstr "煤炭矿石"
+msgstr "煤炭礦石"
 
 msgid "Palm Fence"
-msgstr "棕榈栅栏"
+msgstr "棕櫚柵欄"
 
 msgid "Goblin Armor"
-msgstr "地精装甲"
+msgstr "地精裝甲"
 
 msgid "Fire Staff"
 msgstr "火焰法杖"
 
 msgid "Iron Bar"
-msgstr "铁锭"
+msgstr "鐵錠"
 
 msgid "Sea Grass"
 msgstr "海草"
@@ -682,37 +682,37 @@ msgid "Antique Window"
 msgstr "仿古窗"
 
 msgid "TrapDoor"
-msgstr "陷阱门"
+msgstr "陷阱門"
 
 msgid "Devil Rock"
-msgstr "魔岩"
+msgstr "魔巖"
 
 msgid "Birch Plant"
-msgstr "白桦树苗"
+msgstr "白樺樹苗"
 
 msgid "Raven Wing"
-msgstr "乌鸦羽翼"
+msgstr "烏鴉羽翼"
 
 msgid "Coloring Block"
-msgstr "彩绘方块"
+msgstr "彩繪方塊"
 
 msgid "Metal Fence Gate"
-msgstr "金属栅栏门"
+msgstr "金屬柵欄門"
 
 msgid "Stair"
-msgstr "木楼梯"
+msgstr "木樓梯"
 
 msgid "Mistic Ring"
 msgstr "神秘戒指"
 
 msgid "Duck Spawner"
-msgstr "鸭子 刷怪箱"
+msgstr "鴨子 刷怪箱"
 
 msgid "Dragon Helmet"
-msgstr "龙盔"
+msgstr "龍盔"
 
 msgid "Teleport"
-msgstr "传送"
+msgstr "傳送"
 
 msgid "Swamp Spawner"
 msgstr "{0} 刷怪箱"
@@ -724,10 +724,10 @@ msgid "Sand"
 msgstr "沙子"
 
 msgid "Short Sword"
-msgstr "短剑"
+msgstr "短劍"
 
 msgid "Crystal Sword"
-msgstr "水晶剑"
+msgstr "水晶劍"
 
 msgid "Bones Shield"
 msgstr "骨盾"
@@ -736,13 +736,13 @@ msgid "Dog Soul"
 msgstr "狗之魂"
 
 msgid "GunPowder"
-msgstr "火药"
+msgstr "火藥"
 
 msgid "SheepSkin"
 msgstr "羊皮"
 
 msgid "Dragon Ring"
-msgstr "龙戒"
+msgstr "龍戒"
 
 msgid "Clear Stone"
 msgstr "清澈石"
@@ -751,61 +751,61 @@ msgid "Chair"
 msgstr "木椅"
 
 msgid "Red Leaves"
-msgstr "红叶"
+msgstr "紅葉"
 
 msgid "Red Crystals"
-msgstr "红水晶"
+msgstr "紅水晶"
 
 msgid "Lava"
-msgstr "岩浆桶"
+msgstr "岩漿桶"
 
 msgid "Forgotten Leaves"
-msgstr "被遗忘的树叶"
+msgstr "被遺忘的樹葉"
 
 msgid "HorseSkin"
-msgstr "马皮"
+msgstr "馬皮"
 
 msgid "Poplar Plant"
-msgstr "白杨树苗"
+msgstr "白楊樹苗"
 
 msgid "Flippers"
-msgstr "脚蹼"
+msgstr "腳蹼"
 
 msgid "Warrior Pants"
-msgstr "战士护腿"
+msgstr "戰士護腿"
 
 msgid "Long Sword"
-msgstr "长剑"
+msgstr "長劍"
 
 msgid "Sword"
-msgstr "石剑"
+msgstr "石劍"
 
 msgid "Engine"
 msgstr "引擎"
 
 msgid "Shark Fin"
-msgstr "鱼翅"
+msgstr "魚翅"
 
 msgid "Yellow Flower"
-msgstr "{0}黄花"
+msgstr "{0}黃花"
 
 msgid "Mana Potion"
-msgstr "法力药水"
+msgstr "法力藥水"
 
 msgid "Explosive Arrow"
 msgstr "爆炸箭"
 
 msgid "Diamond"
-msgstr "钻石"
+msgstr "鑽石"
 
 msgid "Plank"
 msgstr "木板"
 
 msgid "Goblin Helmet"
-msgstr "地精头盔"
+msgstr "地精頭盔"
 
 msgid "Pine Leaves"
-msgstr "松叶"
+msgstr "松葉"
 
 msgid "Fire Magic"
 msgstr "火焰法杖"
@@ -814,10 +814,10 @@ msgid "Rose Flower"
 msgstr "玫瑰花"
 
 msgid "Blue Crystals"
-msgstr "蓝水晶"
+msgstr "藍水晶"
 
 msgid "Craft Table"
-msgstr "工作台"
+msgstr "工作臺"
 
 msgid "Spikes Staff"
 msgstr "尖刺法杖"
@@ -826,79 +826,79 @@ msgid "Ladder"
 msgstr "梯子"
 
 msgid "Klorium"
-msgstr "辉石"
+msgstr "輝石"
 
 msgid "Jungle Bush Leaves"
-msgstr "丛林灌木树叶"
+msgstr "叢林灌木樹葉"
 
 msgid "Jungle Leaves"
-msgstr "丛林树叶"
+msgstr "叢林樹葉"
 
 msgid "Rose Flowers"
 msgstr "玫瑰花"
 
 msgid "Jungle Flower"
-msgstr "丛林花卉"
+msgstr "叢林花卉"
 
 msgid "Vehicles"
 msgstr "交通工具"
 
 msgid "Neck"
-msgstr "颈部"
+msgstr "頸部"
 
 msgid "Klorium Block"
-msgstr "辉石块"
+msgstr "輝石塊"
 
 msgid "Cryptonite Block"
-msgstr "氪石块"
+msgstr "氪石塊"
 
 msgid "Forgotten Light"
-msgstr "被遗忘之光"
+msgstr "被遺忘之光"
 
 msgid "Meteorite Block"
-msgstr "陨石块"
+msgstr "隕石塊"
 
 msgid "Devil Coal Ore"
-msgstr "恶魔煤矿石"
+msgstr "惡魔煤礦石"
 
 msgid "Devil Ruby Ore"
-msgstr "恶魔红水晶矿石"
+msgstr "惡魔紅水晶礦石"
 
 msgid "Sulphure Block"
-msgstr "硫磺块"
+msgstr "硫磺塊"
 
 msgid "Unobtainium Block"
-msgstr "难得素块"
+msgstr "難得素塊"
 
 msgid "Slime"
-msgstr "史莱姆"
+msgstr "史萊姆"
 
 msgid "Radar Recipe"
-msgstr "雷达配方"
+msgstr "雷達配方"
 
 msgid "Melon Slice"
 msgstr "西瓜片"
 
 msgid "Pal"
-msgstr "伙伴"
+msgstr "夥伴"
 
 msgid "Pet Space Suit"
-msgstr "宠物宇航服"
+msgstr "寵物宇航服"
 
 msgid "Creative Kelp"
-msgstr "创造海带"
+msgstr "創造海帶"
 
 msgid "Creative Kombu"
-msgstr "创造昆布"
+msgstr "創造昆布"
 
 msgid "Creative Enhalus"
-msgstr "创造海草"
+msgstr "創造海草"
 
 msgid "Creative Anemone"
-msgstr "创造海葵"
+msgstr "創造海葵"
 
 msgid "Kelp"
-msgstr "海带"
+msgstr "海帶"
 
 msgid "Kombu"
 msgstr "昆布"
@@ -910,46 +910,46 @@ msgid "Anemone"
 msgstr "海葵"
 
 msgid "Forgotten Grass 3D"
-msgstr "被遗忘的3D草"
+msgstr "被遺忘的3D草"
 
 msgid "Yellow Crystals"
-msgstr "黄色水晶"
+msgstr "黃色水晶"
 
 msgid "Klorium Ore"
-msgstr "辉石矿"
+msgstr "輝石礦"
 
 msgid "Cryptonite Ore"
-msgstr "氪石矿"
+msgstr "氪石礦"
 
 msgid "Crystal Block Yellow"
-msgstr "黄水晶块"
+msgstr "黃水晶塊"
 
 msgid "Unobtainium From Bar"
-msgstr "难得素锭配方"
+msgstr "難得素錠配方"
 
 msgid "Klorium From Ore"
-msgstr "辉石锭"
+msgstr "輝石錠"
 
 msgid "Cryptonite From Ore"
-msgstr "氪石锭"
+msgstr "氪石錠"
 
 msgid "Poison Potion"
-msgstr "毒药药水"
+msgstr "毒藥藥水"
 
 msgid "Nebula Rock"
-msgstr "星云岩"
+msgstr "星雲巖"
 
 msgid "Star Core"
 msgstr "星核"
 
 msgid "Asteroid Stone"
-msgstr "星彩岩"
+msgstr "星彩巖"
 
 msgid "Dark Matter"
-msgstr "暗物质"
+msgstr "暗物質"
 
 msgid "Nebula Cloud"
-msgstr "星云"
+msgstr "星雲"
 
 msgid "Obsidian"
 msgstr "黑曜石"
@@ -958,10 +958,10 @@ msgid "Obsidian Shard"
 msgstr "黑曜石碎片"
 
 msgid "Obsidian Block"
-msgstr "黑曜石块"
+msgstr "黑曜石塊"
 
 msgid "Cosmic Helmet"
-msgstr "宇宙头盔"
+msgstr "宇宙頭盔"
 
 msgid "Cosmic Armor"
 msgstr "宇宙胸甲"
@@ -970,7 +970,7 @@ msgid "Cosmic Boots"
 msgstr "宇宙靴子"
 
 msgid "Cosmic Pants"
-msgstr "宇宙护腿"
+msgstr "宇宙護腿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
@@ -988,7 +988,7 @@ msgid "Skill Reset"
 msgstr "重置技能"
 
 msgid "Marble Block"
-msgstr "大理石块"
+msgstr "大理石塊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
@@ -1001,7 +1001,7 @@ msgstr "大理石块"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:91
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:41
 msgid "Anvil"
-msgstr "铁砧"
+msgstr "鐵砧"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -1014,7 +1014,7 @@ msgid "DarkBoss"
 msgstr "黑暗魔王"
 
 msgid "DragonLord"
-msgstr "龙主"
+msgstr "龍主"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1027,7 +1027,7 @@ msgstr "龙主"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Pet"
-msgstr "机械宠物"
+msgstr "機械寵物"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1040,7 +1040,7 @@ msgstr "机械宠物"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Cannon"
-msgstr "加农炮"
+msgstr "加農炮"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1053,7 +1053,7 @@ msgstr "加农炮"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Computer"
-msgstr "计算机"
+msgstr "計算機"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1066,7 +1066,7 @@ msgstr "计算机"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Leg Left"
-msgstr "左机械腿"
+msgstr "左機械腿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1079,7 +1079,7 @@ msgstr "左机械腿"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Leg Right"
-msgstr "右机械腿"
+msgstr "右機械腿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1105,7 +1105,7 @@ msgstr "火箭筒"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Ventilation Left"
-msgstr "左通风器"
+msgstr "左通風器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1118,7 +1118,7 @@ msgstr "左通风器"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Ventilation Right"
-msgstr "右通风器"
+msgstr "右通風器"
 
 msgid "Rockets"
 msgstr "火箭"
@@ -1137,7 +1137,7 @@ msgstr "火箭"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Storage Row"
-msgstr "存储行"
+msgstr "存儲行"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1163,7 +1163,7 @@ msgstr "沙漠灌木"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mystical Block"
-msgstr "神秘的方块"
+msgstr "神秘的方塊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1176,7 +1176,7 @@ msgstr "神秘的方块"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Devil Bush"
-msgstr "恶魔灌木"
+msgstr "惡魔灌木"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1184,7 +1184,7 @@ msgstr "恶魔灌木"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Ice Bricks"
-msgstr "冰砖"
+msgstr "冰磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1205,7 +1205,7 @@ msgstr "地毯"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Devil Bricks"
-msgstr "魔砖"
+msgstr "魔磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1213,7 +1213,7 @@ msgstr "魔砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Skulls Block"
-msgstr "骨块"
+msgstr "骨塊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1226,7 +1226,7 @@ msgstr "骨块"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Granite"
-msgstr "花岗岩"
+msgstr "花崗岩"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1239,7 +1239,7 @@ msgstr "花岗岩"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Battle Axe"
-msgstr "战斧"
+msgstr "戰斧"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1252,7 +1252,7 @@ msgstr "战斧"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Axe"
-msgstr "火焰战斧"
+msgstr "火焰戰斧"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1265,7 +1265,7 @@ msgstr "火焰战斧"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Ice Axe"
-msgstr "寒冰战斧"
+msgstr "寒冰戰斧"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1278,7 +1278,7 @@ msgstr "寒冰战斧"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dark Axe"
-msgstr "黑暗战斧"
+msgstr "黑暗戰斧"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1304,7 +1304,7 @@ msgstr "雪人"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Christmas Tree"
-msgstr "圣诞树"
+msgstr "聖誕樹"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1317,7 +1317,7 @@ msgstr "圣诞树"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Teleporter"
-msgstr "传送器"
+msgstr "傳送器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1330,7 +1330,7 @@ msgstr "传送器"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Baby Ashkore Soul"
-msgstr "阿什科尔宝宝之魂"
+msgstr "阿什科爾寶寶之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1343,7 +1343,7 @@ msgstr "阿什科尔宝宝之魂"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Rails"
-msgstr "铁轨"
+msgstr "鐵軌"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1356,7 +1356,7 @@ msgstr "铁轨"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Minecart"
-msgstr "矿车"
+msgstr "礦車"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1377,7 +1377,7 @@ msgstr "告示牌"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fireworks"
-msgstr "烟花"
+msgstr "煙花"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1390,7 +1390,7 @@ msgstr "烟花"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mati Soul"
-msgstr "玛蒂之魂"
+msgstr "瑪蒂之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1416,7 +1416,7 @@ msgstr "彩虹蛇怪之魂"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Viking Boat"
-msgstr "维京船"
+msgstr "維京船"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1429,7 +1429,7 @@ msgstr "维京船"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bait"
-msgstr "鱼饵"
+msgstr "魚餌"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1442,7 +1442,7 @@ msgstr "鱼饵"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fish Rod"
-msgstr "钓鱼竿"
+msgstr "釣魚竿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1463,7 +1463,7 @@ msgstr "熟肉"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried ClownFish"
-msgstr "熟小丑鱼"
+msgstr "熟小丑魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1471,7 +1471,7 @@ msgstr "熟小丑鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried LionFish"
-msgstr "熟狮子鱼"
+msgstr "熟獅子魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1479,7 +1479,7 @@ msgstr "熟狮子鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried GruntFish"
-msgstr "熟咕哝鱼"
+msgstr "熟咕噥魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1487,7 +1487,7 @@ msgstr "熟咕哝鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried TriggerFish"
-msgstr "熟炮弹鱼"
+msgstr "熟炮彈魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1495,7 +1495,7 @@ msgstr "熟炮弹鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Squid"
-msgstr "熟乌贼"
+msgstr "熟烏賊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1503,7 +1503,7 @@ msgstr "熟乌贼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Stingray"
-msgstr "熟黄貂鱼"
+msgstr "熟黃貂魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1511,7 +1511,7 @@ msgstr "熟黄貂鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Urchin"
-msgstr "熟海胆"
+msgstr "熟海膽"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1527,7 +1527,7 @@ msgstr "熟海星"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Shark"
-msgstr "熟鲨鱼"
+msgstr "熟鯊魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1539,7 +1539,7 @@ msgstr "熟鲨鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "ClownFish"
-msgstr "小丑鱼"
+msgstr "小丑魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1551,7 +1551,7 @@ msgstr "小丑鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "LionFish"
-msgstr "狮子鱼"
+msgstr "獅子魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1563,7 +1563,7 @@ msgstr "狮子鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "GruntFish"
-msgstr "咕哝鱼"
+msgstr "咕噥魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1575,7 +1575,7 @@ msgstr "咕哝鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "TriggerFish"
-msgstr "炮弹鱼"
+msgstr "炮彈魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1587,7 +1587,7 @@ msgstr "炮弹鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Squid"
-msgstr "乌贼"
+msgstr "烏賊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1599,7 +1599,7 @@ msgstr "乌贼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Stingray"
-msgstr "黄貂鱼"
+msgstr "黃貂魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1611,7 +1611,7 @@ msgstr "黄貂鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Urchin"
-msgstr "海胆"
+msgstr "海膽"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1635,7 +1635,7 @@ msgstr "海星"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Shark"
-msgstr "鲨鱼"
+msgstr "鯊魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1656,7 +1656,7 @@ msgstr "火炬"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mashine Gun"
-msgstr "机枪"
+msgstr "機槍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1677,7 +1677,7 @@ msgstr "琥珀"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Half"
-msgstr "木质横半砖"
+msgstr "木質橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1685,7 +1685,7 @@ msgstr "木质横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Vertical"
-msgstr "木质竖半砖"
+msgstr "木質豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1693,7 +1693,7 @@ msgstr "木质竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Triangle"
-msgstr "木质三角版"
+msgstr "木質三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1701,7 +1701,7 @@ msgstr "木质三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Half"
-msgstr "桦木横半砖"
+msgstr "樺木橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1709,7 +1709,7 @@ msgstr "桦木横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Vertical"
-msgstr "桦木竖半砖"
+msgstr "樺木豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1717,7 +1717,7 @@ msgstr "桦木竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Triangle"
-msgstr "桦木三角版"
+msgstr "樺木三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1725,7 +1725,7 @@ msgstr "桦木三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Half"
-msgstr "棕榈横半砖"
+msgstr "棕櫚橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1733,7 +1733,7 @@ msgstr "棕榈横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Vertical"
-msgstr "棕榈竖半砖"
+msgstr "棕櫚豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1741,7 +1741,7 @@ msgstr "棕榈竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Triangle"
-msgstr "棕榈三角版"
+msgstr "棕櫚三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1749,7 +1749,7 @@ msgstr "棕榈三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Half"
-msgstr "纯净木横半砖"
+msgstr "純淨木橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1757,7 +1757,7 @@ msgstr "纯净木横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Vertical"
-msgstr "纯净木竖半砖"
+msgstr "純淨木豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1765,7 +1765,7 @@ msgstr "纯净木竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Triangle"
-msgstr "纯净木三角版"
+msgstr "純淨木三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1773,7 +1773,7 @@ msgstr "纯净木三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Stairs"
-msgstr "纯净木楼梯"
+msgstr "純淨木樓梯"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1781,7 +1781,7 @@ msgstr "纯净木楼梯"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Half"
-msgstr "石质横半砖"
+msgstr "石質橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1789,7 +1789,7 @@ msgstr "石质横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Vertical"
-msgstr "石质竖半砖"
+msgstr "石質豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1797,7 +1797,7 @@ msgstr "石质竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Triangle"
-msgstr "石质三角版"
+msgstr "石質三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1805,7 +1805,7 @@ msgstr "石质三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Old Stone Half"
-msgstr "仿古石横半砖"
+msgstr "仿古石橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1813,7 +1813,7 @@ msgstr "仿古石横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Old Stone Vertical"
-msgstr "仿古石竖半砖"
+msgstr "仿古石豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1829,7 +1829,7 @@ msgstr "仿古石三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Half"
-msgstr "红砖横半砖"
+msgstr "紅磚橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1837,7 +1837,7 @@ msgstr "红砖横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Vertical"
-msgstr "红砖竖半砖"
+msgstr "紅磚豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1845,7 +1845,7 @@ msgstr "红砖竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Triangle"
-msgstr "红砖三角版"
+msgstr "紅磚三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1853,7 +1853,7 @@ msgstr "红砖三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Carpet Half"
-msgstr "地毯横半砖"
+msgstr "地毯橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1861,7 +1861,7 @@ msgstr "地毯横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Carpet Vertical"
-msgstr "地毯竖半砖"
+msgstr "地毯豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1869,7 +1869,7 @@ msgstr "地毯竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Tile"
-msgstr "金属砖"
+msgstr "金屬磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1877,7 +1877,7 @@ msgstr "金属砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Half"
-msgstr "大理石横半砖"
+msgstr "大理石橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1885,7 +1885,7 @@ msgstr "大理石横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Vertical"
-msgstr "大理石竖半砖"
+msgstr "大理石豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1901,7 +1901,7 @@ msgstr "大理石三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Stairs"
-msgstr "大理石楼梯"
+msgstr "大理石樓梯"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1925,7 +1925,7 @@ msgstr "石柱"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Pillar Top"
-msgstr "石柱顶"
+msgstr "石柱頂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1933,7 +1933,7 @@ msgstr "石柱顶"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Miracle Stone"
-msgstr "奇迹之石"
+msgstr "奇蹟之石"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1941,7 +1941,7 @@ msgstr "奇迹之石"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Half"
-msgstr "铁制横半砖"
+msgstr "鐵製橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1949,7 +1949,7 @@ msgstr "铁制横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Vertical"
-msgstr "铁制竖半砖"
+msgstr "鐵製豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1957,7 +1957,7 @@ msgstr "铁制竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Triangle"
-msgstr "铁制三角版"
+msgstr "鐵製三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1965,7 +1965,7 @@ msgstr "铁制三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Half"
-msgstr "黄金横半砖"
+msgstr "黃金橫半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1973,7 +1973,7 @@ msgstr "黄金横半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Vertical"
-msgstr "黄金竖半砖"
+msgstr "黃金豎半磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1981,7 +1981,7 @@ msgstr "黄金竖半砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Triangle"
-msgstr "黄金三角版"
+msgstr "黃金三角版"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1989,7 +1989,7 @@ msgstr "黄金三角版"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Ladder"
-msgstr "金属梯"
+msgstr "金屬梯"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1997,7 +1997,7 @@ msgstr "金属梯"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Simple Wood Door"
-msgstr "简易木门"
+msgstr "簡易木門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2005,7 +2005,7 @@ msgstr "简易木门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Lattice Door"
-msgstr "金属格栅门"
+msgstr "金屬格柵門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2013,7 +2013,7 @@ msgstr "金属格栅门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Door"
-msgstr "金属门"
+msgstr "金屬門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2021,7 +2021,7 @@ msgstr "金属门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Trap Door"
-msgstr "金属陷阱门"
+msgstr "金屬陷阱門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2029,7 +2029,7 @@ msgstr "金属陷阱门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Fence"
-msgstr "纯净木栅栏"
+msgstr "純淨木柵欄"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2037,7 +2037,7 @@ msgstr "纯净木栅栏"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Fence"
-msgstr "金属栏"
+msgstr "金屬欄"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2045,7 +2045,7 @@ msgstr "金属栏"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Fence"
-msgstr "大理石栏"
+msgstr "大理石欄"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2053,7 +2053,7 @@ msgstr "大理石栏"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Fence"
-msgstr "黄金栏"
+msgstr "黃金欄"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2061,7 +2061,7 @@ msgstr "黄金栏"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Fence Gate"
-msgstr "桦木栅栏门"
+msgstr "樺木柵欄門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2069,7 +2069,7 @@ msgstr "桦木栅栏门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Fence Gate"
-msgstr "棕榈栅栏门"
+msgstr "棕櫚柵欄門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2077,7 +2077,7 @@ msgstr "棕榈栅栏门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Fence Gate"
-msgstr "纯净木栅栏门"
+msgstr "純淨木柵欄門"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2085,7 +2085,7 @@ msgstr "纯净木栅栏门"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Chain"
-msgstr "铁链"
+msgstr "鐵鏈"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2093,7 +2093,7 @@ msgstr "铁链"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sponge"
-msgstr "海绵"
+msgstr "海綿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2106,7 +2106,7 @@ msgstr "海绵"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Alien Fish Rod"
-msgstr "外星鱼竿"
+msgstr "外星魚竿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2122,7 +2122,7 @@ msgstr "日耀法杖·葆拉"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sunshard Wizard"
-msgstr "日耀法杖·法师"
+msgstr "日耀法杖·法師"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -2143,7 +2143,7 @@ msgstr "哥布林火箭筒"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Phoenix Swords"
-msgstr "菲尼克斯双剑"
+msgstr "菲尼克斯雙劍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2151,7 +2151,7 @@ msgstr "菲尼克斯双剑"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "World Breaker"
-msgstr "世界破坏者"
+msgstr "世界破壞者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2159,7 +2159,7 @@ msgstr "世界破坏者"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Helmet"
-msgstr "琥珀头盔"
+msgstr "琥珀頭盔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2175,7 +2175,7 @@ msgstr "琥珀胸甲"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Pants"
-msgstr "琥珀护腿"
+msgstr "琥珀護腿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2191,7 +2191,7 @@ msgstr "琥珀靴子"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Alien Shield"
-msgstr "异形盾"
+msgstr "異形盾"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2207,7 +2207,7 @@ msgstr "菲尼克斯之盾"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Space Suit"
-msgstr "宇航头盔"
+msgstr "宇航頭盔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2223,7 +2223,7 @@ msgstr "天使之翼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Daithir Soul"
-msgstr "达伊希尔之魂"
+msgstr "達伊希爾之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2231,7 +2231,7 @@ msgstr "达伊希尔之魂"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Vairmut Soul"
-msgstr "维尔缪特之魂"
+msgstr "維爾繆特之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2239,7 +2239,7 @@ msgstr "维尔缪特之魂"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Xordaraxus Soul"
-msgstr "索达拉修斯之魂"
+msgstr "索達拉修斯之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2255,7 +2255,7 @@ msgstr "菲尼克斯之魂"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "SwampGolem"
-msgstr "沼泽傀儡"
+msgstr "沼澤傀儡"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2279,7 +2279,7 @@ msgstr "巨藤"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sequoia Tree Plant"
-msgstr "红杉树苗"
+msgstr "紅杉樹苗"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2288,7 +2288,7 @@ msgstr "红杉树苗"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
 msgid "Amber From Bricks"
-msgstr "砖制琥珀"
+msgstr "磚制琥珀"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2297,7 +2297,7 @@ msgstr "砖制琥珀"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
 msgid "Amber Bricks"
-msgstr "琥珀砖"
+msgstr "琥珀磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2305,7 +2305,7 @@ msgstr "琥珀砖"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Paving Stone"
-msgstr "铺路石"
+msgstr "鋪路石"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2313,7 +2313,7 @@ msgstr "铺路石"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Purplefish"
-msgstr "熟紫火鱼"
+msgstr "熟紫火魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2321,7 +2321,7 @@ msgstr "熟紫火鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried DumboOctopus"
-msgstr "熟飞象章鱼"
+msgstr "熟飛象章魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2329,7 +2329,7 @@ msgstr "熟飞象章鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Dunkleosteus"
-msgstr "熟邓氏鱼"
+msgstr "熟鄧氏魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2337,7 +2337,7 @@ msgstr "熟邓氏鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Fangtooth"
-msgstr "熟尖牙鱼"
+msgstr "熟尖牙魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2345,7 +2345,7 @@ msgstr "熟尖牙鱼"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Gulper"
-msgstr "熟宽咽鱼"
+msgstr "熟寬咽魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2361,7 +2361,7 @@ msgstr "混凝土"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Mashine Gun Bullet"
-msgstr "机枪子弹"
+msgstr "機槍子彈"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2386,7 +2386,7 @@ msgstr "日耀法杖"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Purplefish"
-msgstr "紫火鱼"
+msgstr "紫火魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2398,7 +2398,7 @@ msgstr "紫火鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "DumboOctopus"
-msgstr "飞象章鱼"
+msgstr "飛象章魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2410,7 +2410,7 @@ msgstr "飞象章鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dunkleosteus"
-msgstr "邓氏鱼"
+msgstr "鄧氏魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2422,7 +2422,7 @@ msgstr "邓氏鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fangtooth"
-msgstr "尖牙鱼"
+msgstr "尖牙魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2434,7 +2434,7 @@ msgstr "尖牙鱼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Gulper"
-msgstr "宽咽鱼"
+msgstr "寬咽魚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2501,7 +2501,7 @@ msgstr "太空木"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Water"
-msgstr "静态水"
+msgstr "靜態水"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2520,7 +2520,7 @@ msgstr "静态水"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Lava"
-msgstr "静态岩浆"
+msgstr "靜態岩漿"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2539,7 +2539,7 @@ msgstr "静态岩浆"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Swamp"
-msgstr "静态沼泽"
+msgstr "靜態沼澤"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2558,7 +2558,7 @@ msgstr "静态沼泽"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Frozen Coral"
-msgstr "冰冻珊瑚"
+msgstr "冰凍珊瑚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2577,7 +2577,7 @@ msgstr "冰冻珊瑚"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mushroom Trunk"
-msgstr "蘑菇主干"
+msgstr "蘑菇主幹"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2634,7 +2634,7 @@ msgstr "蘑菇"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Glowing Grass"
-msgstr "发光草"
+msgstr "發光草"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2672,7 +2672,7 @@ msgstr "硫酸草"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Moss"
-msgstr "苔藓"
+msgstr "苔蘚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2691,7 +2691,7 @@ msgstr "苔藓"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Space Leafs"
-msgstr "太空树叶"
+msgstr "太空樹葉"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2729,7 +2729,7 @@ msgstr "直草"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Blooming Grass"
-msgstr "开花草"
+msgstr "開花草"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2765,7 +2765,7 @@ msgstr "菲尼克斯羽翼"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Essence"
-msgstr "火焰精华"
+msgstr "火焰精華"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2777,7 +2777,7 @@ msgstr "火焰精华"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Cheat Diamond"
-msgstr "假钻石"
+msgstr "假鑽石"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2790,7 +2790,7 @@ msgstr "假钻石"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Railway Dead End"
-msgstr "轨道尾"
+msgstr "軌道尾"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2803,7 +2803,7 @@ msgstr "轨道尾"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle son Note"
-msgstr "符印纸条瓶"
+msgstr "符印紙條瓶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2816,7 +2816,7 @@ msgstr "符印纸条瓶"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle Poi Note"
-msgstr "纹记纸条瓶"
+msgstr "紋記紙條瓶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2829,7 +2829,7 @@ msgstr "纹记纸条瓶"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle Empty Note"
-msgstr "空瓶纸条"
+msgstr "空瓶紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2837,7 +2837,7 @@ msgstr "空瓶纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Empty"
-msgstr "空白纸条"
+msgstr "空白紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2845,7 +2845,7 @@ msgstr "空白纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Poi"
-msgstr "纹记纸条"
+msgstr "紋記紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2853,7 +2853,7 @@ msgstr "纹记纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note son"
-msgstr "符印纸条"
+msgstr "符印紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2861,7 +2861,7 @@ msgstr "符印纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Note With Symbols"
-msgstr "带有符号的纸条"
+msgstr "帶有符號的紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2873,7 +2873,7 @@ msgstr "带有符号的纸条"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Magic Scroll"
-msgstr "魔法卷轴"
+msgstr "魔法卷軸"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2881,7 +2881,7 @@ msgstr "魔法卷轴"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Empty Iron"
-msgstr "空白纸条"
+msgstr "空白紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2889,7 +2889,7 @@ msgstr "空白纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Poi Iron"
-msgstr "铁质纹记纸条"
+msgstr "鐵質紋記紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2897,7 +2897,7 @@ msgstr "铁质纹记纸条"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note son Iron"
-msgstr "铁质符印纸条"
+msgstr "鐵質符印紙條"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2910,7 +2910,7 @@ msgstr "铁质符印纸条"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Locomotive"
-msgstr "火车头"
+msgstr "火車頭"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2946,7 +2946,7 @@ msgstr "多功能工具"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Eldriar Soul"
-msgstr "陨石龙之魂"
+msgstr "隕石龍之魂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2959,7 +2959,7 @@ msgstr "陨石龙之魂"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Meteorite Ore"
-msgstr "陨石矿"
+msgstr "隕石礦"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2972,7 +2972,7 @@ msgstr "陨石矿"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dragon Egg"
-msgstr "龙蛋"
+msgstr "龍蛋"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2985,7 +2985,7 @@ msgstr "龙蛋"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Old Dragon Armor"
-msgstr "老旧的龙甲"
+msgstr "老舊的龍甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2998,7 +2998,7 @@ msgstr "老旧的龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Blue Dragon Armor"
-msgstr "蓝水晶龙甲"
+msgstr "藍水晶龍甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3011,7 +3011,7 @@ msgstr "蓝水晶龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Red Dragon Armor"
-msgstr "红水晶龙甲"
+msgstr "紅水晶龍甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3024,7 +3024,7 @@ msgstr "红水晶龙甲"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Emerald Dragon Armor"
-msgstr "绿水晶龙甲"
+msgstr "綠水晶龍甲"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3067,7 +3067,7 @@ msgstr "床/交通工具"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Heavy Metal Swords"
-msgstr "重金属双剑"
+msgstr "重金屬雙劍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3075,7 +3075,7 @@ msgstr "重金属双剑"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Wires"
-msgstr "电线"
+msgstr "電線"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3099,7 +3099,7 @@ msgstr "木活塞"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Electric Torch"
-msgstr "电灯"
+msgstr "電燈"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3107,7 +3107,7 @@ msgstr "电灯"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Light Sensor"
-msgstr "光线传感器"
+msgstr "光線傳感器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3115,7 +3115,7 @@ msgstr "光线传感器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Motion Sensor"
-msgstr "运动传感器"
+msgstr "運動傳感器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3123,7 +3123,7 @@ msgstr "运动传感器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Timer Sensor"
-msgstr "计时器"
+msgstr "計時器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3131,7 +3131,7 @@ msgstr "计时器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Relay Sensor"
-msgstr "中继器"
+msgstr "中繼器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3139,7 +3139,7 @@ msgstr "中继器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Variable Resistor"
-msgstr "电位器"
+msgstr "電位器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3155,7 +3155,7 @@ msgstr "控制器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Remote Sensor"
-msgstr "发射器"
+msgstr "發射器"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3163,7 +3163,7 @@ msgstr "发射器"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Piano Music Box"
-msgstr "钢琴音符盒"
+msgstr "鋼琴音符盒"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3179,7 +3179,7 @@ msgstr "吉他音符盒"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Accordion Music Box"
-msgstr "手风琴音符盒"
+msgstr "手風琴音符盒"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3195,7 +3195,7 @@ msgstr "鼓音符盒"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Gramophone"
-msgstr "留声机"
+msgstr "留聲機"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3203,7 +3203,7 @@ msgstr "留声机"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Clock"
-msgstr "钟"
+msgstr "鍾"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3211,7 +3211,7 @@ msgstr "钟"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Diode"
-msgstr "二极管"
+msgstr "二極管"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3223,7 +3223,7 @@ msgstr "二极管"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Flame of the Cosmic Forge"
-msgstr "宇宙熔炉之焰"
+msgstr "宇宙熔爐之焰"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3236,7 +3236,7 @@ msgstr "宇宙熔炉之焰"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Airplane"
-msgstr "飞机"
+msgstr "飛機"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3249,7 +3249,7 @@ msgstr "飞机"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Jungle Sod"
-msgstr "丛林草皮"
+msgstr "叢林草皮"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3275,7 +3275,7 @@ msgstr "唱片 - 警笛"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Haven"
-msgstr "唱片 - 避风港"
+msgstr "唱片 - 避風港"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3288,7 +3288,7 @@ msgstr "唱片 - 避风港"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Abyss"
-msgstr "唱片 - 深渊"
+msgstr "唱片 - 深淵"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3314,7 +3314,7 @@ msgstr "唱片 - 琶音"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Atmosphere"
-msgstr "唱片 - 氛围"
+msgstr "唱片 - 氛圍"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3327,7 +3327,7 @@ msgstr "唱片 - 氛围"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Atmosphere Piano"
-msgstr "唱片 - 氛围钢琴"
+msgstr "唱片 - 氛圍鋼琴"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3340,7 +3340,7 @@ msgstr "唱片 - 氛围钢琴"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Boss Fight"
-msgstr "唱片 - Boss战"
+msgstr "唱片 - Boss戰"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3353,7 +3353,7 @@ msgstr "唱片 - Boss战"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Desrtino"
-msgstr "唱片 - 命运"
+msgstr "唱片 - 命運"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3366,7 +3366,7 @@ msgstr "唱片 - 命运"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Epic"
-msgstr "唱片 - 史诗"
+msgstr "唱片 - 史詩"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3379,7 +3379,7 @@ msgstr "唱片 - 史诗"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Guitar Accords"
-msgstr "唱片 - 吉他和弦"
+msgstr "唱片 - 吉他和絃"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3392,7 +3392,7 @@ msgstr "唱片 - 吉他和弦"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Menu Theme"
-msgstr "唱片 - 菜单主题"
+msgstr "唱片 - 菜單主題"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3405,7 +3405,7 @@ msgstr "唱片 - 菜单主题"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Miracles"
-msgstr "唱片 - 奇迹"
+msgstr "唱片 - 奇蹟"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3444,7 +3444,7 @@ msgstr "唱片 - 新森林"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Pip Orquesta"
-msgstr "唱片 - 皮普乐团"
+msgstr "唱片 - 皮普樂團"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3457,7 +3457,7 @@ msgstr "唱片 - 皮普乐团"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Solar"
-msgstr "唱片 - 太阳"
+msgstr "唱片 - 太陽"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3470,7 +3470,7 @@ msgstr "唱片 - 太阳"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Vanity"
-msgstr "唱片 - 虚荣"
+msgstr "唱片 - 虛榮"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3496,7 +3496,7 @@ msgstr "唱片 - 仙境"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - 8bit"
-msgstr "传统唱片 - 像素风"
+msgstr "傳統唱片 - 像素風"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3509,7 +3509,7 @@ msgstr "传统唱片 - 像素风"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Indie"
-msgstr "传统唱片 - 独立音乐"
+msgstr "傳統唱片 - 獨立音樂"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3522,7 +3522,7 @@ msgstr "传统唱片 - 独立音乐"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Ragga"
-msgstr "传统唱片 - 拉加"
+msgstr "傳統唱片 - 拉加"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3535,7 +3535,7 @@ msgstr "传统唱片 - 拉加"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Ray of sunset"
-msgstr "传统唱片 - 夕阳之光"
+msgstr "傳統唱片 - 夕陽之光"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3548,7 +3548,7 @@ msgstr "传统唱片 - 夕阳之光"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Serenity"
-msgstr "传统唱片 - 宁静"
+msgstr "傳統唱片 - 寧靜"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3561,7 +3561,7 @@ msgstr "传统唱片 - 宁静"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Space 80s"
-msgstr "传统唱片 - 太空80年代"
+msgstr "傳統唱片 - 太空80年代"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3574,7 +3574,7 @@ msgstr "传统唱片 - 太空80年代"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Thoughts"
-msgstr "传统唱片 - 思绪"
+msgstr "傳統唱片 - 思緒"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3587,7 +3587,7 @@ msgstr "传统唱片 - 思绪"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Tradiore - Walpurgis Night"
-msgstr "传统唱片 - 瓦尔普吉斯之夜"
+msgstr "傳統唱片 - 瓦爾普吉斯之夜"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3600,7 +3600,7 @@ msgstr "传统唱片 - 瓦尔普吉斯之夜"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Pirates - Silent Sea"
-msgstr "海盗唱片 - 寂静之海"
+msgstr "海盜唱片 - 寂靜之海"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3613,7 +3613,7 @@ msgstr "海盗唱片 - 寂静之海"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Record Pirates - Ending"
-msgstr "海盗唱片 - 结局"
+msgstr "海盜唱片 - 結局"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3627,7 +3627,7 @@ msgstr "海盗唱片 - 结局"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Gold Coin"
-msgstr "金币"
+msgstr "金幣"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3635,7 +3635,7 @@ msgstr "金币"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Dye From Red"
-msgstr "红色染料"
+msgstr "紅色染料"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3643,7 +3643,7 @@ msgstr "红色染料"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Dye From Blue"
-msgstr "蓝色染料"
+msgstr "藍色染料"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3651,7 +3651,7 @@ msgstr "蓝色染料"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
 msgid "Dye From Yellow"
-msgstr "黄色染料"
+msgstr "黃色染料"
 
 #, fuzzy
 msgid "Drill 50x50"
@@ -3674,11 +3674,11 @@ msgstr "挖掘 50x50"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Drill Creative"
-msgstr "创造挖掘"
+msgstr "創造挖掘"
 
 #, fuzzy
 msgid "Lost Bark"
-msgstr "树皮"
+msgstr "樹皮"
 
 #, fuzzy
 msgid "Dead Bark"
@@ -3686,15 +3686,15 @@ msgstr "枯死木"
 
 #, fuzzy
 msgid "Lost Leaves"
-msgstr "凋落树叶"
+msgstr "凋落樹葉"
 
 #, fuzzy
 msgid "Autumn Leaves"
-msgstr "秋叶"
+msgstr "秋葉"
 
 #, fuzzy
 msgid "Sakura Leaves"
-msgstr "樱花叶"
+msgstr "櫻花葉"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -3702,7 +3702,7 @@ msgstr "樱花叶"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76 
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51 
 msgid "Sentinel's Branch"
-msgstr "哨兵灵木"
+msgstr "哨兵靈木"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3742,11 +3742,11 @@ msgstr "阿拉戈克唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ashkore"
-msgstr "阿什科尔唱片"
+msgstr "阿什科爾唱片"
 
 #, fuzzy
 msgid "Record Dragon Lord"
-msgstr "龙主唱片"
+msgstr "龍主唱片"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3766,7 +3766,7 @@ msgstr "龙主唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Mati"
-msgstr "玛蒂唱片"
+msgstr "瑪蒂唱片"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3806,7 +3806,7 @@ msgstr "菲尼克斯唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Swamp Golem"
-msgstr "沼泽傀儡唱片"
+msgstr "沼澤傀儡唱片"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3845,7 +3845,7 @@ msgstr "太空蘑菇唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Liquid Fog"
-msgstr "凝雾液"
+msgstr "凝霧液"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3865,7 +3865,7 @@ msgstr "凝雾液"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ocean Ripples"
-msgstr "海洋涟漪唱片"
+msgstr "海洋漣漪唱片"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3905,11 +3905,11 @@ msgstr "序曲唱片"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Skill Reset Scroll"
-msgstr "遗忘卷轴"
+msgstr "遺忘卷軸"
 
 #, fuzzy
 msgid "Swamp Grass"
-msgstr "沼泽草"
+msgstr "沼澤草"
 
 #, fuzzy
 msgid "Peony Flower"
@@ -3917,11 +3917,11 @@ msgstr "牡丹花"
 
 #, fuzzy
 msgid "Swamp Plank"
-msgstr "沼泽木板"
+msgstr "沼澤木板"
 
 #, fuzzy
 msgid "Elf Bricks"
-msgstr "精灵砖"
+msgstr "精靈磚"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -3934,11 +3934,11 @@ msgstr "精灵砖"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:83 
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:34 
 msgid "Elf Column"
-msgstr "精灵石柱"
+msgstr "精靈石柱"
 
 #, fuzzy
 msgid "Elf Brick Fence"
-msgstr "精灵砖栅栏"
+msgstr "精靈磚柵欄"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -3957,7 +3957,7 @@ msgstr "精灵砖栅栏"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Kelp"
-msgstr "海带"
+msgstr "海帶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4033,7 +4033,7 @@ msgstr "海葵"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Kelp"
-msgstr "创造海带"
+msgstr "創造海帶"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4052,7 +4052,7 @@ msgstr "创造海带"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Kombu"
-msgstr "创造昆布"
+msgstr "創造昆布"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4071,7 +4071,7 @@ msgstr "创造昆布"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Enhalus"
-msgstr "创造海草"
+msgstr "創造海草"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -4090,4 +4090,4 @@ msgstr "创造海草"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Creative Anemone"
-msgstr "创造海葵"
+msgstr "創造海葵"

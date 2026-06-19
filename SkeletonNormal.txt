@@ -24,24 +24,24 @@ msgid ""
 "your help.  Bring me the skulls of my fallen comrades, and I will reward you "
 "for your trouble."
 msgstr ""
-"你在战斗中击败了我们这么多骷髅，龙骑士。现在我需要你的帮助，把我倒下战友的头骨带来，我会酬谢你的辛苦。"
+"你在戰鬥中擊敗了我們這麼多骷髏，龍騎士。現在我需要你的幫助，把我倒下戰友的頭骨帶來，我會酬謝你的辛苦。"
 
 #, fuzzy
 msgid ""
 "You can bring me up to ten skulls per day.  When I am satisfied, I will "
 "share an intriguing object I found with you."
 msgstr ""
-"你每天最多可以交给我十个头骨。等我满意了，我会把我发现的一个有趣的东西分享给你。"
+"你每天最多可以交給我十個頭骨。等我滿意了，我會把我發現的一個有趣的東西分享給你。"
 
 #, fuzzy
 msgid ""
 "Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
 msgstr ""
-"唉，可怜的约里克！我认识他，龙骑士。谢谢你带来这些头骨。"
+"唉，可憐的約裡克！我認識他，龍騎士。謝謝你帶來這些頭骨。"
 
 #, fuzzy
 msgid "Tell the Skeleton you have the skulls."
-msgstr "告诉多嘴骷髅你已收集到头骨。"
+msgstr "告訴多嘴骷髏你已收集到頭骨。"
 
 #, fuzzy
 msgid ""
@@ -49,4 +49,4 @@ msgid ""
 "Thank you, Dragon Rider.  As promised, here is your reward.  I hope you can "
 "put it to good use."
 msgstr ""
-"现在我们收集齐了战友的头骨，我可以安心了。谢谢你，龙骑士。如约，这是你的奖励。希望你能好好利用它。"
+"現在我們收集齊了戰友的頭骨，我可以安心了。謝謝你，龍騎士。如約，這是你的獎勵。希望你能好好利用它。"

@@ -16,10 +16,10 @@ msgid "Health"
 msgstr "{0} 最大生命值"
 
 msgid "Light"
-msgstr "发光"
+msgstr "發光"
 
 msgid "FireMagic"
-msgstr "{0} 火焰伤害"
+msgstr "{0} 火焰傷害"
 
 msgid "Tick"
 msgstr "每秒"
@@ -28,60 +28,60 @@ msgid "Gravity"
 msgstr "{0} 重力"
 
 msgid "LootDistance"
-msgstr "{0} 拾取距离"
+msgstr "{0} 拾取距離"
 
 msgid "Mana"
 msgstr "{0} 最大魔力值"
 
 msgid "Duration"
-msgstr "持续 {0} 秒"
+msgstr "持續 {0} 秒"
 
 msgid "BowDamage"
-msgstr "{0} 弓箭伤害"
+msgstr "{0} 弓箭傷害"
 
 msgid "Energy"
 msgstr ""
-"提供[FFFF00]{0}能量[-]以用[FF0000]熔炉[-]"
-"或[FF0000]大锅[-]制作物品。"
+"提供[FFFF00]{0}能量[-]以用[FF0000]熔爐[-]"
+"或[FF0000]大鍋[-]製作物品。"
 
 msgid "HealthRegen"
-msgstr "{0}最大生命恢复"
+msgstr "{0}最大生命恢復"
 
 msgid "SwordDamage"
-msgstr "{0} 剑类伤害"
+msgstr "{0} 劍類傷害"
 
 msgid "Breath"
 msgstr "{0} 最大水下呼吸值"
 
 msgid "PoisonDamage"
-msgstr "{0} 剧毒伤害"
+msgstr "{0} 劇毒傷害"
 
 msgid "JumpHeight"
-msgstr "{0} 跳跃高度"
+msgstr "{0} 跳躍高度"
 
 msgid "LightningMagic"
-msgstr "{0} 闪电伤害"
+msgstr "{0} 閃電傷害"
 
 msgid "BreathMagic"
 msgstr "增加 {0} 呼吸值"
 
 msgid "SlowTime"
-msgstr "减慢时间 {0} 秒"
+msgstr "減慢時間 {0} 秒"
 
 msgid "DarkMagic"
-msgstr "{0} 黑暗伤害"
+msgstr "{0} 黑暗傷害"
 
 msgid "FlySpeed"
-msgstr "{0} 飞行速度"
+msgstr "{0} 飛行速度"
 
 msgid "Explode"
-msgstr "破坏方块"
+msgstr "破壞方塊"
 
 msgid "ManaRegen"
-msgstr "{0} 最大魔力恢复"
+msgstr "{0} 最大魔力恢復"
 
 msgid "Restores"
-msgstr "恢复"
+msgstr "恢復"
 
 msgid "Speed"
 msgstr "{0} 行走速度"
@@ -96,49 +96,49 @@ msgid "Effects"
 msgstr "效果"
 
 msgid "Magic"
-msgstr "{0} 魔法伤害"
+msgstr "{0} 魔法傷害"
 
 msgid "Armor"
-msgstr "{0} 护甲"
+msgstr "{0} 護甲"
 
 msgid "WaterGravity"
 msgstr "{0} 水下重力"
 
 msgid "Damages"
-msgstr "伤害"
+msgstr "傷害"
 
 msgid "HealthRegenMagic"
-msgstr "增加 {0} 生命恢复"
+msgstr "增加 {0} 生命恢復"
 
 msgid "EarthMagic"
-msgstr "{0} 土系伤害"
+msgstr "{0} 土系傷害"
 
 msgid "ManaRegenMagic"
-msgstr "增加 {0} 魔力恢复"
+msgstr "增加 {0} 魔力恢復"
 
 msgid "Radius"
-msgstr "半径 {0} 格"
+msgstr "半徑 {0} 格"
 
 msgid "RadialDamage"
-msgstr "{0} 伤害"
+msgstr "{0} 傷害"
 
 msgid "BreathRegenMagic"
-msgstr "增加 {0} 呼吸值恢复"
+msgstr "增加 {0} 呼吸值恢復"
 
 msgid "AcidDamage"
-msgstr "{0} 硫酸伤害"
+msgstr "{0} 硫酸傷害"
 
 msgid "GunDamage"
-msgstr "{0} 枪类伤害"
+msgstr "{0} 槍類傷害"
 
 msgid "BreathRegen"
-msgstr "{0} 最大呼吸值恢复"
+msgstr "{0} 最大呼吸值恢復"
 
 msgid "HealingMagic"
 msgstr "增加 {0} 生命值"
 
 msgid "HungerMagic"
-msgstr "增加 {0} 饥饿值"
+msgstr "增加 {0} 飢餓值"
 
 msgid "ManaMagic"
 msgstr "增加 {0} 魔力值"
@@ -153,7 +153,7 @@ msgstr "增加 {0} 魔力值"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "IceMagic"
-msgstr "{0} 冰系伤害"
+msgstr "{0} 冰系傷害"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -165,7 +165,7 @@ msgstr "{0} 冰系伤害"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "HungerRegen"
-msgstr "{0} 饥饿值回复"
+msgstr "{0} 飢餓值回覆"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -201,7 +201,7 @@ msgstr "{0} 太空重力"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "SpaceJumpHeight"
-msgstr "{0} 太空跳跃高度"
+msgstr "{0} 太空跳躍高度"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -217,7 +217,7 @@ msgstr "{0} 太空跳跃高度"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "FlyingGravity"
-msgstr "{0} 飞行重力"
+msgstr "{0} 飛行重力"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -233,7 +233,7 @@ msgstr "{0} 飞行重力"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "SpaceFlyingGravity"
-msgstr "{0} 太空飞行重力"
+msgstr "{0} 太空飛行重力"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -246,7 +246,7 @@ msgstr "{0} 太空飞行重力"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "PetHealth"
-msgstr "{0 }宠物最大生命值"
+msgstr "{0 }寵物最大生命值"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -259,5 +259,5 @@ msgstr "{0 }宠物最大生命值"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "NormalDamage"
-msgstr "{0} 普通伤害"
+msgstr "{0} 普通傷害"
 

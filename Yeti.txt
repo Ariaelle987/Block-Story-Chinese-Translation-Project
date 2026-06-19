@@ -15,26 +15,26 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Otherworldly Visitors"
-msgstr "天外来客"
+msgstr "天外來客"
 
 msgid ""
 "The yeti howls angrily and draws an image in the snow.  You recognize it at "
 "once.  The Visitors.  Mister Yeti clearly wants them eliminated."
 msgstr ""
-"雪人愤怒地嚎叫着，在雪地上画出一幅图案。你立刻认出来了——访客。雪人显然希望他们被消灭。"
+"雪人憤怒地嚎叫著，在雪地上畫出一幅圖案。你立刻認出來了——訪客。雪人顯然希望他們被消滅。"
 
 msgid "The yeti growls inquisitively at your progress."
-msgstr "雪人发出好奇的低吼，似乎在询问你的进展。"
+msgstr "雪人發出好奇的低吼，似乎在詢問你的進展。"
 
 msgid "Tell the Yeti you have slain the visitors."
-msgstr "告诉雪人，你已经击败了访客。"
+msgstr "告訴雪人，你已經擊敗了訪客。"
 
 msgid ""
 "The yeti howls joyfully at your triumph over the visitors.  He rummages "
 "through his treasure stash and presents you with a metal contraption.  "
 "Surely there is some use for it."
 msgstr ""
-"雪人因你战胜访客而欢呼雀跃。他翻遍自己的宝藏堆，递给你一个金属装置。看起来应该能派上用场。"
+"雪人因你戰勝訪客而歡呼雀躍。他翻遍自己的寶藏堆，遞給你一個金屬裝置。看起來應該能派上用場。"
 
 # #-#-#-#-#  Yeti.po  #-#-#-#-#
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -54,5 +54,5 @@ msgid ""
 "A big smile passes over the yeti's face as you tell him of your battle with "
 "the visitors, but it appears he is not satisfied, yet."
 msgstr ""
-"当你向雪人讲述与访客的战斗时，他脸上露出灿烂的笑容，但看起来似乎仍然不太满意。"
+"當你向雪人講述與訪客的戰鬥時，他臉上露出燦爛的笑容，但看起來似乎仍然不太滿意。"
 
