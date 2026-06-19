@@ -118,6 +118,9 @@ jobs:
             '冰城': '冰城',
             '外来者': '來訪者',
             '熟肉': '烤肉',
+            '不需要回答': '不用回答',
+            '事情变得不同了': '情況就不同了',
+            '不要磨蹭': '別磨蹭',
         }
         
         TERMS_LIST = sorted(TERMS.items(), key=lambda x: len(x[0]), reverse=True)
