@@ -22,7 +22,7 @@ msgstr "暗影中的猎手~"
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:6
 #, no-wrap
 msgid "People of this world fear me for good reason.  I like to hide in the shadows to kill my prey so they never see what is coming.  My method is a secret I am willing to share with you."
-msgstr "这世上有人害怕我不是没有原因的。我喜欢躲在阴影中狩猎，这样就可以来无影去无踪了。我可以和你分享这些秘密。"
+msgstr "这世上有人害怕我不是没有原因的。我喜欢潜伏在阴影之中猎杀猎物，让它们直到最后一刻都不知道危险正在逼近。我可以和你分享这些秘密。"
 
 #. (itstool) path: craftstep/intro
 #. (itstool) path: craftstep/desc
@@ -30,7 +30,7 @@ msgstr "这世上有人害怕我不是没有原因的。我喜欢躲在阴影中
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:24
 #, no-wrap
 msgid "I like to use something called a bow.  It fires arrows from the webs I used to create it.  Craft a bow and some arrows and return to me for some training."
-msgstr "我喜欢用一种叫弓的武器。它会用制作时用到的蛛网发射箭矢。制作一把弓和一些箭，然后回来找我进行训练吧。"
+msgstr "我喜欢用一种叫弓的武器。它依靠制作时使用的蛛网作为弓弦来发射箭矢。制作一把弓和一些箭，然后回来找我进行训练吧。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:29
@@ -39,31 +39,31 @@ msgstr "我喜欢用一种叫弓的武器。它会用制作时用到的蛛网发
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:67
 #, no-wrap
 msgid "Tell the Alchemist that you have crafted the bow and arrows."
-msgstr "告诉炼金术士，你有弓箭。"
+msgstr "告诉炼金术士你已经制作好了弓和箭。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:25
 #, no-wrap
 msgid "You sure took a long time to create something so simple."
-msgstr "你肯定花了很久来做这么简单的东西。"
+msgstr "做这么简单的东西，你居然花了这么久。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:41
 #, no-wrap
 msgid "Are you sure you are ready to learn how to use the bow and arrows properly?"
-msgstr "你要学习使用弓箭吗？"
+msgstr "你确定已经准备好学习如何正确使用弓箭了吗？"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:52
 #, no-wrap
 msgid "I'm not surprised with how long it took for you to actually craft the bow and arrows.  Come back when you want to learn how to become a worthy hunter."
-msgstr "你大概以为自己做弓箭浪费的时间不算宝贵。真要当猎手就回来。"
+msgstr "你花了这么久才把弓箭做出来，我一点也不意外。等你想学着成为一名真正的猎人时再来找我。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:64
 #, no-wrap
 msgid "Very well.  We will start with some easy targets.  You know.  Helpless animals and such."
-msgstr "不错。先从简单的开始，比如猎杀无助的动物等。"
+msgstr "不错。先拿简单的目标练练手吧，就从那些毫无反抗之力的小动物开始。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:74
@@ -75,7 +75,7 @@ msgstr "使用你值得信赖的新弓猎杀几只鹿以获取它们的皮。我
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:82
 #, no-wrap
 msgid "Tell the Alchemist that you have hunted enough deer."
-msgstr "告诉炼金术士，你杀了鹿。"
+msgstr "告诉炼金术士你已经猎到了足够的鹿。"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:78
@@ -147,13 +147,13 @@ msgstr ""
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:71
 #, no-wrap
 msgid "Tell the Alchemist that you have the cauldron."
-msgstr "告诉炼金术士你已经制作好了炼药锅。"
+msgstr "告诉炼金术士你已经制作好了大锅。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:67
 #, no-wrap
 msgid "Do you expect me to be impressed?  You crafted a cauldron.  Have a trophy.  Let's get ready to create your first potion."
-msgstr "你该不会以为我会因此大吃一惊吧？你只是做了个炼药锅而已。喏，奖杯给你。现在准备制作你的第一瓶药水吧。"
+msgstr "你该不会以为我会因此大吃一惊吧？你只是做了个大锅而已。喏，奖杯给你。现在准备制作你的第一瓶药水吧。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:86
@@ -178,7 +178,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:116
 #, no-wrap
 msgid "Tell the Alchemist that you have the healing potion."
-msgstr "告诉炼金术士，你已经有了治疗药水。"
+msgstr "告诉炼金术士你已经炼制好了治疗药水。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:112
@@ -205,13 +205,13 @@ msgstr "在炼制法力药水前，你必须先收集所需材料。快去吧，
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:171
 #, no-wrap
 msgid "Tell the Alchemist that you have the mana potion."
-msgstr "告诉炼金术士，你已经做好了法力药水。"
+msgstr "告诉炼金术士你已经炼制好了法力药水。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:149
 #, no-wrap
 msgid "I must admit, I have never seen someone take to alchemy so skillfully.  Are you sure you have never done this before?  I suppose you do have an excellent teacher."
-msgstr "我得承认，从没见过有人炼金术这么得心应手。你确定以前从没练过吗？看来你确实有位好老师。"
+msgstr "我得承认，我从未见过有人在炼金术上如此有天赋。你确定以前从没练过吗？看来你确实有位好老师。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:168
@@ -235,7 +235,7 @@ msgstr "商店"
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 #, fuzzy
 msgid "Fuza"
-msgstr "来访者"
+msgstr "富扎"
 
 #, fuzzy
 msgid ""
@@ -326,7 +326,7 @@ msgid ""
 "mind for new paths. Only by defeating me will you prove you're worthy of it. "
 "Or are you afraid to let go of what you already know?"
 msgstr ""
-"遗忘卷轴乃是稀世神器，它能抹去知识，为心智开辟新道路。唯有击败我，你才能证明"
+"遗忘卷轴是一件稀有的古代遗物，它能抹去知识，为心智开辟新道路。唯有击败我，你才能证明"
 "自己配得上它。还是说，你害怕放下已有的认知？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
@@ -365,7 +365,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Duel the Alchemist for the Scroll of Oblivion."
-msgstr "与炼金术士决斗，赢取遗忘卷轴。"
+msgstr "为获得遗忘卷轴，与炼金术士决斗。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -403,7 +403,7 @@ msgid ""
 "You won. I didn’t expect you to dare, let alone succeed. Take the scroll. "
 "But remember: Oblivion doesn’t mean freedom."
 msgstr ""
-"你赢了。我没想到你敢来，更没想到你能成功。拿走卷轴吧。但记住：遗忘并不等于自"
+"你赢了。我没想到你敢来，更没想到你能成功。拿走卷轴吧。但记住：遗忘不意味着自"
 "由。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
