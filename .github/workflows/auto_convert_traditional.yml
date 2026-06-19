@@ -7,18 +7,22 @@ on:
       - '*.txt'
   workflow_dispatch:
 
+permissions:
+  contents: write  # 添加写入权限
+
 jobs:
   convert:
     runs-on: ubuntu-latest
     
     steps:
     - name: 获取代码
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # 升级到 v4
       with:
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}  # 使用 token
     
     - name: 设置 Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # 升级到 v5
       with:
         python-version: '3.10'
     
@@ -40,13 +44,17 @@ jobs:
         for file in glob.glob('*.txt'):
             if file in ['check_translation.py']:
                 continue
-            with open(file, 'r', encoding='utf-8') as f:
-                content = f.read()
-            converted = cc.convert(content)
-            output_path = f'Traditional_TW/{file}'
-            with open(output_path, 'w', encoding='utf-8') as f:
-                f.write(converted)
-            print(f'已转换: {file}')
+            try:
+                with open(file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                converted = cc.convert(content)
+                output_path = f'Traditional_TW/{file}'
+                with open(output_path, 'w', encoding='utf-8') as f:
+                    f.write(converted)
+                print(f'已转换: {file}')
+            except Exception as e:
+                print(f'转换失败 {file}: {e}')
+        print('转换完成！')
         "
     
     - name: 提交到繁体分支
@@ -55,8 +63,14 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         
-        # 切换到繁体分支（如果不存在则创建）
-        git checkout -b traditional-chinese || git checkout traditional-chinese
+        # 检查 traditional-chinese 分支是否存在
+        if git ls-remote --heads origin traditional-chinese | grep traditional-chinese; then
+          echo "分支存在，切换到 traditional-chinese"
+          git checkout traditional-chinese
+        else
+          echo "分支不存在，创建 traditional-chinese"
+          git checkout -b traditional-chinese
+        fi
         
         # 把繁体文件移到根目录
         cp Traditional_TW/* ./
@@ -64,5 +78,12 @@ jobs:
         
         # 添加所有txt文件
         git add *.txt
-        git commit -m "自动更新繁体版本" || echo "没有变更"
-        git push -f origin traditional-chinese
+        
+        # 检查是否有变更
+        if git diff --staged --quiet; then
+          echo "没有变更需要提交"
+        else
+          git commit -m "自动更新繁体版本"
+          git push origin traditional-chinese
+          echo "推送成功！"
+        fi
