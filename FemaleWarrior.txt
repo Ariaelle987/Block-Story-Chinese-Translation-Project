@@ -22,13 +22,13 @@ msgstr "龙靴"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:6
 #, no-wrap
 msgid "Do not blame yourself.  None of us saw through the Dragon Lord’s ruse.  I feel so foolish."
-msgstr "别责怪自己。我们谁也没预料到这些。我也是够蠢的。"
+msgstr "别责怪自己。我们谁都没能识破龙主的诡计。我真是愚不可及。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:14
 #, no-wrap
 msgid "When the dragons abandoned the Dragon Lord, they took his power with them.  In his weakened state he had no choice but to rely on someone else for help.  Someone powerful.  Someone...like you."
-msgstr "当龙主的龙弃他而去时，龙主的力量也随之而去。如此虚弱时，他别无选择，只能依靠别人。一个强大的人，比如...你。"
+msgstr "当龙主的龙弃他而去时，它们把龙主的力量一并带走了。如此虚弱时，他别无选择，只能依靠别人。一个强大的人，比如...你。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:17
@@ -36,13 +36,13 @@ msgstr "当龙主的龙弃他而去时，龙主的力量也随之而去。如此
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:37
 #, no-wrap
 msgid "Speak to Paula about the Wizard's betrayal."
-msgstr "与葆拉谈谈龙主的背叛。"
+msgstr "与葆拉谈谈巫师的背叛。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:24
 #, no-wrap
 msgid "With the last of his magic, the Dragon Lord concealed himself with a glamer, taking on the appearance of a weak old man.  He then used you to do his bidding, to bring his dragons home, and make him more powerful than ever.  He tricked you.  We were all fooled."
-msgstr "龙主用他最后的魔力来掩饰自己，将自己变成一位无助的老人。然后，他利用了你，将龙带了回来，使他比以往任何时候都更具力量。所以他欺骗了你，我们都上当了。"
+msgstr "龙主用他最后的魔力来掩饰自己，伪装成一位虚弱的老人。然后，他利用了你，将龙带了回来，使他比以往任何时候都更具力量。所以他欺骗了你，我们所有人都被蒙骗了。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:34
@@ -72,7 +72,7 @@ msgstr "告诉葆拉，你制作了龙靴。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:58
 #, no-wrap
 msgid "Buckle on those boots, Dragon Rider.  There is still more to do."
-msgstr "龙骑士，穿上你的长靴。还有许多要做。"
+msgstr "穿上那双龙靴吧，龙骑士。还有许多要做。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:77
@@ -84,7 +84,7 @@ msgid ""
 msgstr ""
 "下一件龙防具灵感来自北欧设计。我想你应该知道去哪里。\n"
 "\n"
-"朋友，赶快去吧。你必须让龙主为他的背叛付出代价。"
+"朋友，赶快去吧。让龙主为他的背信弃义付出代价。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:84
@@ -132,7 +132,7 @@ msgstr "非常感谢！明天带来更多，我会继续研究新的武器。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:46
 #, no-wrap
 msgid "That should do it!  Oh, Dragon Rider, feast your eyes on this beauty!"
-msgstr "完成了！噢，龙骑士，看看这个！"
+msgstr "完成了！噢，龙骑士，快看看这件杰作吧！"
 
 #. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml/quest@title
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:1
@@ -149,7 +149,7 @@ msgstr "龙骑士！这真是个不错的惊喜。好久不见了。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:19
 #, no-wrap
 msgid "It fills me with warmth to see you and your dragon.  I’ve missed you both so.  As for your mission, only through combat and rigorous training will your dragon grow stronger."
-msgstr "看到你和你的龙使我感到温暖。我真的很想你们。至于任务，只有通过战斗和严格的训练，你的龙才会变得更加强大。"
+msgstr "见到你和你的龙，我心里暖洋洋的。我真的很想你们。至于任务，只有通过战斗和严格的训练，你的龙才会变得更加强大。"
 
 #. (itstool) path: step/intro
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:33
@@ -159,7 +159,7 @@ msgid ""
 "\n"
 "When you are able to ride your dragon, speak to me again."
 msgstr ""
-"当我想到你很久以前来到这里时，我笑着。直到现在，你成长了很多 - 当然，你的龙也一样。\n"
+"每当想起你当年来到这片土地时，我都会会心一笑。直到现在，你成长了很多 - 当然，你的龙也一样。\n"
 "\n"
 "当你能够骑龙的时候，请告诉我。"
 
@@ -167,7 +167,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:43
 #, no-wrap
 msgid "Craft a Saddle and mount the dragon."
-msgstr "骑龙前要制作一个鞍。"
+msgstr "制作一个鞍具并骑上你的龙。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:59
@@ -195,7 +195,7 @@ msgstr ""
 "\n"
 "我的祝福与你同在。我只希望我们可以与龙并肩飞翔。\n"
 "\n"
-"重返龙主那儿去，完成你的任务。"
+"回去找魔法师，完成你的任务。"
 
 #. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml/quest@title
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:1
@@ -206,7 +206,7 @@ msgstr "训龙"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:6
 #, no-wrap
 msgid "So you wish to train this lizard whelp and take on the Dragon Lord?  Hey, it's your funeral."
-msgstr "所以，你想要培养这种蜥蜴仔，并意图打败龙主？嘿，这是自寻死路。"
+msgstr "所以，你想要培养那只蜥蜴崽子，并意图打败龙主？嘿，这是自寻死路。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:14
@@ -216,9 +216,9 @@ msgid ""
 "\n"
 "Find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
 msgstr ""
-"杀死强大的怪物是强化龙的最快方法。当龙打败怪物时，它会升级并最终成长为一位强大的生物。\n"
+"杀死强大的怪物是强化龙的最快方法。当龙打败怪物时，它会升级并最终成长为一种强大的生物。\n"
 "\n"
-"寻找一些狼人并制止他们的恐怖行为。狼人生活在红杉林的山上。"
+"寻找一些狼人并终结他们带来的恐怖。狼人生活在红杉林的山上。"
 
 #. (itstool) path: killstep/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:19
@@ -228,7 +228,7 @@ msgid ""
 "\n"
 "But first find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
 msgstr ""
-"我很乐意帮助你。龙主杀了很多人。他必将血债血偿。\n"
+"我很乐意帮助你。龙主杀了很多人。他必须为此付出代价。\n"
 "\n"
 "但首先找到一些狼人并干掉他们。狼人生活在长了红杉树的山上。"
 
@@ -264,7 +264,7 @@ msgid ""
 "\n"
 "But your dragon still needs training.  Find some black werewolves and put an end to their wickedness."
 msgstr ""
-"看到你和你的龙一起合作令我非常高兴。龙是很伟大的生物，不是吗？那么强大，那么聪明。我真希望它们都可以像你一样友善。\n"
+"看到你和你的龙一起合作令我非常高兴。龙是何等威严而高贵的生物，不是吗？那么强大，那么聪明。我真希望它们都可以像你的龙一样友善。\n"
 "\n"
 "但是你的龙仍然需要训练。寻找一些黑狼人并干掉他们。"
 
@@ -278,7 +278,7 @@ msgstr "告诉葆拉，你杀死了黑狼人。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:53
 #, no-wrap
 msgid "Some say the Dragon Lord's evil power draws monsters to this place and makes them violent.  The faster you defeat them, the faster more appear.  But still, every little bit helps.  Good work."
-msgstr "有人说，龙主的邪恶力量将吸引怪物到这个地方，还使得他们变得更加暴力。你越快地打败他们，它们就越快出现。但是，每一点的付出也有回报。做得好。"
+msgstr "有人说，龙主的邪恶力量将吸引怪物到这个地方，还使得他们变得更加暴力。你越快地打败他们，它们就越快出现。不过，无论多小的努力都会有所帮助。做得好。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:76
@@ -328,13 +328,13 @@ msgstr "小心来自暴龙的致命一咬和它巨大的脚，否则他会像踩
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:134
 #, no-wrap
 msgid "Tell Paula that Rex has been slain."
-msgstr "告诉葆拉，暴龙已被消灭。"
+msgstr "告诉葆拉，暴龙已被击败"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:102
 #, no-wrap
 msgid "Unbelievable.  Rex is vanquished.  And it's all thanks to you.  Your dragon seems happy the battle is over."
-msgstr "难以置信。暴龙被征服。这一切都是你的功劳。你的龙似乎也很高兴战斗已经结束。"
+msgstr "难以置信。暴龙被征服。这一切都是你的功劳。看起来你的龙也为这场战斗的结束而感到高兴。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:121
@@ -404,7 +404,7 @@ msgstr "你必须做好准备。要是你和你的龙不够强大，你不可能
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:15
 #, no-wrap
 msgid "What will I do when it’s all over?  Raise my animals in peace.  I suppose Ted will build his city.  What will you do?"
-msgstr "一切结束后我该去做什么？平静地饲养我的动物？我想帮泰德建造他的城市。你呢？"
+msgstr "一切结束后我该去做什么？安安静静地照料我的那些动物吧。我想帮泰德建造他的城市。你呢？"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:18
@@ -422,13 +422,13 @@ msgstr "你是我所认识的最伟大的人。我相信你可以给这场战争
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
 #, no-wrap
 msgid "Tell Paula the dragon has reached its maximum potential."
-msgstr "告诉葆拉，你的龙达到了最大潜力。"
+msgstr "告诉葆拉，你的龙达到了全部潜能。"
 
 msgid "The Maturation of the Dragon"
 msgstr "龙的成熟"
 
 msgid "Tell Paula the Xordaraxus has reached its maximum potential."
-msgstr "告诉葆拉，索达拉修斯达到了最大潜力。"
+msgstr "告诉葆拉，索达拉修斯达到了全部潜能。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -446,7 +446,7 @@ msgid ""
 "saw my beloved dragon, whom I considered dead. Do you remember, I told you "
 "about my dragon Xordaraxus?"
 msgstr ""
-"我一直相信你会胜利，我很高兴没有看错人。\n"
+"我始终相信你会取得胜利，我很高兴没有看错人。\n"
 "但是我为什么要哭？这些是喜悦的眼泪，因为在战斗中我看到了自己心爱的龙，我以为它已经死了。你还记得我曾经的龙——索达拉修斯吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -470,8 +470,8 @@ msgid ""
 "    I could hardly recognize him, but it is undoubtedly him. I am so glad to "
 "be able to see him again."
 msgstr ""
-"我为它伤心，想念着它，事实证明，它没有死，它被这个卑鄙的龙主偷走了！\n"
-"    天哪，那只英俊的龙在龙主的黑暗咒语下完全变了...\n"
+"我为它伤心，想念着它，事实证明，它没有死，是那个卑鄙的龙主把它夺走了\n"
+"    天哪，那只英俊的龙在龙主邪恶魔法的侵蚀下完全变了...\n"
 "    我几乎认不出它来，但这肯定是它。很高兴能够再见它一面。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -495,7 +495,7 @@ msgid ""
 "    But this is not an easy goal, are you ready to start?"
 msgstr ""
 "我曾看见龙主虐待他的龙，他不配拥有它们！但我没法照顾小龙。\n"
-"    只有你，龙骑士，才能安抚这三条龙，并成为他们的良师益友。\n"
+"    只有你，龙骑士，才能驯服那三条龙，并成为他们的良师益友。\n"
 "    但这不是一个简单的目标，你准备好开始了吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -519,7 +519,7 @@ msgid ""
 "this obstinate dragon."
 msgstr ""
 "我想你无疑是会同意帮助不幸的龙。那么就开始吧。\n"
-"      冰龙非常任性和叛逆，要制服它，你得耗费大量精力。只有龙心的力量才能制服这家伙。"
+"      冰龙非常任性和叛逆，要驯服它，你得耗费大量精力。只有龙心的力量才能制服这家伙。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -531,7 +531,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 msgid "The Sullen Dragon"
-msgstr "忧郁的龙"
+msgstr "孤僻的龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -554,7 +554,7 @@ msgid ""
 "you with this."
 msgstr ""
 "噢！你已经把它们带来了吗？若是你能够完成这项艰巨的任务，你就不失为一位伟大的战士，龙骑士。\n"
-"      现在，你可以更轻松地制服冰龙了。我会想办法帮你的。"
+"      现在，你可以更轻松地驯服冰龙了。我会想办法帮你的。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -570,7 +570,7 @@ msgid ""
 "lot of work to do, and before we embark on it, I have to tell you something. "
 "Are you ready to listen to a long story?"
 msgstr ""
-"我知道你要精力照料新龙。但我们还有很多工作要做，在着手开始之前，我得告诉你一些事情。你准备好听一个长篇故事了吗？"
+"我知道你一定会好好照顾你的新伙伴——那条龙。但我们还有很多工作要做，在着手开始之前，我得告诉你一些事情。你准备好听一个长篇故事了吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -589,7 +589,7 @@ msgid ""
 "Before I begin, I have to show you one amazing thing with the help of which "
 "you can gain power over the Fire Dragon."
 msgstr ""
-"在开始之前，我得向你展示一件令人惊奇的东西，借助你可以得到火龙的力量。"
+"在开始之前，我得向你展示一件令人惊奇的东西，借助你可以获得驾驭火龙的力量。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -657,7 +657,7 @@ msgid ""
 "over which the Phoenix reigns."
 msgstr ""
 "但你不惧困难，龙骑士，不是吗？如果你决定去那里，你不仅会发现危险，而且会深深地记住一段很长时间的冒险经历。\n"
-"      随着高度的增长，你会看到寒冷的月光荒地，有毒的河流和湖泊，河岸上的巨大发光城市，无尽的蘑菇湿地，再更高些，你会发现处于不死鸟菲尼克斯统治下的远古雨林。"
+"      随着高度的增长，你会看到寒冷的月光荒地，有毒的河流和湖泊，河岸上的灯火辉煌的巨型城市，无尽的蘑菇湿地，再更高些，你会发现处于不死鸟菲尼克斯统治下的原始丛林。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -682,7 +682,7 @@ msgid ""
 "      Probably the time has come to check whether ancient legends tell the "
 "truth because only you can go there."
 msgstr ""
-"生活在这些丛林中的野兽大都非常好战，其树屋由美丽且耐用的名为琥珀的石头制成。如果你仍要前往这个危险的世界，能带些回来吗？\n"
+"这片丛林中生活着许多野蛮部落，其中一些极为好战，其树屋由美丽且耐用的名为琥珀的珍贵材料制成。如果你仍要前往这个危险的世界，能带些回来吗？\n"
 "      但是我在说什么呢？这只是个传说，没人知道这个世界是否真的存在。\n"
 "      也许是时候检验一下这个传说是否真实了，因为只有你才能去那里。"
 
@@ -734,7 +734,7 @@ msgid ""
 "they can’t survive in a strange cruel world. Only the Mechanical pet and "
 "Maty pet could accompany you on this journey."
 msgstr ""
-"现在是时候上路了，但是请遵循我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物，外星狗宠物和玛蒂宠物可以与你相伴。"
+"现在是时候上路了，但是请遵循我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物，外星狗宠物和玛蒂宠物能够陪伴你踏上这段旅程。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -754,7 +754,7 @@ msgid ""
 "world existence. I will look forward to hearing from you; I still have a lot "
 "to tell you. Bring amber to prove that this world really exists."
 msgstr ""
-"尽管这样，但还是让我们毫不犹豫地出发吧，揭示这个神秘世界的秘密。我期待你的消息。我还有很多要告诉你。带来琥珀，以证明这个世界确实存在。"
+"事不宜迟，让我们出发吧，揭示这个神秘世界的秘密。我期待你的消息。我还有很多要告诉你。带来琥珀，以证明这个世界确实存在。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -776,7 +776,7 @@ msgid ""
 "      But what is it? Have you brought this amazing stone called amber? So "
 "the world in which you got it really exists!"
 msgstr ""
-"龙骑士，你离开太久了！想必你经历了艰难的旅程，我很高兴看到你平安归来。\n"
+"龙骑士，你离开多久了！想必你经历了艰难的旅程，我很高兴看到你平安归来。\n"
 "      但那是什么？你带来了这种叫琥珀的神奇石头吗？也就是说，那个世界确实存在！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -796,7 +796,7 @@ msgid ""
 "by Fuza, who live in the Ice cities."
 msgstr ""
 "但是你看起来如此疲惫，想必你在外星世界度过了一段艰难的时光。\n"
-"      我知道怎么帮你。有关你不寻常的旅程的消息四处传播，炼金术士告诉了我一些有趣的事情，那是住在冰城的一种外星人——“富扎”对他说的。"
+"      我知道怎么帮你。有关你不寻常的旅程的消息四处传播，炼金术士告诉了我一些有趣的事情，那是住在冰城的一种外星人——"富扎"对他说的。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -846,7 +846,7 @@ msgid ""
 msgstr ""
 "古代传说中描述，你刚刚到达过的世界即为他们的故乡。很久以前，它们曾乘大型飞船从那里飞过，这种飞船无需借助魔法就能在空中翱翔。\n"
 "      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，阿什科尔，他们非常害怕。\n"
-"      因此，它们决定扎根海洋。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
+"      因此，它们决定迁往地面生活。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -873,8 +873,8 @@ msgid ""
 "the help of it, they found the opportunity to live on the surface."
 msgstr ""
 "但是它们的飞船掉入海中沉没了。他们说它仍在那里。泰德甚至声称，有一次，当他在明朗的晴天钓鱼时，大海特别平静，他透过水看到了它的轮廓，但没人相信他。\n"
-"      船上的游客并没有死掉。最初，他们建造了水下圆顶房并居住在其中，太阳的光亮会杀死他们，直到夜晚他们才去往地面。\n"
-"      直到它们设法获得一种不寻常的物质 - 诱变剂后。在它的帮助下，它们才找到了在地表生活的机会。"
+"      飞船上的来访者并没有因此丧命。最初，他们建造了水下圆顶房并居住在其中，因为阳光对他们而言是致命的，因此，直到夜晚他们才去往地面。\n"
+"      直到它们设法获得一种不寻常的物质 - 诱变剂后。在它的帮助下，它们才得到了在地表生活的机会。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -920,9 +920,9 @@ msgid ""
 "will help us create equipment with which you can stay in an alien world for "
 "as long as you want without any harm to health."
 msgstr ""
-"但是为什么我要告诉你这一切？那些外星人，很高兴得知你的旅行消息(当然，是炼金术士对他们说的)。\n"
-"      他们说，那儿留下的人民以及他们仍希望生活在无尽的蘑菇湿地中，那儿有一种被称为奇迹之石的遗物。\n"
-"      这块石头不仅美丽，而且具有独特的特性，这将有助于我们做出可以让你在外星球上呼吸的设备，只要你想保持健康。"
+"但是为什么我要告诉你这一切？富扎族人在得知你的旅程后十分高兴(当然，是炼金术士对他们说的)。\n"
+"      他们说，他们留在故乡的同胞以及他们仍希望生活在无尽的蘑菇湿地中，那儿有一种被称为奇迹之石的遗物。\n"
+"      这块石头不仅美丽，而且具有独特的特性，这让你能够长期在外星生活而不会损害生命。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -946,7 +946,7 @@ msgid ""
 "they said, this relic is not so easy to pick up. I do not know what these "
 "words mean, you have to figure it out by yourself."
 msgstr ""
-"他们要求你为他们得到这个遗物，以便存放在被遗弃的家园中。但他们很久以前就离开了家园，以致没有谁确切记得这东西的存放地。\n"
+"他们要求你为他们得到这个遗物，将它作为被遗弃故乡的纪念品保存下来。但他们很久以前就离开了家园，以致没有谁确切记得这东西的存放地。\n"
 "      它们只知道要在蘑菇湿地的同类的定居点中其中一个蘑菇屋里寻找这块石头。它们说，要小心，这东西不是那么容易得到。我不知道这是什么意思，所以你不得不自己搞清楚。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -959,7 +959,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 msgid "Spacesuit"
-msgstr "宇航服"
+msgstr "宇航头盔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -979,7 +979,7 @@ msgid ""
 "How beautiful this stone is, the relic of Umhi! Now you can create the "
 "equipment for a new trip to an alien world."
 msgstr ""
-"这块石头真是漂亮，是他们的遗物！现在，你可以为新的外星之旅打下基础了。"
+"这块石头真是漂亮，这是尤希星族的遗物！现在，你可以为新的外星之旅打下基础了。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1002,7 +1002,7 @@ msgid ""
 msgstr ""
 "在我看来，你的装备不足以与不死鸟抗衡。但是，是否有能够抵抗不死鸟猛攻的盔甲呢？\n"
 "    当你四处寻找遗迹时，哥布林也想出一份力，他研究了许多古代传说，以寻找该问题的答案。\n"
-"    他在沙漠塔上呆了几天，那里保存着许多旧书，最后，在一本古籍中，有提到可以助你取胜的盔甲。"
+"    他在沙漠高塔中埋头研究了数日数夜，那里保存着许多旧书，最后，在一本古籍中，有提到可以助你取胜的盔甲。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1027,7 +1027,7 @@ msgid ""
 "    The book mentions that they called themselves Maya, but I do not know "
 "whether to believe it or not."
 msgstr ""
-"书中说，在那拥有大树、不死鸟的太空中，你可以找到隐藏在森林中的巨大金字塔和庙宇。\n"
+"书中说，在那拥有大树、不死鸟的外星中，你可以找到隐藏在森林中的巨大金字塔和庙宇。\n"
 "    这些是在他们到来之前很久就在那里的古代建筑。没人知道这些金字塔的建造者是谁。\n"
 "    书中提到他们自称玛雅，但我不确定能否相信它。"
 
@@ -1052,8 +1052,8 @@ msgid ""
 "of them came back. Also, each pyramid is guarded by numerous and ferocious "
 "dreamcats."
 msgstr ""
-"那里的居民，就是琥珀屋的居民，他们试图绕开金字塔，并且从不进去。按他们的信仰，进入金字塔的人永远不可能出得来。\n"
-"      许多冒险家试图一探这些古老的建筑，但没有一个回来。而且，每个金字塔都被众多凶猛的梦豹守卫着。"
+"那里的居民，就是琥珀屋的居民，他们试图绕开金字塔，并且从不进去。按他们的信仰，凡是胆敢进入金字塔的人都必死无疑。\n"
+"      许多冒险家试图一探这些古老的建筑，但没有一个回来。而且，每个金字塔都被众多凶猛的梦猫守卫着。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1096,7 +1096,7 @@ msgid ""
 "the time, and it is impossible to read the description of the pyramid in "
 "which the cache with the amber block is located."
 msgstr ""
-"不幸的是，当时哥布林阅读的这本书因时间问题已严重受损，无法阅读有关琥珀砖房间所在的金字塔的描述。"
+"不幸的是，当时哥布林阅读的这本书因时间问题已严重受损，无法阅读有关藏有琥珀砖的密藏所在的金字塔的描述。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1252,7 +1252,7 @@ msgid ""
 msgstr ""
 "我已经告诉过你了，只有击败菲尼克斯的人才能征服火龙。现在，你已经准备好一切，是时候迎来决定性的战斗了。\n"
 "    但这场战斗绝不会轻松。要召唤菲尼克斯，你必须找到它的蛋并将其打碎。只有像你这样强大的战士才能做到。\n"
-"    菲尼克斯死了可以一次又一次重生。每次复活，它的力量都会增强，当它变得极其强大时，火焰甚至会从它的翅膀上倾泻而下……"
+"    菲尼克斯死后可以一次又一次重生。每次复活，它的力量都会增强，当它变得极其强大时，火焰甚至会从它的翅膀上倾泻而下……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1317,7 +1317,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Have you found all the hearts?"
-msgstr "找到所有的心了吗？"
+msgstr "找到所有龙心了吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1361,7 +1361,7 @@ msgid ""
 "Fire dragon and your strength will increase even more. \n"
 "      I am sure you will get along well with each other."
 msgstr ""
-"我知道你会赢，我一直相信着你。现在，你可以驯服火龙，并且你的力量将会进一步增强。\n"
+"我知道你会赢，我一直相信着你。现在，你可以驯服火龙，并且你的力量已经成倍增长。\n"
 "      我相信你们会相处得很好。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -1573,8 +1573,8 @@ msgid ""
 "not know. But I know that this incredible power can drive a person crazy, as "
 "it did to the Dragon Lord."
 msgstr ""
-"现在，当你获得对龙的控制权时，你的力量就会增强。我必须警告你。 并非每个人都能承受这种权力的负担，将权力用于邪恶的欲望总是伴随着你。\n"
-"      作为主人，你可能无法应付，黑暗力量的诱惑曾击溃了龙主。你喜欢接受还是抗拒，我不清楚。但我知道，这种不可思议的力量会使人疯狂，就像那龙主一样。"
+"现在，当你获得对龙的控制权时，你的力量就会成倍增长。我必须警告你。 并非所有人都能承受这种权力的负担，将权力用于邪恶的欲望总是伴随着你。\n"
+"      作为主人，你可能无法应付，黑暗力量的诱惑曾击溃了龙主。你选择接受还是抗拒，我不清楚。但我知道，这种不可思议的力量会使人疯狂，就像那龙主一样。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1593,7 +1593,7 @@ msgid ""
 "You have to choose your own path. I want to hope that we will see each other "
 "again. But just in case, goodbye, Dragon Rider."
 msgstr ""
-"你必须选择自己的道路。但愿我们能再次见面。"
+"你必须选择自己的道路。但若这是最后一次相见，那么，再见了，龙骑士。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1640,8 +1640,8 @@ msgid ""
 "    Now we will get done with the Dragon Lord forever because this world has "
 "a protector no less powerful than him."
 msgstr ""
-"我知道你会回来，尽管我有疑问，因为只有一个拥有难以置信的意志力的人才能抵抗无限权力的诱惑，但是我内心始终对你保有信任。\n"
-"    现在，我们将永远解决龙主这个麻烦，因为这个世界拥有一个与它一样强大的守护者。"
+"我知道你一定会回来，虽然我也曾怀疑过，因为只有一个拥有难以置信的意志力的人才能抵抗无限权力的诱惑，但在我的内心深处，我始终相信你。\n"
+"    现在，我们终于能够彻底终结龙主的威胁了，因为这个世界拥有了一位足以与他匹敌的守护者。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1658,8 +1658,9 @@ msgid ""
 "    You can’t hide from him anywhere, and his name is usually mentioned only "
 "in a whisper."
 msgstr ""
-"现在剩下的，只有清除我们世界中的一个可怕生物 —— 一个黑暗之物。它每晚都有可能无声出现，制造无数麻烦，\n"
-"    没有地方能躲得过它，而它的名字通常只会被低声提起。"
+"如今只剩下最后一个威胁需要被清除——那是来自黑暗的可怕存在。\n"
+"    它每当夜幕降临时便会突然现身，制造无数灾祸。\n"
+"    无论躲到哪里都无法逃离它的追踪，因此人们甚至只敢低声提起它的名字。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1696,10 +1697,12 @@ msgid ""
 "appears at night and for which there are no barriers. \n"
 "    This is an evil dark spirit that claimed many lives and his name is Mati."
 msgstr ""
-"他来自另一个世界，很长一段时间里，他只是默默观察，从未干涉人类的生活。\n"
-"    只有他的眼睛偶尔在夜空中闪现，令人心生恐惧。但后来，他出现在人们面前，无人能逃脱他的威胁。\n"
-"    或许是龙主的黑暗咒语召唤了他。他是夜晚出现的邪恶之灵，无物可挡。\n"
-"    这是一位夺走无数生命的黑暗恶灵，他的名字叫玛蒂。"
+"他来自另一个世界。很长一段时间里，他始终只是旁观者，从未干涉人类的生活。\n"
+"    只有那双偶尔出现在夜空中的眼睛，会让人感到不寒而栗。\n"
+"    然而后来，他真正出现在世人面前，而从那一刻起，再也没有人能够逃离他的阴影。\n"
+"    或许正是龙主施展的黑暗魔法将他召唤到了这里。\n"
+"    他是夜晚降临的灾厄，是一道没有任何屏障能够阻挡的邪恶存在。\n"
+"    这个夺走无数生命的黑暗之灵，名叫玛蒂。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1721,9 +1724,9 @@ msgid ""
 "\n"
 "    Take this staff, it will help you kill this evil spirit."
 msgstr ""
-"他身上布满了邪恶的咒语，普通武器对他毫无作用。只有魔法才能打败这个怪物。我知道你的实力非凡，更好地武装自己对你没有坏处。\n"
+"邪恶的咒文覆盖着他的身体，普通武器根本无法伤害他，只有魔法的力量才能将其击败。\n"
 "\n"
-"    拿上这根法杖，它将帮助你消灭这只恶灵。"
+"    我知道你的实力已经十分强大，但做好更充分的准备总没有坏处。拿上这根法杖吧，它会帮助你消灭这个邪恶的灵体。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1739,7 +1742,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Now go and clear this world from this evil spirit."
-msgstr "现在，杀掉这个邪恶的灵魂以净化世界。"
+msgstr "去吧，将这个邪恶的恶灵从世界上彻底清除。"
 
 msgid "Tell Paula that you killed Mati."
 msgstr "告诉葆拉，你杀死了玛蒂。"
@@ -1763,7 +1766,7 @@ msgid ""
 "afraid of! You cleansed our land of evil and chose the hard path of the "
 "protector of this world. Legends will be composed of your exploits."
 msgstr ""
-"最后，这个可怕的生物消失了，那个每个人都害怕的生物！你净化了世界的邪恶之地，选择了保护这个世界的艰难道路。传奇将由你的成就组成。"
+"最后，那个令所有人闻风丧胆的可怕怪物终于被消灭了！那个令所有人闻风丧胆的可怕怪物终于被消灭了！你驱散了这片土地上的邪恶，并选择了成为世界守护者这条艰难的道路。你的功绩必将被世代传颂，并化作新的传奇。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1785,8 +1788,8 @@ msgid ""
 "    Good luck, Dragon Rider, maybe we'll meet again and I will reveal to you "
 "new secrets of our world."
 msgstr ""
-"照顾好你的龙，指导并训练它们，因为邪恶会随时归来。\n"
-"    祝你好运，龙骑士，也许我们会再见面。那样的话，我将向你透露世界的新秘密。"
+"照顾好你的龙伙伴们，好好训练并引导它们。，因为邪恶随时都有可能卷土重来。\n"
+"    或许未来我们还会再次相见，到那时，我会向你揭示这个世界更多不为人知的秘密。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1806,7 +1809,7 @@ msgid ""
 "they can’t survive in a strange cruel world. Only the Mechanical pet and "
 "Mati pet could accompany you on this journey."
 msgstr ""
-"现在是时候上路了，但先听听我的建议 - 把你的宠物都留在家里，它们无法在一个陌生的残酷世界中生存。只有机械宠物，外星狗宠物和玛蒂宠物可以与你相伴。"
+"是时候启程了，但请记住我的忠告——把其他宠物留在家中，它们无法在那个陌生而残酷的世界中生存。只有机械宠物，外星狗宠物和玛蒂宠物能够陪伴你踏上这段旅程。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1832,6 +1835,11 @@ msgid ""
 "remained on the Heavenly islands to be closer to their homeland, the rest "
 "flew down..."
 msgstr ""
-"古代传说中描述，你刚刚返回的那个世界正是它们的故乡。很久很久以前，它们曾驾驶一艘庞大的飞行船从那里起航，这艘船无需魔法便能在空中飞行。\n"
-"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的生物，阿什科尔，它们对此心生畏惧。\n"
-"      因此，它们决定降落到地面。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
+"古老的传说记载着，你刚刚归来的那个世界，正是他们曾经的故乡。\n"
+"在遥远的过去，他们乘坐着一艘巨大的飞船离开那里。那艘飞船无需任何魔法，便能自由翱翔于天空之中。\n"
+"在自己的故乡，他们曾是囚徒与被放逐者。\n"
+"最终，他们成功逃离了那个世界，来到我们的土地。\n"
+"起初，他们降落在天空群岛之上。\n"
+"然而那里栖息着强大的阿什科尔，因此他们始终生活在恐惧之中。\n"
+"后来，他们决定前往地表定居。\n"
+"一部分人仍留在天空群岛，希望离自己的故乡更近一些；而其余的人，则飞向了下方的大地……"
