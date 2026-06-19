@@ -17,7 +17,7 @@ msgid "Claim Reward"
 msgstr "领取奖励"
 
 msgid "Stone Breaker"
-msgstr "碎石者"
+msgstr "破石者"
 
 msgid "Break {0} blocks with the {1}."
 msgstr "使用{1}去打破{0}方块。"
