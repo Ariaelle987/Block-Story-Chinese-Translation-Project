@@ -22,7 +22,7 @@ msgstr "暗影中的獵手~"
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:6
 #, no-wrap
 msgid "People of this world fear me for good reason.  I like to hide in the shadows to kill my prey so they never see what is coming.  My method is a secret I am willing to share with you."
-msgstr "這世上有人害怕我不是沒有原因的。我喜歡躲在陰影中狩獵，這樣就可以來無影去無蹤了。我可以和你分享這些秘密。"
+msgstr "這世上有人害怕我不是沒有原因的。我喜歡潛伏在陰影之中獵殺獵物，讓它們直到最後一刻都不知道危險正在逼近。我可以和你分享這些秘密。"
 
 #. (itstool) path: craftstep/intro
 #. (itstool) path: craftstep/desc
@@ -30,7 +30,7 @@ msgstr "這世上有人害怕我不是沒有原因的。我喜歡躲在陰影中
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:24
 #, no-wrap
 msgid "I like to use something called a bow.  It fires arrows from the webs I used to create it.  Craft a bow and some arrows and return to me for some training."
-msgstr "我喜歡用一種叫弓的武器。它會用製作時用到的蛛網發射箭矢。製作一把弓和一些箭，然後回來找我進行訓練吧。"
+msgstr "我喜歡用一種叫弓的武器。它依靠製作時使用的蛛網作為弓弦來發射箭矢。製作一把弓和一些箭，然後回來找我進行訓練吧。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:29
@@ -39,31 +39,31 @@ msgstr "我喜歡用一種叫弓的武器。它會用製作時用到的蛛網發
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:67
 #, no-wrap
 msgid "Tell the Alchemist that you have crafted the bow and arrows."
-msgstr "告訴鍊金術士，你有弓箭。"
+msgstr "告訴鍊金術士你已經製作好了弓和箭。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:25
 #, no-wrap
 msgid "You sure took a long time to create something so simple."
-msgstr "你肯定花了很久來做這麼簡單的東西。"
+msgstr "做這麼簡單的東西，你居然花了這麼久。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:41
 #, no-wrap
 msgid "Are you sure you are ready to learn how to use the bow and arrows properly?"
-msgstr "你要學習使用弓箭嗎？"
+msgstr "你確定已經準備好學習如何正確使用弓箭了嗎？"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:52
 #, no-wrap
 msgid "I'm not surprised with how long it took for you to actually craft the bow and arrows.  Come back when you want to learn how to become a worthy hunter."
-msgstr "你大概以為自己做弓箭浪費的時間不算寶貴。真要當獵手就回來。"
+msgstr "你花了這麼久才把弓箭做出來，我一點也不意外。等你想學著成為一名真正的獵人時再來找我。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:64
 #, no-wrap
 msgid "Very well.  We will start with some easy targets.  You know.  Helpless animals and such."
-msgstr "不錯。先從簡單的開始，比如獵殺無助的動物等。"
+msgstr "不錯。先拿簡單的目標練練手吧，就從那些毫無反抗之力的小動物開始。"
 
 #. (itstool) path: killstep/intro
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:74
@@ -75,7 +75,7 @@ msgstr "使用你值得信賴的新弓獵殺幾隻鹿以獲取它們的皮。我
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:82
 #, no-wrap
 msgid "Tell the Alchemist that you have hunted enough deer."
-msgstr "告訴鍊金術士，你殺了鹿。"
+msgstr "告訴鍊金術士你已經獵到了足夠的鹿。"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:78
@@ -139,20 +139,21 @@ msgid ""
 "\n"
 "But you are going to need to craft a Cauldron to make those kinds of discoveries."
 msgstr ""
-"化學就像人一樣。當兩種化學物質結合時，會產生反應。也許很溫和，但有時，結果卻會爆炸！化學就是愛，我的朋友。\n"
-"不過，你需要製作一個大鍋才能進行這樣的實驗。"
+"化學物質就像人一樣。當兩種化學物質混合在一起時，就會產生反應。也許反應平淡無奇，但有時結果會十分驚人！化學就像愛情一樣，我的朋友。\n"
+"\n"
+"不過，要進行這些發現，你得先製作一個煉藥鍋。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:71
 #, no-wrap
 msgid "Tell the Alchemist that you have the cauldron."
-msgstr "告訴鍊金術士，你有大鍋。"
+msgstr "告訴鍊金術士你已經製作好了大鍋。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:67
 #, no-wrap
 msgid "Do you expect me to be impressed?  You crafted a cauldron.  Have a trophy.  Let's get ready to create your first potion."
-msgstr "你以為我會被你驚豔到嗎？你製作了一個大鍋，獎勵可拿好了。現在，準備煉製你的第一瓶藥水吧。"
+msgstr "你該不會以為我會因此大吃一驚吧？你只是做了個大鍋而已。喏，獎盃給你。現在準備製作你的第一瓶藥水吧。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:86
@@ -177,7 +178,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:116
 #, no-wrap
 msgid "Tell the Alchemist that you have the healing potion."
-msgstr "告訴鍊金術士，你已經有了治療藥水。"
+msgstr "告訴鍊金術士你已經煉製好了治療藥水。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:112
@@ -204,13 +205,13 @@ msgstr "在煉製法力藥水前，你必須先收集所需材料。快去吧，
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:171
 #, no-wrap
 msgid "Tell the Alchemist that you have the mana potion."
-msgstr "告訴鍊金術士，你已經做好了法力藥水。"
+msgstr "告訴鍊金術士你已經煉製好了法力藥水。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:149
 #, no-wrap
 msgid "I must admit, I have never seen someone take to alchemy so skillfully.  Are you sure you have never done this before?  I suppose you do have an excellent teacher."
-msgstr "我得承認，從沒見過有人鍊金術這麼得心應手。你確定以前從沒練過嗎？看來你確實有位好老師。"
+msgstr "我得承認，我從未見過有人在鍊金術上如此有天賦。你確定以前從沒練過嗎？看來你確實有位好老師。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:168
@@ -234,7 +235,7 @@ msgstr "商店"
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 #, fuzzy
 msgid "Fuza"
-msgstr "來訪者"
+msgstr "富扎"
 
 #, fuzzy
 msgid ""
@@ -325,7 +326,7 @@ msgid ""
 "mind for new paths. Only by defeating me will you prove you're worthy of it. "
 "Or are you afraid to let go of what you already know?"
 msgstr ""
-"遺忘卷軸乃是稀世神器，它能抹去知識，為心智開闢新道路。唯有擊敗我，你才能證明"
+"遺忘卷軸是一件稀有的古代遺物，它能抹去知識，為心智開闢新道路。唯有擊敗我，你才能證明"
 "自己配得上它。還是說，你害怕放下已有的認知？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
@@ -364,7 +365,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Duel the Alchemist for the Scroll of Oblivion."
-msgstr "與鍊金術士決鬥，贏取遺忘卷軸。"
+msgstr "為獲得遺忘卷軸，與鍊金術士決鬥。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -402,7 +403,7 @@ msgid ""
 "You won. I didn’t expect you to dare, let alone succeed. Take the scroll. "
 "But remember: Oblivion doesn’t mean freedom."
 msgstr ""
-"你贏了。我沒想到你敢來，更沒想到你能成功。拿走卷軸吧。但記住：遺忘並不等於自"
+"你贏了。我沒想到你敢來，更沒想到你能成功。拿走卷軸吧。但記住：遺忘不意味著自"
 "由。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
