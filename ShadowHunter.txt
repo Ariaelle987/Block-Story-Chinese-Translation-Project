@@ -87,7 +87,7 @@ msgstr "你最後有沒有用弓？算了。不必回答。你不會想在我面
 #: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:97
 #, no-wrap
 msgid "Now that you have a few skins to work with, you should talk to one of the adult goblins.  I've seen them crafting all sorts of armor made of skins and wood and such.  Perhaps they will help you out."
-msgstr "既然你有一些皮，那你就該去找哥布林。我看見他們用皮和木頭做成盔甲。他們應該幫得了你。"
+msgstr "既然你已經取得一些獸皮，就去找一位成年哥布林吧。我曾看過他們用獸皮與木材等材料打造各式盔甲，也許他們能幫助你。"
 
 #. (itstool) path: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml/quest@title
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:1
