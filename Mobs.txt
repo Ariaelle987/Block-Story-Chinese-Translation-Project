@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: 54ca55defcf933aff3000136\n"
 "PO-Revision-Date: 2021-08-11 23:15+0000\n"
@@ -133,7 +133,7 @@ msgid "GiantSpider"
 msgstr "阿拉戈克"
 
 msgid "Ashkore"
-msgstr "阿什科尔"
+msgstr "艾希科尔"
 
 msgid "Werewoolf"
 msgstr "狼人"
@@ -312,6 +312,12 @@ msgstr "新月鳐"
 msgid "Orbis Felix"
 msgstr "奥比斯·菲利克斯"
 
+msgid "CrescentRay"
+msgstr "新月鳐"
+
+msgid "OrbisFelix"
+msgstr "奥比斯·菲利克斯"
+
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
 # UnityGame/Assets/Localization/T.cs:127
@@ -357,7 +363,7 @@ msgid "Snowman_Pet"
 msgstr "雪人"
 
 msgid "BabyAshkore_Pet"
-msgstr "阿什科尔"
+msgstr "艾希科尔"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -844,5 +850,3 @@ msgstr "褐甲龙虫"
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Rat"
 msgstr "老鼠"
-
-
