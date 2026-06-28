@@ -190,7 +190,7 @@ msgstr "哼…没想到你这么快就炼好了药水。不过，即便是傻瓜
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:131
 #, no-wrap
 msgid "Alchemists have the ability to create all sorts of useful liquids.  A true master alchemist knows the art of combining certain rare ingredients to create a potion that restores mana."
-msgstr "炼金术士能制造各种有用的液体。真正的高手会将稀有材料巧妙结合，炼出能恢复法力的药水。"
+msgstr "炼金术士能炼制各种有用的液体。真正的高手会将稀有材料巧妙结合，炼出能恢复法力的药水。"
 
 #. (itstool) path: craftstep/intro
 #. (itstool) path: craftstep/desc
@@ -211,7 +211,7 @@ msgstr "告诉炼金术士你已经炼制好了法力药水。"
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:149
 #, no-wrap
 msgid "I must admit, I have never seen someone take to alchemy so skillfully.  Are you sure you have never done this before?  I suppose you do have an excellent teacher."
-msgstr "我得承认，我从未见过有人在炼金术上如此有天赋。你确定以前从没练过吗？看来你确实有位好老师。"
+msgstr "我得承认，我从未见过有人在炼金术上如此有天赋。你确定以前从没有练习过吗？看来你确实有位好老师。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:168
@@ -270,7 +270,7 @@ msgid ""
 "from there and brought this block. Fuza will be very grateful to you."
 msgstr ""
 "你满身尘土，龙骑士，在这些可怕的古老金字塔中游荡肯定不容易！你居然还能带着这方"
-"块安全归来，真是令人惊叹。富扎一定会非常感激你。"
+"块安全归来，真是令人惊叹。富扎一定会非常感激你的。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -305,7 +305,7 @@ msgid ""
 "and defeat me."
 msgstr ""
 "你回来了。我早就知道，好奇心会战胜谨慎。但炼金术不仅仅是药水和沸腾的试剂，它"
-"更是毁灭与重生的艺术。今天，你将知道自己是否已经准备好忘掉我教过你的一切……并"
+"更是毁灭与重生的艺术。今天，你将知道自己是否已经准备好忘掉我教过你的一切，并……"
 "击败我。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
@@ -482,5 +482,3 @@ msgstr "很好。我不会手下留情。像炼金术士一样，用智慧而非
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Trial of Oblivion Rematch"
 msgstr "遗忘试炼·重赛"
-
-
