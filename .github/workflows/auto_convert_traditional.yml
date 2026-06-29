@@ -4,7 +4,7 @@ on:
   push:
     branches: [ simplified-chinese ]
     paths:
-      - '*.txt'
+      - '*.po'
   workflow_dispatch:
 
 permissions:
@@ -134,7 +134,7 @@ jobs:
         os.makedirs('Traditional_TW', exist_ok=True)
         
         converted_count = 0
-        for file in glob.glob('*.txt'):
+        for file in glob.glob('*.po'):
             if file in ['check_translation.py']:
                 continue
             try:
@@ -169,7 +169,7 @@ jobs:
         cp Traditional_TW/* ./
         rm -rf Traditional_TW
         
-        git add *.txt
+        git add *.po
         
         if git diff --staged --quiet; then
           echo "没有变更需要提交"
