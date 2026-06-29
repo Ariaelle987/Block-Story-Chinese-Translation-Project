@@ -286,7 +286,3 @@ msgstr ""
 
 msgid "Tell a Countryman you have the Fuel."
 msgstr "告訴村民你帶來了燃料。"
-
-
-
-
