@@ -1,0 +1,1476 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-20 01:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/viking/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/City%20Construction.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:1
+msgid "City Construction"
+msgstr "城市建设"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:6
+#, no-wrap
+msgid "Ya know what this wilderness needs?  A city!  Nothing brings out the energy of a place like urban development.  You'll help me build my city, right?"
+msgstr "你知道这片荒野真正需要什么吗？一座城市！没有什么能像城市建设一样激发这片土地的活力。你会帮我建造城市吧？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:15
+#, no-wrap
+msgid "NO?!  Waddayamean no?  Well then what good are ya, anyway?"
+msgstr "不？！什么意思，你居然说不？"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:23
+#, no-wrap
+msgid "That's the spirit!  Now the first thing we'll need is raw materials.  Lots of raw materials.  So go out there and get some stuff!"
+msgstr "就是这种精神！我们首先需要原材料。大量原材料。快去收集一些吧！"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:24
+#, no-wrap
+msgid "We need lots of raw materials.  I know it's a lot to ask, but once my—I mean—our city is complete, you'll see that it was all worth it."
+msgstr "我们需要大量原材料。我知道要求很多，但一旦我的——不，咱们的城市建成，你就会明白这一切都是值得的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:29
+#, no-wrap
+msgid "Tell Ted that you have the raw materials."
+msgstr "告诉泰德你已经收集好了原材料。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:25
+#, no-wrap
+msgid "Wow!  It's a miracle you can carry all that stuff.  Here, take your reward.  Now I'll let ya in on the next phase of my plan."
+msgstr "哇哦！你竟然能搬动这么多东西，真是奇迹。拿上你的奖励吧。现在，我要告诉你我计划的下一阶段。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:47
+#, no-wrap
+msgid "The raw materials you brought me will go a long way to getting our city started, but there's lots more to do yet.  The city will need a mine.  You don't mind building a mine, do ya?"
+msgstr "你带来的原材料已经能让城市建设起步了，但还有很多工作要做。城市还需要一个矿场，你不介意建造矿场吧？"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:59
+#, no-wrap
+msgid "Start the excavation wherever ya feel like it, and that's where the people in our city can dig for riches, and us too!"
+msgstr "随便从哪儿开始挖掘吧，这样城市里的居民和我们都能开采宝藏！"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:60
+#, no-wrap
+msgid "If you're having trouble finding precious minerals, place some torches in the dark caves.  Any sort of light will make it easier to see all those goodies underground!"
+msgstr "如果找矿有困难，可以在黑暗洞穴里点上火把。哪怕一点光，也能帮你发现地下的宝贝！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:65
+#, no-wrap
+msgid "Tell Ted that you have the precious minerals."
+msgstr "告诉泰德你已经收集到珍贵矿物了。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:61
+#, no-wrap
+msgid "G-g-g-gold!  And gems!  When ya spelunk ya bring the funk, my friend.  Here's your cut of our profits.  Now comes the fun part of building our city."
+msgstr "金子——还有宝石！朋友，你这趟洞穴探险可真是满载而归啊！这是你应得的奖励。现在，最有趣的部分来了——建造我们的城市！"
+
+#. (itstool) path: collectstep/intro
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:82
+#, no-wrap
+msgid "We've gathered the raw materials.  We've built a mine for our city.  But doesn't that mine look lonely?  It's time to build some cottages to keep our mine company.  There are special items that make a house feel like a home, and not just a big block of dirt bricks."
+msgstr "我们已经收集好原材料，也为城市建造了矿井。但矿井看起来有点孤单吧？是时候建一些小屋，让矿井不再寂寞。有些特别的物品能让房屋更像家，而不仅仅是一堆泥砖。"
+
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:83
+#, no-wrap
+msgid "There's no place like home.  There's no place like—oh!  I didn't see ya there.  If ya need help crafting, check your Recipe Book to learn how to craft different items."
+msgstr "没有地方比家更温暖。没有地方比家——哦！我没看到你。如果你需要制作帮助，可以翻看配方书学习制作各种物品。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:88
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:109
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:119
+#, no-wrap
+msgid "Tell Ted that you have the items to build a proper house."
+msgstr "告诉泰德你已经收集到建造房屋的物品了。"
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:84
+#, no-wrap
+msgid "Those beds look more comfortable to sleep on than a chubby goat.  You are a person of many skills, my friend.  Did ya build a few houses?  You should definitely do that if ya get a chance."
+msgstr "这些床看起来比趴在胖山羊身上舒服多了。朋友，你真是多才多艺。你建了几间房屋呀？有机会一定要多建几间。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:106
+#, no-wrap
+msgid "Thank you for all your help, my friend.  I can truly see the city of my dreams, and it's all because of you.  As you continue your adventures in this land, you should build more houses!  And bigger houses!  And expand our city."
+msgstr "谢谢你的帮助，朋友。我终于能看到梦想中的城市，这一切都多亏了你。在这片土地上继续冒险时，你应该建更多房屋！更大的房屋！把我们的城市扩展起来。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/City%20Construction.xml:116
+#, no-wrap
+msgid "Check back in once in a while.  I may have more work for ya.  Oh yeah!  This note came for ya while you were gone.  It's from that old wizard.  He says he's ready for ya.  Good luck on your adventures."
+msgstr "时不时回来看看，我可能还有更多工作给你。哦，对了！你离开时收到的这张便条，是那个老巫师寄来的。他说他已经准备好了。祝你冒险顺利！"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:1
+msgid "Dragon Helmet"
+msgstr "龙盔"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:6
+#, no-wrap
+msgid "Oi!  Can ya believe that dastardly Dragon Dolt?  Ya gotta help me clobber him!"
+msgstr "嘿！你能相信那个卑鄙的蠢货龙王吗？你得帮我狠狠教训他一顿！"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:19
+#, no-wrap
+msgid "The Dragon Lord’s cruelty tore my family asunder.  I’ll never forgive myself for helpin’ him get tough again.  Together I hope we can undo what we have done."
+msgstr "龙主的残暴毁了我的家人。我永远无法原谅自己竟帮过他增强实力。希望我们能一起弥补曾经的过错。"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:20
+#, no-wrap
+msgid "The whole world is countin’ on you, Dragon Rider.  Don’t give up!"
+msgstr "全世界都指望着你呢，龙骑士。别放弃！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:25
+#, no-wrap
+msgid "Tell Ted you have crafted the Dragon Helmet."
+msgstr "告诉泰德，你已经打造好了龙盔。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:21
+#, no-wrap
+msgid "Now that’s what I call a helmet!  Maybe we stand a chance after all."
+msgstr "这才叫头盔！也许我们还有机会赢呢。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:40
+#, no-wrap
+msgid "All our work will be for nothin’ if the Dragon Lord continues his reign of terror.  Think of our city!  Anyway, that gross goblin came by lookin’ for ya.  Even he’s ticked about the Dragon Lord."
+msgstr "如果龙主继续他的恐怖统治，我们的努力都白费了。想想我们的城市！不管怎样，那个讨厌的哥布林找你了。连他都被龙主气得不行。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Dragon%20Helmet.xml:43
+#, no-wrap
+msgid "Speak to Mr. Goblin about the next piece of dragon gear."
+msgstr "去找哥布林先生谈谈下一件龙防具。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:1
+msgid "Monster Troubles"
+msgstr "怪物麻烦"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:6
+#, no-wrap
+msgid "Oi!  You’re back.  And not a moment too soon.  This monster problem is gettin’ out of hand."
+msgstr "嘿！你回来了，可正好及时。怪物问题已经失控了！"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:19
+#, no-wrap
+msgid "Ever since ya took care of the Ice Dragon, the yetis in the snow country have been runnin’ amok.  I guess the old blizzard-blastin’ reptile kept those hairy frog-lookin’ things in check.  Ya have to take out the yetis, Dragon Rider!"
+msgstr "自从你解决了冰龙以后，雪国的亚蒂萨斯就开始到处作乱。我猜那只老冰暴巨龙原本把这些毛茸茸、像青蛙的家伙控制住了。龙骑士，你得去消灭这些雪人！"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:20
+#, no-wrap
+msgid ""
+"The yetis in the snow country are downright abominable...\n"
+"\n"
+"What?\n"
+"\n"
+"Why are ya smilin’?"
+msgstr ""
+"那些雪人可真是名副其实的“可憎雪怪”……\n"
+"\n"
+"什么？\n"
+"\n"
+"你怎么在笑？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:31
+#, no-wrap
+msgid "Tell Ted you have slain the yetis."
+msgstr "告诉泰德，你干掉了亚蒂萨斯。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:27
+#, no-wrap
+msgid "Good job, Dragon Rider."
+msgstr "干得漂亮，龙骑士！"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:47
+#, no-wrap
+msgid "Goblins!  I knew our trouble wasn’t over.  Dragon Rider, we’re under attack!  Stop the goblin invasion, before our whole city is overrun."
+msgstr "是哥布林！我就知道麻烦还没完。龙骑士，我们正遭受攻击！在我们的城市被占领前，赶紧阻止哥布林入侵！"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:48
+#, no-wrap
+msgid "Some say the goblins are descended from the dragons, due to their similar features.  The scaly skin is where the comparison ends.  Goblins are so hideous, and downright rude!"
+msgstr "有人说哥布林是龙的后代，因为他们有些相似的特征。不过就止于有鳞皮。哥布林丑得要命，而且非常粗鲁！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:53
+#, no-wrap
+msgid "Tell Ted you have slain the goblin warriors."
+msgstr "告诉泰德，你干掉了哥布林战士。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:49
+#, no-wrap
+msgid "I knew I could count on you to take care of those goblins, Dragon Rider.  But I’ll be gosh darned if I haven’t figured out the source of these recent monster attacks."
+msgstr "我就知道你能处理好那些哥布林，龙骑士。不过，如果我没搞清这些怪物袭击的源头，我可真是心里没底啊。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:69
+#, no-wrap
+msgid "Have you seen that one goblin who’s been trollin’ the region?  He’s an ugly one.  I saw him stirrin’ up trouble with the monsters, and I reckon he’s behind the recent wave of monster attacks."
+msgstr "你看到那个在这片地区捣乱的哥布林了吗？长得丑死了。我看到他在挑唆怪物，我猜他就是最近怪物袭击浪潮的幕后黑手。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:70
+#, no-wrap
+msgid "With all the troubles we’ve had lately, I can barely hear myself think."
+msgstr "最近麻烦接连不断，我几乎都无法好好思考了。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Monster%20Troubles.xml:73
+#, no-wrap
+msgid "Speak to Mr. Goblin about the recent monster attacks."
+msgstr "去找哥布林先生，了解最近怪物袭击的情况。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:1
+msgid "Sailing the Seas"
+msgstr "海上航行"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:6
+#, no-wrap
+msgid "So ya wanna be a seafarer, eh?  Sure!  I can get ya a boat."
+msgstr "想当海上水手吗？当然可以！我可以给你一条船。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:21
+#, no-wrap
+msgid ""
+"The greatest civilizations in history took to the sea, and we shall be no different.\n"
+"\n"
+"Gather the necessary supplies, then assemble your mighty galleon!"
+msgstr ""
+"历史上最伟大的文明都征服过海洋，我们也不例外。\n"
+"\n"
+"收集必要的物资，然后组装你那艘强大的大帆船！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:33
+#, no-wrap
+msgid "Tell Ted you have crafted the boat."
+msgstr "告诉泰德，你已经造好了船。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:29
+#, no-wrap
+msgid "Bon voyage, Dragon Rider.  May ya always have smooth sailin’."
+msgstr "一路顺风，龙骑士。愿你永远风平浪静。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:48
+#, no-wrap
+msgid "Now that ya got a boat, I’ve got another task for ya.  Out in the sea there’s been a whole bunch of sharks chompin’ on things, makin’ trouble.  Get out there and show ‘em what we’re made of."
+msgstr "现在你有船了，我还有另一个任务给你。海上到处都是鲨鱼乱咬东西、制造麻烦。快出海去，让它们看看我们的厉害！"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Sailing%20the%20Seas.xml:49
+#, no-wrap
+msgid "Duhhhhh nuh!  Duhhhhh nuh!  Duh nuh duh nuh dananananananana!"
+msgstr "咚呜呜！咚呜呜！咚呜咚呜 咚啦啦啦啦啦啦！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:54
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:76
+#, no-wrap
+msgid "Tell Ted you have slain the sharks."
+msgstr "告诉泰德，你已经解决了那些鲨鱼。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:50
+#, no-wrap
+msgid "Is that a shark tooth stickin’ outta your knuckle?  Holy chum, Dragon Rider.  You’re one tough fisherman."
+msgstr "你指节上那是鲨鱼牙？老天爷啊！龙骑士，你简直是个狠角色的渔夫。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:70
+#, no-wrap
+msgid "They say the dreaded Tentaclon rules the deep – a mighty monster with more legs than you can count!  Take him out, so the sea critters will be free to swim in peace, once again."
+msgstr "据说，深海由可怕的肯塔克隆统治——那是一头强大的怪物，腿多得你根本数不清！把它干掉，这样海里的生物才能再次自由地安宁游动。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:71
+#, no-wrap
+msgid "There are rumors, Dragon Rider, of one ocean dweller even mightier than Tentaclon, but I dare not speak her name.  I hope you never hear it."
+msgstr "龙骑士，有传闻说，还有一个海中生物比肯塔克隆更可怕。我甚至不敢提她的名字——希望你永远不会听到。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:72
+#, no-wrap
+msgid "I’m glad to see ya returned in one piece.  Go wash the ink off your hands and then come talk to me.  I have a message from His Wizardliness."
+msgstr "很高兴你安然无恙地回来。先把手上的墨洗掉，再来找我。我有一条来自伟大的魔法师大人的消息。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sailing the Seas.xml:92
+#, no-wrap
+msgid "While you were out tanglin’ with Tentaclon, the Wizard told me he’s \"ready for ya,\" whatever that means.  I’d head over there and see what’s up."
+msgstr "你去应付肯塔克隆的时候，魔法师跟我说：“他已经等着你了”，虽然我也不太明白这是什么意思。你最好过去看看发生了什么。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Scary Giant.xml:23
+#: UnityGame/Assets/Quests/Viking/Scary Giant.xml:44
+#: UnityGame/Assets/Quests/Viking/Scary Giant.xml:65
+#, no-wrap
+msgid "Oi!  Well if it ain’t me old friend the Dragon Rider.  I’ve got a rotten dinosaur problem.  Will ya get out there and trounce that tyrannosaur, pretty please?"
+msgstr "嘿！这不是我老朋友龙骑士嘛。外面有只讨人厌的暴龙在闹事。能不能帮我把那家伙收拾掉？拜托啦？"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:24
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:45
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:66
+#, no-wrap
+msgid "Don’t let its scraggly little arms fool ya.  One chomp from those big jaws and you’ll be a piece of used chewin’ gum, Dragon Rider."
+msgstr "不要被它那弯曲的小胳膊所欺骗。但凡你被它的大颚咬中一下，你会被嚼得像块嚼过的口香糖一样，龙骑士。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:29
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:50
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:71
+#, no-wrap
+msgid "Tell Ted you have slain the TRex."
+msgstr "告诉泰德，你杀了暴龙。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:25
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:67
+#, no-wrap
+msgid "That’s the Dragon Rider I know!  Tomorrow I’ll have more dinosaurs for you to squash.  Heck, I’d give my own leg to someone who could get rid of them all."
+msgstr "这才是我所知的龙骑士！但明天肯定还会有更多暴龙。很好，谁要是能把它们全解决，我连自己的腿都愿意送出去。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Scary%20Giant.xml:46
+#, no-wrap
+msgid "You’ve thinned the herd of T-Rexes in this land, ole pal.  I can’t give ya my own leg (I need it for stuff) but I will give ya this other leg I found."
+msgstr "老朋友，你让这片土地上的暴龙减少了。我不能把自己的腿给你(我自己需要它们)，但我可以帮你另外一个忙。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:985
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Sea%20Life.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:1
+msgid "Sea Life"
+msgstr "海洋生活"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:11
+#, no-wrap
+msgid "Check out my new fishing rod!"
+msgstr "看看我的新鱼竿！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:16
+#, fuzzy, no-wrap
+msgid "Talk to Ted, he wants to show you something."
+msgstr "与泰德谈谈，他想展示些新东西。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:34
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:35
+#, fuzzy, no-wrap
+msgid "I am really craving fried fish,  it's delicious!. Do you want some too? Go craft a fishing rod and bait. Come back when you are done."
+msgstr "我真的很想吃熟鱼，它很美味！你也想要吗？去制作钓竿和鱼饵。完成后请回来。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:40
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:55
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:66
+#, no-wrap
+msgid "Tell Ted that you created the fishing rod and bait."
+msgstr "告诉泰德你已经制作了钓竿和鱼饵。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:36
+#, no-wrap
+msgid "Not a bad start, shall we begin?"
+msgstr "不错的开场，我们开始吧？"
+
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:52
+#, fuzzy, no-wrap
+msgid "So,  you think you have what it takes to become a fisherman?"
+msgstr "所以，你认为自己有成为渔夫的能力？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:63
+#, fuzzy, no-wrap
+msgid "In that case, come back when you are ready."
+msgstr "在这种情况下，请准备好后再回来。"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: removestep/intro
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:75
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:78
+#, fuzzy, no-wrap
+msgid "I will teach you all the tricks of fishing in this world! First, take the fishing rod in your hands and cast it away into the sea with the bait, close to a fish. When the fish starts nibbling,  pull it immediatelly.  With some luck you will catch it. Bring me some ClownFish, and we will continue."
+msgstr "我会教你这个世界上所有的钓鱼技巧！ 首先，把钓鱼竿握在手中，然后挂上鱼饵并将其抛向大海，有鱼会靠近。鱼开始吃鱼饵时立即收竿。足够幸运的话，你会抓住它的。带些小丑鱼回来，然后继续。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:85
+#, no-wrap
+msgid "Tell Ted you caught the fish."
+msgstr "告诉泰德你抓到了小丑鱼。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:81
+#, no-wrap
+msgid "You are learning well.  Now it is time to give you a real test."
+msgstr "你学得不错。现在是时候给你一次真正的考验了。"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: removestep/intro
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:100
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:103
+#, fuzzy, no-wrap
+msgid "I think you are ready to go to the deep ocean and catch something good.  Live sharks are very valuable,  if you catch a few, I will reward you generously! Grab your fishing road and hit the road."
+msgstr "我认为你已经准备好去深海捕捉一些好东西了。 活鲨鱼非常有价值，如果你抓到一些，我会给你慷慨的回报！拿起你的鱼竿，出发吧！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:110
+#, no-wrap
+msgid "Tell Ted that you caught 30 sharks."
+msgstr "告诉泰德你抓了30只鲨鱼。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:106
+#, no-wrap
+msgid "Incredibly, very few people can take on a white shark and live. Here,  take these instructions.  You can craft a really nice boat with it.  You have earned it."
+msgstr "不可思议，能活着打败大白鲨的人寥寥无几。来，拿上这些说明，你可以用它造一条超棒的船，这可是你应得的奖励。"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: collectstep/intro
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:125
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:129
+#, fuzzy, no-wrap
+msgid "I must admit I have taught you well. Now you are ready for the final test. The old fishermen tell stories about the Rainbow Basilisk.  It is a rare and mysterious creature. Rumor has it that if you can catch one, then it will be loyal to you forever. It is not an ordinary Basilisk, the Rainbow Basilisk is invisible until it is caught accidentally, you just have to get lucky."
+msgstr "我必须承认，我教得还算不错。现在你已经准备好迎接最终考验了。老渔民们都在讲彩虹蛇怪的故事。它是一种稀有又神秘的生物。据说只要抓到它，它就会永远忠于你。它可不是普通的蛇怪，彩虹蛇怪在被意外抓住之前是看不见的，你需要一点运气。"
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:132
+#, no-wrap
+msgid "I've always believed in you. Now you have a loyal Rainbow Basilisk. It swims well under the water. Keep an eye on it."
+msgstr "我一直都相信你。现在，你有了一只忠实的彩虹蛇怪。它水下游得很棒，好好照顾它。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Sea%20Life.xml:151
+#, no-wrap
+msgid "Check back from time to time, who knows, maybe I can propose something interesting for you."
+msgstr "有空回来看看吧，说不定我会给你一些有趣的提议。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:1
+msgid "Staking Claim"
+msgstr "设立据点"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:6
+#, no-wrap
+msgid "By my iron pickaxe, it’s the Dragon Rider!  I haven’t seen ya in many a moon."
+msgstr "我的铁镐啊，是龙骑士！好久不见了。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:19
+#, no-wrap
+msgid "It’s good to see ya here, Dragon Rider, and not a moment too soon!  Them bears have been mussin’ up my city-buildlin’ plans!  Thin out the sleuth a bit for me, would ya?"
+msgstr "真高兴你来了，龙骑士，正是时候！那些熊一直在搅乱我的城市建设计划。帮我把它们清理一下，好吗？"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:20
+#, no-wrap
+msgid "Bet ya didn’t know a pack of bears was called a sleuth, did ya?  I may be a copper-headed Viking but I still know a thing or two."
+msgstr "打赌你不知道一群熊的统称叫“熊群侦团”吧？我虽然是个铜发维京人，但多少还是懂点冷知识的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:25
+#, no-wrap
+msgid "Tell Ted you have slain the bears."
+msgstr "告诉泰德，你已经干掉了那些熊。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:21
+#, no-wrap
+msgid "Nice job, Dragon Rider!  Now ya can get back to work for me.  I mean—we can get back to work.  Heh, heh."
+msgstr "干得漂亮，龙骑士！现在可以回去继续工作了。我是说——我们可以一起继续工作。呵呵。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:41
+#, no-wrap
+msgid "It’s always been my dream to have my own garden.  But not just a little backyard greenhouse.  I’m talkin’ HUGE TRACTS OF LAND!  Big enough to feed a whole city.  To till the earth, we’ll need a hoe.  The Dragon Rider knows how to make one of those, don’t ya?"
+msgstr "拥有自己的花园一直是我的梦想。但我可不是说那种小小的后院温室，我想要的是大片土地！大到足够养活一整座城市。耕地的话，我们需要一把锄头。龙骑士，你知道怎么做一把锄头，对吧？"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:42
+#, no-wrap
+msgid "SNIFF!  Ahh...there’s nothing like the smell of freshly tilled soil."
+msgstr "(吸气)啊...就像新耕的土壤一样。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:47
+#, no-wrap
+msgid "Tell Ted you have crafted the hoe."
+msgstr "告诉泰德，你已经制作了一把锄头。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:43
+#, no-wrap
+msgid "That wasn’t so hard, was it?  Must seem a bit anticlimactic after slaying dragons and casting magic spells, but a true hero is someone who feeds the hungry, clothes the needy, ya know what I mean?"
+msgstr "其实也不难吧？杀过巨龙、施过魔法后，做这些事可能有点小平淡，但真正的英雄，是会喂饱饥饿的人、给需要的人送去衣物的那种，你懂我的意思吧？"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:63
+#, no-wrap
+msgid "I hope you’ve been puttin’ that hoe to good use.  If not, try diggin’ a garden for me, will ya?  When you’re done, you’re gonna need a fence, otherwise the critters will eat our food before we can!"
+msgstr "希望你好好用那把锄头。如果没用，就帮我挖个花园吧，好吗？挖完后你还得建栅栏，不然小动物会抢吃我们的作物！"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:64
+#, no-wrap
+msgid ""
+"You’re gonna need a fence, otherwise the critters will eat our food before we can!\n"
+"\n"
+"If you’re short on wood, go chop down some trees.  The forests are full of ‘em!"
+msgstr ""
+"你得建栅栏，不然小动物会在我们之前把作物吃掉！\n"
+"\n"
+"木材不够的话，就去砍些树吧，森林里到处都是！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:77
+#, no-wrap
+msgid "Tell Ted you have crafted the materials required to construct the garden."
+msgstr "告诉泰德，你已经做好建造花园所需的材料了。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:69
+#, no-wrap
+msgid ""
+"Presto!  Instant barricade.  Those veggie-stealin’ varmints won’t know what hit ‘em!\n"
+"\n"
+"...\n"
+"\n"
+"A fence.  A fence is what will hit ‘em."
+msgstr ""
+"变出来啦！瞬间栅栏搭好。那些偷菜的小家伙根本搞不清状况！\n"
+"\n"
+"...\n"
+"\n"
+"没错，是栅栏。栅栏才会让它们吃惊。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:93
+#, no-wrap
+msgid "The reason I’ve been havin’ ya run these errands is I need some bread.  We gotta feed the city, ya know?  Put that green thumb of yours to good use and let’s get bakin’!"
+msgstr "我让你跑这些差事的原因就是我需要一些面包。我们得养活整个城市，你懂吧？发挥你的园艺天赋，咱们开烤吧！"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:94
+#, no-wrap
+msgid ""
+"There’s nothin’ like the smell of fresh baked bread.\n"
+"\n"
+"Mmm...\n"
+"\n"
+"I can taste it already!"
+msgstr ""
+"没有什么比新鲜出炉的面包更香了。\n"
+"\n"
+"嗯……\n"
+"\n"
+"我都能想象它的味道了！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:105
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:124
+#, no-wrap
+msgid "Tell Ted you have baked some bread."
+msgstr "告诉泰德，你烤好了面包。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:101
+#, no-wrap
+msgid "Yum, yum, yum!  Good work, Dragon Rider!"
+msgstr "好香，好香，好香！干得漂亮，龙骑士！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:121
+#, no-wrap
+msgid "Ya must be tired from running all over creation so much.  I’ve got just the thing for ya.  Teleport Arrows!  Here’s the plans to build ‘em."
+msgstr "你跑得一定累坏了吧。我正好有东西给你——传送箭！这是制作配方。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:142
+#, no-wrap
+msgid ""
+"Teleportation is the fastest way to travel long distances.  I just hope it doesn’t make your dragon jealous.\n"
+"\n"
+"Craft a quiver of these arrows.  There’s only like a fifteen percent chance your organs get teleported outside your body."
+msgstr ""
+"传送是长途旅行最快的方式，我只希望它不会让你的龙吃醋。\n"
+"\n"
+"做一箭袋这样的传送箭吧。你的器官被传送到体外的概率，大概也就 15% 左右。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:154
+#, no-wrap
+msgid "Tell Ted you have crafted the teleport arrows."
+msgstr "告诉泰德，你已经制作好了传送箭。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:150
+#, no-wrap
+msgid "That’s the ticket!  Now all you have to do is shoot the arrows where you would like to teleport and give them whirl."
+msgstr "太棒了！现在你只要把箭射到想传送的地方，然后开始吧！"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:170
+#, no-wrap
+msgid "Oh drat it all.  Look at those monsters out there.  Roamin’ about.  Causin’ trouble.  Dragon Rider, hurry!  I need your help to slay these vile dragon bats."
+msgstr "哎呀，看看那边的怪物！到处乱跑，惹麻烦。龙骑士，快来！我需要你帮忙干掉这些可恶的龙蝙蝠。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:171
+#, no-wrap
+msgid "WAH!!!  They’re dragons, and they’re bats!  Get ‘em away from me!  AIE!!!!"
+msgstr "哇啊啊！！！它们既是龙也是蝙蝠！快把它们赶走！啊！！！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:176
+#, no-wrap
+msgid "Tell Ted you have slain the dragon bats."
+msgstr "告诉泰德，你已消灭了龙蝙蝠。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:172
+#, no-wrap
+msgid "Phew!  Thank gravy ya took care of them dragon bats."
+msgstr "呼！谢天谢地，你把这些龙蝙蝠都解决了。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:192
+#, no-wrap
+msgid "If these tough monsters keep poppin’ up, we’re not gonna be able to keep fendin’ them off.  You’re gonna need better weapons, Dragon Rider, and to get those, you’re gonna need to talk to the Warrior again.  Yuuuuuup!"
+msgstr "如果这些顽强的怪物不断冒出来，我们可守不住了。龙骑士，你需要更强的武器，要拿到它们，你得再去找战士谈谈。耶！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:193
+#, no-wrap
+msgid "Come back soon, I’m sure I’ll have more work for ya.  These tasks ain’t gonna complete themselves."
+msgstr "快回来，我肯定还有更多任务等着你。这些工作不会自己完成的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Staking%20Claim.xml:196
+#, no-wrap
+msgid "Speak to Aaron about acquiring better weapons."
+msgstr "去找艾伦谈谈如何获得更好的武器吧。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:1
+msgid "Viking Introduction"
+msgstr "维京介绍"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:7
+#, no-wrap
+msgid "Ahoy!  Eh?  That crazy old wizard sent you?  Well where's my iron then?"
+msgstr "啊哈！嗯？是那个疯老魔法师派你来的？那我的铁在哪儿？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:20
+#, no-wrap
+msgid "You brought this iron for me?  Well I'm much obliged, stranger!  You must be the wizard's new assistant.  I'm glad you're here.  There's plenty of other work to do."
+msgstr "你给我带来铁矿？太感谢了，陌生人！你一定是魔法师的新助手。我很高兴你来了，还有很多工作等着做呢。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Viking%20Introduction.xml:23
+#, no-wrap
+msgid "Speak to Ted about the Iron Ore he received."
+msgstr "与泰德谈谈他收到的铁矿。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Viking/Working%20Metal.xml/quest@title
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:1
+msgid "Working Metal"
+msgstr "金属加工"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:6
+#, no-wrap
+msgid ""
+"Oooh, yes!  This iron is exactly what I need.\n"
+"I can show you how to make deadly weapons with this!"
+msgstr ""
+"喔，对！这正是我需要的铁。\n"
+"我可以向你演示如何用这些铁造出致命的武器！"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:17
+#, no-wrap
+msgid "Step one! We need to smelt the iron.  For that, you must craft a furnace."
+msgstr "第一步！我们需要熔炼铁矿。为此，你得制作一个熔炉。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:18
+#, no-wrap
+msgid "Where's that furnace, mate?"
+msgstr "熔炉在哪儿，伙计？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:37
+#, no-wrap
+msgid "Well done!  With this new furnace I can introduce you to the exciting world of metalworking!"
+msgstr "干得漂亮！有了这个新熔炉，我可以带你体验激动人心的冶金世界了！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:42
+#, no-wrap
+msgid "Tell Ted that you have crafted a furnace."
+msgstr "告诉泰德，你已经打造了一个熔炉。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:51
+#, no-wrap
+msgid ""
+"Grab some coal or another fuel source.  Then use the furnace to smelt the iron into ingots.\n"
+"\n"
+"Smelting takes time, but diamonds can speed up the process."
+msgstr ""
+"去拿些煤炭或者其他燃料。然后用熔炉把铁矿炼成铁锭。\n"
+"\n"
+"熔炼需要时间，但使用钻石可以加快速度。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:55
+#, no-wrap
+msgid "You don't need to be a British lord to smelt some iron ingots.  Get to it!"
+msgstr "炼铁可不需要你是英国贵族。快动手吧！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:74
+#, no-wrap
+msgid "That's some swell smelting you did.  Now you can use the iron ingots to make strong tools.  These will make you think your old tools were made of mashed potatoes."
+msgstr "你这熔炼做得真棒。现在你可以用铁锭制作坚固的工具了。这会让你觉得你以前的工具都是土豆泥做的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:79
+#, no-wrap
+msgid "Tell Ted that you have smelted the iron ingots."
+msgstr "告诉泰德，你已经把铁矿炼成了铁锭。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:88
+#, no-wrap
+msgid "Mosey on over to your crafting table.  Use the iron ingots ot make an iron pickaxe."
+msgstr "慢慢走到你的工作台上，用铁锭打造一把铁镐吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:89
+#, no-wrap
+msgid "You can pick your friends, and you can pick your nose, so you best pick your iron pickaxe."
+msgstr "你可以挑朋友，也可以抠鼻子，但你最好挑好你的铁镐。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:108
+#, no-wrap
+msgid "Your skills continue to amaze me, friend.  What other tools can you make with iron?"
+msgstr "朋友，你的技能真让我佩服。你还能用铁做些什么其他工具呢？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Viking/Working%20Metal.xml:113
+#, no-wrap
+msgid "Tell Ted that you have crafted an iron pickaxe."
+msgstr "告诉泰德，你已经制作好了铁镐。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+#, fuzzy
+#. (itstool) path: quest@title
+#: UnityGame/Assets/Localization/BaseTranslation.cs:46
+msgid "Otherworld Fishing"
+msgstr "异界钓鱼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Luckily, I met you! Everyone just talks about your phenomenal journey "
+"outside our world. I found out that there are lakes, and of course, fish "
+"should be found there. \n"
+"    Have you seen fish there? I’d like to look at these unusual creatures! "
+"But I don’t know yet how to catch them. I think an ordinary fishing rod "
+"won’t help here."
+msgstr ""
+"幸好遇见了你！大家都在谈论你那次异界的奇妙旅程。我发现那里有湖泊，当然应该也有鱼。\n"
+"你在那儿见过鱼吗？我想看看这些稀奇的生物！不过我还不知道该怎么抓它们。我觉得普通的钓竿在那儿可能派不上用场。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"If you could help me study their behavior, then I could probably create a "
+"suitable fishing rod to catch them. I hope you will not refuse your old "
+"friend’s request."
+msgstr ""
+"如果你能帮我研究它们的行为，我就能制作出合适的鱼竿来捕捉它们。希望你不要拒绝老朋友的请求。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Excellent! Now I know how to make a fishing rod to catch these monsters."
+msgstr "太好了！现在我知道如何制作钓鱼竿来抓这些怪物了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"It is time to try out a new fishing rod. Catch me one of these unusual fish, "
+"I can’t wait to look at it. I wonder if they are edible. \n"
+"    Do not forget to take more bait, I am sure that these creatures are very "
+"voracious."
+msgstr ""
+"现在该试试新的钓鱼竿了。抓一条这些稀奇的鱼给我看看，我迫不及待想看它们长什么样。我还想知道能不能吃。\n"
+"别忘了带更多的鱼饵，我敢肯定这些生物食量很大。"
+
+#, fuzzy
+msgid "Tell Ted you captured Purplefish."
+msgstr "告诉泰德你抓住了紫火鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "What an amazing fish!"
+msgstr "真是不可思议的鱼！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"I see that it is quite edible and even has healing properties. Quick! Roast "
+"it and we will try it together."
+msgstr ""
+"我看到它可以食用，甚至具有治疗作用。快！烤一下它，我们会一起品尝。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Mmm ... what a delicious fish!"
+msgstr "嗯...多么美味的一条鱼啊！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"This fish turned out to be so unusual that now I want to see other aquatic "
+"inhabitants of the outside world. \n"
+"    Take your fishing rod and catch DumboOctopus for me, I think you’ll do "
+"just fine."
+msgstr ""
+"这条鱼实在太特别了，现在我想看看外界的其他水生生物。\n"
+"拿上你的钓鱼竿，帮我抓一只飞象章鱼，我相信你能办到。"
+
+#, fuzzy
+msgid "Tell Ted you captured DumboOctopus."
+msgstr "告诉泰德你抓住了飞象章鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Ugh, what a disgusting thing!"
+msgstr "呃，这也太恶心了！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Not sure if I dare to try it. But let's fry it anyway."
+msgstr "我不确定自己敢不敢尝试。不过无论如何，我们还是把它煎了吧。"
+
+#, fuzzy
+msgid "Tell Ted that you have done fried DumboOctopus."
+msgstr "告诉泰德你已经煎了飞象章鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Surprisingly, but this DumboOctopus is even tastier and more nutritious than "
+"the first fish."
+msgstr "出乎意料，这只飞象章鱼比第一条鱼更美味、更营养。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"I heard that there, in the outside world, besides lakes there are also vast "
+"wetlands. Probably swamp fish differ from those that live in water. \n"
+"    I'd like to check if this is so."
+msgstr ""
+"我听说在外界，除了湖泊，还有广阔的沼泽。沼泽里的鱼可能和湖里的鱼不太一样。\n"
+"我想去确认一下。"
+
+#, fuzzy
+msgid "Tell Ted you captured Dunkleosteus."
+msgstr "告诉泰德你抓住了邓氏鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "What a big and terrible it is!"
+msgstr "这家伙也太巨大、太可怕了！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"And it has such a thick and strong carapace! I have a few ideas about this "
+"fish, but I need to think a little. And you meanwhile, roast it."
+msgstr ""
+"而且它的甲壳又厚又结实！我对这条鱼有些想法，但我得思考一下。你知道的，烤了它。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Probably it was worth a lot of work to tear off its shell. Leave it to me, I "
+"want to take a look more closely at it."
+msgstr ""
+"剥下它的甲壳可能值得进行大量工作。留给我，我想更仔细地看看。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Each new fish that you bring is more surprising than the previous ones. I "
+"have never seen anything like it in our world. \n"
+"    The new fishing rod does the job, I think you can easily catch the rest "
+"of the fish."
+msgstr ""
+"你带来的每条新鱼都比以前的鱼更令人惊讶。我从未在我们的世界中看到过类似的东西。\n"
+"新的钓鱼竿可以胜任它的工作，我认为你可以轻松钓到其余的鱼。"
+
+msgid "Tell Ted you captured Fangtooth."
+msgstr "告诉泰德你抓了尖牙鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "You surprise me more and more."
+msgstr "你越来越让我惊讶了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Have you noticed that each new fish is tastier and more nutritious than the "
+"previous? Let's check if this is so."
+msgstr ""
+"有没有注意到每条新鱼都比以前的鱼更美味、营养？让我们看看是否是这样。"
+
+#, fuzzy
+msgid "Tell Ted that you have done fried Fangtooth."
+msgstr "告诉泰德你已经烤了尖牙鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "I was not mistaken, this fish is really tastier."
+msgstr "没错，这条鱼更美味。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"So the last one will be the most delicious than all the rest. Hurry, catch "
+"it!"
+msgstr "所以说最后一个将比其他所有更好。快点去抓住它吧！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "What is it? Is this a fish?"
+msgstr "这是什么？这是条鱼吗？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Hmm, I see such a creature for the first time. Not very big, but I hope "
+"we’ll have enough for two when you fry it."
+msgstr ""
+"嗯，我是第一次见到这样的生物。不算大，但我觉得烹饪后足够给两人吃了。"
+
+#, fuzzy
+msgid "Tell Ted that you have done fried Gulper."
+msgstr "告诉泰德你烤了宽咽鱼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"I was right, this strange fish is the most useful. Now you will not be "
+"hungry in a strange world if a new fishing rod is always with you."
+msgstr ""
+"对，这条奇怪的鱼是最有用的。现在，如果始终有新的钓鱼竿，你将不会在一个陌生的世界中挨饿。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"While you were fishing, I carefully studied all the fish that you brought. "
+"Using this knowledge, I can create a new, very durable shield that will be "
+"extremely useful in battle. \n"
+"    I will share this recipe with you if you fulfill my request."
+msgstr ""
+"你钓鱼时，我仔细研究了你带来的所有鱼。 利用这些知识，我可以做一个新的，耐用的盾牌，这在战斗中会很有用。\n"
+"如果你完成我的任务，我可以和你分享配方。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"I heard rumors of two ancient creatures from the outside world. One of them "
+"is called Tylosaurus and lives in the Mushroom Wetlands, and the second "
+"creature Liopleurodon lives in the lakes among the jungle. \n"
+"    These creatures are so strong and cannot be killed. I'd love to know if "
+"this is true."
+msgstr ""
+"我听说外界有两种古老生物的传闻。一种叫海王龙，生活在蘑菇沼泽，另一种滑齿龙则生活在丛林湖泊中。\n"
+"传闻这些生物强大到根本无法被杀死。我很想知道这是否属实。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Probably such a great warrior as you can easily cope with this task. "
+"Meanwhile, I will finish work on a new shield."
+msgstr ""
+"你是个伟大的战士，你肯定可以轻松应对该任务。同时，我将完成新盾牌的制作。"
+
+#, fuzzy
+msgid "Tell Ted that you killed Liopleurodon and Tylosaurus."
+msgstr "告诉泰德你杀了海王龙和滑齿龙。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"You managed to defeat them! However, I was sure that it would be so. Take "
+"this shield, I made it pretty good, as I think. I'm sure you'll be needing "
+"it because you still have many battles and glorious victories ahead."
+msgstr ""
+"你设法击败了它们！ 我就知道会这样的。带上这个盾牌，我觉得它非常不错。你肯定会需要它的，因为你仍要经历许多战役和光荣的胜利。"
+
+#, fuzzy
+msgid "Tell Ted you killed all fishes."
+msgstr "告诉泰德，你已经击败了所有鱼类生物。"
+
+#, fuzzy
+msgid "Tell Ted that you have done fried Purplefish."
+msgstr "告诉泰德你烤了紫火鱼。"
+
+#, fuzzy
+msgid "Tell Ted that you have done fried Dunkleosteus."
+msgstr "告诉泰德你烤了邓氏鱼。"
+
+#, fuzzy
+msgid "Tell Ted you captured Gulper."
+msgstr "告诉泰德你抓了宽咽鱼。"
+
+#, fuzzy
+msgid "Tell Ted you have slain the Tentaclon."
+msgstr "告诉泰德，你杀了肯塔克隆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:46 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:622 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Store"
+msgstr "商店"
+
+

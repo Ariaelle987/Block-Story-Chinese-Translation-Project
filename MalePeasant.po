@@ -1,0 +1,288 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Male"
+msgstr "男性"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Store"
+msgstr "商店"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trade"
+msgstr "交易"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Feed Us"
+msgstr "帮我们获取食物"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Repair Our Tools"
+msgstr "帮我们修理工具"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Upgrade Our Tools"
+msgstr "帮我们升级工具"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Upgrade Our Towns"
+msgstr "帮我们升级村镇"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Power On Our Equipment"
+msgstr "帮我们为设备供能"
+
+msgid ""
+"Hello fellow traveler, if you're here to help, you're already welcome. We're "
+"struggling to survive in this harsh world, and any assistance is greatly "
+"appreciated. Do you think you can help us? Even the smallest bit of help can "
+"go a long way. Help us rebuild our villages. What do you say? Can you bring "
+"us some Fried Meat? We are starving out here. It requires a Furnace to cook "
+"this meat. If you bring us some, we have some extra coal we can spare for "
+"your journey."
+msgstr ""
+"你好，旅行者，如果你愿意提供帮助，我们非常欢迎。我们在这个严酷的世界中艰难求"
+"生，每一点帮助都非常宝贵。你能帮忙吗？哪怕是微小的帮助也能产生很大作用。请帮"
+"我们重建村庄。你能给我们带一些熟肉吗？我们非常饥饿。烹饪这些肉需要炉子。"
+"如果你带来一些，我们可以提供一些备用煤炭帮助你的旅程。"
+
+msgid ""
+"Have you managed to gather some Fried Meat for us? We desperately need it to "
+"survive."
+msgstr "你已经为我们收集到熟肉了吗？我们非常需要它来维持生存。"
+
+msgid ""
+"Thank you so much for bringing us this Fried Meat! We will be able to "
+"survive a little longer thanks to your help. Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+"非常感谢你带来的熟肉！有了它，我们可以多维持一段时间的生存。继续帮助我们，我"
+"很快会为你准备一些特别的东西。"
+
+msgid "Tell a Countryman you have the Fried Meat."
+msgstr "告诉村民你带来了熟肉。"
+
+msgid ""
+"Hello again fellow traveler, You've been a great help to our towns. We've "
+"been able to grow and defend our villages thanks to your assistance. Now, I "
+"have a special reward for you this time around. I've encountered this music "
+"disk during my travels, and I think it would be a great addition to your "
+"collection. I've listened to it myself and I've listened to it, however I've "
+"grown tired of it and want to try out something else. One time, in the "
+"nearby marketplace I heard a music track that was called Pirates - Ending. "
+"Do you happen to have this track on you? I'd be happy to trade it with you "
+"for this one that I have. What do you say, fellow traveler? Want to make a "
+"deal?"
+msgstr ""
+"又见面了，旅行者。你为我们的村庄提供了极大的帮助，多亏了你的协助，我们才能发"
+"展并守护家园。这次我想给你一个特别的交易机会。在旅途中，我得到了一张唱片，觉"
+"得它会很适合你的收藏。不过我已经听腻了它，想换点新的。之前我在附近的集市听到"
+"一首名为“海盗 - 结局”的曲子。你手上有这张唱片吗？如果有的话，我愿意用我这张与"
+"你交换。你觉得如何？"
+
+msgid ""
+"Do you have the disk I'm looking for? I'd be happy to trade it for the one I "
+"have."
+msgstr "你有我寻找的那张唱片吗？我可以用我手上的唱片和你交换。"
+
+msgid ""
+"Thank you so much for bringing me this music disk! I can't wait to hear this "
+"song once more! I hope you enjoy the one I give you in return!"
+msgstr ""
+"非常感谢你带来的唱片！我迫不及待想再次聆听这首曲子。希望你喜欢我回赠给你的唱"
+"片。"
+
+msgid "Tell a Countryman you have the matching music disk."
+msgstr "告诉村民你带来了要交换的唱片。"
+
+#, fuzzy
+msgid ""
+"Thank you so much for bringing us this Fried Meat! We will be able to "
+"survive a little longer thanks to your help."
+msgstr ""
+"非常感谢你带来的熟肉！有了它，我们可以多维持一段时间的生存。继续帮助我们，我"
+"很快会为你准备一些特别的东西。"
+
+msgid ""
+"Hello fellow traveler, I have another request for you. Our tools are falling "
+"apart. We cannot sustain our towns without proper working equipment. A Stone "
+"Hammer is essential for getting our tools repaired. If you could bring us "
+"some, we would be forever grateful. In return, we can offer you some gold "
+"coins that can be used to purchase items by the fellow Alchemist that visits "
+"our towns."
+msgstr ""
+"旅行者你好，我还有另一个请求。我们的工具已经损坏，如果没有正常使用的工具，村"
+"镇无法维持。修理工具需要石锤。如果你能带来一些，我们将感激不尽。作为回报，我"
+"们可以提供一些金币，用于向访问我们村庄的炼金师购买物品。"
+
+msgid ""
+"Have you managed to craft hammers for our tools? We need them to keep our "
+"towns in shape."
+msgstr "你已经为我们的工具制作好石锤了吗？我们需要它们来维持村镇运行。"
+
+msgid ""
+"Thank you so much for bringing us these Stone Hammers! We will be able to "
+"repair our tools and survive longer thanks to your help. Keep helping us out "
+"and I'll have something special for you soon."
+msgstr ""
+"非常感谢你带来的石锤！有了它们，我们可以修理工具并延长生存时间。继续帮助我"
+"们，我很快会为你准备一些特别的奖励。"
+
+msgid "Tell a Countryman you have the Stone Hammers."
+msgstr "告诉村民你带来了石锤。"
+
+msgid ""
+"Welcome back fellow traveler! Our towns are in better shape thanks to you. "
+"Now, it's time for us to get some upgrades for our tools. We need stronger "
+"tools to help us survive and get tasks done more efficiently. Can you bring "
+"us some Iron Bars to help us upgrade our tools? If you can bring us some, "
+"we'll make sure to reward you well for your efforts with some Arrows for "
+"your journey."
+msgstr ""
+"欢迎回来，旅行者！多亏了你，我们的城镇状况有所改善。现在，我们需要升级工具。"
+"我们需要更强力的工具以提高生存能力和任务效率。你能带一些铁锭来帮助我们升级工"
+"具吗？如果带来了，我们会用一些箭矢作为奖励。"
+
+msgid ""
+"Have you managed to smelt the Iron Bars yet? We need them to upgrade our "
+"tools."
+msgstr "你熔炼好铁锭了吗？我们需要它们来升级工具。"
+
+msgid ""
+"Thank you so much for bringing us these Iron Bars! We will be able to "
+"upgrade our tools and complete tasks much quicker! Keep helping us out and "
+"I'll have something special for you soon."
+msgstr ""
+"非常感谢你带来的铁锭！有了它们，我们能更快地升级工具并完成任务。继续帮助我"
+"们，我会为你准备特别奖励。"
+
+msgid "Tell a Countryman you have the Iron Bars."
+msgstr "告诉村民你带来了铁锭。"
+
+msgid ""
+"Thank you for returning, fellow traveler! Our new tools have been a great "
+"help to our towns, now we are looking to upgrade the structure of our towns. "
+"A strong foundation will help us survive against the harsh elements and will "
+"allow us to expand our towns further. Can you bring us some Bricks? This "
+"material is one of the strongest known blocks out there and will be perfect "
+"for upgrading our towns. You need to smelt Stone to get Clear Stone, and "
+"from there you can smelt the Clear Stone to make Bricks. If you can bring us "
+"some, we'll reward you with some Gold Bars to help you upgrade your own "
+"equipment."
+msgstr ""
+"谢谢你回来，旅行者！有了新工具，我们的城镇状况得到很大改善。现在，我们希望升"
+"级城镇结构。坚固的基础有助于抵御恶劣环境，也能让我们进一步扩展城镇。你能带些"
+"砖块来帮助我们吗？这种材料是已知最坚固的方块之一，非常适合升级城镇。你需要先"
+"将石头熔炼成清澈石，再将清澈石熔炼成砖块。如果你能带来，我们会奖励你一些金条，以"
+"帮助你升级自己的装备。"
+
+msgid ""
+"Have you managed to smelt the Clear Stone into Bricks yet? We need them to "
+"upgrade our towns."
+msgstr "你把清澈石熔炼成砖块了吗？我们需要它们来升级城镇。"
+
+msgid ""
+"Thank you so much for bringing us these Bricks! We will be able to upgrade "
+"our towns and protect our people much better! Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+"非常感谢你带来的砖块！有了它们，我们能更好地升级城镇并保护居民。继续帮助我"
+"们，我会为你准备特别奖励。"
+
+msgid "Tell a Countryman you have the Bricks."
+msgstr "告诉村民你带来了砖块。"
+
+msgid ""
+"Thank you for returning, fellow traveler! Our towns are in much better shape "
+"thanks to you! We've managed to expand and discover some valuable resources. "
+"If you can help us with this task, we can share some of these valuable "
+"resources with you. We are looking to get fuel for our towns to power our "
+"equipment. Can you bring us some Fuel to help us use this equipment? If you "
+"can bring us a few tanks of Fuel, we'll give you some Unobtainium and Gold "
+"Coins as a reward for your efforts. Getting Fuel tanks can be tough. You "
+"need to locate Sulfur, Coal, and get buckets of water. These will allow you "
+"to craft Fuel."
+msgstr ""
+"谢谢你回来，旅行者！多亏了你，我们的城镇状况大大改善！我们已经成功扩展，并发"
+"现了一些宝贵资源。如果你能帮助我们完成这个任务，我们可以与您分享部分宝贵资"
+"源。我们需要燃料来为城镇的设备供能。你能带一些燃料吗？如果你带来几罐燃料，我"
+"们会奖励你一些难得素和金币。制作燃料可能比较困难，你需要找到硫磺、煤炭，并准"
+"备水桶，这些材料可以用来合成燃料。"
+
+msgid "Have you managed to craft Fuel? We need it to power our equipment."
+msgstr "你制作好燃料了吗？我们需要它为设备供能。"
+
+msgid ""
+"Thank you so much for bringing us this Fuel! We will be able to power our "
+"equipment and evolve as a society much quicker! Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+"非常感谢你带来的燃料！有了它，我们可以为设备供能，并更快地发展我们的社会。继"
+"续帮助我们，我会为你准备特别奖励。"
+
+msgid "Tell a Countryman you have the Fuel."
+msgstr "告诉村民你带来了燃料。"
