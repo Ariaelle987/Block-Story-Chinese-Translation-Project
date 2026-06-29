@@ -185,7 +185,7 @@ msgid ""
 "branches, we can use them to create protective wards around our towns to "
 "keep us safe. In return, I'll make sure to reward you with some of our "
 "finest Fried LionFish for your efforts."
-msgstr "欢迎归来，旅行者！在你的帮助下，我们的人民生活得越来越好了但是，我 "
+msgstr "欢迎归来，旅行者！在你的帮助下，我们的人民生活得越来越好了，但是，我 "
 "们仍然面临着来自这些土地上漫游的和水中游荡的野生生物的巨大危险。我听说有一种 "
 "叫做哨兵灵木的神奇树枝，可以帮助我们免受伤害。这种灵木是用乌鸦的羽毛和一些 "
 "树枝做成的。如果你能给我们带来一些这样的树枝，我们可以用它们在城镇周围设置防 "
@@ -194,18 +194,18 @@ msgstr "欢迎归来，旅行者！在你的帮助下，我们的人民生活得
 msgid ""
 "Have you managed to craft the Sentinel Branches yet? We could really use "
 "them to protect out people from the dangers on the outside."
-msgstr "你做完了哨兵灵木吗？我们需要用来他保护我们的村庄"
+msgstr "你制作了哨兵灵木吗？我们需要用来它保护我们的村庄"
 
 msgid ""
 "Thank you so much for bringing us these Sentinel Branches! We will be able "
 "to protect our people from harm thanks to your help! Take this. I cooked "
 "these and saved them for you. Keep helping us out and I might have something "
 "special for you soon."
-msgstr "太感谢你为我们带来这些哨兵灵木了。有了你的帮助，我们就可以保护我们的村民们 "
+msgstr "感谢你为我们带来这些哨兵灵木了！有了你的帮助，我们就可以保护我们的村民们。"
 "拿着这个，这是我给你做的。要是你继续帮我们的话我会给你一个特殊的礼物"
 
 msgid "Tell a Countrywoman you have the Sentinel Branches."
-msgstr "告诉一个农妇你做完了哨兵灵木。"
+msgstr "告诉一个农妇你制作了哨兵灵木。"
 
 msgid ""
 "Oh it's you again traveler! It's amazing, these Sentienel Branches are "
@@ -227,7 +227,7 @@ msgid ""
 "bread and feed our people thanks to your help. You can have these Mana "
 "Potions. These will help you on your journey. Keep helping us out and I "
 "might have something special for you soon."
-msgstr "太感谢你帮我们带来小麦了！有了小麦我们就可以做面包，给我们的人民带来粮食了 "
+msgstr "太感谢你帮我们带来小麦了！有了小麦我们就可以做面包，给我们的人民带来粮食了。"
 "给，这些法力药水送给你吧。他们会帮助你的旅程。要是你继续帮我们的话我会给你一个特殊 "
 "的礼物。"
 
@@ -298,5 +298,3 @@ msgstr "太感谢你为我们带来这些火炬了！有了你的帮助我们就
 
 msgid "Tell a Countrywoman you crafted the Wall Torches."
 msgstr "告诉一个农妇你制作了火炬"
-
-
