@@ -1,0 +1,852 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/mobs/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "BabyDeer"
+msgstr "鹿寶寶"
+
+msgid "BlackSheep"
+msgstr "黑羊"
+
+msgid "Turtle"
+msgstr "海龜"
+
+msgid "MrGoblin"
+msgstr "哥布林布魯先生"
+
+msgid "Shiva"
+msgstr "希瓦"
+
+msgid "SmallHugo"
+msgstr "雨果寶寶"
+
+msgid "DuckF"
+msgstr "鴨小姐"
+
+msgid "BobCat"
+msgstr "山貓"
+
+msgid "DuckM"
+msgstr "鴨先生"
+
+msgid "ForgottenGoblin"
+msgstr "天使哥布林"
+
+msgid "ClownFish"
+msgstr "小丑魚"
+
+msgid "JungleBat"
+msgstr "叢林蝙蝠"
+
+msgid "WerewoolfBlack"
+msgstr "黑狼人"
+
+msgid "MediumWorm"
+msgstr "中型蠕蟲"
+
+msgid "GruntFish"
+msgstr "咕噥魚"
+
+msgid "SkeletonNormal"
+msgstr "多嘴骷髏"
+
+msgid "BigWorm"
+msgstr "巨型蠕蟲"
+
+msgid "Cow"
+msgstr "牛"
+
+msgid "Squirrel"
+msgstr "松鼠"
+
+msgid "Starfish"
+msgstr "海星"
+
+msgid "Bull"
+msgstr "公牛"
+
+msgid "Wizard"
+msgstr "魔力師"
+
+msgid "Snake"
+msgstr "蛇"
+
+msgid "Eagle"
+msgstr "鷹"
+
+msgid "Visitors"
+msgstr "訪客"
+
+msgid "Dolphin"
+msgstr "海豚"
+
+msgid "BabyBearPolar"
+msgstr "北極熊寶寶"
+
+msgid "Dragon_Pet"
+msgstr "龍"
+
+msgid "IceElemental"
+msgstr "冰元素"
+
+msgid "Basilisk"
+msgstr "蛇怪"
+
+msgid "LionFish"
+msgstr "獅子魚"
+
+msgid "PoisonDartFrog"
+msgstr "箭毒蛙"
+
+msgid "DarkBoss"
+msgstr "黑暗魔王"
+
+msgid "TriggerFish"
+msgstr "炮彈魚"
+
+msgid "Panther"
+msgstr "豹"
+
+msgid "Dog_Pet"
+msgstr "狗"
+
+msgid "Lizard"
+msgstr "蜥蜴"
+
+msgid "DragonBug"
+msgstr "龍蟲"
+
+msgid "SwampSnake"
+msgstr "沼澤水蛇"
+
+msgid "GiantSpider"
+msgstr "阿拉戈克"
+
+msgid "Ashkore"
+msgstr "阿什科爾"
+
+msgid "Werewoolf"
+msgstr "狼人"
+
+msgid "Chicken"
+msgstr "雞"
+
+msgid "Spider_Pet"
+msgstr "阿拉奇"
+
+msgid "ShadowHunter"
+msgstr "暗影獵手"
+
+msgid "Tiger"
+msgstr "虎"
+
+msgid "BabyGoblin"
+msgstr "哥布林寶寶"
+
+msgid "BigHugo"
+msgstr "雨果"
+
+msgid "Deer"
+msgstr "鹿"
+
+msgid "BearPolar"
+msgstr "北極熊"
+
+msgid "SkeletonMage"
+msgstr "黑暗法師"
+
+msgid "ColoredSheep"
+msgstr "羊"
+
+msgid "FeralPig"
+msgstr "野豬"
+
+msgid "SkeletonFresh"
+msgstr "黑暗殺人狂"
+
+msgid "Jackelope"
+msgstr "傑克洛普"
+
+msgid "Spider"
+msgstr "蜘蛛"
+
+msgid "SourceOfLife"
+msgstr "生命之源"
+
+msgid "Striker"
+msgstr "蠍子"
+
+msgid "Megalodon"
+msgstr "巨齒鯊"
+
+msgid "BabyBearGrizzly"
+msgstr "灰熊寶寶"
+
+msgid "FemaleWarrior"
+msgstr "葆拉"
+
+msgid "Raven"
+msgstr "烏鴉"
+
+msgid "BearGrizzly"
+msgstr "灰熊"
+
+msgid "Bear"
+msgstr "熊"
+
+msgid "WhiteRaven"
+msgstr "白鴉"
+
+msgid "Squid"
+msgstr "烏賊"
+
+msgid "Stingray"
+msgstr "黃貂魚"
+
+msgid "DarkWorm"
+msgstr "黑暗蠕蟲"
+
+msgid "Pig"
+msgstr "豬"
+
+msgid "Viking"
+msgstr "泰德"
+
+msgid "Urchin"
+msgstr "海膽"
+
+msgid "Alien_Dog_Pet"
+msgstr "岡塔"
+
+msgid "SkeletonDark"
+msgstr "黑暗騎士"
+
+msgid "SnowWorm"
+msgstr "冰雪蠕蟲"
+
+msgid "DarkBigWorm"
+msgstr "黑暗巨型蠕蟲"
+
+msgid "WhiteSheep"
+msgstr "白羊"
+
+msgid "Enemy"
+msgstr "敵人"
+
+msgid "Rooster"
+msgstr "公雞"
+
+msgid "SnowBigWorm"
+msgstr "冰雪巨型蠕蟲"
+
+msgid "Dragon"
+msgstr "火龍"
+
+msgid "Barlog"
+msgstr "炎魔"
+
+msgid "Yeti"
+msgstr "亞蒂薩斯"
+
+msgid "Cat_Pet"
+msgstr "珀爾修斯"
+
+msgid "Bird"
+msgstr "雷恩"
+
+msgid "MissDeer"
+msgstr "鹿小姐"
+
+msgid "BabyHorse"
+msgstr "馬寶寶"
+
+msgid "IceDragon"
+msgstr "冰龍"
+
+msgid "Hydra"
+msgstr "海德拉"
+
+msgid "Tentaclon"
+msgstr "肯塔克隆"
+
+msgid "GoblinWarrior"
+msgstr "哥布林戰士"
+
+msgid "SmallWorm"
+msgstr "小型蠕蟲"
+
+msgid "Warrior"
+msgstr "艾倫"
+
+msgid "BabyBear"
+msgstr "熊寶寶"
+
+msgid "DragonBat"
+msgstr "龍蝙蝠"
+
+msgid "Otter"
+msgstr "水獺"
+
+msgid "Horse"
+msgstr "馬"
+
+msgid "Chupacabra"
+msgstr "卓柏卡布拉"
+
+msgid "Shark"
+msgstr "大白鯊"
+
+msgid "Crescent Ray"
+msgstr "新月鰩"
+
+msgid "Orbis Felix"
+msgstr "奧比斯·菲利克斯"
+
+msgid "CrescentRay"
+msgstr "新月鰩"
+
+msgid "OrbisFelix"
+msgstr "奧比斯·菲利克斯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
+msgid "Trex"
+msgstr "暴龍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:79
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
+msgid "TRex"
+msgstr "暴龍"
+
+msgid "DragonLord"
+msgstr "龍主"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
+msgid "Mech_Pet"
+msgstr "870-CK-570-RY"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:76
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:31
+msgid "Snowman_Pet"
+msgstr "雪人"
+
+msgid "BabyAshkore_Pet"
+msgstr "阿什科爾"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:131
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/InteractionUICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati"
+msgstr "瑪蒂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:131
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:74
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:31
+msgid "RainbowBasilisk_Pet"
+msgstr "彩虹蛇怪"
+
+#, fuzzy
+msgid "Mati_Pet"
+msgstr "瑪蒂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
+msgid "Onyx_Pet"
+msgstr "瑪瑙"
+
+#, fuzzy
+msgid "Daithir_Pet"
+msgstr "達伊希爾"
+
+#, fuzzy
+msgid "Vairmut_Pet"
+msgstr "維爾穆特"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
+msgid "Xordaraxus_Pet"
+msgstr "索達拉修斯"
+
+#, fuzzy
+msgid "SwampGolem"
+msgstr "沼澤傀儡"
+
+#, fuzzy
+msgid "VikingShip"
+msgstr "泰德"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "AlchemistShip"
+msgstr "鍊金術士"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Jellyfish"
+msgstr "水母"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Manowar"
+msgstr "瑪諾瓦"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "DumboOctopus"
+msgstr "小飛象章魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dunkleosteus"
+msgstr "鄧氏魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fangtooth"
+msgstr "尖牙魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gulper"
+msgstr "寬咽魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Purplefish"
+msgstr "紫火魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Tylosaurus"
+msgstr "海王龍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Liopleurodon"
+msgstr "滑齒龍"
+
+#, fuzzy
+msgid "Dagi"
+msgstr "達吉星人"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rucal"
+msgstr "魯卡爾犬"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
+msgid "Mech"
+msgstr "機械"
+
+#, fuzzy
+msgid "Bulm"
+msgstr "布倫蝙蝠"
+
+#, fuzzy
+msgid "Umhi"
+msgstr "尤希星人"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dreamcat"
+msgstr "夢豹"
+
+#, fuzzy
+msgid "Screl"
+msgstr "斯克雷爾蛇"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fuza"
+msgstr "富扎"
+
+#, fuzzy
+msgid "Angel Goblin"
+msgstr "天使哥布林"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:30
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:96
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix"
+msgstr "菲尼克斯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:30
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:96
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Egg"
+msgstr "菲尼克斯蛋"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:79
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:36
+msgid "Eldriar_Pet"
+msgstr "艾德里亞"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
+msgid "PeasantMale"
+msgstr "男村民"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
+msgid "PeasantFemale"
+msgstr "女村民"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "FemalePeasant"
+msgstr "女村民"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "MalePeasant"
+msgstr "男村民"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Space Wren"
+msgstr "太空鷦鷯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Butterfly"
+msgstr "蝴蝶"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Frog"
+msgstr "青蛙"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Stormbringer"
+msgstr "風暴使者"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Umbrosk"
+msgstr "暗影龍蟲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Glaciros"
+msgstr "冰雪龍蟲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "EmberTyr"
+msgstr "地獄龍蟲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Seraphax"
+msgstr "天空龍蟲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Zerath"
+msgstr "褐甲龍蟲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Rat"
+msgstr "老鼠"

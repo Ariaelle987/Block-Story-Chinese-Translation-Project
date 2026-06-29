@@ -1,0 +1,3094 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2023-10-10 16:23+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/ui/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Loaded Succesfully"
+msgstr "載入成功"
+
+msgid "Sync"
+msgstr "同步"
+
+msgid "Coming soon"
+msgstr "敬請期待"
+
+msgid "DropBox"
+msgstr "分享平臺"
+
+msgid "Upload"
+msgstr "上傳"
+
+msgid "Сreature mounted"
+msgstr "生物已騎乘"
+
+msgid "Increases maximum mana."
+msgstr "提升魔力值上限。"
+
+msgid "Combat"
+msgstr "戰鬥"
+
+msgid "Item"
+msgstr "物品"
+
+msgid "Backup"
+msgstr "備份"
+
+msgid ""
+"Increases flying speed.  Allows faster travel, and the ability to reach "
+"floating islands."
+msgstr ""
+"提高飛行速度。允許更快地旅行及抵達"
+"浮島。"
+
+msgid "Simple"
+msgstr "簡單"
+
+msgid "Purchase..."
+msgstr "購買..."
+
+msgid "Exponential"
+msgstr "指數級"
+
+msgid "Please enter pet name"
+msgstr "請輸入寵物名"
+
+msgid "Are you sure you wish to delete character [FF0000]{0}[-]?"
+msgstr "確定要刪除角色 [FF0000]{0}[-]？"
+
+msgid "Anisotropic Filtering"
+msgstr "各項異性過濾"
+
+msgid "Successfully uploaded character {0}"
+msgstr "成功載入角色{0}"
+
+msgid "{0} Diamonds"
+msgstr "{0}鑽石"
+
+msgid "Can't drive in water!"
+msgstr "無法在水中行駛！"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Moving Joysticks"
+msgstr "移動操縱桿"
+
+msgid "Enable Weather"
+msgstr "開啟天氣變化"
+
+msgid "Walk Speed:"
+msgstr "行走速度:"
+
+msgid "Misc"
+msgstr "雜項"
+
+msgid "Skill Pt:"
+msgstr "技能點:"
+
+msgid "Unable to purchase key"
+msgstr "無法購買鑰匙"
+
+msgid "Interactive Blocks"
+msgstr "互動方塊"
+
+msgid "World seed"
+msgstr "世界種子"
+
+msgid "Auto save frequency: [FF0000]{0:0}"
+msgstr "自動儲存頻率：[FF0000]{0:0}"
+
+msgid "Profiles"
+msgstr "資料"
+
+msgid "Spawn point direction"
+msgstr "重生點方位"
+
+msgid "Successfully uploaded world {0}"
+msgstr "成功上傳世界{0}"
+
+msgid "Suomalainen"
+msgstr "芬蘭語"
+
+msgid "Calibrate tilt"
+msgstr "校準傾斜"
+
+msgid "Get More"
+msgstr "獲取更多"
+
+msgid "Can't mount a vehicle with the Saddle!"
+msgstr "無法使用鞍乘上交通工具!"
+
+msgid "Graphics"
+msgstr "圖像"
+
+msgid "Mouse Smoothing: [FF0000]{0:0.00}"
+msgstr "鼠標平滑度: [FF0000]{0:0.00}"
+
+msgid "Joy rotation sensitivity: [FF0000]{0:0.0}"
+msgstr "手柄旋轉靈敏度: [FF0000]{0:0.0}"
+
+msgid "Exp:"
+msgstr "經驗值:"
+
+msgid "Time:"
+msgstr "時間:"
+
+msgid "Underwater Breath:"
+msgstr "水下氧氣值:"
+
+msgid "FPS counter"
+msgstr "幀率顯示"
+
+msgid "View distance: [FF0000]{0:0}"
+msgstr "視距: [FF0000]{0:0}"
+
+msgid "Elevator move forward"
+msgstr "電梯前行"
+
+msgid ""
+"Increases maximum health.  The more health you have, the better you feel.  :)"
+msgstr ""
+"提升最大生命值。生命值越高，"
+"感覺越爽 :)"
+
+msgid "Screenshot Resolution"
+msgstr "截屏分辨率"
+
+msgid "Game Over"
+msgstr "遊戲結束"
+
+msgid ""
+"Are you sure you want to reset all\n"
+"Player progress and settings?\n"
+"\n"
+"This cannot be undone!!!"
+msgstr ""
+"確定重置所有\n"
+"玩家進度及設置？\n"
+"\n"
+"該操作無法還原！"
+
+msgid "Time Of Day: [FF0000]{0:0.0}"
+msgstr "時間: [FF0000]{0:0.0}"
+
+msgid "<<Resume"
+msgstr "<<繼續"
+
+msgid "Not enough Fuel!"
+msgstr "燃油不足！"
+
+msgid "Selector quality: [FF0000]{0:0}"
+msgstr "選擇器質量: [FF0000]{0:0}"
+
+msgid "Saving..."
+msgstr "儲存中..."
+
+msgid "Recipe Book"
+msgstr "配方書"
+
+msgid "News"
+msgstr "新聞"
+
+msgid "Character: [FF0000]{0}[-], already exists!"
+msgstr "角色: [FF0000]{0}[-] 已存在！"
+
+msgid "Player"
+msgstr "玩家"
+
+msgid "Store"
+msgstr "商店"
+
+msgid "Dynamic sky quality: {0:0}"
+msgstr "動態天空質量: {0:0}"
+
+msgid "Theme"
+msgstr "主題"
+
+msgid "Auto Save"
+msgstr "自動儲存"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Invert Y Axis"
+msgstr "倒轉Y軸"
+
+msgid "World name"
+msgstr "世界名"
+
+msgid "Italiano"
+msgstr "意大利語"
+
+msgid "{0}"
+msgstr "{0}"
+
+msgid ""
+"Increases the amount of time before damage is taken while underwater. If you "
+"like to swim and investigate deep oceans to find epic underwater monsters or "
+"build underwater worlds, then this skill for you."
+msgstr ""
+"提升在水下可免受傷害的時間。如果你"
+"喜歡游泳，嚮往探索深海，尋找水下的史詩級怪物或是"
+"建造水下世界，那麼該技能非你莫屬。"
+
+msgid "Sound"
+msgstr "聲音"
+
+msgid "Русский"
+msgstr "俄語"
+
+msgid "New World"
+msgstr "新的世界"
+
+msgid "Respawn"
+msgstr "重生"
+
+msgid "Load World"
+msgstr "加載世界"
+
+msgid "Skills: [00FF00]{0:0}"
+msgstr "技能: [00FF00]{0:0}"
+
+msgid "Profile name"
+msgstr "資料名"
+
+msgid "Select friends to invite to Block Story"
+msgstr "選擇好友邀請至Block Story"
+
+msgid "Space"
+msgstr "空格"
+
+msgid "Português"
+msgstr "葡萄牙語"
+
+msgid "Do you want to get more?"
+msgstr "想要更多嗎？"
+
+msgid "Use"
+msgstr "使用"
+
+msgid "Cross"
+msgstr "穿過"
+
+msgid "Click here to create a new character"
+msgstr "點擊這裡創建一個新角色"
+
+msgid "MOGA Pro Connected"
+msgstr "已連接MOGA Pro"
+
+msgid "(click for hint)"
+msgstr "(點擊獲取提示)"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Drag Speed:  [FF0000]{0:0.0}"
+msgstr "拖動速度: [FF0000]{0:0.0}"
+
+msgid "You DIED!!!"
+msgstr "你死了!!!"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Not enough mana!  Try attacking the creature first!"
+msgstr "魔力值不足！先嚐試攻擊怪物！"
+
+msgid ""
+"Normal creative mode:\n"
+"unlimited resources, mana, health."
+msgstr ""
+"普通創造模式: \n"
+"無限資源、魔力值、生命值。"
+
+msgid ""
+"Normal survival mode:\n"
+"quests, skills, crafting."
+msgstr ""
+"普通生存模式: \n"
+"任務、技能、製作。"
+
+msgid "Exit Game"
+msgstr "離開遊戲"
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Get Content"
+msgstr "獲取聯繫"
+
+msgid "Buy Full"
+msgstr "購買完整版"
+
+msgid "Left Hand"
+msgstr "左手"
+
+msgid ""
+"Increases bow attack damage. Higher damage will allow you to kill stronger "
+"enemies from a distance. To use the bow you need arrows."
+msgstr ""
+"提升弓箭傷害。更高的傷害可以在遠距離殺死更強的敵人。必須有箭才能使用弓。"
+
+msgid "Good"
+msgstr "好的"
+
+msgid "Can't fly in water!"
+msgstr "無法在水中飛行！"
+
+msgid ""
+"[FF0000]Use the following keys:[-]\n"
+"Quick button access with [FFFF00]\"R1\"[-] trigger\n"
+"[00FFFF]When in quick access mode:[-]\n"
+"[FFFF00]\"X\"[-] - Skill points window\n"
+"[FFFF00]\"Y\"[-] - Make screenshot\n"
+"[FFFF00]\"B\"[-] - Quests\n"
+"[FFFF00]\"A\"[-] - Equipment\n"
+"[00FFFF]When in normal mode:[-]\n"
+"[FFFF00]\"L1\"[-] - Open inventory\n"
+"[FFFF00]\"Y\"[-] - Fly\n"
+"[FFFF00]\"A\"[-] - Jump\n"
+"[FFFF00]\"B\"[-] - Return to game mode from any screen\n"
+"[FFFF00]\"X\"[-] - Dig, attack, shoot\n"
+"[FFFF00]\"Start\"[-] - Settings"
+msgstr ""
+"[FF0000]使用以下按鍵:[-]\n"
+"[FFFF00]\"R1\"[-] 觸發器\n"
+"[00FFFF]在快捷模式中:[-]\n"
+"[FFFF00]\"X\"[-] - 技能點窗口\n"
+"[FFFF00]\"Y\"[-] - 截屏\n"
+"[FFFF00]\"B\"[-] - 探索\n"
+"[FFFF00]\"A\"[-] - 裝備\n"
+"[00FFFF]普通模式中:[-]\n"
+"[FFFF00]\"L1\"[-] -打開揹包\n"
+"[FFFF00]\"Y\"[-] -飛行\n"
+"[FFFF00]\"A\"[-] -跳躍\n"
+"[FFFF00]\"B\"[-] -從任意屏返回遊戲模式\n"
+"[FFFF00]\"X\"[-] - 挖掘、攻擊、射擊\n"
+"[FFFF00]\"Start\"[-] –設置"
+
+msgid "Controller Detected"
+msgstr "檢測到控制器"
+
+msgid "Beautiful"
+msgstr "漂亮"
+
+msgid "Options"
+msgstr "設置"
+
+msgid "Fullscreen Mode"
+msgstr "全屏"
+
+msgid "Show compass"
+msgstr "展示指南針"
+
+msgid "Failed to download {0}, {1}"
+msgstr "下載失敗 {0}, {1}"
+
+msgid "Dig speed:"
+msgstr "挖掘速度:"
+
+msgid "Sword Damage:"
+msgstr "劍類傷害:"
+
+msgid "MOGA Pocket Connected"
+msgstr "已連接MOGA Pocket"
+
+msgid "Start game"
+msgstr "開始遊戲"
+
+msgid "Settings"
+msgstr "設置"
+
+msgid "Not enough Mana..."
+msgstr "魔力值不足..."
+
+msgid ""
+"Bullets: [00FF00]{0}[-]\n"
+"Gun Powder: [00FF00]{1}"
+msgstr ""
+"子彈: [00FF00]{0}[-]\n"
+"火藥: [00FF00]{1}"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Failed to upload {0}, {1}"
+msgstr "上傳失敗 {0}, {1}"
+
+msgid "Right Hand"
+msgstr "右手"
+
+msgid "Player Statistic"
+msgstr "玩家數據"
+
+msgid ""
+"WARNING!\n"
+"Changing distance sliders can greatly increase memory usage and reduce "
+"performance!"
+msgstr ""
+"警告! \n"
+"改變區塊加載會極大的提升內存使用率，因此而降低性能！"
+
+msgid "Ashkore"
+msgstr "阿什科爾"
+
+msgid "Dynamic sky"
+msgstr "動態天空"
+
+msgid "Anti Aliasing: [FF0000]{0:0}"
+msgstr "抗鋸齒: [FF0000]{0:0}"
+
+msgid "Play"
+msgstr "開始遊戲"
+
+msgid "Blocks"
+msgstr "方塊"
+
+msgid "Player Mana:"
+msgstr "玩家魔力值:"
+
+msgid ""
+"Use the following keys:\n"
+"[FFFF00]1-7[-] for the quick slots\n"
+"[FFFF00]Tab[-] for using objects\n"
+"[FFFF00]Space[-] for jumping\n"
+"[FFFF00]WASD[-] for moving\n"
+"[FFFF00]F1[-] for skill points\n"
+"[FFFF00]F2[-] for current quests\n"
+"[FFFF00]F3[-] for taking pictures\n"
+"[FFFF00]F4[-] for settings\n"
+"[FFFF00]F5[-] for equipment\n"
+"[FFFF00]F[-] for flying\n"
+"[FFFF00]R[-] use radar (if equipped)"
+msgstr ""
+"使用下列按鍵:\n"
+"[FFFF00]1-7[-] 快捷欄\n"
+"[FFFF00]Tab[-] 使用物品\n"
+"[FFFF00]Space[-] 跳躍\n"
+"[FFFF00]WASD[-] 移動\n"
+"[FFFF00]C[-] 技能點\n"
+"[FFFF00]J[-] 當前任務\n"
+"[FFFF00]F3[-] 截屏\n"
+"[FFFF00]F4[-] 設置\n"
+"[FFFF00]F5[-] 裝備 \n"
+"[FFFF00]F[-] 飛行\n"
+"[FFFF00]R[-] 使用雷達 (如已裝備)"
+
+msgid "Equip"
+msgstr "裝備"
+
+msgid "Craft"
+msgstr "製作"
+
+msgid "Inventory"
+msgstr "揹包"
+
+msgid "Download"
+msgstr "下載"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Generator should stand to the right or left side of the elevator!"
+msgstr "發電機應置於電梯的側邊！"
+
+msgid "Vertical load distance: [FF0000]{0:0}"
+msgstr "垂直區塊加載: [FF0000]{0:0}"
+
+msgid "Teleport to:"
+msgstr "傳送至:"
+
+msgid "Enter profile name"
+msgstr "輸入資料名"
+
+msgid "Reset data"
+msgstr "重置數據"
+
+msgid "Help"
+msgstr "幫助"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Interface (GUI) scale: [FF0000]{0:0.0}"
+msgstr "界面(GUI)尺寸: [FF0000]{0:0.0}"
+
+msgid "Terrain quality: [FF0000]{0:0}"
+msgstr "地形質量: [FF0000]{0:0}"
+
+msgid "日本語"
+msgstr "日語"
+
+msgid "Can't mount this pet until it reaches lvl 30!"
+msgstr "寵物在30級之前不可騎乘！"
+
+msgid "T-Rex"
+msgstr "暴龍"
+
+msgid "[00FF00]Hint:[-]"
+msgstr "[00FF00]提示:[-]"
+
+msgid "You are trying to attack an NPC!!!"
+msgstr "你正嘗試攻擊一名NPC!!!"
+
+msgid ""
+"The same as story mode except:\n"
+"monsters twice stronger, limited death count, progress lost after death."
+msgstr ""
+"與故事模式相同，除了:\n"
+"怪物強大兩倍，死亡次數有限，死亡後進度將丟失。"
+
+msgid "Load"
+msgstr "載入"
+
+msgid "Quests:"
+msgstr "任務:"
+
+msgid "Trinkets"
+msgstr "飾品"
+
+msgid "Click here to create a new world"
+msgstr "點擊這裡創建一個新世界"
+
+msgid "My world #blockstory"
+msgstr "我的世界#blockstory"
+
+msgid "Exit To Menu"
+msgstr "離開至菜單"
+
+msgid "Player Health:"
+msgstr "玩家生命值:"
+
+msgid "Sky quality: [FF0000]{0:0}"
+msgstr "天空質量: [FF0000]{0:0}"
+
+msgid "Aragog"
+msgstr "阿拉戈克"
+
+msgid "Reset Page"
+msgstr "重置頁面"
+
+msgid "Are You sure to delete world: [00FF00]{0}[-]? This can't be undone!!!"
+msgstr "確定要刪除世界: [00FF00]{0}[-]？ 此操作無法恢復!!!"
+
+msgid "Coming Soon..."
+msgstr "敬請期待..."
+
+msgid "Can't mount enemy creature with less than 50% health!"
+msgstr "低於50%生命值無法騎乘敵方怪物！"
+
+msgid ""
+"Are You sure you want to delete this\n"
+"world?\n"
+"This cannot be undone!!!"
+msgstr "確定要刪除該世界？此操作無法恢復!!!"
+
+msgid "Elevator stopped"
+msgstr "電梯已停止"
+
+msgid "Weather Humidity: [FF0000]{0:0.0}"
+msgstr "天氣溼度: [FF0000]{0:0.0}"
+
+msgid "Vehicles"
+msgstr "交通工具"
+
+msgid "Armor"
+msgstr "盔甲"
+
+msgid "Time Remaining:"
+msgstr "剩餘時間:"
+
+msgid "Native"
+msgstr "原生"
+
+msgid "Audio"
+msgstr "聲音"
+
+msgid "Monsters"
+msgstr "怪物"
+
+msgid ""
+"If you want to kill strong enemies with guns, spend some skill points on "
+"this skill."
+msgstr "如果你想使用槍來擊殺強大的敵人，那麼你應該在這項技能上花費一些技能點。"
+
+msgid ""
+"Your Diamonds\n"
+"{0}"
+msgstr ""
+"你的鑽石\n"
+"{0}"
+
+msgid "Wheel of fortune"
+msgstr "命運之輪"
+
+msgid "Enable Sound"
+msgstr "開啟聲音"
+
+msgid "Invalid world name: [00FF00]{0}[-], use only letters, numbers or space."
+msgstr ""
+"無效的世界名: [00FF00]{0}[-], 只可使用字母、數字或空格."
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Fog density: [FF0000]{0:0.00}"
+msgstr "迷霧濃度: [FF0000]{0:0.00}"
+
+msgid "Now available on"
+msgstr "現已可用"
+
+msgid "Sucessfully downloaded world {0}"
+msgstr "世界 {0} 下載成功"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Gun Power:"
+msgstr "槍類威力:"
+
+msgid "Magic Items"
+msgstr "魔力物品"
+
+msgid ""
+"Drag any item here to see it's description.\n"
+"\n"
+"Tap and hold a stack to move all the items.\n"
+"\n"
+"Tap and hold a stack with 1 finger, and tap an empty slot with another "
+"finger to split the stack."
+msgstr ""
+"將任意物品拖拽至此，以查看其說明。\n"
+"\n"
+"點擊並按住(或右鍵)以移動所有物品。\n"
+"\n"
+"按住E鍵，然後點擊任意一個空槽位以拆分物品。"
+
+msgid ""
+"Swords are close range weapons.  If you like to fight, spend some skill "
+"points to improve the damage of the sword's attack.  To use the sword, "
+"select one in the inventory, and tap on an enemy."
+msgstr ""
+"劍是近戰武器。如果你喜歡戰鬥，花費一些技能點去提升劍的攻擊力。要使用劍，從揹包中選擇一把並點擊敵人。"
+
+msgid ""
+"You can mix dyes in color table so then colored dye can be used on craft "
+"table to color other blocks.\n"
+"There are 3 numbers per cell, that is the amount of red, yellow and blue dye "
+"needed to make that color."
+msgstr ""
+"你可以混合染料，之後就可在加工欄中使用以為其他方塊上色\n"
+"每格有3個數字，即做出該顏色所需的紅色、黃色和藍色染料的量。"
+
+msgid "Bow Shoot Force:"
+msgstr "弓箭射程:"
+
+msgid "Monster spawn"
+msgstr "怪物生成"
+
+msgid "Rewards:"
+msgstr "獎勵:"
+
+msgid "Shields"
+msgstr "盾牌"
+
+msgid "Drag Smoothing:  [FF0000]{0:0.00}"
+msgstr "拖動平滑度:  [FF0000]{0:0.00}"
+
+msgid ""
+"Cinematic\n"
+"Motion Blur"
+msgstr ""
+"動態模糊"
+
+msgid "Credits"
+msgstr "開發人員"
+
+msgid "Exit"
+msgstr "離開"
+
+msgid "Create new world"
+msgstr "創建新世界"
+
+msgid "No"
+msgstr "否"
+
+msgid "Elevator placed"
+msgstr "電梯已放置"
+
+msgid "Successfully downloaded character {0}"
+msgstr "成功下載角色 {0}"
+
+msgid "Shiva"
+msgstr "希瓦"
+
+msgid "Hand"
+msgstr "手"
+
+msgid "Controls"
+msgstr "控制"
+
+msgid "Drag sensitivity: [FF0000]{0:0.0}"
+msgstr "拖動靈敏度: [FF0000]{0:0.0}"
+
+msgid "Magic Damage:"
+msgstr "法術傷害:"
+
+msgid "Exploring"
+msgstr "探索"
+
+msgid "Tilt speed: [FF0000]{0:0.0}"
+msgstr "傾斜速度: [FF0000]{0:0.0}"
+
+msgid "Good spawn"
+msgstr "好的生怪磚"
+
+msgid "Fantastic"
+msgstr "太棒了"
+
+msgid "Equip arrow to left hand!"
+msgstr "請左手裝備箭！"
+
+msgid "Fastest"
+msgstr "最快的"
+
+msgid "Worlds"
+msgstr "世界"
+
+msgid "Weapons"
+msgstr "武器"
+
+msgid "Show тews at startup"
+msgstr "啟動時顯示字樣"
+
+msgid "Rotation"
+msgstr "旋轉"
+
+msgid "Ok"
+msgstr "好"
+
+msgid "Motion blur quality: [FF0000]{0:0}"
+msgstr "運動模糊質量: [FF0000]{0:0}"
+
+msgid "Vibrate when hit"
+msgstr "攻擊時震動"
+
+msgid "Buy"
+msgstr "購買"
+
+msgid "Hardcore"
+msgstr "硬核模式"
+
+msgid "Dig Particles"
+msgstr "挖掘粒子"
+
+msgid "Days:"
+msgstr "天數:"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Rotation Sensitivity:  [FF0000]{0:0.0}"
+msgstr "旋轉靈敏度:  [FF0000]{0:0.0}"
+
+msgid "SURE!"
+msgstr "當然！"
+
+msgid "Save and exit"
+msgstr "儲存並離開"
+
+msgid "Leveling down..."
+msgstr "等級下降..."
+
+msgid "Hydra"
+msgstr "海德拉"
+
+msgid ""
+"Would you like to purchase a key to unlock this world?\n"
+"Once unlocked, you can continue building it.\n"
+"Keys are cheap and will help us develop this game further.\n"
+"\n"
+"Otherwise, you can continue developing your character by starting a new world"
+msgstr ""
+"你想購買密鑰解鎖該世界嗎？\n"
+"一旦解鎖，你可以繼續創建它。\n"
+"密鑰很便宜並且可以幫助我們繼續開發這個遊戲。\n"
+"\n"
+"或者，你可以通過創建一個新世界以繼續開發你的角色。"
+
+msgid "Pick up loot from greater distances."
+msgstr "從很遠的距離拾取戰利品。"
+
+msgid ""
+"Enable\n"
+"Weather"
+msgstr ""
+"開啟天氣變化"
+
+msgid "Screen Resolution"
+msgstr "屏幕分辨率"
+
+msgid "You can increase digging speed by spending some skill points here."
+msgstr "你可以在此花費技能點以提升挖掘速度。"
+
+msgid "Field of View: [FF0000]{0:0}"
+msgstr "視野: [FF0000]{0:0}"
+
+msgid "Texture quality"
+msgstr "圖像質量"
+
+msgid "Click on item to see description"
+msgstr "點擊物品以查看描述"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Rate App"
+msgstr "評價應用"
+
+msgid "Restart the game for the changes to take effect."
+msgstr "重啟遊戲以使更改生效。"
+
+msgid "Supplies"
+msgstr "補給"
+
+msgid "Each item description in next update."
+msgstr "下次更新中各物品的描述。"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Load Successful"
+msgstr "載入成功"
+
+msgid "Split Touch Controls"
+msgstr "拆分觸控"
+
+msgid ""
+"Screen\n"
+"Resolution"
+msgstr ""
+"屏幕分辨率"
+
+msgid "Horizontal load distance: [FF0000]{0:0}"
+msgstr "水平區塊加載: [FF0000]{0:0}"
+
+msgid "Not enough Diamonds"
+msgstr "鑽石不足"
+
+msgid "Items"
+msgstr "物品"
+
+msgid "Current fly speed: {0}"
+msgstr "當前飛行速度: {0}"
+
+msgid "български"
+msgstr "保加利亞語"
+
+msgid "한국어"
+msgstr "韓語"
+
+msgid "Walking"
+msgstr "行走"
+
+msgid "Texture resolution: [FF0000]{0:0}"
+msgstr "圖像分辨率: [FF0000]{0:0}"
+
+msgid "Full version only"
+msgstr "僅限完整版"
+
+msgid "Driving"
+msgstr "駕駛"
+
+msgid "Complete"
+msgstr "完成"
+
+msgid "Plants"
+msgstr "植物"
+
+msgid "Dynamic Elements Effects"
+msgstr "動態元素效果"
+
+msgid "Characters"
+msgstr "角色"
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Water quality: [FF0000]{0:0}"
+msgstr "水質: [FF0000]{0:0}"
+
+msgid "Try to use elevator closer to pipes!"
+msgstr "試試使用管道邊的電梯吧！"
+
+msgid "Load this character and world by default"
+msgstr "默認載入該角色和世界"
+
+msgid "Main Menu"
+msgstr ""
+"主菜單"
+
+msgid "Current level: {0}"
+msgstr "當前等級: {0}"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Enable USB Mouse Support"
+msgstr "開啟USB鼠標支持"
+
+msgid "Joy Control"
+msgstr "操縱桿"
+
+msgid "Preview Pictures"
+msgstr "圖片預覽"
+
+msgid "Current fly time: {0}"
+msgstr "當前飛行時間: {0}"
+
+msgid "World: [00FF00]{0}[-], already exists. Pick a different name."
+msgstr "世界: [00FF00]{0}[-] 已存在。請選擇其他名稱。"
+
+msgid "World: [00FF00]{0}[-], not found."
+msgstr "世界: [00FF00]{0}[-] 未找到。"
+
+msgid "Loot Distance:"
+msgstr "拾取距離:"
+
+msgid "Radar legend"
+msgstr "雷達圖例"
+
+msgid "Come build something EPIC!"
+msgstr "來創造史詩吧！"
+
+msgid "Spawners"
+msgstr "生怪磚"
+
+msgid "Skip"
+msgstr "跳過"
+
+msgid "Bed point direction"
+msgstr "床方向"
+
+msgid "Community"
+msgstr "社區"
+
+msgid "Fly Speed:"
+msgstr "飛行速度:"
+
+msgid ""
+"Unload Assets from memory\n"
+"(for low memory devices only)\n"
+"[FF0000]Decreases Performance![-]"
+msgstr ""
+"從內存中卸載資源\n"
+"(僅適合低內存設備)\n"
+"[FF0000]將降低性能![-]"
+
+msgid "Volume: [FF0000]{0:0.0}"
+msgstr "音量: [FF0000]{0:0.0}"
+
+msgid "Tilt sensitivity: [FF0000]{0:0.0}"
+msgstr "傾斜靈敏度: [FF0000]{0:0.0}"
+
+msgid "Auto Jump"
+msgstr "自動跳躍"
+
+msgid "Increases bow shoot distance and arrow speed."
+msgstr "提升射擊距離及弓箭速度。"
+
+msgid "Enable Camera Z axis tilt effect"
+msgstr "開啟鏡頭Z軸傾斜效果"
+
+msgid "Tilt Control"
+msgstr "傾斜角度控制"
+
+msgid "Drag rotation"
+msgstr "拖動旋轉"
+
+msgid "Drag Control"
+msgstr "拖動控制"
+
+msgid "Enter spawn point name"
+msgstr "輸入重生點名稱"
+
+msgid "Coloring"
+msgstr "上色"
+
+msgid "Background Sounds"
+msgstr "背景音樂"
+
+msgid "Show On Connect"
+msgstr "連接時顯示"
+
+msgid "Head Bobbing"
+msgstr "視角搖晃"
+
+msgid "You will receive:"
+msgstr "你會得到:"
+
+msgid "Story"
+msgstr "故事模式"
+
+msgid "Animals"
+msgstr "動物"
+
+msgid "Arrow Damage:"
+msgstr "弓箭傷害:"
+
+msgid "Current health: {0}/{1}"
+msgstr "當前生命值: {0}/{1}"
+
+msgid "Achievements"
+msgstr "成就"
+
+msgid "Fast"
+msgstr "快速"
+
+msgid "Current Exp: {0}"
+msgstr "當前經驗值: {0}"
+
+msgid "Deutsch"
+msgstr "德語"
+
+msgid "#blockstory http://www.blockstory.net"
+msgstr "#blockstory http://.blockstory.net"
+
+msgid "Creative"
+msgstr "創造"
+
+msgid "Unlock World"
+msgstr "解鎖世界"
+
+msgid "Field of view"
+msgstr "視野"
+
+msgid "Increases movement speed."
+msgstr "提升移動速度。"
+
+msgid "Exp"
+msgstr "經驗"
+
+msgid "Rotation Smoothing:  [FF0000]{0:0.00}"
+msgstr "旋轉平滑度:  [FF0000]{0:0.00}"
+
+msgid "Can't mount this creature!"
+msgstr "無法騎乘該生物！"
+
+msgid "Can't use this tool on creatures!"
+msgstr "無法對生物使用該工具！"
+
+msgid "Arrows: [00FF00]{0}"
+msgstr "箭: [00FF00]{0}"
+
+msgid "Quests"
+msgstr "任務"
+
+msgid ""
+"Increases magic attack.  To use it, click and hold on an enemy, then wait "
+"for the casting bar to reach full.  Magic can be the most powerful weapon in "
+"your inventory, but need you time to cast it.  Be careful!  ;)"
+msgstr ""
+"提升法術傷害。要使用，請按住敵人，然後等到施法條讀滿。法杖可以成為你揹包中最強大的武器，但你需要時間施放魔力。務必小心! ;)"
+
+msgid "Français"
+msgstr "法語"
+
+msgid "Enable Camera effects"
+msgstr "開啟鏡頭效果"
+
+msgid "Earthquake!!!"
+msgstr "地震!!!"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Tilt rotation"
+msgstr "傾斜旋轉"
+
+msgid "Elevator move backward"
+msgstr "電梯後移"
+
+msgid "Enable Hand tools tilt effect"
+msgstr "開啟手持工具傾斜效果"
+
+msgid "Epic Spawners"
+msgstr "史詩生怪磚"
+
+msgid "Spawn point"
+msgstr "重生點"
+
+msgid "Please Wait..."
+msgstr "稍等片刻..."
+
+msgid "Level:"
+msgstr "等級:"
+
+msgid ""
+"If you purchase the full version you will be able to have more than one "
+"character"
+msgstr ""
+"如果你購買完整版，你將可擁有多名角色"
+
+msgid "NPC / Neytral"
+msgstr "NPC / 中性"
+
+msgid "Not enough Graviton!"
+msgstr "引力子不足！"
+
+msgid "Español"
+msgstr "西班牙語"
+
+msgid ""
+"Redeem\n"
+"Coupon"
+msgstr ""
+"兌換優惠券"
+
+msgid "Show when taking pictures"
+msgstr "截圖上顯示"
+
+msgid "Picture"
+msgstr "圖片"
+
+msgid "Enter Coupon Code"
+msgstr "輸入激活碼"
+
+msgid "Login"
+msgstr "登錄"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Not logged in"
+msgstr "未登錄"
+
+msgid ""
+"Watch a short video\n"
+"to keep your experience"
+msgstr ""
+"看一段短視頻，\n"
+"以保留經驗"
+
+msgid "Watch"
+msgstr "手錶"
+
+msgid ""
+"Coupon already redeemed\n"
+"\n"
+"Would you like to purchase more Diamonds?"
+msgstr ""
+"禮券已換領\n"
+"\n"
+"是否購買更多鑽石？"
+
+msgid "Enable Attack Button"
+msgstr "開啟攻擊按鈕"
+
+msgid "Enable Creatures"
+msgstr "開啟生物生成"
+
+msgid "Max Creatures Count: [FF0000]{0}[-]"
+msgstr "最高生物數目: [FF0000]{0}[-]"
+
+msgid "Chinese"
+msgstr "中文"
+
+msgid "Chinese (Taiwan)"
+msgstr "中文 (繁體)"
+
+msgid "Not enough room in inventory."
+msgstr "揹包空間不足。"
+
+msgid "You don't have enough {0}."
+msgstr "缺少 {0}。"
+
+msgid "Purchase successful!"
+msgstr "購買成功！"
+
+msgid "Controller Connected"
+msgstr "控制器已連接"
+
+msgid "Exit To Desktop"
+msgstr "離開至桌面"
+
+msgid "Joystick"
+msgstr "操縱桿"
+
+msgid "Drag"
+msgstr "拖動"
+
+msgid "Accelerometer"
+msgstr "陀螺儀"
+
+msgid "D-Pad"
+msgstr "方向鍵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:287
+# UnityGame/Assets/Localization/T.cs:41
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1081
+msgid "Ты МЕРТВ!!!"
+msgstr "你死了!!!"
+
+msgid "Default"
+msgstr "默認"
+
+msgid "Come back tomorrow for a new gift!"
+msgstr "明天再回來以獲得新的禮物！"
+
+msgid ""
+"Place a [FF0000]Hammer[-] or [FF0000]Iron Hammer[-] in the left crafting "
+"slot to repair weapons and armor over time."
+msgstr ""
+"將[FF0000]石錘[-]或[FF0000]鐵錘[-]放在左側的槽位中，以隨著時間的推移修理武器或盔甲。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:298
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1081
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1132
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Radar/RadarTool.cs:10
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:187
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:235
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:218
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquip.cs:48
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquip.cs:57
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:417
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:396
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+#, fuzzy
+msgid "NPC / Neutral"
+msgstr "NPC / 中立"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:40
+# UnityGame/Assets/Localization/BaseTranslation.cs:330
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1081
+#, fuzzy
+msgid "Watch a short video to keep your experience."
+msgstr "看一段短視頻以保留經驗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:40
+# UnityGame/Assets/Localization/BaseTranslation.cs:330
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Free"
+msgstr "免費"
+
+#, fuzzy
+msgid "Free Diamonds"
+msgstr "免費鑽石"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Key Mapping:"
+msgstr "按鍵映射:"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Walk"
+msgstr "行走"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "WASD"
+msgstr "WASD"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Jump"
+msgstr "跳躍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Fly"
+msgstr "飛行"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "F"
+msgstr "F"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Interact / Attack"
+msgstr "互動 / 攻擊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Left Mouse"
+msgstr "鼠標左鍵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Use Item"
+msgstr "使用物品"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Right Mouse"
+msgstr "鼠標右鍵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Use Offhand"
+msgstr "使用副手"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "R"
+msgstr "R"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Quick Slot"
+msgstr "快捷欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "0 - 9"
+msgstr "0 - 9"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Q"
+msgstr "Q"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Skills"
+msgstr "技能"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "C"
+msgstr "C"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "J"
+msgstr "J"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Screenshot"
+msgstr "截圖"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "P"
+msgstr "P"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+#, fuzzy
+msgid "Esc"
+msgstr "Esc"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:419
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:150
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:196
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:332
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:267
+#, fuzzy
+msgid "V"
+msgstr "V"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Y"
+msgstr "Y"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "W"
+msgstr "W"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "S"
+msgstr "S"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1097
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:407
+#, fuzzy
+msgid "E"
+msgstr "E"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1097
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:407
+#, fuzzy
+msgid "Mouse Scroll"
+msgstr "鼠標滾輪"
+
+#, fuzzy
+msgid "Day {0}"
+msgstr "第{0}天"
+
+#, fuzzy
+msgid "Come back tomorrow for more free prizes!!!"
+msgstr "明天回來以獲取更多免費獎勵!!!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1111
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:416
+#, fuzzy
+msgid "Antialias"
+msgstr "抗鋸齒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1111
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:416
+#, fuzzy
+msgid "Pixel Correction"
+msgstr "像素校正"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Grass quality: [FF0000]{0:0}"
+msgstr "草地質量: [FF0000]{0:0}"
+
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Model Blocks Quality: [FF0000]{0:0}"
+msgstr "方塊模型質量: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Grass Quality: [FF0000]{0:0}"
+msgstr "草地質量: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Window Blur"
+msgstr "窗口模糊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Selector Color"
+msgstr "選擇器顏色"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:73
+#, fuzzy
+msgid "Weather quality: [FF0000]{0:0}"
+msgstr "天氣質量: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1461
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:237
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Drop {0}x{1}?"
+msgstr "是否丟棄 {0}x{1}？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Drop this item?"
+msgstr "是否丟棄此物品？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Selector/MinecartSummoner.cs:27
+#, fuzzy
+msgid "Try to use minecart closer to rails!"
+msgstr "試著在靠近軌道的地方使用礦車！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Selector/MinecartSummoner.cs:28
+#, fuzzy
+msgid "Minecart placed"
+msgstr "礦車已放置"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:419
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:150
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:196
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:332
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:241
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1094
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1158
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:425
+#, fuzzy
+msgid "Reset Daily Reward Settings"
+msgstr "重置每日獎勵設置"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1158
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:425
+#, fuzzy
+msgid "Fog"
+msgstr "迷霧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Selector/MinecartSummoner.cs:28
+#, fuzzy
+msgid "Minecart can only be placed on flat rails!"
+msgstr "礦車只能放在軌道上！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Mount/Minecart.cs:82
+#, fuzzy
+msgid "Can stop or change direction only on flat rails"
+msgstr "只能在平軌上停止或改變方向"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Mount/Minecart.cs:86
+#, fuzzy
+msgid "Need to stop before reverse"
+msgstr "需先停止再後退"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1393
+# UnityGame/Assets/Blocksters/Selector/Sign.cs:19
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+#, fuzzy
+msgid "Please enter sign message"
+msgstr "請輸入文字"
+
+#, fuzzy
+msgid ""
+"Restore\n"
+"Purchases"
+msgstr ""
+"恢復購買"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Foods"
+msgstr "食物"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+#, fuzzy
+msgid "Mati_Pet"
+msgstr "幽靈"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/FloatPreference.cs:27
+# UnityGame/Assets/Blocksters/Scripts/Gui/FloatPreference.cs:46
+#, fuzzy
+msgid "Music Volume: [FF0000]{0:0.0}"
+msgstr "音樂: [FF0000]{0:0.0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:39
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:75
+#, fuzzy
+msgid "Vertical Sync: [FF0000]{0:0}"
+msgstr "垂直同步: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Use Custom Controller"
+msgstr "使用自定義控制器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Light"
+msgstr "發光"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Shadows"
+msgstr "陰影"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Vertical Sync (60 fps)"
+msgstr "垂直同步 (60 fps)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Vertical Sync (30 fps)"
+msgstr "垂直同步 (30 fps)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Coupons"
+msgstr "優惠券"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Show Battery Indicator"
+msgstr "顯示電量"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Critical battery power, the game will automatically quit in 15 seconds"
+msgstr ""
+"電池電量嚴重不足，遊戲將在15秒內自動離開"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Low battery power"
+msgstr "電池電量較低"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Failed to load rewarded video"
+msgstr "無法加載視頻"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Awarded [FF0000]{0:0}[-] Diamonds"
+msgstr "獲得 [FF0000] {0: 0} [-] 鑽石"
+
+msgid "Awarded Respawn"
+#, fuzzy
+msgstr "獲得重生"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Collector"
+msgstr "收集"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:696
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "U"
+msgstr "U"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UITrashSlot.cs:37
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drag any item here to destroy it."
+#, fuzzy
+msgstr "將物品拖拽至此處以銷燬。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Destroy this item?"
+msgstr "是否銷燬此物品？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Destroy item {0}?"
+msgstr "是否銷燬物品 {0}？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:28
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+#, fuzzy
+msgid ""
+"Same rules as Survival but,\n"
+"creatures are twice as strong, and you have a limited amount of lives. If "
+"you lose all of your lives the world and character get deleted."
+msgstr ""
+"與生存模式規則相同，但\n"
+"\n"
+"生物力量翻倍，你只有有限的生命。如果失去所有生命，角色和世界將被刪除。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:24
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+#, fuzzy
+msgid ""
+"Free roam.\n"
+"You have unlimited health, resources, and you can fly infinitely."
+msgstr ""
+"自由的旅行。\n"
+"\n"
+"你擁有無限的生命值，資源，並且可以無限飛行。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:15
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+#, fuzzy
+msgid ""
+"Easy Difficulty.\n"
+"Complete the main story and conquer all of your foes to become the ultimate "
+"dragon rider! "
+msgstr ""
+"簡單難度。\n"
+"\n"
+"完成主線劇情並征服所有敵人，成為終極的龍騎士！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:20
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+#, fuzzy
+msgid ""
+"Story, but with a twist!\n"
+"No flying with mana, and you drop everything and lose some experience when "
+"you die."
+msgstr ""
+"故事，但有轉折！\n"
+"\n"
+"無法消耗法力飛行，死亡時掉落所有物品並失去經驗。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:294
+# UnityGame/Assets/Scripts/Talents/CharacterAttributeScaled.cs:25
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:138
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:120
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:114
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEffectTimedDamage.cs:39
+#, fuzzy
+msgid "Losing experience..."
+msgstr "丟失經驗..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:417
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:539
+# UnityGame/Assets/NGUI/Scripts/Interaction/UITable.cs:87
+# UnityGame/Assets/NGUI/Scripts/Interaction/UITable.cs:170
+# UnityGame/Assets/NGUI/Scripts/Interaction/UITable.cs:194
+#, fuzzy
+msgid "Survival"
+msgstr "生存模式"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIPetEquipmentSlot.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Special equipment slot for pets.\n"
+"\n"
+"Only special pet equipment items can be equipped here."
+msgstr ""
+"寵物專用裝備槽位。\n"
+"\n"
+"在這裡只能裝備特殊的寵物裝備。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/Summoner.cs:49
+#, fuzzy
+msgid "You can't summon more than 5 creatures at once!"
+msgstr "不能同時召喚超過5只寵物！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/Summoner.cs:49
+msgid "You can't summon more than {0} creatures at once!"
+#, fuzzy
+msgstr "不能同時召喚超過{0}只寵物！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Past Code"
+msgstr "傳輸密碼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:646
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:148
+# UnityGame/Assets/NGUI/Scripts/Editor/UILabelInspector.cs:51
+# UnityGame/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs:754
+#, fuzzy
+msgid "Get Code"
+msgstr "獲取密碼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Link"
+msgstr "鏈接"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Scripts/UI/UIInput.cs:221
+# UnityGame/Assets/NGUI/Scripts/UI/UIInput.cs:264
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:379
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:856
+#, fuzzy
+msgid "Input Code Here"
+msgstr "在此處輸入密碼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:68
+#, fuzzy
+msgid "Used: {0}% ({1}/{2})"
+msgstr "已使用: {0}% ({1}/{2})"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:55
+#, fuzzy
+msgid "Hello, {0}"
+msgstr "你好，{0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:71
+#, fuzzy
+msgid "Used: {0}% ({1} Mb/{2} Mb)"
+msgstr "已使用: {0}% ({1} Mb/{2} Mb)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:71
+#, fuzzy
+msgid "Used: {0}% ({1}/{2} Mb)"
+msgstr "已使用: {0}% ({1}/{2} Mb)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Show news at startup"
+msgstr "啟動時顯示新聞"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:26
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUITools.cs:696
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUITools.cs:587
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUITools.cs:639
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonTween.cs:209
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonTween.cs:121
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Logging in"
+msgstr "登錄中"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableChars.cs:108
+# UnityGame/Assets/Boxit/ListAvailableChars.cs:105
+# UnityGame/Assets/Boxit/ListAvailableChars.cs:94
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Downloading character {0} - {1}%"
+msgstr "正在下載角色 {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyChars.cs:65
+# UnityGame/Assets/Boxit/ListMyChars.cs:63
+# UnityGame/Assets/Boxit/ListMyChars.cs:51
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Uploading character {0} - {1}%"
+msgstr "正在上傳角色 {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableChars.cs:115
+#, fuzzy
+msgid "Failed to download character {0}, {1}"
+msgstr "角色 {0}，{1}下載失敗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyChars.cs:79
+#, fuzzy
+msgid "Failed to upload character {0}, {1}"
+msgstr "角色 {0}，{1}上傳失敗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:81
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:76
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:49
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Uploading world {0} - {1}%"
+msgstr "正在上傳世界 {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:69
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:49
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Compressing world {0}"
+msgstr "正在壓縮世界 {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:111
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:108
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:93
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Downloading world {0} - {1}%"
+msgstr "正在下載世界 {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:119
+#, fuzzy
+msgid "Decompressing world {0}"
+msgstr "正在解壓世界 {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:128
+#, fuzzy
+msgid "Failed to download world {0}, {1}"
+msgstr "世界 {0}，{1}下載失敗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:94
+#, fuzzy
+msgid "Failed to upload world {0}, {1}"
+msgstr "世界 {0}，{1}上傳失敗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:78
+#, fuzzy
+msgstr "正在搜尋遠程世界 {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Paste code from buffer"
+msgstr "從緩衝區粘貼密碼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyChars.cs:60
+#, fuzzy
+msgstr "正在搜尋遠程角色 {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1259
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440
+#, fuzzy
+msgid "Show Selector"
+msgstr "顯示選擇器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Armor:"
+msgstr "護甲:"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:381
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:103
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:69
+# UnityGame/Assets/Blocksters/Scripts/Terrain/renderer/TerrainLoader.cs:213
+#, fuzzy
+msgid "Can't move more than [00FF00]{0}[-] blocks."
+msgstr "無法移動超過 [00FF00]{0}[-] 方塊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:371
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:103
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:69
+# UnityGame/Assets/Blocksters/Scripts/Terrain/renderer/TerrainLoader.cs:213
+#, fuzzy
+msgid "Block [00FF00]{0}[-] cannot be moved."
+msgstr "無法移動方塊 [00FF00]{0}[-]。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:371
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:103
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:69
+# UnityGame/Assets/Blocksters/Scripts/Terrain/renderer/TerrainLoader.cs:213
+#, fuzzy
+msgid "Amount"
+msgstr "數量"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:39
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:63
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1400
+# UnityGame/Assets/Scripts/ABTesting/StoreItem.cs:63
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Amount: {0:0}"
+msgstr "金額：{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Wheel of Fortune"
+msgstr "財富之輪"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Respin"
+msgstr "重新旋轉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "You have won..."
+msgstr "你贏了..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIGramophoneEquipmentSlot.cs:42
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Special slot for Gramophone.\n"
+"\n"
+"Only special record items can be placed here."
+msgstr ""
+"留聲機專用插槽。\n"
+"\n"
+"只有特殊的記錄項目才能放置在這裡。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Mass Build"
+msgstr "批量建造"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Mass Build Width: [FF0000]{0:0}"
+msgstr "批量建造寬度: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Mass Build Height: [FF0000]{0:0}"
+msgstr "批量建造高度: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:38
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:72
+#, fuzzy
+msgid "Mass Build Depth: [FF0000]{0:0}"
+msgstr "批量建造深度: [FF0000]{0:0}"
+
+#, fuzzy
+msgid ""
+"Coupon already redeemed.\n"
+"\n"
+"Would you like to purchase more Diamonds?"
+msgstr ""
+"禮券已兌換。\n"
+"\n"
+"是否購買更多鑽石？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Paste"
+msgstr "粘貼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Awarded [0000FF]{0:0}[-] Diamonds!"
+msgstr "獲得 [0000FF]{0:0}[-] 鑽石！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:39
+# UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:75
+#, fuzzy
+msgid "Target FPS: [FF0000]{0:0}"
+msgstr "目標幀率: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:77 
+# UnityGame/Assets/Blocksters/Scripts/IAP/PurchaseSpeedUp.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/IAP/PurchaseSpeedUp.cs:82 
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/SummonerRevive.cs:29 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:588 
+msgid "Speed Up for [2b65a0]{0} {1}[-]?"
+msgstr "加速 [2b65a0]{0} {1}[-]？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:46 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Don't interrupt music when changing biomes"
+msgstr "切換地形時保持音樂播放"
+
+#, fuzzy
+msgid "Collapse"
+msgstr "關閉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Vertical Sync"
+msgstr "垂直同步"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:46 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1254 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440 
+msgid "Disable Music Cutoff"
+msgstr "禁用音樂中斷"
+
+#, fuzzy
+msgid "Enable Jumping Sounds"
+msgstr "啟用跳躍音效"
+
+#, fuzzy
+msgid "Max Peasants Count: [FF0000]{0}[-]"
+msgstr "最高村民數目: [FF0000]{0}[-]"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Always Run"
+msgstr "自動疾跑"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Run"
+msgstr "疾跑"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Left Shift"
+msgstr "左Shift"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:100 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:63 
+msgid "Are you sure you want to reset your skills?"
+msgstr "確定要重置技能嗎？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:99 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
+msgid "Nothing to reset!"
+msgstr "沒有可重置的技能！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Why?"
+msgstr "為什麼？"
+
+#, fuzzy
+msgid "Ready"
+msgstr "準備"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Fight"
+msgstr "戰鬥"
+
+#, fuzzy
+msgid "Nope"
+msgstr "否"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42 
+msgid "Go!"
+msgstr "出發！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Thx"
+msgstr "謝謝"
+
+#, fuzzy
+msgid "Bye"
+msgstr "再見"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:103 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
+msgid ""
+"Oblivion does not touch the armored. It reaches only those who stand "
+"exposed. Unequip all of your armor and gear before using this item."
+msgstr ""
+"遺忘不會影響穿戴盔甲的人，它只作用於沒有防護的人。使用此物品前請卸下所有盔甲和裝備。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/ABTesting/SkillResetPurchase.cs:130 
+# UnityGame/Assets/Scripts/ABTesting/SkillResetPurchase.cs:94 
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:171 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"Oblivion does not touch the armored. It reaches only those who stand "
+"exposed. Unequip all of your armor and gear."
+msgstr ""
+"遺忘不會影響穿戴盔甲的人，它只作用於沒有防護的人。請卸下所有盔甲和裝備。"
+
+#, fuzzy
+msgid "Fade Joysticks"
+msgstr "隱藏虛擬搖桿"
+
+#, fuzzy
+msgid "Auto Saving..."
+msgstr "儲存中…"
+
+msgid "Apply"
+msgstr "應用"
+
+msgid "Male"
+msgstr "男性"
+
+msgid "Female"
+msgstr "女性"
+
+msgid "Edit Profile"
+msgstr "編輯資料"
+
+msgid "Edit World"
+msgstr "編輯世界"
+
+msgid "Interactive Grass"
+msgstr "可交互草地"
+
+msgid "Interactive Leaves"
+msgstr "可交互樹葉"
+
+msgid "Show Mob Indicator"
+msgstr "顯示生物指示器"
+
+msgid "Fire quality: [FF0000]{0:0}"
+msgstr "火焰質量: [FF0000]{0:0}"
+
+msgid "Wind: [FF0000]{0:0.0}"
+msgstr "風力: [FF0000]{0:0.0}"
+
+msgid "Humidity: [FF0000]{0:0.0}"
+msgstr "溼度: [FF0000]{0:0.0}"
+
+msgid "Cloudiness: [FF0000]{0:0.0}"
+msgstr "雲量: [FF0000]{0:0.0}"
+
+msgid "Edit Keybinds"
+msgstr "編輯按鍵綁定"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "B"
+msgstr "B"
+
+msgid "F1"
+msgstr "F1"
+
+msgid ";"
+msgstr ";"
+
+msgid "-"
+msgstr "-"
+
+msgid "="
+msgstr "="
+
+msgid "_"
+msgstr "_"
+
+msgid "L"
+msgstr "L"
+
+msgid "M"
+msgstr "M"
+
+msgid "Reset All"
+msgstr "全部重置"
+
+msgid "Keybinding"
+msgstr "按鍵綁定"
+
+msgid "RMB"
+msgstr "RMB"
+
+msgid "LMB"
+msgstr "LMB"
+
+msgid "MMB"
+msgstr "MMB"
+
+msgid "Skill Points"
+msgstr "技能點"
+
+msgid "Stats"
+msgstr "屬性"
+
+msgid "Hide GUI"
+msgstr "隱藏GUI"
+
+msgid "Drop All"
+msgstr "全部丟棄"
+
+msgid "Previous Slot"
+msgstr "上一個欄位"
+
+msgid "Next Slot"
+msgstr "下一個欄位"
+
+msgid "Gift"
+msgstr "贈送"
+
+msgid "Release Mouse"
+msgstr "釋放鼠標"
+
+msgid "Forward"
+msgstr "前進"
+
+msgid "Unmount"
+msgstr "下坐騎"
+
+msgid "Clear Inventory?"
+msgstr "清空揹包？"
+

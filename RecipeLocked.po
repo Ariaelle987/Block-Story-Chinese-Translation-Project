@@ -1,0 +1,25 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2015-02-23 12:19-0400\n"
+"Last-Translator: BeTranslated <certified_translators@outlook.com>\n"
+"Language-Team: Chinese (China) <http://weblate-blockstory.rhcloud.com/"
+"projects/block-story/recipelocked/zh_CN/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.3\n"
+
+msgid "Locked recipe"
+msgstr "鎖定配方"
+
+msgid "To unlock this recipe you need finish some quests."
+msgstr "完成任務以解鎖此配方。"
+
+msgid "Complete quest from {0} to unlock."
+msgstr "完成{0}的任務以解鎖。"
+
+msgid "Complete achievement {0} to unlock."
+msgstr "完成成就 {0} 以解鎖。"

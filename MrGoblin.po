@@ -1,0 +1,879 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/mr-goblin/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:1
+msgid "Binary Contraption"
+msgstr "二進制裝置"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:23
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:44
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:65
+#, no-wrap
+msgid "Hello-o-o-o-o-o, Dragon Rider!  It’s great to see your stupid face again.  I’m working on a sick computer-thingy that will power a mechanical walker, the coolest new attack vehicle around!  Bring me some Unobtainium, and I’ll give it to you."
+msgstr "你好-嗷，龍騎士！又看到你這張蠢臉了，真不錯。我在做一個超酷的電腦裝置，用來驅動一臺機械步行機甲！給我一些難得素，我就把它送給你。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:24
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:45
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:66
+#, no-wrap
+msgid "C’mon, you knew you’d need to do something before I give up the prize.  But hey, I appreciate you going to hell and back for me.  Literally!  Hahaha!"
+msgstr "來吧，你知道的，有付出才有回報。但嘿，我感謝你為我下地獄又爬回來一趟。字面意思上的！哈哈哈！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:29
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:50
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:71
+#, no-wrap
+msgid "Tell Mr. Goblin you have the Unobtainium."
+msgstr "告訴哥布林先生，你有難得素。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:25
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:67
+#, no-wrap
+msgid "Not bad, Dragon Rider.  But I’m gonna need way more Unobtainium than this.  Bring me some more tomorrow, and we’ll see."
+msgstr "不錯，龍騎士。但這點難得素遠遠不夠。明天在帶來多一點吧。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:46
+#, no-wrap
+msgid "Oh all right.  I guess this is enough Unobtainium.  Here ya go, Dragon Rider.  But don’t break my computer!  I’ll pop ya one in the nose."
+msgstr "好。我想這已經夠了。拿著這個，龍騎士。但別弄壞它！不然我會一拳打你鼻子。"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:1
+msgid "Dragon Pants"
+msgstr "龍褲"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:6
+#, no-wrap
+msgid "That no good stinking Dragon Lord!  I’d like to wring his lordly neck!"
+msgstr "那個該死的、臭烘烘的龍主！我要擰斷他那該死的脖子！"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:19
+#, no-wrap
+msgid "Too much time under ground, too many explosions—let’s be honest, I’m pretty nuts.  But not as nuts as that punk Dragon Lord.  Let’s chew his ankles off!  Or I could help you make stuff to fight him.  That too."
+msgstr "在地下停留的時間太長了，爆炸太多了——說實話，我自己也有點不太正常了。但不像那個廢物龍主。乾脆把他腳踝啃下來！或者我也可以幫你做點東西來對付他。這個也行。"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:20
+#, no-wrap
+msgid "I’ve been thinking, and maybe this is just a crazy conspiracy theory, but I think the angry streak we goblins have is due to the Dragon Lord’s meddling.  Our weak minds were influenced too easily."
+msgstr "我一直在想，也許這只是一個瘋狂的陰謀論，但我仍認為我們哥布林的憤怒全在於龍主的干預。我們的腦子太容易被操控了。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:25
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the Dragon Pants."
+msgstr "告訴哥布林先生，你已經制作了龍褲。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:21
+#, no-wrap
+msgid "You look rather fetching in those pants, Dragon Rider.  Even if the Dragon Lord smashes you with one blow, at least you’ll look stylish being obliterated."
+msgstr "你穿那條褲子還挺惹眼的，龍騎士。就算龍主一拳打死你，至少被轟成渣的時候還能看起來挺有型。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:40
+#, no-wrap
+msgid ""
+"Even I’m not crazy enough to want the Dragon Lord to rule the land.  That guy is a jerk!\n"
+"\n"
+"There’s just one more piece of dragon gear to go, but you’ll need a master craftsman to make this one.  Maybe that wimpy warrior can help you."
+msgstr ""
+"我還沒瘋到來希望龍主統治這片土地。那傢伙真是個混蛋！\n"
+"\n"
+"只剩下一件了，但你得找個熟練點的工匠來製作它。也許那個慫包戰士可以幫幫你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:47
+#, no-wrap
+msgid "Speak to Aaron about the next piece of dragon gear."
+msgstr "與艾倫談談下一件龍防具。"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:1
+msgid "Explosive Knowledge"
+msgstr "爆炸知識"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:6
+#, no-wrap
+msgid "I promised to help you make things go kaboom, so let's start with the basics."
+msgstr "我答應過會幫你，所以先從最基礎的來。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:19
+#, no-wrap
+msgid ""
+"Step one: Make gunpowder.\n"
+"\n"
+"Step two: Blow stuff up!\n"
+"\n"
+"Step one is not the fun part, but you gotta start somewhere."
+msgstr ""
+"先，製作火藥。\n"
+"\n"
+"再，炸掉東西！\n"
+"\n"
+"第一步很無聊，但那是必須的。"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:26
+#, no-wrap
+msgid ""
+"I can’t wait to show you how to make TNT.  I can almost smell the sulfur.\n"
+"\n"
+"But first we are going to need some gunpowder."
+msgstr ""
+"我真的很想向你展示如何製作炸藥。我幾乎聞到了硫磺味。\n"
+"\n"
+"但首先我們得要一些火藥。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:35
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:53
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the gunpowder."
+msgstr "告訴哥布林先生，你製作了火藥。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:31
+#, no-wrap
+msgid "I can’t believe I spent all that time living under a mountain.  Have you been up here this whole time, doing stuff for people?  Dang!"
+msgstr "我簡直不敢相信我一直都住在山下。我在那兒的時候你一直都在幫其他人嗎？天啊！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:50
+#, no-wrap
+msgid "With that Gunpowder in hand, making TNT should be a breeze.  It’s fun, too."
+msgstr "有了火藥，製作炸藥就很容易，也很好玩。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:66
+#, no-wrap
+msgid "You can never have too much dynaminte.  Trust me, you’ll have a...blast?  Eee hee hee!!!!"
+msgstr "炸藥這種東西，永遠不會嫌多。相信我，你會……玩得很“炸”？嘻嘻嘻!!!!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:74
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:94
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the TNT."
+msgstr "告訴哥布林先生，你製作了TNT。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:70
+#, no-wrap
+msgid "We’ve got explosives.  KABLAMMO!"
+msgstr "我們有炸藥了——轟隆！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:89
+#, no-wrap
+msgid "Now we can blow things up!  It’s going to be violent and bl-ech, ack!"
+msgstr "現在我們能炸掉東西！這肯定很暴力，嘔——呃啊！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:103
+#, no-wrap
+msgid ""
+"Oh, my little green head.  What happened?  And why do I suddenly have the overwhelming desire to read?\n"
+"\n"
+"[FF00FF]* shudder *[-]"
+msgstr ""
+"哦，我這小綠腦袋……發生啥了？為什麼我突然強烈想讀書？\n"
+"\n"
+"[FF00FF]*顫抖*[-]"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:1
+msgid "Goblin Secret"
+msgstr "哥布林的秘密"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:12
+#, no-wrap
+msgid "Is there something I can do for you?  Ah.  That Alchemist fellow told you that I might be able to help you create some armor out of those skins?  Well, I've got good news and bad news."
+msgstr "我能幫你些什麼嗎？鍊金術士告訴你，我會幫你用皮毛做盔甲，對吧？好吧，有個好消息，也有個壞消息。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:15
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:29
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:39
+#, no-wrap
+msgid "Talk to Mr. Goblin about his secrets."
+msgstr "與哥布林先生談談他的秘密。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:22
+#, no-wrap
+msgid ""
+"The good news is that I can definitely show you how to make some armor.\n"
+"\n"
+"The bad news is that you retrieved the wrong kind of skins."
+msgstr ""
+"好消息是，我可以向你演示如何製作這些盔甲。\n"
+"\n"
+"但壞消息是，你拿來的皮毛種類不對。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:36
+#, no-wrap
+msgid "You see.  Goblins like to use horse skins to craft their armor.  We tend to get pretty large and a deer just doesn't cut it."
+msgstr "你看，哥布林一般用馬皮製作盔甲，我們的體型比較大，所以鹿皮根本不夠用。"
+
+#. (itstool) path: collectstep/intro
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:48
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:49
+#, no-wrap
+msgid "If you want to learn how to craft the goblin helmet you are going to have to retrieve some horse skins first.  Return to me when you have them."
+msgstr "要是想學習怎麼製作哥布林頭盔，你要找些馬皮。然後回到我這兒。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:56
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the horse skins."
+msgstr "告訴哥布林先生，你有馬皮。"
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:50
+#, no-wrap
+msgid ""
+"Excellent!  Now you can start looking more like a goblin.\n"
+"\n"
+"But this is only the beginning.  I require some things to be taken care of around these parts before I'm willing to part with more of my goblin secrets."
+msgstr ""
+"太棒了！現在你看起來越來越像個哥布林了。\n"
+"\n"
+"但這只是開始。在我願意告訴你更多哥布林秘密之前，這一帶還有些事情需要你去處理。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:71
+#, no-wrap
+msgid "Goblins tend to have too much meat in our diets.  Now that statement is entirely debatable as some of my goblin friends may not share that sentiment."
+msgstr "哥布林的飲食裡通常肉比較多。不過這一點其實還挺有爭議的，因為一些哥布林朋友有不同的意見。"
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:77
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:78
+#, no-wrap
+msgid "I could really use a change of taste.  Bring me some apples and beehives.  I have an idea on how to make one tasty apple."
+msgstr "我可以改下口味，給我一些蘋果和蜂巢。我有辦法把一個蘋果變得更”好吃“。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:87
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the apples and beehives."
+msgstr "告訴哥布林先生，你有了蘋果和蜂蜜。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:79
+#, no-wrap
+msgid ""
+"Thank you kind gatherer of ingredients.  Now let's try this out.\n"
+"\n"
+"Bleh.  Oh my....  This is way too sweet.  I think I'm gonna...\n"
+"\n"
+"Anyway.  Thanks for giving me a chance to test my theory."
+msgstr ""
+"謝謝幫忙。現在讓我試一下。\n"
+"\n"
+"哦，我…這太甜了。我感覺我快要……\n"
+"\n"
+"總之，謝謝。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:103
+#, no-wrap
+msgid "I wasn't bluffing that I wanted to try something new.  We will just have to try something different entirely."
+msgstr "我不是在虛張聲勢，我想試點完全不一樣的東西。那就試試吧。"
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:109
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:110
+#, no-wrap
+msgid "I was thinking.  What do you think about some soup with shark fin in it?  Really?  You already have a recipe for that?  Well then, brew me up some why don't you.  I'm a large guy.  Make me enough to fill my belly."
+msgstr "我正在想，要不要來點魚翅湯？真的嗎？你已經有這道菜的食譜了？那為什麼不做點魚翅湯來補補我這個大個子的轆轆飢腸呢？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:115
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the shark fin soup."
+msgstr "告訴哥布林先生，你有魚翅湯。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:111
+#, no-wrap
+msgid "Wow!  That is some truly delicious soup.  Thank you.  Here is the last part of the goblin armor as promised."
+msgstr "哇哦！多美味的湯哦！謝謝，這是你盔甲配方的最後一部分。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:130
+#, no-wrap
+msgid "I wish you luck in your adventures.  Perhaps in time I will require your services again."
+msgstr "祝你旅途愉快！或許未來我們還有合作的機會。"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:1
+msgid "Pillage Victim"
+msgstr "搶劫受害者"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:6
+#, no-wrap
+msgid "Eee hee hee!  Look who it is.  A Dragon Rider come to chat with little old me?"
+msgstr "嘻嘻！看看這是誰。龍騎士要和我聊天嗎？"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:19
+#, no-wrap
+msgid "Whatever you think I did, I’m innocent, I swear!  $#@!  See?  I swore.  Those goblins that attacked you had nothing to do with me.  They stole my goblin armor.  And now I feel naked without it.  Make me new armor, and I’ll teach you how to make things go kaboom!"
+msgstr "不管你覺得我做了些啥，我都是無辜的，我發誓！$#@...！看到了嗎？我發誓了。那些襲擊你的哥布林和我無關。他們偷走了我的盔甲。現在我感覺赤裸裸的。如果你給我些新的盔甲，我就教你怎麼讓一些東西炸掉！"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:20
+#, no-wrap
+msgid ""
+"Ooh, yeah!  You almost got it!\n"
+"\n"
+"Make me new armor, and I’ll teach you how to make things go kaboom!"
+msgstr ""
+"哦，是的！你大概知道了！\n"
+"\n"
+"如果你給我盔甲，我就教你怎麼炸掉東西！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:29
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin armor."
+msgstr "告訴哥布林先生，你有哥布林盔甲。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:25
+#, no-wrap
+msgid "Armor!  Oh sweet goblin shell.  Sniff—Blech!  It smells like armpits and sun-dried cheese.  Ah...just like home."
+msgstr "盔甲！喔，不錯的哥布林外殼。(嗅)—咳！它聞起來就像曬乾的奶酪。啊...就像家一樣。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:45
+#, no-wrap
+msgid "So I was posing in that armor you made me and an acorn fell out of the sky and landed on my head.  War wound!  Now I’ve got a bump.  Fix this problem, Dragon Rider, or I’ll get angry.  And you wouldn’t like me when I’m angry."
+msgstr "所以我正穿著你給我的盔甲，而且橡子從天上掉下來落在我的頭上。現在我碰到問題了。解決掉它，龍騎士，不然我會很生氣。你不會喜歡讓我生氣的。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:46
+#, no-wrap
+msgid "I got hit on the head so hard I saw stars!  Marilyn Monroe and Clark Gable and even Humphrey Bogart."
+msgstr "我的頭受了重擊，看不到星星！我看到了瑪麗蓮夢露，克拉克蓋博，甚至亨佛萊鮑嘉。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:51
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin helmet."
+msgstr "告訴哥布林先生，你有哥布林頭盔。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:47
+#, no-wrap
+msgid "Sweet dome, Dragon Rider!  This helmet is even thicker than my skull, and that’s saying something!"
+msgstr "不錯的圓頂帽，龍騎士！這個頭盔比我的頭骨還要厚，這說明了一些東西！"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:67
+#, no-wrap
+msgid "There’s just one more piece to complete the ensemble, Dragon Rider, and that’s Goblin Pants!  Make me some pants, for the love of all that is goblin!"
+msgstr "只要再來一件就好了，龍騎士，那就是哥布林褲！給我條褲子吧，看在我們是老朋友的份上！"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:68
+#, no-wrap
+msgid "I like big pants and I cannot lie.  All you other goblins can’t deny, when a goblin walks in with an itty bitty mace and a sharp knife in your face you put on Goblin Pants!"
+msgstr "我喜歡大褲子，我不會撒謊。所有其他哥布林都不能否認，當一隻哥布林拿著僵硬的狼牙棒和鋒利的刀子走進來時，就穿著哥布林褲子！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:73
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:94
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin pants."
+msgstr "告訴哥布林先生，你有哥布林褲子。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:69
+#, no-wrap
+msgid "That’s it!  Yes!  I feel like my old self again.  Thank you!"
+msgstr "好！好！我又感覺像以前的自己了。謝謝！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:89
+#, no-wrap
+msgid "Even a creature as lowly as me, and you still helped, Dragon Rider."
+msgstr "你連我這種低等存在你都幫，龍騎士。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:1
+#, fuzzy
+msgid "Quantum Theory"
+msgstr "量子理論"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:14
+#, fuzzy, no-wrap
+msgid ""
+"Let’s see . . .\n"
+"\n"
+"If I attach this dispersal hose to the recombobulator . . ."
+msgstr ""
+"讓我們來看看...\n"
+"\n"
+"要是我把這些東西連到那玩意上..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:21
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:35
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:49
+#, fuzzy, no-wrap
+msgid "Word has spread that Mr. Goblin has an innovative idea for faster travel.  Speak to him to learn more."
+msgstr "有消息稱，哥布林先生有一個新穎的想法，可以更快地旅行。與他交談以瞭解更多信息。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:28
+#, fuzzy, no-wrap
+msgid ""
+"Aha!  Dragon Rider!\n"
+"\n"
+"It’s good to see you."
+msgstr ""
+"啊哈，龍騎士！\n"
+"\n"
+"還能看到你，真稀奇。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:42
+#, fuzzy, no-wrap
+msgid ""
+"As you can see, I am trying to assemble a contraption.\n"
+"\n"
+"You know, the device everyone has been whispering about?"
+msgstr ""
+"如你所見，我在組裝一個奇怪的裝置。\n"
+"\n"
+"你知道吧？大家一直在偷偷議論的那個裝置？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: collectstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:56
+#, fuzzy, no-wrap
+msgid ""
+"Do me a solid and help me get some raw materials.\n"
+"\n"
+"Then I can proudly call you my workhorse!\n"
+"\n"
+"I mean, my loyal friend.  Hehe.\n"
+"\n"
+"But seriously I need some iron bars."
+msgstr ""
+"幫我個忙，弄些原材料給我吧。\n"
+"\n"
+"這樣我就可以驕傲地叫你”幹活的苦力“了！\n"
+"\n"
+"我是說，我忠誠的朋友。嘿嘿。\n"
+"\n"
+"不過說點正經的，我確實需要一些鐵錠。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:65
+#, fuzzy, no-wrap
+msgid "A buncha iron bars may not whet your appetite just yet, but when you see what I turn them into - ooh yeah, you’re gonna love it!"
+msgstr "一堆鐵錠可能暫時勾不起你的興趣，但等你看到我把它們變成什麼——哦耶，你一定會愛不釋手！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:72
+#, fuzzy, no-wrap
+msgid "Tell Mr. Goblin you have the iron bars."
+msgstr "告訴哥布林先生，你有鐵錠。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:68
+#, fuzzy, no-wrap
+msgid "I knew I could count on you!  Now to begin the assembly."
+msgstr "我就知道可以指望你！現在開始組裝吧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:87
+#, fuzzy, no-wrap
+msgid ""
+"Drat!  Drat!  Curses and drat!\n"
+"\n"
+"I can’t get any work done with those pesky Earth Worms crawling around.  Inching and squirming, wriggling and being all gross, I can’t take it any more!\n"
+"\n"
+"Hunt 5 Earth Worms, come back, and I’ll share the key ingredient you’ll need to build my delicious device."
+msgstr ""
+"該死！該死！該死的倒黴！\n"
+"\n"
+"這些噁心的蠕蟲爬行時，我根本完成不了任何工作。寸步難行，我受不了了！\n"
+"\n"
+"殺掉那些蠕蟲，然後回來，我會和你分享這個我那“美味”的裝置的關鍵。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:94
+#, fuzzy, no-wrap
+msgid "These are no ordinary Earth Worms, Dragon Rider.  Be careful or they’ll wriggle you to death!"
+msgstr "這些不是普通的蟲子，龍騎士。要小心，不然它們會蠕動著把你殺了！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:103
+#, fuzzy, no-wrap
+msgid "Tell Mr. Goblin that you have slain the Earth Worms."
+msgstr "告訴哥布林先生，你殺了蠕蟲。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:97
+#, fuzzy, no-wrap
+msgid ""
+"Yes!  YES!  This is going to be exciting.\n"
+"\n"
+"Take these Gravitons.  You’ll need them to complete the final step in our process."
+msgstr ""
+"是！是！這真讓人興奮。\n"
+"\n"
+"拿上這些引力子。你需要它們來完成流程中的最後一步。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:118
+#, fuzzy, no-wrap
+msgid "The time has come, Dragon Rider.  You’re going to make a few teleporters!"
+msgstr "時間到了，龍騎士。你要製造一些傳送器！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:119
+#, fuzzy, no-wrap
+msgid "You must first craft the teleporters before we can proceed with my grand experiment."
+msgstr "你必須先製作傳送器，我們才能繼續我那宏大的實驗。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:124
+#, fuzzy, no-wrap
+msgid "Tell Mr. Goblin that you have crafted the teleporters."
+msgstr "告訴哥布林先生，你製作了傳送器。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:120
+#, fuzzy, no-wrap
+msgid "Excellent!  We are ready for the next step."
+msgstr "太好了！我們已經準備好進行下一步了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:135
+#, fuzzy, no-wrap
+msgid ""
+"That’s right!  We are going to send you from one place to another instantaneously.\n"
+"\n"
+"It may scramble your brain, or rearrange your body parts so your arms are sticking out of your forehead.\n"
+"\n"
+"But that almost probably won’t happen.\n"
+"\n"
+"Place both teleporters, step inside one, and see what happens."
+msgstr ""
+"對的！我們會立馬把你從一個地方傳送到另一個地方。\n"
+"\n"
+"它也許會打亂你的大腦，或重新排列你的身體部位，讓您的手臂長在額頭上。\n"
+"\n"
+"但這種情況大概、也許、幾乎不會發生。\n"
+"\n"
+"放兩個傳送器，進入其中一個，然後看看會發生什麼。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:150
+#, fuzzy, no-wrap
+msgid ""
+"Place both teleporters.\n"
+"\n"
+"Step inside one teleporter to teleport to another location."
+msgstr ""
+"放置兩個傳送器。\n"
+"\n"
+"步入其中一個內部以瞬移到另一個位置。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:165
+#, fuzzy, no-wrap
+msgid ""
+"Glorious!\n"
+"\n"
+"You’ve been recombobulated and you don’t even look like a weird monster.\n"
+"\n"
+"Too bad."
+msgstr ""
+"輝煌至極。\n"
+"\n"
+"你被重新拼裝過了，而且居然還不像個怪物。\n"
+"\n"
+"真遺憾。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:174
+#, fuzzy, no-wrap
+msgid "Tell Mr. Goblin that you have placed and used the teleporters."
+msgstr "告訴哥布林先生，你放置並使用了傳送器。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:189
+#, fuzzy, no-wrap
+msgid ""
+"Ya gotta admit, it would be kinda cool if your body got all scrambled like that.\n"
+"\n"
+"Anyway, if you need additional Gravitons, you can get some from the aliens in the sky world or you can purchase some more at the store."
+msgstr ""
+"你得承認，要是身體被那樣徹底打亂一下，其實還挺酷的。\n"
+"\n"
+"總之，如果你還需要引力子，可以從天空世界的外星人那裡獲得一些，或者在商店再買一些。"

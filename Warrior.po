@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2015-08-04 18:17-0400\n"
+"Last-Translator: Mark <mark.douglass.14@gmail.com>\n"
+"Language-Team: Chinese (China) <http://weblate-blockstory.rhcloud.com/"
+"projects/block-story/warrior/zh_CN/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.3\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:1
+msgid "Dragon Armor"
+msgstr "龍甲"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:6
+#, no-wrap
+msgid "Ack... Dragon Rider... I am...hurt..."
+msgstr "啊...龍騎士...我...受傷了..."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:14
+#, no-wrap
+msgid "You taught me to be brave, my friend.  I saw the Dragon Lord had released his dragons upon the world and I set out to defeat them.  But I was no match for a dragon.  I am badly wounded.  Please, defeat the dragons.  Avenge me."
+msgstr "你教會我勇敢，朋友。我看到龍主將巨龍釋放到世間，便出發去擊敗它們。但我不是巨龍的對手，身受重傷。請幫我打敗它們，為我復仇。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:24
+#, no-wrap
+msgid "Tell Aaron you have slain the dragons."
+msgstr "告訴艾倫你已擊殺所有巨龍。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:18
+#, no-wrap
+msgid ""
+"Amazing.  You defeated all three?\n"
+"\n"
+"You’ve given me hope.  Maybe now I can repay the favor."
+msgstr ""
+"不可思議。你把三條巨龍都解決了？\n"
+"\n"
+"你給了我希望，也許我終於能報答你了。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:42
+#, no-wrap
+msgid "I feel weak, but helping you create Dragon Armor is the least I can do."
+msgstr "我感覺很虛弱，但幫你製作龍甲是我力所能及的事。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:50
+#, no-wrap
+msgid "Tell Aaron you have crafted the Dragon Armor."
+msgstr "告訴艾倫你已經製作好了龍甲。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:46
+#, no-wrap
+msgid "Marvelous.  The scales of the dragon will protect you against the Dragon Lord’s barrage of powerful spells.  Now...I am inspired."
+msgstr "奇妙。龍鱗將保護你免受龍主強大法術的干擾。現在...我很受啟發。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:65
+#, no-wrap
+msgid "You are our angel, Dragon Rider.  And our angel needs an Angelic Sword to defeat that devilish Dragon Lord."
+msgstr "你是我們的天使，龍騎士。而天使需要一把天使雙劍，來擊敗那惡魔般的龍主。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:77
+#, no-wrap
+msgid ""
+"Cough cough!  Dragon Rider.\n"
+"\n"
+"I cannot even lift my hammer.  But you can.  Please, make your glorious sword."
+msgstr ""
+"咳咳！龍騎士，\n"
+"\n"
+"我甚至連錘子都舉不起來。但你可以。請打造屬於你的聖劍。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:91
+#, no-wrap
+msgid "Tell Aaron you have crafted the Angelic Swords."
+msgstr "告訴艾倫，你已製作了天使雙劍。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:85
+#, no-wrap
+msgid ""
+"The pain is too great...\n"
+"\n"
+"I see an angel before me.  Is this the end?"
+msgstr ""
+"疼痛太劇烈...\n"
+"\n"
+"我看到一位天使。這就是結局嗎？"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:106
+#, no-wrap
+msgid "My friend...you protected me and taught me courage.  I’ll never forget you.  Good-..."
+msgstr "朋友...你保護了我，教會了我勇氣。我不會忘記你。再..."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:107
+#, no-wrap
+msgid "..."
+msgstr "..."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:110
+#, no-wrap
+msgid "Speak to Paula to prepare for your fight against the Dragon Lord."
+msgstr "與葆拉交談，為與龍主的戰鬥作準備。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:1
+msgid "Prehistoric Menace"
+msgstr "史前威脅"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:6
+#, no-wrap
+msgid "Dragon Rider!  Thank goodness you’re here.  I’m quaking in my boots with all these monsters running about."
+msgstr "龍騎士！謝天謝地，你來了。這些到處亂跑的怪物讓我都嚇得發抖。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:19
+#, no-wrap
+msgid "T-Rex!  There are so many T-Rex out there.  You have to stop them, Dragon Rider.  PLEASE!"
+msgstr "暴龍！外面有好多暴龍。龍騎士，你必須阻止它們。拜託！"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:20
+#, no-wrap
+msgid "I heard somewhere that if you stand perfectly still, a T-Rex can’t see you.  But then again, I also heard that they can smell you from a mile away."
+msgstr "我聽說如果你一動不動，暴龍就看不見你。但話說回來，我也聽說它們能從一英里外聞到你的氣味。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:25
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:44
+#, no-wrap
+msgid "Tell Aaron you have slain several T-Rex."
+msgstr "告訴艾倫，你已擊殺多隻暴龍。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:21
+#, no-wrap
+msgid "I never thought you’d be able to do it, but I guess a terrible lizard is no match for a Dragon Rider!"
+msgstr "我從沒想到你能做到，但我猜一條可怕的蜥蜴根本不是龍騎士的對手！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:41
+#, no-wrap
+msgid "I can feel my heart rate returning to normal.  Okay – crisis averted.  Now we can make a new sword and shield for you."
+msgstr "我感覺心跳恢復正常。好——危機解除。現在我們可以為你打造新的劍和盾牌了。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:63
+#, no-wrap
+msgid "You have the ability, Dragon Rider.  I believe in you.  Assemble the weapons you need to defeat Ashkore!"
+msgstr "你有能力，龍騎士。我相信你。組裝你需要的武器去擊敗阿什科爾！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:71
+#, no-wrap
+msgid "Tell Aaron you have crafted the Epic Sword and Shield."
+msgstr "告訴艾倫，你已經制作了史詩劍和盾。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:67
+#, no-wrap
+msgid "Ha ha! Terrific.  That dragon won’t know what hit him."
+msgstr "哈哈！太棒了。那條龍都不知道是怎麼捱打的。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:87
+#, no-wrap
+msgid ""
+"Now that you have new weapons, it’s time to return to the Wizard.  I’m sure he has big plans for you.\n"
+"\n"
+"If you ever need anything metal-related, like weapons or armor, I’m your man.  You can think of me as your alloy ally."
+msgstr ""
+"現在你有了新武器，該回到魔力師那裡了。我相信他對你有很大的計劃。\n"
+"\n"
+"如果你需要任何金屬相關的東西，比如武器或盔甲，找我就對了。你可以把我當作你的合金盟友。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:1
+msgid "Stinky Mining"
+msgstr "惡臭採礦"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:23
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:44
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:65
+#, no-wrap
+msgid "Hey, Dragon Rider!  I’m working on a weapon worthy of a warrior such as you.  Wow!  That’s a lot of W’s.  I’m going to need a lot of Sulfur to make it, though.  That’s where you come in."
+msgstr "嘿，龍騎士！我正在研究一把配得上你的戰士級武器。不過，我需要大量的硫磺來製作，這就輪到你出場了。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:24
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:45
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:66
+#, no-wrap
+msgid "The system I’m working with can process up to fifty Sulfur per day.  I’ll need a lot more than that, but you’ve got a nose for finding those stinky rocks, don’t you?"
+msgstr "我使用的系統每天能處理五十份硫磺。我需要的量遠不止這些，不過你有一雙能找到那些發臭礦石的鼻子，不是嗎？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:29
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:50
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:71
+#, no-wrap
+msgid "Tell Aaron you have the Sulfur."
+msgstr "告訴艾倫，你帶來了硫磺。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:25
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:67
+#, no-wrap
+msgid "Nice!  Check back tomorrow and I’ll send you out for more ore."
+msgstr "太好了！明天再來，我會讓你去採更多的礦石。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:46
+#, no-wrap
+msgid "I have great news!  That’s all the ore I need.  Now feast your eyes on my ultimate weapon!"
+msgstr "好消息！我已經收集夠了礦石。現在，看看我的終極武器吧！"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:1
+msgid "Warrior Defense"
+msgstr "戰士防禦"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:6
+#, no-wrap
+msgid "Why are you talking to me?  Is something wrong?  Do you have bad news?  Oh.  Oh I see.  Armor?  Well why didn't you say so?"
+msgstr "你為什麼找我？出了什麼事嗎？有壞消息？哦，我明白了，盔甲？那你為什麼不早說呢？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:12
+#, no-wrap
+msgid "We're all doomed.  Doomed, I tell you!  That Dragon Lord is going to obliterate everyone in this whole world!"
+msgstr "我們都完了，我告訴你！那個龍主會毀掉整個世界上的每一個人！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:18
+#, no-wrap
+msgid "It's sad.  I know.  I should go hide in a cave.  But there are SPIDERS in the caves.  Spiders!  With spindly legs and big buggy eyes and they shoot webbing out of their butts.  Spiders are the deadliest predators in the animal kingdom, you know."
+msgstr "太可悲了，我知道。我應該躲進山洞，但山洞裡有蜘蛛。蜘蛛！長長的腿，大大的眼睛，還會從屁股裡吐絲。你知道的，蜘蛛可是動物王國裡最致命的捕食者。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:26
+#, no-wrap
+msgid "There's a super scary spider called Aragog who prowls near here.  I'm so scared of him, I can't work!  If you want to learn how to make armor, you have to defeat Aragog first."
+msgstr "這裡有一隻超級可怕的蜘蛛叫阿拉戈克，它在附近徘徊。我怕它，根本沒法工作！如果你想學習製作盔甲，必須先擊敗阿拉戈克。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:27
+#, no-wrap
+msgid "Is it safe?  Is he gone?  Then what are you talking to me for?!  Go get Aragog!"
+msgstr "安全了嗎？它走了嗎？那你還跟我說什麼？快去幹掉阿拉戈克！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:32
+#, no-wrap
+msgid "Tell Aaron that Aragog has been slain."
+msgstr "告訴艾倫，阿拉戈克已被擊敗。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:28
+#, no-wrap
+msgid "Thank goodness that nasty Aragog is gone.  So it's safe to come out and craft some armor?  I guess so, as long as zombie spiders aren't a thing.  Wait.  Are zombie spiders a thing?"
+msgstr "謝天謝地，那討厭的阿拉戈克不見了。現在可以安全地出來製作盔甲了嗎？我想可以，只要沒有殭屍蜘蛛。等等，殭屍蜘蛛存在嗎？"
+
+#. (itstool) path: collectstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:52
+#, no-wrap
+msgid "You impressed me with how you handled Aragog, Dragon Rider.  Here are some recipes to craft the armor that will help you defeat the Ice Dragon.  I'm all out of raw materials.  You'll have to craft the armor yourself using a Furnace.  Good luck!"
+msgstr "你處理阿拉戈克的方式讓我印象深刻，龍騎士。這些是可以幫你擊敗冰龍的盔甲配方。我已經沒有原材料了，你必須用熔爐親手打造盔甲。祝你好運！"
+
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:53
+#, no-wrap
+msgid "They say that warriors are not so much brave as they are very skilled at being terrified.  I am an expert at that.  Besides, warriors get the best armor, which provides the best protection.  Stay safe!  That's my motto.  You'll have to craft the armor yourself using a Furnace."
+msgstr "有人說，戰士並不是特別勇敢，而是非常擅長面對恐懼。我在這方面是專家。而且，戰士能穿上最好的盔甲，提供最好的保護。注意安全！這是我的座右銘。你必須用熔爐親手打造盔甲。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:58
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:85
+#, no-wrap
+msgid "Tell Aaron you have crafted the armor."
+msgstr "告訴艾倫，你已經製作好了盔甲。"
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:54
+#, no-wrap
+msgid "Well, it's clear no expert crafted this armor, but it'll do.  Good job, Dragon Rider.  May courage guide your hand.  And if not, may cowardice guide your feet so you don't get eaten by a dragon."
+msgstr "好吧，很明顯這不是專家制作的盔甲，但也夠用了。幹得好，龍騎士。願勇氣指引你的手。如果不行，願膽怯指引你的腳步，讓你不會被龍吃掉。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:75
+#, no-wrap
+msgid ""
+"You know my motto: \"If you know you're not the winner, run away so you're not dinner.\"\n"
+"\n"
+"Take care and ask the Wizard what the next step is."
+msgstr ""
+"你知道我的座右銘：“如果你知道自己贏不了，就趕快逃跑，別成為別人的晚餐。”\n"
+"\n"
+"保重，去問魔力師下一步該做什麼。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:1
+msgid "Warrior Offense"
+msgstr "戰士進攻"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:6
+#, no-wrap
+msgid "Anvils aghast!  You startled me, Dragon Rider.  Yeah, yeah, nice to see you too."
+msgstr "天哪！你嚇到我了，龍騎士。是，是，我也很高興見到你。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:19
+#, no-wrap
+msgid "Swamp snakes!  Why’d it have to be swamp snakes?  They’re everywhere, Dragon Rider, and they’re a menace.  Please, these pests have me scared stiff.  Take care of them, and I’ll be able to help you craft powerful weapons once again."
+msgstr "沼澤水蛇！為什麼一定要是沼澤水蛇？它們無處不在，龍騎士，而且很危險。拜託，這些傢伙讓我害怕極了。處理掉它們，我就能再次幫你製作強力武器。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:20
+#, no-wrap
+msgid "Are the swamp snakes gone yet?  Is it safe to come out?"
+msgstr "沼澤水蛇走了嗎？現在出來安全嗎？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:29
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:48
+#, no-wrap
+msgid "Tell Aaron you have slain the swamp snakes."
+msgstr "告訴艾倫，你已經消滅了沼澤水蛇。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:21
+#, no-wrap
+msgid ""
+"I’m so relieved that you took care of those nasty serpents.\n"
+"\n"
+"[FF00FF]* * * SHUDDER * * *[-]\n"
+"\n"
+"Now let’s get to work."
+msgstr ""
+"你把那些討厭的蛇解決掉，我總算鬆了一口氣。\n"
+"\n"
+"[FF00FF]* * * 不寒而慄 * * *[-]\n"
+"\n"
+"現在開始工作吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:45
+#, no-wrap
+msgid "You remember how to brew a Mana Potion, right?  Well, with Mana Potions it’s a snap to create Magic Arrows."
+msgstr "你還記得怎麼煉製法力藥水吧？很好，有了法力藥水，製作魔力箭就輕而易舉了。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:61
+#, no-wrap
+msgid "You’re going to love how cool-looking and powerful Magic Arrows are.  Give it a try."
+msgstr "你一定會喜歡魔力箭的炫酷外觀和強大威力，試試看吧。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:69
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:94
+#, no-wrap
+msgid "Tell Aaron you have crafted the Magic Arrows."
+msgstr "告訴艾倫，你已經製作好了魔力箭。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:65
+#, no-wrap
+msgid "That was fast! Not too shabby, Dragon Rider. Next we’ll make something to help protect your delicate bones."
+msgstr "挺快的！不錯，龍騎士。接下來我們要做一些東西來保護你脆弱的骨頭。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:85
+#, no-wrap
+msgid ""
+"Get it?\n"
+"\n"
+"...\n"
+"\n"
+"Bones?  We’re gonna make a Bones Shield.  It’s the latest in high grade calcium protection technology."
+msgstr ""
+"明白了嗎？\n"
+"\n"
+"...\n"
+"\n"
+"骨頭？我們要做一個骨頭盾，這是最新的高強度鈣質防護技術。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:107
+#, no-wrap
+msgid ""
+"With the Bones Shield, you’ll be able to deflect arrows, blunt attacks, and even take a meteor strike to the face!  Okay, maybe not that last one.  But it’s still pretty great!\n"
+"\n"
+"And it’s perfect timing, because there are a ton of skeletons trashing the caves near here.  Kill them, collect their bones, and make the shield!"
+msgstr ""
+"有了骨頭盾牌，你可以偏轉箭矢、抵擋鈍器攻擊，甚至承受流星砸到臉！好吧，也許最後那個不行。但它仍然非常棒！\n"
+"\n"
+"時機正好，附近的洞穴裡有大量骷髏在破壞。殺掉它們，收集骨頭，然後製作盾牌吧！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:119
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:139
+#, no-wrap
+msgid "Tell Aaron you have crafted the Bones Shield."
+msgstr "告訴艾倫，你已經制作了骨盾。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:115
+#, no-wrap
+msgid "Thank iron and steel those skeletons are gone.  Er...  I mean...  I’m glad you have that Bones Shield now.  Heh.  Heheh."
+msgstr "謝天謝地，那些骷髏終於沒了。呃……我的意思是……我很高興你現在有了骨盾。呵呵，嘿嘿。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:134
+#, no-wrap
+msgid "They say the best defense is a good offense, so we better get you a new weapon, Dragon Rider.  I have in mind a Great Sword, one that will smite any opponent.  Here are the blueprints."
+msgstr "有人說，最好的防守就是進攻，所以我們最好給你準備一把新武器，龍騎士。我想到了一把大劍，可以橫掃任何敵人。這裡是藍圖。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:152
+#, no-wrap
+msgid "Some say a sword is only as great as the one who wields it.  Or in other words: swords don’t kill people, dudes with serious upper body strength kill people.  Now smiter, get smiting!"
+msgstr "有人說，劍的威力取決於持劍者。換句話說：劍不能殺人，真正起作用的是力量型戰士。現在，揮劍吧！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:160
+#, no-wrap
+msgid "Tell Aaron you have crafted the Great Sword."
+msgstr "告訴艾倫，你已經製作好了大劍。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:156
+#, no-wrap
+msgid "Exceptional work, Dragon Rider.  With that weapon, you’ll be able to deal with some of the more serious monster problems we have around here."
+msgstr "幹得漂亮，龍騎士。有了這把武器，你就能解決這裡的一些強力怪物問題了。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:175
+#, no-wrap
+msgid "I expected the Dark Slashers to disperse once you thinned them out, but those bone heads are back, and in greater numbers!  Take care of them for me, will you?  The thought of them creeping about chills me to the – ugh, I don’t even want to say it!"
+msgstr "我本以為你削減了黑暗殺人狂後它們會散去，但那些骨頭傢伙又回來了，而且數量更多！幫我處理它們，好嗎？想到它們在四處潛行就讓我不寒而慄——呃，我甚至不想說下去！"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:176
+#, no-wrap
+msgid "You’re doing great work, Dragon Rider.  Keep fighting those Dark Slashers!"
+msgstr "做得好，龍騎士。繼續對付那些黑暗殺人狂吧！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:181
+#, no-wrap
+msgid "Tell Aaron you have slain the Dark Slashers."
+msgstr "告訴艾倫，你已經消滅了黑暗殺人狂。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:177
+#, no-wrap
+msgid "Hey!  You did it!  Looks like that sword did the trick."
+msgstr "嘿！你做到了！看來那把劍果然有效。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:197
+#, no-wrap
+msgid ""
+"With the tools I’ve given you, I’m sure you’ll be able to take on any challenge.\n"
+"\n"
+"(Or at least, any challenge until you need even BIGGER weapons.)\n"
+"\n"
+"Go see Ted.  He may need further assistance."
+msgstr ""
+"有了我給你的工具，我相信你能應對任何挑戰。\n"
+"\n"
+"(直到你需要更強武器之前，都能應付一切挑戰)\n"
+"\n"
+"去找泰德，他可能需要進一步的幫助。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:204
+#, no-wrap
+msgid ""
+"Your bravery will always inspire me, Dragon Rider.\n"
+"\n"
+"Go see Ted.  He may need further assistance."
+msgstr ""
+"你的勇敢將永遠激勵我，龍騎士。\n"
+"\n"
+"去找泰德，他可能需要幫助。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:211
+#, no-wrap
+msgid "Speak to Ted about his current dilemma."
+msgstr "與泰德談談他目前的困境。"
+
+#~ msgid ""
+#~ "Now you look like a proper warrior.\n"
+#~ "\n"
+#~ "Hmm . . . perhaps you can help me with my current dilemma."
+#~ msgstr ""
+#~ "現在你看起來像個真正的武士。\n"
+#~ "\n"
+#~ "嗯……或許你能幫我解決目前的困境。"

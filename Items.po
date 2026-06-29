@@ -1,0 +1,4582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"Report-Msgid-Bugs-To: support@blockstory.net\n"
+"PO-Revision-Date: 2023-10-13 19:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/items/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Sky Leaves"
+msgstr ""
+"[FF0000]被遺忘的天空[-]裡的樹葉。如果你看近一點，裡面有橡樹果。我好奇松鼠會不會來。"
+
+msgid "Axe"
+msgstr ""
+"挖木材時很好用，比用徒手挖來得要快。\n"
+"\n"
+"要使用，打開揹包，選擇[FF0000]石斧[-]，長按你想打破的方塊。"
+
+msgid "Jungle Bush Plant"
+msgstr "生長於[FF0000]泥土[-]或[FF0000]草[-]上。"
+
+msgid "Spider Venom"
+msgstr ""
+"如果你以為被蜘蛛咬一下只是很疼沒什麼大不了的話，你是完全不瞭解呢！毒液流經你的血管，燒灼你的血液，融化你的骨頭。巴哈哈哈！"
+
+msgid "Saw Shield"
+msgstr ""
+"圓形尖盾。它的外表可能欺騙了你，但是當你要與怪物戰鬥時，你會很想擁有它。"
+
+msgid "Animal Spawner"
+msgstr ""
+"和平產卵，幾乎隨處可見。它通常會誕下動物和"友好"的生物。發出一道綠色的光輝。"
+
+msgid "Old Stone Fence"
+msgstr ""
+"華麗的石欄。非常適合誘捕或飼養動物。"
+
+msgid "Palm Bark"
+msgstr "椰子樹上的手工藝材料。"
+
+msgid "TRex"
+msgstr ""
+"一直以來，這些天生的殺手被認為已經滅絕。"
+
+msgid "Bricks"
+msgstr ""
+"存在於世中的最堅硬的方塊之一，為良好的防禦打下基礎。\n"
+"\n"
+"用[FF0000]純石[-]製作。"
+
+msgid "Hammer"
+msgstr ""
+"有用的工具，用來挖掘堅硬的金屬塊。比用空手挖掘更快。\n"
+"\n"
+"要使用，打開揹包，選擇[FF0000]石錘[ - ]，然後長按你想打破的方塊。"
+
+msgid "Cactus Plant"
+msgstr "生長在[FF0000]沙子[-]上。"
+
+msgid "Oak Leaves"
+msgstr ""
+"一種有橡子在內的葉子。通常在草原生物群落髮現。如果你夠走運，你可以找到它周圍的蜂巢。"
+
+msgid "Poplar Leaves"
+msgstr "沙漠楊樹的葉子。"
+
+msgid "Brick Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Jungle Bush Green"
+msgstr ""
+"很像叢林樹葉，但它們位於叢林生物群落的地表。"
+
+msgid "Dragonscale"
+msgstr ""
+"龍身上的鱗片。\n"
+"\n"
+"用於製作耐用的盔甲。"
+
+msgid "Poplar Plant"
+msgstr "生長在[FF0000]泥土[-]、[FF0000]草[-]或[FF0000]沙子[-]上。"
+
+msgid "Remove_Item"
+msgstr "[00FF00]從揹包中移除了 {0} x {1}。[-]"
+
+msgid "Warrior Boots"
+msgstr ""
+"用[FF0000]鹿皮[-]和[FF0000]鐵錠[-]製成的靴子。設計用來更快速地移動。"
+
+msgid "Arrow"
+msgstr ""
+"又小又好的箭會刺穿它的目標。弓箭手絕對會需要它。"
+
+msgid "Old Stone Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Gravity Boots"
+msgstr ""
+"魔力靴子會人工製造重力。\n"
+"可以和[FF0000]潛水服[-]一起使用。"
+
+msgid "Ticket"
+msgstr ""
+"用來看電影以獲取免費的鑽石。"
+
+msgid "Electrite"
+msgstr "天堂中的稀有原料。"
+
+msgid "Necklace Of Life"
+msgstr ""
+"這個物品擁有[FF0000]天堂礦[-]和[FF0000]被遺忘的灌木[-]的療愈能力，用驚人的速度治療創傷。"
+
+msgid "Red Leaves"
+msgstr ""
+"噩夢中的樹葉將永遠燃燒。"
+
+msgid "Storage Row Player"
+msgstr "在揹包中多增添5個槽位。"
+
+msgid "Wood Window"
+msgstr "美麗的柳條編製成的窗戶。與小房子是絕配。"
+
+msgid "Soul Catcher"
+msgstr "這種魔力能夠將生物變成生怪磚。"
+
+msgid "Miner Helmet"
+msgstr ""
+"如果你想成為一位真正的礦工你顯然需要它。\n"
+"\n"
+"裝備它來照明洞穴或在漆黑的夜晚中看見東西。"
+
+msgid "Pumpkin"
+msgstr ""
+"稀有的方塊，可以在沙漠裡找到。可以用在花園或農場裡作裝飾。"
+
+msgid "Forgotten Bushes"
+msgstr ""
+"生長在[FF0000]被遺忘的天空[-]上連綿起伏的草原上的灌木。具有藥用和美容價值。"
+
+msgid "Magic Arrow"
+msgstr "[FF0000]Block Story[-]世界裡帶有魔力的箭。"
+
+msgid "Ashkore"
+msgstr ""
+"吸收了閃電的能量，難以壓抑的破壞慾使這古老的生物瘋狂。"
+
+msgid "Cryptonite"
+msgstr ""
+"氪石是自然療愈力量的化身。這種珍貴的物質主要用於製作能夠治療佩戴者的首飾。"
+
+msgid "Life Magic"
+msgstr ""
+"使用[FF0000]氪石[-]的魔力特質來治療傷口。\n"
+"對亡靈造成傷害。"
+
+msgid "Dragon Soul"
+msgstr ""
+"給一隻龍仔生命。隨時準備在你身邊戰鬥，不會把你的頭咬下來。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]、和[FF0000]椰子[-]來補充它的飢餓值。"
+
+msgid "Tentackle Magic"
+msgstr ""
+"邪惡的武器。使用腐敗的[FF0000]難得素[-]的力量召喚一隻貪婪且飢餓的野獸。"
+
+msgid "Spider Soul"
+msgstr ""
+"召喚一隻小蜘蛛。隨時準備在你身邊作戰，不會把你卷在網裡。\n"
+"\n"
+"用[FF0000]肉[-]來補充它的飢餓值。"
+
+msgid "Storage Row Pet"
+msgstr "在寵物揹包中多增添4個槽位。"
+
+msgid "Skull"
+msgstr ""
+"一個你變得自大時會發生什麼事的證據。\n"
+"\n"
+"去到[FF0000]地獄[-]中的廢墟里來得到它。"
+
+msgid "Pan Tool"
+msgstr ""
+"用來掏金或篩草堆裡的種子。"
+
+msgid "Monster Spawner"
+msgstr ""
+"邪惡神秘的生怪磚，可以產生各種蠕動的生物。它可以是個討厭的東西，發出紅色的光。"
+
+msgid "Plank"
+msgstr ""
+"[FF0000]原木[-]製成。\n"
+"\n"
+"可以上色或做成其他東西。"
+
+msgid "Forgotten Stone Antique"
+msgstr ""
+"這個遺物背後隱藏著極大的秘密，地精族不惜任何代價也要守護的秘密。"
+
+msgid "Birch Plank"
+msgstr ""
+"白色凌亂的木板，經常被忽略。也能被塗漆。"
+
+msgid "water"
+msgstr ""
+"一種自然資源，將所有魚和鯊魚帶到海洋中。可以在幾乎任何地方找到，字面上的。"
+
+msgid "Meat"
+msgstr ""
+"好吃的肉可以從很多動物身上取得。它是一頓大餐，恢復生命值。"
+
+msgid "Desert Bird Spawner"
+msgstr ""
+"用斷掉的樹枝做成的脆弱鳥巢。保護從乾燥的沙漠來的烏鴉。"
+
+msgid "Yellow Coral"
+msgstr "美麗的螢光色珊瑚養育著整片海洋地底。"
+
+msgid "Teleportation Arrow"
+msgstr ""
+"可以瞬間傳送一隻怪物到玩家處。\n"
+"也能瞬間將玩家傳送到箭抵達的位置。"
+
+msgid "Leaves"
+msgstr "長在樹上的綠色方塊。"
+
+msgid "Baobab Plant"
+msgstr "生長在[FF0000]泥土[-]、 [FF0000]草[-]或[FF0000]沙子[-]上。"
+
+msgid "Car"
+msgstr ""
+"一個交通工具可以讓任何冒險家快速地從一個地方移動到另一個地方。在全新、原產、四輪傳動的車裡行駛過[FF0000]Block Story[-]！\n"
+"能夠被塗色。"
+
+msgid "Apple Tree Plant"
+msgstr ""
+"生長在[FF0000]泥土[-]或[FF0000]草[-]上。\n"
+"結蘋果。"
+
+msgid "Gun"
+msgstr ""
+"一種遠距離武器，可以穿透任何東西，但要先瞄準目標。\n"
+"\n"
+"需要[FF0000]子彈[-]來使用。"
+
+msgid "Dragon Armor"
+msgstr "由[FF0000]龍鱗[-]製成。"
+
+msgid "Birch Bark"
+msgstr ""
+"森林裡非常不錯的光滑木材。造[FF0000]車[-]時很好用。"
+
+msgid "Angelic Swords"
+msgstr ""
+"擁有巨大力量的武器。\n"
+"傳說它由宙斯創造，但因被認為對人類太危險而被禁止。"
+
+msgid "Goblin Pants"
+msgstr ""
+"把你變成地精的樣子。哥布林很在行做他們自己的衣服。\n"
+"\n"
+"唯一的問題是這些褲子讓你看起來很肥胖。"
+
+msgid "Baobab Leaves"
+msgstr "在草原生物群系頻繁出現的鮮綠的葉子。"
+
+msgid "Crystal Block Red"
+msgstr "紅寶石製成的血紅方塊。"
+
+msgid "Glass"
+msgstr ""
+"很好的透明方塊，讓你能看到它對面某個地方。\n"
+"\n"
+"製作玻璃前先染沙以獲得不同的色調。"
+
+msgid "Diver Suit"
+msgstr ""
+"讓你潛入深海不會溺水，前提是你要有燃料桶。\n"
+"\n"
+"用[FF0000]燃料[-]來填充氧氣。"
+
+msgid "Forgotten Grass"
+msgstr "在[FF0000]被遺忘的天空[-]裡出現的草。"
+
+msgid "Chair"
+msgstr "常見的家居飾品。"
+
+msgid "Dye"
+msgstr ""
+"染料可以在[FF0000]著色方塊[-]上結合來創造新的顏色，主要是用來染物品或方塊，以及做筆刷。"
+
+msgid "Magic Orb"
+msgstr "能讓你在每個世界間隨意傳送。"
+
+msgid "Dragon Shield"
+msgstr ""
+"有關龍的圖案在前面保護著你。看起來很不錯，也能保護你。"
+
+msgid "Fire Arrow"
+msgstr "予以額外的火焰傷害。"
+
+msgid "Bread"
+msgstr "老式全麥麵包。"
+
+msgid "Gold Bar"
+msgstr ""
+"用[FF0000]熔爐[-]製作。\n"
+"\n"
+"可以用來製作像[FF0000]劍[-]或[FF0000]鎬[-]之類的物品。"
+
+msgid "Birch Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Watermelon"
+msgstr ""
+"[FF0000]南瓜[-]的表哥。是非常稀有的商品。西瓜不常出現，所以它的生長過程鮮有人知。只有成熟的樣本被找到，很妨礙研究。唯一確定的是它們喜歡[FF0000]草原[-]。"
+
+msgid "Pine Plant"
+msgstr "生長在[FF0000]雪[-]上。"
+
+msgid "Bow"
+msgstr ""
+"對喜歡瞄準射擊的人來說是不錯的武器。小心別把箭射到膝蓋。\n"
+"可以和任何種類的箭一起使用。"
+
+msgid "Unobtainium Bar"
+msgstr ""
+"用[FF0000]熔爐[-]製成。\n"
+"\n"
+"可以用來製作這世界上最強大的工具。"
+
+msgid "Klorium"
+msgstr ""
+"天堂裡可以找到的綠色礦石。具有魔力，能做成武器。"
+
+msgid "Stone"
+msgstr ""
+"形成地球基底的堅硬原料。\n"
+"\n"
+"能用來製作數種工具，比如[FF0000]鎬[-]或[FF0000]劍[-]。"
+
+msgid "Clouds"
+msgstr ""
+"蓬鬆的雲層組成[FF0000]被遺忘的天空[-]的最上端。對人類很友好。"
+
+msgid "Spider Web"
+msgstr ""
+"有黏性的白色方塊會生成害蟲(蜘蛛)。大部分的洞穴裡都能找到。"
+
+msgid "Iron Hammer"
+msgstr ""
+"挖掘堅硬地面的好用工具。比一般的錘子都挖得要快。\n"
+"\n"
+"要使用，打開揹包，選擇[FF0000]鐵錘[-]，然後長按你想打破的方塊。"
+
+msgid "Crystal Block Blue"
+msgstr "由[FF0000]藍寶石[-]製成的閃耀藍色立方體。"
+
+msgid "Window"
+msgstr ""
+"有四個框的窗戶。讓建築增添細節。\n"
+"\n"
+"不論你的房子是石制還是木製，擁有特別的建築材料來點綴會看起來更漂亮。"
+
+msgid "Aragog Eye"
+msgstr ""
+"巨大蜘蛛[FF0000]阿拉戈克[-]的眼睛。是噁心還是好吃，取決於你問的誰。"
+
+msgid "Spider Fang"
+msgstr ""
+"小小蜘蛛。哇啊啊！你剛殺掉一隻蜘蛛，它掉了一個毒牙和幾滴毒液。"
+
+msgid "Wheat Crop"
+msgstr ""
+"你可以用鋤頭和種子種植小麥。"
+
+msgid "Iron Shovel"
+msgstr ""
+"挖沙和泥土的好工具。比一般的鏟子挖得要快。\n"
+"\n"
+"要使用，打開揹包，選擇[FF0000]鐵鏟[-]，長按你想打破的方塊。"
+
+msgid "Fence"
+msgstr "非常適合誘捕或飼養動物。"
+
+msgid "Stick"
+msgstr "確保你不會把木棒丟到垃圾桶。"
+
+msgid "Green Coral"
+msgstr "綠色熒光珊瑚養育眾多的海洋生命。"
+
+msgid "Cauldron"
+msgstr "用來製作各種藥水。"
+
+msgid "Wood Door"
+msgstr "一扇木門，相當於兩個木塊的長度。"
+
+msgid "Antique Spawner"
+msgstr ""
+"所有哥布林家族都有一個東西讓他們盡全力守護。\n"
+"\n"
+"用[FF0000]靈魂的守望者[-]來抓一些生物以製成生怪磚。"
+
+msgid "Palm Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Shiva"
+msgstr "希瓦,一隻大青蛙！！！超大！！！還會舔你"
+
+msgid "Megalodon Tooth"
+msgstr ""
+"巨齒鯊的牙齒。可以作為武器使用。"
+
+msgid "Hunting Knife"
+msgstr ""
+"一把適合近距離攻擊的單手劍。當你需要從動物那兒獲取很多資源時很適合。(只是別用它打龍！)"
+
+msgid "Forgotten Stone"
+msgstr "古老的柱子和城堡的就是用這種經久不衰的材料製成的。"
+
+msgid "Dig"
+msgstr ""
+"冒險家的麵包與黃油。沒有鎬子你不能快速挖掘石頭。"
+
+msgid "Pumpkin Head"
+msgstr ""
+"用[FF0000]南瓜[-]雕成的萬聖節裝飾，有著明亮的橘色雙眼。"
+
+msgid "Unobtainium"
+msgstr ""
+"在[FF0000]地獄[-]裡的非常石頭被注滿[FF0000]巴洛克[-]討厭的貪慾。他的黑暗滿溢進難得素。只有真正強大的冒險家才能得到它的黑暗秘密。\n"
+"\n"
+"要取得它，你得進入[FF0000]地獄[-]，到了之後，再更下去。或者就在那裡尋找。"
+
+msgid "Sulphure Ore"
+msgstr ""
+"盛產於[FF0000]地獄[-]的黃色礦石。可做成黃色染料、硫酸、或是火藥。"
+
+msgid "Spruce Plant"
+msgstr "生長在[FF0000]雪[-]上。"
+
+msgid "Radar"
+msgstr "顯示周遭的生物及你和床的位置。"
+
+msgid "Forgotten Stone Old"
+msgstr "已被忘記了的石頭。"
+
+msgid "Iron Axe"
+msgstr ""
+"挖木頭的好工具。比用一般的斧頭都挖得要快。\n"
+"\n"
+"要使用時，打開目錄，選擇[FF0000]鐵斧[-]，然後長按你想打碎的方塊。"
+
+msgid "Dragon Pants"
+msgstr "由[FF0000]龍鱗[-]製成。"
+
+msgid "Blue Flower"
+msgstr ""
+"橘色或綠色的成熟花卉通常在泥土或草原中被找到。他們總與紅花相伴。"
+
+msgid "Storage Row Error"
+msgstr "連接網絡以擴容揹包。"
+
+msgid "Cactus"
+msgstr ""
+"多刺的沙漠植物。我不管你看到什麼。除非頭腦發熱，不要抱它！"
+
+msgid "Graviton"
+msgstr ""
+"一種會產生重力的無重量的粒子。\n"
+"\n"
+"[FF0000]噴氣揹包[-]的燃料。"
+
+msgid "Air Ring"
+msgstr "一些固體空氣。"
+
+msgid "Skill Reset Error"
+msgstr "重置技能點出錯。"
+
+msgid "Deerskin"
+msgstr "鹿皮。能製作戰士盔甲以及其他有用的東西。"
+
+msgid "Elevator"
+msgstr ""
+"放置於[FF0000]發電機[-]附近的管道，然後你就能隨管道移動。當你準備好時，點擊[FF0000]發電機[-]。"
+
+msgid "Blue Crystals"
+msgstr ""
+"洞穴中的藍色礦物。\n"
+"\n"
+"不觸摸它時會產生藍光去照耀四周。\n"
+"\n"
+"可以用來製作藍染料。"
+
+msgid "Snow"
+msgstr ""
+"一種奇怪冰冷的物質組成冰元素所在的山區領域。致死的冷，但出奇的軟和漂亮。\n"
+"能被染成很多顏色。\n"
+"不要吃黃色的雪。"
+
+msgid "TNT"
+msgstr ""
+"致命的採礦工具及武器。\n"
+"\n"
+"用[FF0000]火藥[-]及[FF0000]木板[-]製成。"
+
+msgid "Great Sword"
+msgstr ""
+"看起來很滑稽，但是一種有力的武器。殺死在它面前的所有東西。近距離攻擊很適合。"
+
+msgid "Jungle Tree Plant"
+msgstr "生長在[FF0000]泥土[-]或[FF0000]草[-]上。"
+
+msgid "Epic Sword"
+msgstr ""
+"一把單手劍名為史詩。擁有強大的破壞力。"
+
+msgid "Bullet"
+msgstr ""
+"[FF0000]槍[-]的彈藥。\n"
+"\n"
+"以致命的速度刺進最厚實的怪物皮膚。"
+
+msgid "Torch"
+msgstr ""
+"一個燃燒者的方塊，由[FF0000]木材[-]、[FF0000]玻璃[-]及被法力限制住的火製成。\n"
+"\n"
+"要照亮你的營地時很好用，也可以拿在手上。"
+
+msgid "Generator"
+msgstr ""
+"用於在 [FF0000]鐵軌[-]上加速，為[FF0000]電線[-]加電，還能讓[FF0000]電梯[-]自動停止。\n"
+"\n"
+"[FF0000]管道[-]、[FF0000]電線[-] 和[FF0000]鐵軌[-]可以與它連接。"
+
+msgid "Drill"
+msgstr ""
+"使物質消失在虛空中。\n"
+"\n"
+"點擊一個方塊，它會不留痕跡地消除連續10個。"
+
+msgid "Snow Leaves"
+msgstr ""
+"上面有個櫻桃的葉子。我意思是上方有雪。可以在雪原生物群落裡找到。"
+
+msgid "Trident"
+msgstr ""
+"仿製海神波塞冬神秘的武器而成，會產生閃電。"
+
+msgid "Apple"
+msgstr "可口的蘋果一定會讓你腳步有活力。"
+
+msgid "Cat Soul"
+msgstr ""
+"讓一隻可愛的小貓咪活過來。去哪都跟著你，還會喵喵叫，討人喜歡。\n"
+"\n"
+"主食是[FF0000]魚翅湯[-]和[FF0000]肉[-]。"
+
+msgid "Gold Ore"
+msgstr ""
+"發出黃色光芒的有價值和可延展的礦石。\n"
+"\n"
+"能在地下、洞穴裡、浮島下或篩過的沙子裡被找到。"
+
+msgid "Acacia Plant"
+msgstr "生長在[FF0000]沙子[-]上。"
+
+msgid "Ladder"
+msgstr "把這些連在一起將你自己拉出最黑暗的洞穴。"
+
+msgid "Palm Plank"
+msgstr ""
+"深色凌亂的棕色木板與其他木板非常相似。可上漆。"
+
+msgid "Book Shelf"
+msgstr ""
+"給你的朋友看用你讀過的書蓋成的牆，讓他們大吃一驚。\n"
+"\n"
+"你需要做的是收集[FF0000]木板[-]和一些[FF0000]野豬皮[-]。"
+
+msgid "CarBody"
+msgstr ""
+"少了這個堅韌的框架，車子會散架...那會很糟。"
+
+msgid "Dragon Boots"
+msgstr "由[FF0000]龍鱗[-]製成。"
+
+msgid "Iron Block"
+msgstr "有價值的的全金屬方塊。"
+
+msgid "Electric Pipe"
+msgstr "與[FF0000]管道[-]和[FF0000]發電機[-]相連接。"
+
+msgid "Grass"
+msgstr ""
+"[FF0000]Block Story[-]中有生命的土地。只要有青草，就有希望。\n"
+"\n"
+"在地表非常常見。"
+
+msgid "Poisoned Arrow"
+msgstr "塗上劇毒的弓箭，別碰到箭頭。"
+
+msgid "Blue Dye"
+msgstr ""
+"由[FF0000]藍寶石[-]做成。可以用來製作[FF0000]著色方塊[-]。\n"
+"\n"
+"能與其他染料混合出許多不同的顏色。"
+
+msgid "Jungle Leaves"
+msgstr ""
+"叢林中最常見的葉子。泰山很熟悉。"
+
+msgid "Yellow Dye"
+msgstr ""
+"用[FF0000]硫磺[-]製成。可用來製作[FF0000]著色方塊[-]。\n"
+"\n"
+"與其他染料混合可調出不同的顏色。"
+
+msgid "Swamp"
+msgstr ""
+"綠泥方塊。讓你感覺好像你吐在水裡。在叢林生物群落裡很常見。"
+
+msgid "Hand Torch"
+msgstr ""
+"非常好用的東西，給任何人提供光亮。照亮任何深到令人發毛的洞窟，也可以用來趕走邪惡的雪人。"
+
+msgid "BoarSkin"
+msgstr ""
+"好健康，我的意思是從公豬身上取下的噁心豬皮。\n"
+"\n"
+"可以用來製作[FF0000]哥布林地精鎬[-]或[FF0000]書櫃[-]。"
+
+msgid "Stone Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Springs"
+msgstr "將這些墊在長靴底可以跳得更高。"
+
+msgid "Dragon Heart"
+msgstr ""
+"龍跳動著的心臟。吃了它可以恢復得很健康。但要拿到它，可以賠掉你的命。"
+
+msgid "Jungle Bush Leaves"
+msgstr ""
+"在叢林生物群系的地表找得到的深綠色樹葉。"
+
+msgid "Skill Reset"
+msgstr "重新分配所有技能點。"
+
+msgid "Hoe"
+msgstr ""
+"農業用的工具。你可以用它收集像[FF0000]小麥[-]之類的作物。"
+
+msgid "Candle"
+msgstr ""
+"用來照亮一個地方很好用。如果你做蠟燭前有染蠟，它會發出有色光芒。\n"
+"\n"
+"你可能灼傷自己，如果用手蓋住它。"
+
+msgid "Fence Gate"
+msgstr ""
+"柵欄門，讓你無需跳過柵欄就可以進出室內。"
+
+msgid "GiantSpider"
+msgstr ""
+"一隻經得起時間測試的史前巨獸。\n"
+"棲息於地底深處。\n"
+"[FF0000]阿拉戈克[-]有無盡的飢餓感，而且它已經演化成一位完美的殺手。"
+
+msgid "Fuel"
+msgstr "給各種交通工具的引擎提供動力。"
+
+msgid "Table"
+msgstr "一般家居裝飾物品。"
+
+msgid "Fire"
+msgstr ""
+"你媽媽告訴你不要玩火。\n"
+"\n"
+"如果你夠小心，你可以用它烹調食物、點燃弓箭、製作火把、蠟燭、一些魔力物品，熔金屬及製作玻璃。"
+
+msgid "Wheat"
+msgstr ""
+"農業用的植物。\n"
+"\n"
+"只生長在[FF0000]水[-]邊的[FF0000]泥土[-]之上。"
+
+msgid "Red Flower"
+msgstr ""
+"深綠色花可以在泥土上或草叢中找到。它們在藍色花的附近。也可以在方塊內外玩捉迷藏。"
+
+msgid "My Precious"
+msgstr ""
+"偉大的[FF0000]索倫王[-]創造的強大戒指。讓被選中的人在一場[FF0000]大戰[-]中使用。"
+
+msgid "Epic Shield"
+msgstr ""
+"帶有紅色銘文的盾牌。它真的很不錯。與[FF0000]龍[-]戰鬥時你會想要它的。"
+
+msgid "Ice"
+msgstr ""
+"冰冷、堅硬、無情。冰元素擾亂了水的自然形成過程。\n"
+"\n"
+"跟蘇打水很般配。"
+
+msgid "Hydra"
+msgstr ""
+"擁有狂暴本性的動物。它的力量嚇得軍人直打顫。\n"
+"只在晚間生成。"
+
+msgid "Crystal Block Black"
+msgstr ""
+"用[FF0000]煤炭礦石[-]做成的黑色立方體。儘管有著不祥的外觀，但它其實是無害的。\n"
+"(提示：不要點火柴 =D)"
+
+msgid "Sword"
+msgstr ""
+"繼續笑吧 -- 我們會看著你手上拿著[FF0000]石劍[-]蜷縮在某角落時誰在笑。"
+
+msgid "Swamp Stone"
+msgstr ""
+"風化石。結合[FF0000]純石[-]與[FF0000]泥土[-]製作。\n"
+"\n"
+"盛產於[FF0000]亞特蘭蒂斯[-]。"
+
+msgid "Energy"
+msgstr ""
+"物品擁有在[FF0000]煤炭[-]、[FF0000]原木[-]、[FF0000]木板[-]和[FF0000]木棍[-]上擁有的能量，可用於製作[FF0000]熔爐[-]和[FF0000]大鍋[-]。"
+
+msgid "Rose Bush"
+msgstr "幾朵玫瑰長在一根美麗的主幹上。"
+
+msgid "Sand Stone"
+msgstr ""
+"[FF0000]沙子[-]做成的漂亮石頭。\n"
+"\n"
+"出現在[FF0000]天堂[-]中廣大的平原上。"
+
+msgid "Bed"
+msgstr ""
+"一張紅色舒服的床。"
+
+msgid "Dirt"
+msgstr ""
+"呃，泥土！摸它、聞它，你會看到它很多面。泥土是現存於世界最常見的物質。"
+
+msgid "Nest"
+msgstr ""
+"樹葉環繞的巢。確保你不會踩在蛋上面。巢可以在一些浮島或樹上被找到。"
+
+msgid "Bucket"
+msgstr ""
+"啊！是不是想起了用桶拉屎的美好時光？不過現在它更適合來裝[FF0000]岩漿[-]或[FF0000]水[-]。"
+
+msgid "Red Crystals"
+msgstr ""
+"洞穴中的紅色礦物。\n"
+"\n"
+"不觸摸它時會產生紅光去照耀四周。\n"
+"\n"
+"可用來施展黑暗魔力或製作紅染料。"
+
+msgid "Saddle"
+msgstr "騎生物時用得到。"
+
+msgid "Shovel"
+msgstr ""
+"挖沙子與泥土時很好用。比徒手挖得要快。\n"
+"\n"
+"要使用，打開揹包，選擇[FF0000]鏟子[-]，然後長按你想挖掘的方塊。"
+
+msgid "Store Row Pet Error"
+msgstr "連接網絡以擴容寵物揹包。"
+
+msgid "Crystal Block Green"
+msgstr ""
+"發光的叢林綠方塊，由美麗的[FF0000]翡翠[-]製成。"
+
+msgid "Acid"
+msgstr ""
+"放置後腐蝕掉7個方塊\n"
+"\n"
+"只有[FF0000]玻璃[-]可以阻擋它。"
+
+msgid "Birch Leaves"
+msgstr "稀有的樹葉，通常在叢林生物群系中出現。"
+
+msgid "Wax"
+msgstr ""
+"用[FF0000]橡樹林[-]裡出現的蜂巢熔鍊出的蠟狀物質。\n"
+"\n"
+"染料可以用來製作有色蠟燭。"
+
+msgid "Iron Dig"
+msgstr ""
+"鐵鎬子，對所有礦工來說都是最重要的工具。不同於[FF0000]石鎬[-]，[FF0000]鐵鎬[-]可以輕鬆打破任何物質。"
+
+msgid "Brush"
+msgstr ""
+"你可以用這個工具為世界上幾乎所有的方塊上色。"
+
+msgid "Birch Fence"
+msgstr ""
+"華麗的木柵欄。非常適合誘捕或飼養動物。"
+
+msgid "Coco Bean"
+msgstr ""
+"一種硬殼的熱帶水果。裡面的椰奶據說可以補充魔力。在海邊的[FF0000]椰樹[-]上找得到。"
+
+msgid "Magic"
+msgstr ""
+"簡單的練習工具。這法杖有神秘[FF0000]紅寶石[-]的力量，給受擊者一陣攻擊的暴風！"
+
+msgid "Paraffin"
+msgstr ""
+"蜂巢方塊，可以在森林裡找到。\n"
+"\n"
+"用[FF0000]熔爐[-]熔鍊來得到[FF0000]蠟[-]。"
+
+msgid "Sand Clock"
+msgstr ""
+"減慢時間。\n"
+"\n"
+"使用方法，左手攜帶沙漏，然後按下沙漏按鈕。"
+
+msgid "Alien Dog Soul"
+msgstr ""
+"讓一隻外星狗復活。無需訓練就準備好在你身邊戰鬥。\n"
+"\n"
+"主食為[FF0000]魚翅湯[-]、[FF0000]麵包[-]、很餓的時候要吃[FF0000]肉[-]。"
+
+msgid "Spirit Necklace"
+msgstr ""
+"一個由受困的靈魂和腐敗的[FF0000]難得素[-]製成的黑暗物品。\n"
+"提高使用者的能力且能補充他們的魔力值。"
+
+msgid "Gold Block"
+msgstr "黃金製成的方塊。"
+
+msgid "Emeralds"
+msgstr ""
+"洞穴中找到的綠色發光礦石。可以製成美麗的綠水晶。"
+
+msgid "Brick Fence"
+msgstr ""
+"華麗的磚欄。非常適合誘捕或飼養動物。"
+
+msgid "Green Fluorite"
+msgstr "製作材料。"
+
+msgid "Iron Ore"
+msgstr ""
+"最有用也最難找的礦物之一。能在地底和你早餐的牛奶燕麥片裡找到。\n"
+"\n"
+"鐵可以用來做成很多東西，比如子彈、十字鎬、車、火箭組或武器。"
+
+msgid "Red Dye"
+msgstr ""
+"由[FF0000]紅寶石[-]製成。用來製作[FF0000]著色方塊[-]。\n"
+"\n"
+"與其他染料混合可以做出許多不同的顏色。"
+
+msgid "Warrior Armor"
+msgstr ""
+"現在這不是你每天都看得到的東西。到了最後，人們能夠對抗龍主時，你當然會需要這些去取下那隻野獸的頭。"
+
+msgid "Shark Fin Soup"
+msgstr ""
+"你可以從死亡的鯊魚身上獲得鰭。\n"
+"\n"
+"用[FF0000]大鍋[-]來製作。"
+
+msgid "Stone Fence"
+msgstr ""
+"華麗的石欄。 非常適合誘捕或飼養動物。"
+
+msgid "Boat"
+msgstr ""
+"一艘木頭製成的小船。可以快速在水、沼澤和熔岩上前行。"
+
+msgid "Palm Leaves"
+msgstr ""
+"棕櫚葉。通常在海邊找到。聽說葉子旁邊有椰子。"
+
+msgid "Skeletone Helmet"
+msgstr ""
+"骨頭做成的頭盔。別擔心，你不用把這個塞到你的胸膛。只需要戴在頭上，它就能提高你的防禦力。"
+
+msgid "JetPack"
+msgstr ""
+"一種交通工具，允許你不消耗魔力值飛行。\n"
+"\n"
+"用[FF0000]引力子[-]給引擎提供動力。"
+
+msgid "Spikes Magic"
+msgstr ""
+"非常給力的法杖，會在目標下面召喚尖刺，而且使用很快。"
+
+msgid "Bone"
+msgstr ""
+"骷髏身上的迷人骨頭。很多配方中用得到，主要用來做武器或盾。"
+
+msgid "Jungle Flower"
+msgstr "美麗的紅花。小心點，它甜美的花香會吸引蝙蝠。"
+
+msgid "Oak Tree Plant"
+msgstr ""
+"生長在[FF0000]泥土[-]或[FF0000]草[-]上。\n"
+"產蠟。"
+
+msgid "Palm Plant"
+msgstr ""
+"生長在[FF0000]沙子[-]上。\n"
+"產[FF0000]椰子[-]。"
+
+msgid "Grass 3D"
+msgstr "小叢的立方簇遍佈地表。"
+
+msgid "Wheel"
+msgstr ""
+"劃時代的發明。這個薄圓柱讓車子能高速移動。比方形好多了。如果車輪也是方形的話你能想象開車時會有多顛簸嗎？"
+
+msgid "Teleport"
+msgstr ""
+"未來性的裝置，讓你瞬間移動到任何設好的[FF0000]床[-]。\n"
+"\n"
+"不要沒帶上一個就出門，如果你在森林裡迷路了也不要因為你沒有帶而哭。"
+
+msgid "Metal Fence Gate"
+msgstr ""
+"柵欄門，讓你無需跳過柵欄就可以進出室內。"
+
+msgid "Coal Ore"
+msgstr "地下找到的礦石。"
+
+msgid "Palm Fence"
+msgstr ""
+"華麗的木柵欄。 非常適合誘捕或飼養動物。"
+
+msgid "Goblin Armor"
+msgstr "哥布林的時尚感很不錯！"
+
+msgid "Iron Bar"
+msgstr ""
+"由[FF0000]熔爐[-]做成。\n"
+"\n"
+"可以製成劍或鎬子之類的物品。"
+
+msgid "Sea Grass"
+msgstr ""
+"生長于海洋中。將空氣存儲在內部，讓你在水中能呼吸。收集並把它放在家裡做成簡易電梯。"
+
+msgid "Antique Window"
+msgstr ""
+"一扇老舊的金屬窗。哥布林為了防禦而做的，不是很舒服。"
+
+msgid "TrapDoor"
+msgstr ""
+"非常適合隱藏秘密房間或避開親戚。"
+
+msgid "Devil Rock"
+msgstr ""
+"巴洛克腐敗的靈魂流入地底世界的基石。就算被帶到地表上，這些石頭也發出令人厭惡的光芒。"
+
+msgid "Birch Plant"
+msgstr "生長在[FF0000]泥土[-]或[FF0000]草[-]上。"
+
+msgid "Raven Wing"
+msgstr ""
+"從午夜黑烏鴉身上拿下的翅膀。我很好奇能否拿它來飛。"
+
+msgid "Coloring Block"
+msgstr "可以用來給方塊上色或混合染料。"
+
+msgid "Stair"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+msgid "Mistic Ring"
+msgstr ""
+"某位巫師的物品。這個戒指強化使用者與靈魂的聯繫。由附魔的[FF0000]蜘蛛網[-]及[FF0000]阿拉戈克[-]的眼睛製造而成。"
+
+msgid "Duck Spawner"
+msgstr ""
+"看起來很不一樣的生怪磚，由水上的百合葉組成。我想知道青蛙會不會跳到它們上面去。"
+
+msgid "Dragon Helmet"
+msgstr "由[FF0000]龍鱗[-]製成。"
+
+msgid "Explosive Arrow"
+msgstr ""
+"受衝擊後爆炸。傷害所有生物，破壞附近的方塊。"
+
+msgid "Swamp Spawner"
+msgstr "恐怖泥濘的方塊會生成用腹部爬行的敵人。"
+
+msgid "Replicator"
+msgstr ""
+"使用希瓦的力量複製物質。\n"
+"\n"
+"點擊任一方塊的一邊，它會在另一邊複製出10個。"
+
+msgid "Bark"
+msgstr ""
+"最常見的木材。冒險家必備。\n"
+"\n"
+"在森林裡出現。可以製成[FF0000]木板[-]以製作多樣物品，包括 [FF0000]鎬[-]和[FF0000]劍[-] 。"
+
+msgid "Sand"
+msgstr ""
+"一種可以被染色或熔成[FF0000]玻璃[-]的沉積性材料。\n"
+"\n"
+"常在海邊或沙漠中出現。"
+
+msgid "Short Sword"
+msgstr ""
+"攻擊敵人時有很大優勢的短劍。遠距離時不好用，但在近戰武器中它很不錯。"
+
+msgid "Crystal Sword"
+msgstr ""
+"由一位孤身一人的冒險家冒著危險製作，混合了他擁有的一些[FF0000]氪石[-]、一具死掉的[FF0000]骷髏[-]的[FF0000]骨頭[-]，和[FF0000]地獄[-]深處的[000000]難得素[-]。"
+
+msgid "Bones Shield"
+msgstr ""
+"外觀嚇人的骨制盾牌。有個骷髏頭裝在前面。別害怕，它會保護你。"
+
+msgid "Dog Soul"
+msgstr ""
+"帶來一隻可愛的狗。你到哪它都會跟著你。\n"
+"\n"
+"食物為[FF0000]魚翅湯[-]、[FF0000]麵包[-]和[FF0000]肉[-]。"
+
+msgid "GunPowder"
+msgstr "用來製作[FF0000]子彈[-]或[FF0000]TNT[-]的有用材料。"
+
+msgid "SheepSkin"
+msgstr ""
+"為了皮殺掉一隻動物不總是壞事。\n"
+"\n"
+"能做舒服的[FF0000]床[-]。"
+
+msgid "Dragon Ring"
+msgstr "我曾認為它在龍身上看起來蠻時髦的..."
+
+msgid "Collect_Failed"
+msgstr "[FF0000]無法收集 {0}x {1}[-]"
+
+msgid "Clear Stone"
+msgstr ""
+"製作材料。\n"
+"\n"
+"加熱[FF0000]石頭[-]得到。"
+
+msgid "Furnace"
+msgstr ""
+"熔爐可以用來熔鍊金屬，將他們變成有用的材料。\n"
+"\n"
+"加入一些燃料，例如[FF0000]煤[-]、[FF0000]木頭[-]、[FF0000]木棒[-]、[FF0000]木板[-]，和一些可熔鍊的物品，然後等待一段時間。"
+
+msgid "Goblin PickAxe"
+msgstr ""
+"用於挖掘礦石。挖掘速度比用雙手和[FF0000]鐵鎬[-]都快得多。\n"
+"\n"
+"使用方法: 打開揹包，選擇[FF0000]哥布林地精鎬[-]，長按想要打破的方塊。"
+
+msgid "Lilia Flower"
+msgstr "美麗的百合花。"
+
+msgid "Clear Plank"
+msgstr "一塊橘色的木板，看起來像有人灑了染料。 無論如何，它都非常適合地板或牆壁。"
+
+msgid "Lava"
+msgstr "別靠近它，否則你會被燒傷，除非你有一艘船...天然的。"
+
+msgid "Forgotten Leaves"
+msgstr ""
+"[FF0000]被遺忘的天空[-]裡常見的樹葉。你不能錯過它。"
+
+msgid "HorseSkin"
+msgstr ""
+"死馬的皮。\n"
+"\n"
+"製作地精盔甲時有用。"
+
+msgid "Health Potion"
+msgstr ""
+"使用治療藥水以恢復生命值。\n"
+"\n"
+"需要[FF0000]大鍋[-]來製作。"
+
+msgid "Flippers"
+msgstr ""
+"由[FF0000]木材[-]和[FF0000]鐵[-]製成，這雙長得很有趣的鞋子能在水中高速推進穿戴者。"
+
+msgid "Warrior Pants"
+msgstr ""
+"戰士護腿，它不會讓你看起來更高，但會提升你的防禦力。"
+
+msgid "Long Sword"
+msgstr ""
+"長柄劍。與強大怪物戰鬥時會表現得很好。"
+
+msgid "Letter"
+msgstr ""
+"寫著重要訊息的用羊皮紙做的信。(和搞笑的生日卡。)"
+
+msgid "Engine"
+msgstr ""
+"沒有這項美好的發明，[FF0000]汽車[-]只能是一團廢鐵。"
+
+msgid "Shark Fin"
+msgstr "從鯊魚屍體上掉下來的鰭。煮魚翅湯會用到。"
+
+msgid "Yellow Flower"
+msgstr "你知道的，一朵黃色的花。"
+
+msgid "Mana Potion"
+msgstr ""
+"使用法力藥水恢復魔力值。\n"
+"\n"
+"需要[FF0000]大鍋[-]來製作。"
+
+msgid "Safebox"
+msgstr ""
+"一個因其儲存功能而珍貴的容器。含有多個格子，一種物品不管多少都可以塞進一個格子。"
+
+msgid "Goblin Helmet"
+msgstr ""
+"它不只能保護你，你還可以混入哥布林的宴會，和其它哥布林一樣。"
+
+msgid "Pine Leaves"
+msgstr ""
+"在雪原生物群系能找到的綠葉。如果我跟你說有雪積在葉子上你會驚訝嗎？"
+
+msgid "Fire Magic"
+msgstr ""
+"將敵人燒成灰燼的法杖。但別帶著它下海。"
+
+msgid "Rose Flower"
+msgstr "美麗的白玫瑰。小心它的刺。"
+
+msgid "Craft Table"
+msgstr ""
+"便利的工匠物品。少了它你就沒辦法制作任何物品。\n"
+"\n"
+"製作需要3x3格子的東西時使用。"
+
+msgid "Replicon"
+msgstr "改變一個生物的DNA。"
+
+msgid "Marble Block"
+msgstr ""
+"用方解石製成的變質岩。 通常在洞穴中出現。"
+
+msgid "Anvil"
+msgstr ""
+"堅固的方塊，你可以用它來維修你受損的工具和武器。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Pet"
+msgstr ""
+"能發射火箭的機器同伴。\n"
+"\n"
+"用[FF0000]燃料[-]、[FF0000]引力子[-]或[FF0000]火藥[-]為其提供動力。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Left"
+msgstr "機械寵物的一部分。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rocket Launcher"
+msgstr "機械寵物的一部分。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Cannon"
+msgstr "機械寵物的一部分。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Left"
+msgstr "機械寵物的一部分。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Right"
+msgstr "機械寵物的一部分。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Computer"
+msgstr "用於發出命令和處理信息的設備。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:34
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1244
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1250
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rockets"
+msgstr "把火箭放在機械寵物的揹包裡以充分利用它們。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mystical Block"
+msgstr "用於裝飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bush"
+msgstr "僅在[FF0000]地獄[-]中出現的灌木。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Desert Bush"
+msgstr "僅在[FF0000]沙漠[-]中出現的灌木。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Carpet"
+msgstr "用於裝飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Ice Bricks"
+msgstr "完全由冰製成的磚塊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Granite"
+msgstr "一種通常用於建築的火成岩。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Skulls Block"
+msgstr "用死人的骸骨製成的方塊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bricks"
+msgstr "[FF0000]地獄[-]中常見的方塊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dark Axe"
+msgstr ""
+"強化過的戰斧，能夠用黑暗魔力造成傷害。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Axe"
+msgstr "一把被火焰吞沒的神奇戰斧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Ice Axe"
+msgstr ""
+"神奇的戰斧可以凍結任何接觸到的東西。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Battle Axe"
+msgstr "能夠殺死巨型敵人的強大斧頭。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Snowman"
+msgstr ""
+"一個完全由[FF0000]雪[-]，[FF0000]木棍[-]和[FF0000]桶[-]組成的寵物。\n"
+"\n"
+"把[FF0000]雪[-]放在其物品欄中，讓它可以用雪球攻擊。\n"
+"\n"
+"用[FF0000]雪[-]來餵飽它。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Christmas Tree"
+msgstr "為慶祝聖誕節假日而裝飾的樹。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:61
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:636
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Teleporter"
+msgstr ""
+"未來世界的裝置，讓你瞬間移動到任何其它已放置的[FF0000]傳送器[-]處。\n"
+"\n"
+"別不帶上一個就出門，如果你迷路了也不要因為沒有帶而哭。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Rails"
+msgstr ""
+"軌道可用於為[FF0000]礦車[-]和[FF0000]機車[-]修建道路。將[FF0000]發電機[-]放在軌道附近以提高速度。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Minecart"
+msgstr ""
+"小型的礦車可以在鐵路上快速行駛。\n"
+"\n"
+"可在[FF0000]著色方塊[-]處上色。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Sign"
+msgstr ""
+"可以在上面輸入文字。\n"
+"\n"
+"文本可用顏料或刷子上色。\n"
+"\n"
+"最大字符數為30。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fireworks"
+msgstr ""
+"發射後會產生各種顏色和形狀的煙花。\n"
+"\n"
+"將煙花放在地面上，幾秒後它們會自動發射。\n"
+"\n"
+"[FF0000]警告！切勿在室內發射煙花！[-]"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Rainbow Basilisk Soul"
+msgstr ""
+"稀有的寵物，可以將自己的皮膚變為不同的顏色。擅長游泳。\n"
+"\n"
+"用[FF0000]熟魚[-]來補充飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Viking Boat"
+msgstr ""
+"泰德傳奇的船。\n"
+"\n"
+"可在[FF0000]著色方塊[-]處上色。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bait"
+msgstr "魚非常喜歡的食物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fish Rod"
+msgstr "用來釣魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Meat"
+msgstr "烹飪過的肉，能夠恢復更多的生命值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "ClownFish"
+msgstr "剛出水的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried ClownFish"
+msgstr "烹飪過的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "LionFish"
+msgstr "剛出水的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried LionFish"
+msgstr "烹飪過的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "GruntFish"
+msgstr "剛出水的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried GruntFish"
+msgstr "烹飪過的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "TriggerFish"
+msgstr "剛出水的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried TriggerFish"
+msgstr "烹飪過的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Squid"
+msgstr "剛出水的烏賊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried Squid"
+msgstr "烹飪過的烏賊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stingray"
+msgstr "剛出水的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried Stingray"
+msgstr "烹飪過的魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Urchin"
+msgstr "剛出水的海膽。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried Urchin"
+msgstr "烹飪過的海膽。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+msgid "StarFish"
+msgstr "剛出水的海星。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried StarFish"
+msgstr "烹飪過的海星。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Shark"
+msgstr "剛出水的鯊魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried Shark"
+msgstr "烹飪過的鯊魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati Soul"
+msgstr ""
+"一小片黑暗。為什麼它這麼可愛？\n"
+"\n"
+"食物是[FF0000]肉[-]和[FF0000]熟魚[-]。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wall Torch"
+msgstr "你可以將其放置在任何牆上。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Alien Fish Rod"
+msgstr "用於釣強大的外星魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sunshard"
+msgstr ""
+"可以將隕石帶給對手的法杖。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Suit"
+msgstr "允許你在[FF0000]太空[-]中呼吸。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Angel Wings"
+msgstr "允許你不消耗魔力值飛行。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Shield"
+msgstr "堅固的防火罩。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Alien Shield"
+msgstr "從[FF0000]鄧氏魚[-]的外殼上掉下的非常耐用的盾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber Boots"
+msgstr "強大的盔甲。 由[FF0000]琥珀[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber Pants"
+msgstr "強大的盔甲。 由[FF0000]琥珀[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber Armor"
+msgstr "強大的盔甲。 由[FF0000]琥珀[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber Helmet"
+msgstr "強大的盔甲。 由[FF0000]琥珀[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "World Breaker"
+msgstr ""
+"將[FF0000]天使雙劍[-]與[FF0000]菲尼克斯雙劍[-]結合而成的造物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Swords"
+msgstr "在不死鳥之火中鍛造了不可思議的雙劍。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Goblin Rocket Launcher"
+msgstr "能讓你發射[FF0000]火箭[-]。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mashine Gun"
+msgstr "射速極快的武器，但準度較差。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Chain"
+msgstr "常見的家居飾品。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Fence Gate"
+msgstr ""
+"柵欄門，讓你無需跳過柵欄就可以進出室內。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Palm Fence Gate"
+msgstr ""
+"柵欄門，讓你無需跳過柵欄就可以進出室內。"
+
+msgid "Birch Fence Gate"
+msgstr ""
+"柵欄門，讓你無需跳過柵欄就可以進出室內。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gold Fence"
+msgstr ""
+"華麗的金屬欄。 非常適合誘捕或飼養動物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Marble Fence"
+msgstr ""
+"華麗的石欄。 非常適合誘捕或飼養動物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Fence"
+msgstr ""
+"華麗的金屬欄。 非常適合誘捕或飼養動物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Fence"
+msgstr ""
+"華麗的木柵欄。 非常適合誘捕或飼養動物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Trap Door"
+msgstr ""
+"非常適合隱藏秘密房間或避開親戚。 由金屬製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Metal Door"
+msgstr "大型鐵門。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Metal Lattice Door"
+msgstr "用金屬錠製成的門。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Simple Wood Door"
+msgstr "一扇木門，相當於兩個木塊的長度。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Ladder"
+msgstr ""
+"把這些連在一起將你自己拉出最黑暗的洞穴。 由金屬製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Wood Half"
+msgstr ""
+"用[FF0000]木板[-]製成。\n"
+"\n"
+"可放置的建築材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Wood Vertical"
+msgstr ""
+"用[FF0000]木板[-]製成。\n"
+"\n"
+"可放置的建築材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Wood Triangle"
+msgstr ""
+"用[FF0000]木板[-]製成。\n"
+"\n"
+"可放置的建築材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Birch Half"
+msgstr "白色凌亂的木板，經常被忽略。也能被塗漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Birch Vertical"
+msgstr "白色凌亂的木板，經常被忽略。也能被塗漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Birch Triangle"
+msgstr "白色凌亂的木板，經常被忽略。也能被塗漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Palm Half"
+msgstr "深色凌亂的棕色木板與其他木板非常相似。可上漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Palm Vertical"
+msgstr "深色凌亂的棕色木板與其他木板非常相似。可上漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Palm Triangle"
+msgstr "深色凌亂的棕色木板與其他木板非常相似。可上漆。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Half"
+msgstr "一塊橘色的木板，看起來像有人灑了染料。 無論如何，它都非常適合地板或牆壁。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Vertical"
+msgstr "一塊橘色的木板，看起來像有人灑了染料。 無論如何，它都非常適合地板或牆壁。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Triangle"
+msgstr "一塊橘色的木板，看起來像有人灑了染料。 無論如何，它都非常適合地板或牆壁。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stone Half"
+msgstr "城堡的古老柱子和牆壁由這種堅固的材料組成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stone Vertical"
+msgstr "城堡的古老柱子和牆壁由這種堅固的材料組成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stone Triangle"
+msgstr "城堡的古老柱子和牆壁由這種堅固的材料組成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Stone Half"
+msgstr "被遺忘的石頭。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Stone Vertical"
+msgstr "被遺忘的石頭。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Stone Triangle"
+msgstr "被遺忘的石頭。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bricks Half"
+msgstr ""
+"存在於世中的最堅硬的方塊之一，為良好的防禦打下基礎。\n"
+"\n"
+"用[FF0000]純石[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bricks Vertical"
+msgstr ""
+"存在於世中的最堅硬的方塊之一，為良好的防禦打下基礎。\n"
+"\n"
+"用[FF0000]純石[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bricks Triangle"
+msgstr ""
+"存在於世中的最堅硬的方塊之一，為良好的防禦打下基礎。\n"
+"\n"
+"用[FF0000]純石[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Carpet Half"
+msgstr "用於裝飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Carpet Vertical"
+msgstr "用於裝飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Metal Tile"
+msgstr "在[FF0000]太空[-]中出現的金屬製成的瓷磚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Marble Half"
+msgstr ""
+"用方解石製成的變質岩。\n"
+"完美搭配任何內飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Marble Vertical"
+msgstr ""
+"用方解石製成的變質岩。\n"
+"完美搭配任何內飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Marble Triangle"
+msgstr ""
+"用方解石製成的變質岩。\n"
+"完美搭配任何內飾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Marble Stairs"
+msgstr ""
+"一個給你理由可以不用木板做天花板的方塊。也是很好的階梯替代品。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Pillar Bottom"
+msgstr "古代柱子的底部。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Pillar"
+msgstr "古代柱子。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Pillar Top"
+msgstr "古代柱子的頂部。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Miracle Stone"
+msgstr "製作材料。從[FF0000]太空[-]中找到。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Iron Half"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Iron Vertical"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Iron Triangle"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gold Half"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gold Vertical"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gold Triangle"
+msgstr "用[FF0000]熔爐[-]製成。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sponge"
+msgstr ""
+"很好的吸收[FF0000]水[-]的方塊。將其放置在靠近水的地方，它會迅速吸收一個較小的半徑內的所有液體。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Daithir Soul"
+msgstr ""
+"給予一隻冰龍生命。隨時準備在你身邊戰鬥，不會把你的頭咬下來。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Vairmut Soul"
+msgstr ""
+"給予一隻火龍生命。隨時準備在你身邊戰鬥，不會把你的頭咬下來。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Baby Ashkore Soul"
+msgstr ""
+"給予一隻雷龍生命。你可以隨時準備召喚它在你身邊戰鬥，不會把你的頭咬下來:)。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Xordaraxus Soul"
+msgstr ""
+"曾經是葆拉的龍。現在隨時準備在你身邊戰鬥，不會把你的頭咬下來。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Onyx Soul"
+msgstr ""
+"傳奇的不死鳥菲尼克斯會站在你這邊戰鬥。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sequoia Tree Plant"
+msgstr ""
+"非常巨大的樹。\n"
+"\n"
+"生長在[FF0000]雪[-]、[FF0000]地圖[-]或[FF0000]草[-]上。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Big Liana"
+msgstr "叢林藤蔓。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Liana"
+msgstr "叢林藤蔓。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Amber"
+msgstr "來自[FF0000]太空[-]的製作材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber Bricks"
+msgstr ""
+"用[FF0000]琥珀[-]打造而成的磚塊。來自[FF0000]太空[-]的極其稀有的材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Paving Stone"
+msgstr "用於道路建設和城市佈局的好方塊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Purplefish"
+msgstr "來自太空的小魚，但別被它可愛的外表給欺騙了。。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Purplefish"
+msgstr "烹飪過的紫雷達魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "DumboOctopus"
+msgstr "來自太空的怪異水生生物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried DumboOctopus"
+msgstr "烹飪過的飛象章魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Dunkleosteus"
+msgstr ""
+"來自太空的怪魚。它們生活在沼澤中，外殼堅硬無比。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fried Dunkleosteus"
+msgstr "烹飪過的鄧氏魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fangtooth"
+msgstr "來自太空的一種奇怪的水生生物，有著巨大的毒牙，彷彿一口就能把人咬碎。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Fangtooth"
+msgstr "烹飪過的尖牙魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gulper"
+msgstr ""
+"一種來自[FF0000]太空[-]的奇怪水生生物，具有蛇的身體和一張大嘴，看著很詭異。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Gulper"
+msgstr "烹飪過的寬咽魚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Concrete"
+msgstr "非常不錯的建築材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Mashine Gun Bullet"
+msgstr "[FF0000]機槍[-]子彈。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Space Leafs"
+msgstr "來自太空的樹葉。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Flower"
+msgstr "來自太空花朵。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Acid Grass"
+msgstr "可以在太空找到的綠色發光草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Glowing Grass"
+msgstr "可以在太空找到的藍色發光草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Mushroom"
+msgstr "有劇毒的蘑菇，不要輕易去觸碰。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Moss"
+msgstr "可以在太空找到的苔蘚。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Straight Grass"
+msgstr "表面都是小簇的非立方草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blooming Grass"
+msgstr "表面都是小簇的非立方草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moon Sand"
+msgstr "可以在太空找到的沉積性物質。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Mushroom Trunk"
+msgstr "有劇毒的蘑菇。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Grass"
+msgstr "來自太空的草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Space Dirt"
+msgstr "來自太空的泥土。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Grace"
+msgstr "[FF0000]天使之翼[-]的材料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Wing"
+msgstr "不死鳥菲尼克斯的羽毛。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Essence"
+msgstr "不死鳥菲尼克斯掉落的難以置信的熾熱粒子。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Jungle Grass"
+msgstr "叢林中最常見的草。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:733
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Cheat Diamond"
+msgstr "當你嘗試作弊時，你會得到這些假鑽石。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Railway Dead End"
+msgstr ""
+"將其放在一段軌道的盡頭，[FF0000]礦車[-]或[FF0000]機車[-]會自動停下來。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Bottle Empty Note"
+msgstr "裝有紙條的奇怪瓶子。可在水中找到。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Bottle Poi Note"
+msgstr "裝有紙條的奇怪瓶子。可在水中找到。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Bottle son Note"
+msgstr "裝有紙條的奇怪瓶子。可在水中找到。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Note son"
+msgstr "*** --- -*"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:741
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Note Empty"
+msgstr " "
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:741
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Note Poi"
+msgstr "*--* --- **"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Magic Scroll"
+msgstr ""
+"獨特的魔力卷軸，包含古老工具的配方。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Note With Symbols"
+msgstr "52656369706520696e6772656469656e74732047726163652038204669726520457373656e63652032302050686f656e69782057696e6720313030"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Wrench"
+msgstr ""
+"有了扳手，你可以拆卸[FF0000]車輛[-]並將其放到揹包中。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Locomotive"
+msgstr ""
+"漂亮的老式機車，比普通的礦車快一點。\n"
+"可以塗色。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Multitool"
+msgstr ""
+"多功能工具，可以讓你進行快速的遠距離挖掘。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Meteorite Ore"
+msgstr ""
+"這東西是從哪兒來的？據說這種神秘的材料可用於製作一些古代物品。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Eldriar Soul"
+msgstr ""
+"傳說，這條龍極其強大，以至於[FF0000]龍主[-]也無法馴服它。它極其強悍，只需一聲怒吼便可召喚流星雨。\n"
+"\n"
+"用[FF0000]魚翅湯[-]、[FF0000]麵包[-]、[FF0000]肉[-]、[FF0000]蘋果[-]、[FF0000]熟魚[-]和[FF0000]椰子[-]來補充它的飢餓值。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dragon Egg"
+msgstr ""
+"這顆難以置信的稀有的龍蛋被用來召喚[FF0000]艾德里亞[-]。 傳說這顆蛋被藏在一個沒有任何人去過的地方的箱子裡。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blue Dragon Armor"
+msgstr ""
+"專為戰鬥的龍打造的藍寶石盔甲。但也能增加其它寵物的存活率。要使用它，請將其安置在寵物上，只需放在寵物揹包中的對應位置即可。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Red Dragon Armor"
+msgstr ""
+"專為戰鬥的龍打造的紅寶石盔甲。但也能增加其它寵物的存活率。要使用它，請將其安置在寵物上，只需放在寵物揹包中的對應位置即可。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Emerald Dragon Armor"
+msgstr ""
+"專為戰鬥的龍打造的翡翠盔甲。能增加其它寵物的存活率。要使用它，請將其安置在寵物上，只需放在寵物揹包中的對應位置即可。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Dragon Armor"
+msgstr ""
+"專為戰鬥的龍打造的盔甲。雖然有點老舊，但也能增加其它寵物的存活率。要使用它，請將其安置在寵物上，只需放在寵物揹包中的對應位置即可。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Flame of the Cosmic Forge"
+msgstr ""
+"來自遠古宇宙文明熔爐的火焰，以字母 S 的形狀燃燒，被用來製造一種非常強大的武器，旨在擊敗不死鳥菲尼克斯。太空中的五個秘密房間儲存著它其餘成分的秘密。\n"
+"2 1 2\n"
+"2 1 2\n"
+"4 3 4"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Airplane"
+msgstr ""
+"一種不尋常的機械裝置，有著鳥一樣的翅膀。它是由這個世界的國王領導下的哥布林創造的。絕密!!!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Remote Sensor"
+msgstr ""
+"電力的無線發射器。用於穿透牆壁傳輸電力或激活某些車輛。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Relay Sensor"
+msgstr ""
+"繼電器能夠改變電流信號為正或負。讓你可以更好地控制其他東西。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Electric Torch"
+msgstr ""
+"通過連接電線從而由電控制的燈籠。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Relay Controller"
+msgstr ""
+"位於附近的控制器使電荷通過。可以切換定時器、繼電器、二極管或電阻器等。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Piston"
+msgstr ""
+"一個活塞，最多可以推拉10個方塊。電力驅動。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wood Piston"
+msgstr ""
+"一個活塞，可以推拉1個方塊。電力驅動。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Light Sensor"
+msgstr ""
+"該傳感器根據光照通過電線發送電荷。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gramophone"
+msgstr "用來聽唱片的老古董。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Wires"
+msgstr ""
+"另一瘋狂的哥布林發明。\n"
+"電線連接到發電機或傳感器上以產生電荷，可以由多個模塊控制以創造複雜的機制。\n"
+"既可以安裝在地板上，也可以安裝在牆壁和天花板上。要放置按鈕，必須在發動機的側面安裝電線，而要放置壓力板，必須將電線安裝在頂部。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Motion Sensor"
+msgstr ""
+"當移動物體進入其視野時發送電荷的傳感器。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Timer Sensor"
+msgstr ""
+"該裝置根據開關的位置以5、10、20、30或60秒的間隔發送電荷。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Variable Resistor"
+msgstr "電流控制裝置。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Heavy Metal Swords"
+msgstr ""
+"用外星頂級工匠秘方打造出的刀劍。你可以稱自己為大師！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Clock"
+msgstr "能夠顯示當前時間的掛鐘。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drum Music Box"
+msgstr ""
+"帶有打擊樂器聲音的音樂塊，可以用電激活。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Accordion Music Box"
+msgstr ""
+"帶有風琴聲的音樂塊，可以用電激活。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Guitar Music Box"
+msgstr ""
+"帶有吉他聲音的音樂塊，可以用電激活。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Piano Music Box"
+msgstr ""
+"帶有琴聲的音樂塊，可以用電激活。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Diode"
+msgstr ""
+"允許你控制電流的方向。箭頭可用於設置電流的流動方向。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Siren"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Haven"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Abyss"
+msgstr "唱片，能讓你感受到來自太空深邃的氛圍。可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Arpeggio"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Atmosphere"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Atmosphere Piano"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Boss Fight"
+msgstr "唱片，一股氣場強大的音樂，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Desrtino"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Epic"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Guitar Accords"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Menu Theme"
+msgstr "唱片，一首傳唱千年的歌頌樂，在塵封大陸上流傳著。可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Miracles"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Mistery"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record New Forest"
+msgstr "唱片，可以讓你感受到森林一片生機盎然的感覺。可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Pip Orquesta"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Solar"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Vanity"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Wonderland"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - 8bit"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Indie"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Ragga"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Ray of sunset"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Serenity"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Space 80s"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Thoughts"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Tradiore - Walpurgis Night"
+msgstr "唱片，可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Pirates - Silent Sea"
+msgstr "唱片，給你一種來自深海中孤獨又神秘的感覺。可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Pirates - Ending"
+msgstr "唱片，一切的結束，又是一切的起點。(可在留聲機處使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gold Coin"
+msgstr "由最純淨的黃金鑄成的硬幣，深受商人青睞。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Space Bark"
+msgstr "來自太空樹的木材，可作為合成材料使用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:92 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217 
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+#, fuzzy
+msgid "Sentinel's Branch"
+msgstr ""
+"一根能夠阻止 64 格範圍內生物生成的樹枝。\n"
+"有些人說它還擁有將生物傳送到安全地點的能力。"
+"\n"
+"不會阻止 [FF0000]刷怪籠[-] 的重新整理"
+
+#, fuzzy
+msgid "Sakura Leaves"
+msgstr "粉色的樹葉，給人一種少女的感覺。"
+
+#, fuzzy
+msgid "Lost Bark"
+msgstr "脫落的樹皮,薄的可以一下掰斷。"
+
+#, fuzzy
+msgid "Dead Bark"
+msgstr "枯死的老樹的殘幹"
+
+#, fuzzy
+msgid "Lost Leaves"
+msgstr "皺巴巴的落葉，"
+
+#, fuzzy
+msgid "Autumn Leaves"
+msgstr "秋天金黃色的樹葉，給人一種浪漫的感覺。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Aragog"
+msgstr "阿拉戈克唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ashkore"
+msgstr "阿什科爾唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Dragon Lord"
+msgstr "龍主唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Mati"
+msgstr "馬蒂唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Phoenix"
+msgstr "菲尼克斯唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Swamp Golem"
+msgstr "沼澤傀儡唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Space Mushrooms"
+msgstr "太空蘑菇唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:94 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:222 
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:50 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Liquid Fog"
+msgstr "猶如捕夢網之於法師，凝霧液是行雲布雨之靈的凝結。"
+"相傳，烈陽之光的力量即是諸靈所敵對惡靈的剋星，惡靈進入到其中便會煙消雲散。。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ocean Ripples"
+msgstr "海洋漣漪唱片，可在留聲機中播放。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Begin"
+msgstr "序曲唱片，可在留聲機中播放。"
+
+#, fuzzy
+msgid "Skill Reset Scroll"
+msgstr "挑戰[FF0000]鍊金術士[-]，獲得這張能返還所有已使用技能點的魔力卷軸。對於想改寫過去決定的人來說，它絕對是件實用的寶貝。現實裡要是也有就好了？"
+
+#, fuzzy
+msgid "Swamp Grass"
+msgstr "黏糊糊的沼澤草，小心腳下！"
+
+#, fuzzy
+msgid "Peony Flower"
+msgstr "一種粉色花朵，只生長在稀有的浮空島上，這些島嶼據說是從通往過去的裂隙中浮現出來的。"
+
+#, fuzzy
+msgid "Swamp Plank"
+msgstr "帶有陰森氣息的灰白色腐朽木板。"
+
+msgid "Elf Column"
+msgstr "古代先驅種族留下的立柱，如今被重新利用的遺蹟。"
+
+msgid "Elf Bricks"
+msgstr "古代先驅種族留下的裝飾性磚塊，是被重新利用的遺蹟。"
+
+msgid "Elf Brick Fence"
+msgstr "古代先驅種族留下的精美柵欄，是被重新利用的遺蹟。"
+
+msgid "Kelp"
+msgstr "一種生長在海床的海藻，為海洋內外的生命提供多種益處。在水下的沙地上生長，最高可達16格。"
+
+msgid "Enhalus"
+msgstr "用於水下種植的植物，最高可生長4格。\n"
+"深受[FF0000]鍊金術士[-]青睞，因其稀有特性。\n"
+"僅能生長在水下沙地上。"
+
+msgid "Kombu"
+msgstr "一種特殊的[FF0000]海帶[-]品種，因其豐富風味與礦物質含量，以及在無數料理中的應用而備受珍視。在水下沙地上生長，最高可達16格。"
+
+msgid "Anemone"
+msgstr "一種水下掠食性無脊椎生物，用帶毒觸手捕食獵物。雖然對多數生物具有攻擊性，但與[FF0000]小丑魚[-]存在互利共生關係：後者幫助清理並驅趕捕食者，而海葵則用刺狀觸手為其提供庇護。"
+
+msgid "Creative Anemone"
+msgstr "海葵的創造模式版本。可任意放置，但不具備生長能力。"
+
+msgid "Creative Enhalus"
+msgstr "海草的創造模式版本。可任意放置，但不具備生長能力。"
+
+msgid "Creative Kombu"
+msgstr "昆布的創造模式版本。可任意放置，但不具備生長能力。"
+
+msgid "Creative Kelp"
+msgstr "海帶的創造模式版本。可任意放置，但不具備生長能力。"
+
+msgid "Klorium Block"
+msgstr "在[FF0000]被遺忘的天空[-]中發現的淺綠色礦石方塊。\n"
+"被採掘時會掉落[FF0000]輝石[-]。\n"
+"也可將9個輝石在[FF0000]熔爐[-]中合成為此方塊。"
+
+msgid "Cryptonite Block"
+msgstr "在[FF0000]被遺忘的天空[-]中發現的翡翠綠色礦石方塊。\n"
+"被採掘時會掉落[FF0000]氪石[-]。\n"
+"也可將9個氪石在[FF0000]熔爐[-]中合成為此方塊。"
+
+msgid "Forgotten Light"
+msgstr "世界上最奇異的存在之一，由凝結成晶體的光子構成的異常方塊。\n"
+"或許能在你從[FF0000]被遺忘的天空[-]邊緣墜落時救你一命。"
+
+msgid "Meteorite Block"
+msgstr "一種極其堅硬的材料……真的不是正朝我們世界飛來吧？"
+
+msgid "Devil Coal Ore"
+msgstr "僅存在於[FF0000]地獄[-]最深處的惡魔巖礦塊。\n"
+"被採掘時會像洞穴煤礦一樣掉落[FF0000]煤炭[-]。"
+
+msgid "Devil Ruby Ore"
+msgstr "僅存在於[FF0000]地獄[-]最深處的惡魔巖礦塊。\n"
+"被採掘時會像洞穴中的紅寶石礦一樣掉落[FF0000]紅寶石[-]。"
+
+msgid "Sulphure Block"
+msgstr "這是什麼味道？把這堆[FF0000]硫磺[-]拿遠點！"
+
+msgid "Unobtainium Block"
+msgstr "由[FF0000]炎魔[-]的憎恨形成的方塊。"
+
+msgid "Slime"
+msgstr "一種存在於[FF0000]地獄[-]土壤中的黏液狀方塊；雖然是固體，卻可以像液體一樣穿過。\n"
+"不建議掉進去，否則會被困住（真的不是什麼好主意）。"
+
+msgid "Radar Recipe"
+msgstr "製作[FF0000]雷達[-]的配方。"
+
+msgid "Melon Slice"
+msgstr "就是一片……西瓜。吃掉就行。"
+
+msgid "Pal"
+msgstr "某人的好夥伴……可惜，你只有殘忍殺害它的主人後才能得到它。"
+
+msgid "Pet Space Suit"
+msgstr "感到煩躁？孤獨？在黑暗宇宙中漂浮卻沒有同伴？那麼試試這個：給你心愛的寵物準備的太空衣！"
+
+msgid "Forgotten Grass 3D"
+msgstr "分佈在[FF0000]被遺忘的天空[-]各處的小型非立方植被簇。"
+
+msgid "Yellow Crystals"
+msgstr "黃色水晶"
+
+msgid "Klorium Ore"
+msgstr "從天空中開採出的獨特綠色礦石。除了令人費解的魔力特性外，它本身依舊充滿謎團。"
+
+msgid "Cryptonite Ore"
+msgstr "可在[FF0000]被遺忘的天空[-]中發現的綠色晶體。其治療與防禦特性使其在多種用途上極具價值。"
+
+msgid "Crystal Block Yellow"
+msgstr "黃色水晶塊"
+
+msgid "Unobtainium From Bar"
+msgstr "難得素錠"
+
+msgid "Klorium From Ore"
+msgstr "輝石錠"
+
+msgid "Cryptonite From Ore"
+msgstr "氪石錠"
+
+msgid "Poison Potion"
+msgstr "想結束這一切，卻又不敢挑戰Boss或跳下懸崖？那就喝上一口你最愛的“融胃魔藥”來借酒消愁吧；據說產自世上最可怕生物的血盆大口。"
+
+msgid "Nebula Rock"
+msgstr "當引力將[FF0000]星雲[-]聚合在一起時，高密度岩石便形成了。\n"
+"或許我們正在見證一顆新星的誕生？"
+
+msgid "Nebula Cloud"
+msgstr "這些彩色塵埃乍看無害，但終將形成一顆恆星，請保持警惕。"
+
+msgid "Asteroid Stone"
+msgstr "由小行星攜帶、來自高空宇宙的岩石。\n"
+"一旦瞭解其堅固程度，就會明白其撞擊為何如此毀滅性。"
+
+msgid "Star Core"
+msgstr "每顆恆星的核心都是緻密的熱質團，釋放耀眼光芒與灼熱能量。\n"
+"這類方塊用途尚未完全被發現，但據稱可用於戒指、工具與以太護甲的製作。"
+
+msgid "Dark Matter"
+msgstr "維繫恆星與星系之間紐帶的黏合物，使其不至於飄散至虛空。\n"
+"凝視其漆黑時，你會發現它遠沒有[FF0000]泰德[-]的靈魂那麼黑。"
+
+msgid "Obsidian"
+msgstr "已知最緻密的建築材料之一，可抵禦任何爆炸，徒手開採需要很長時間。\n"
+"存在於[FF0000]地獄[-]的柱狀結構中。"
+
+msgid "Obsidian Shard"
+msgstr "等等！如果黑曜石是火山玻璃做的，為什麼這麼硬……"
+
+msgid "Obsidian Block"
+msgstr "已知最緻密的建築材料之一，可抵禦任何爆炸，徒手開採需要很長時間。\n"
+"存在於[FF0000]地獄[-]的柱狀結構中。"
+
+msgid "Cosmic Helmet"
+msgstr "輕盈易碎的頭盔。其神秘組件可提升穿戴者的法術能力。"
+
+msgid "Cosmic Armor"
+msgstr "太空機車風格夾克，大幅提升法術傷害與魔力，但會以護甲值為代價。"
+
+msgid "Cosmic Boots"
+msgstr "雖看似沉重，但其獨特組件能讓穿戴者跳得更高、更迅捷。"
+
+msgid "Cosmic Pants"
+msgstr "輕便利落的長褲，可顯著提升法術能力與移動速度。"

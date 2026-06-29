@@ -1,0 +1,484 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/shadow-hunter/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml/quest@title
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:1
+msgid "Hunter in the Shadows~"
+msgstr "暗影中的獵手~"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:6
+#, no-wrap
+msgid "People of this world fear me for good reason.  I like to hide in the shadows to kill my prey so they never see what is coming.  My method is a secret I am willing to share with you."
+msgstr "這世上有人害怕我不是沒有原因的。我喜歡潛伏在陰影之中獵殺獵物，讓它們直到最後一刻都不知道危險正在逼近。我可以和你分享這些秘密。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:23
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:24
+#, no-wrap
+msgid "I like to use something called a bow.  It fires arrows from the webs I used to create it.  Craft a bow and some arrows and return to me for some training."
+msgstr "我喜歡用一種叫弓的武器。它依靠製作時使用的蛛網作為弓弦來發射箭矢。製作一把弓和一些箭，然後回來找我進行訓練吧。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:29
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:44
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:55
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:67
+#, no-wrap
+msgid "Tell the Alchemist that you have crafted the bow and arrows."
+msgstr "告訴鍊金術士你已經製作好了弓和箭。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:25
+#, no-wrap
+msgid "You sure took a long time to create something so simple."
+msgstr "做這麼簡單的東西，你居然花了這麼久。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:41
+#, no-wrap
+msgid "Are you sure you are ready to learn how to use the bow and arrows properly?"
+msgstr "你確定已經準備好學習如何正確使用弓箭了嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:52
+#, no-wrap
+msgid "I'm not surprised with how long it took for you to actually craft the bow and arrows.  Come back when you want to learn how to become a worthy hunter."
+msgstr "你花了這麼久才把弓箭做出來，我一點也不意外。等你想學著成為一名真正的獵人時再來找我。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:64
+#, no-wrap
+msgid "Very well.  We will start with some easy targets.  You know.  Helpless animals and such."
+msgstr "不錯。先拿簡單的目標練練手吧，就從那些毫無反抗之力的小動物開始。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:74
+#, no-wrap
+msgid "Hunt down a few deer for their skins using your new trustworthy bow.  I mean, you can get them any way you want, but you should really try using the bow.  It might make hunting them a bit easier."
+msgstr "使用你值得信賴的新弓獵殺幾隻鹿以獲取它們的皮。我的意思是，你可以用任何方式獵殺它們，但你真的應該試試弓。這會讓狩獵變得更容易些。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:82
+#, no-wrap
+msgid "Tell the Alchemist that you have hunted enough deer."
+msgstr "告訴鍊金術士你已經獵到了足夠的鹿。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:78
+#, no-wrap
+msgid "Did you end up using the bow?  Nevermind.  Don't answer that.  You wouldn't want to embarass yourself in front of me."
+msgstr "你最後有沒有用弓？算了。不必回答。你不會想在我面前讓自己難堪。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Hunter%20in%20the%20Shadows.xml:97
+#, no-wrap
+msgid "Now that you have a few skins to work with, you should talk to one of the adult goblins.  I've seen them crafting all sorts of armor made of skins and wood and such.  Perhaps they will help you out."
+msgstr "既然你已經取得一些獸皮，就去找一位成年哥布林吧。我曾看過他們用獸皮與木材等材料打造各式盔甲，也許他們能幫助你。"
+
+#. (itstool) path: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml/quest@title
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:1
+msgid "Potion Apprentice"
+msgstr "藥劑學徒"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:6
+#, no-wrap
+msgid "Leave me alone!  What?  An ailing firebreather?  You need certain potions to make an antivenom?  I see.  Well, that changes everything."
+msgstr "別打擾我！什麼？一隻生病的火龍？你需要特定的藥水來配製解毒劑？我明白了。嗯，這下情況可就不同了。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:9
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:19
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:32
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:44
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:89
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:134
+#, no-wrap
+msgid "Speak to the Alchemist to learn about alchemy."
+msgstr "和鍊金術士交談以學習煉藥。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:16
+#, no-wrap
+msgid "The secret to alchemy is that potions are tied to those who make them.  If you care for this dragon, then you must be the one who crafts the potions.  I cannot do it for you.  But I can teach you.  Will you become this alchemist's apprentice?"
+msgstr "煉藥的秘訣在於，藥水與煉製它的人息息相關。如果你關心這條龍，那麼必須由你親手煉製藥水。我不能替你做到，但我可以教你。你願意成為這位鍊金術士的學徒嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:29
+#, no-wrap
+msgid "I see.  Then there is nothing I can do for you.  May fortune pity your dragon friend."
+msgstr "我明白了。我沒什麼可以為你做的了。願幸運眷顧你的龍朋友。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:41
+#, no-wrap
+msgid "Very well.  We will start with the basics."
+msgstr "非常好。我們就從這些基礎的開始吧。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:57
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:62
+#, no-wrap
+msgid ""
+"Chemicals are like people.  When two are combined, a reaction occurs.  Maybe it will be benign, but sometimes, the results are explosive!  Chemistry is love, my friend.\n"
+"\n"
+"But you are going to need to craft a Cauldron to make those kinds of discoveries."
+msgstr ""
+"化學物質就像人一樣。當兩種化學物質混合在一起時，就會產生反應。也許反應平淡無奇，但有時結果會十分驚人！化學就像愛情一樣，我的朋友。\n"
+"\n"
+"不過，要進行這些發現，你得先製作一個煉藥鍋。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:71
+#, no-wrap
+msgid "Tell the Alchemist that you have the cauldron."
+msgstr "告訴鍊金術士你已經製作好了大鍋。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:67
+#, no-wrap
+msgid "Do you expect me to be impressed?  You crafted a cauldron.  Have a trophy.  Let's get ready to create your first potion."
+msgstr "你該不會以為我會因此大吃一驚吧？你只是做了個大鍋而已。喏，獎盃給你。現在準備製作你的第一瓶藥水吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:86
+#, no-wrap
+msgid "The recipe to brew a Healing Potion is simple.  Crafting one is how all apprentice alchemists begin their training.  So that's where you will start as well."
+msgstr "治療藥水的配方很簡單。所有學徒都是從煉製它開始訓練的，你也一樣。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:102
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:107
+#, no-wrap
+msgid ""
+"You should always carry some Healing Potions with you.  Safety first!\n"
+"\n"
+"You can find the recipe for the Healing Potion in the Recipe Book while the Cauldron is open."
+msgstr ""
+"你應該隨身攜帶一些治療藥水，安全第一！\n"
+"打開大鍋時，你可以在配方書裡找到治療藥水的配方。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:116
+#, no-wrap
+msgid "Tell the Alchemist that you have the healing potion."
+msgstr "告訴鍊金術士你已經煉製好了治療藥水。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:112
+#, no-wrap
+msgid "Hm . . . I didn't expect you to craft that potion so quickly.  Still, even a buffoon could get it right.  Are you ready for a real challenge?"
+msgstr "哼…沒想到你這麼快就煉好了藥水。不過，即便是傻瓜也能做對。你準備好接受真正的挑戰了嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:131
+#, no-wrap
+msgid "Alchemists have the ability to create all sorts of useful liquids.  A true master alchemist knows the art of combining certain rare ingredients to create a potion that restores mana."
+msgstr "鍊金術士能煉製各種有用的液體。真正的高手會將稀有材料巧妙結合，煉出能恢復法力的藥水。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:147
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:148
+#, no-wrap
+msgid "You must gather the necessary ingredients before you can craft the Mana Potion, so go get them!  Don't dawdle around here."
+msgstr "在煉製法力藥水前，你必須先收集所需材料。快去吧，別在這磨蹭。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:153
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:171
+#, no-wrap
+msgid "Tell the Alchemist that you have the mana potion."
+msgstr "告訴鍊金術士你已經煉製好了法力藥水。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:149
+#, no-wrap
+msgid "I must admit, I have never seen someone take to alchemy so skillfully.  Are you sure you have never done this before?  I suppose you do have an excellent teacher."
+msgstr "我得承認，我從未見過有人在鍊金術上如此有天賦。你確定以前從沒有練習過嗎？看來你確實有位好老師。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/ShadowHunter/Potion%20Apprentice.xml:168
+#, no-wrap
+msgid "Now that you have the two potions your dragon requires, be careful with them.  Check back in from time to time, I may be able to further your alchemy training.  And I may have other tasks for you as well."
+msgstr "現在你已經有了龍需要的兩種藥水，好好保管它們。時不時回來看看，我可能能進一步提升你的煉藥技能，也可能有其他任務交給你。"
+
+#. (itstool) path: UnityGame/Assets/Quests/ShadowHunter/Store.xml/quest@title
+#: UnityGame/Assets/Quests/ShadowHunter/Store.xml:1
+msgid "Store"
+msgstr "商店"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+#, fuzzy
+msgid "Fuza"
+msgstr "富扎"
+
+#, fuzzy
+msgid ""
+"I see that you love to travel very much, which means you will not refuse to "
+"fulfill the request of my friends Fuza from the Ice Cities. Go back to the "
+"distant Outside World and bring the amber brick block from there. Perhaps I "
+"can even learn how to create such a block here in our world, and then I will "
+"share this secret with you. But I don’t know how many blocks will be needed "
+"for this experiment, so hurry up."
+msgstr ""
+"我知道你非常喜歡旅行，所以你不會拒絕來自冰城的朋友富扎的請求。回到遙遠的外"
+"界，帶回那裡的琥珀磚。也許我還能學會如何在我們的世界裡製造這種方塊，然後把這"
+"個秘密分享給你。不過，我不確定實驗需要多少塊，所以快點行動吧。"
+
+#, fuzzy
+msgid ""
+"I see you are not in a hurry to comply with my request. Fuza have been "
+"waiting for me in their Ice Cities. And I can’t wait to uncover the secret "
+"of these amber blocks."
+msgstr ""
+"看來你並不急於完成我的請求。富扎一直在冰城等我，而我迫不及待地想揭開這些琥珀"
+"方塊的秘密。"
+
+#, fuzzy
+msgid "Tell the Alchemist you have the Amber Bricks."
+msgstr "告訴鍊金術士，你已經拿到琥珀磚。"
+
+#, fuzzy
+msgid ""
+"You are so dusty and dirty, Dragon Raider, probably it was not easy for you "
+"to wander in these terrible ancient pyramids! It's amazing that you returned "
+"from there and brought this block. Fuza will be very grateful to you."
+msgstr ""
+"你滿身塵土，龍騎士，在這些可怕的古老金字塔中游蕩肯定不容易！你居然還能帶著這方"
+"塊安全歸來，真是令人驚歎。富扎一定會非常感激你的。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trial of Oblivion"
+msgstr "遺忘試煉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"You're back. I knew curiosity would triumph over caution. But alchemy isn't "
+"just potions and bubbling brews. It's the art of destruction and rebirth. "
+"Today, you'll learn if you're ready to forget everything I've taught you… "
+"and defeat me."
+msgstr ""
+"你回來了。我早就知道，好奇心會戰勝謹慎。但鍊金術不僅僅是藥水和沸騰的試劑，它"
+"更是毀滅與重生的藝術。今天，你將知道自己是否已經準備好忘掉我教過你的一切，並……"
+"擊敗我。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"The Scroll of Oblivion is a rare artifact. It erases knowledge, freeing the "
+"mind for new paths. Only by defeating me will you prove you're worthy of it. "
+"Or are you afraid to let go of what you already know?"
+msgstr ""
+"遺忘卷軸是一件稀有的古代遺物，它能抹去知識，為心智開闢新道路。唯有擊敗我，你才能證明"
+"自己配得上它。還是說，你害怕放下已有的認知？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"A scholar who fears forgetting will never become a master. Return when "
+"you're ready to release the past."
+msgstr "害怕遺忘的學者永遠無法成就大師。等你準備好放下過去，再回來吧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42 
+msgid ""
+"Very well. I won't hold back. Face me like an alchemist, with wit, not rage. "
+"Defeat me, and the scroll is yours."
+msgstr ""
+"很好。我不會手下留情。像真正的鍊金術士一樣，用智慧而非憤怒面對我。擊敗我，卷"
+"軸便歸你所有。"
+
+#, fuzzy
+msgid "Duel the Alchemist for the Scroll of Oblivion."
+msgstr "為獲得遺忘卷軸，與鍊金術士決鬥。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:84 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:321 
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1075 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:701 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:565 
+msgid "Find Alchemist to claim your reward."
+msgstr "找到鍊金術士領取獎勵。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"You won. I didn’t expect you to dare, let alone succeed. Take the scroll. "
+"But remember: Oblivion doesn’t mean freedom."
+msgstr ""
+"你贏了。我沒想到你敢來，更沒想到你能成功。拿走卷軸吧。但記住：遺忘不意味著自"
+"由。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"You’ve proven yourself ready for the next chapter. Return when you're ready "
+"to discover what lies beyond memory."
+msgstr "你已證明自己準備好迎接下一章。等你準備好探索記憶之外的世界，再回來吧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/QuestOptionAuto.cs:77 
+msgid ""
+"Still standing? Hmph. I suppose even a broken wand can spark twice. If you "
+"think that victory wasn't a fluke, come prove it. I'm ready for a rematch, "
+"are you?"
+msgstr ""
+"還站得住嗎？哼，我想即便破損的魔杖也能再迸發一次。如果你認為勝利不是僥倖，那"
+"就來證明吧。我已經準備好再戰——你呢？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"Run along then. But know this. True mastery is forged in repetition. I'll be "
+"here."
+msgstr "那就走吧。但請記住——真正的精通源自反覆錘鍊。我會一直在這裡。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42 
+msgid ""
+"Very well. I won't hold back. Face me like an alchemist, with wit, not rage."
+msgstr "很好。我不會手下留情。像鍊金術士一樣，用智慧而非憤怒面對我。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trial of Oblivion Rematch"
+msgstr "遺忘試煉·重賽"

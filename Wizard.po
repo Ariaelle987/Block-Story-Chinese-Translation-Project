@@ -1,0 +1,1854 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/wizard/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:1
+msgid "Baby Dragon"
+msgstr "幼龍"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:6
+#, no-wrap
+msgid "I must confess, I have been testing you all this time.  I had to know if you were capable of helping me.  You see, dragons live in this mythical land.  Have you ever spotted one?  They are magnificent creatures."
+msgstr "我必須坦白，這段時間我一直在考驗你，看看你是否具備幫助我的能力。你知道，這片神秘之地棲息著龍族。你可曾見過它們？它們是無比壯麗的生物。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:9
+#, no-wrap
+msgid "Speak to the Wizard about his current dilemma."
+msgstr "與魔力師交談，瞭解他當前的困境。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:18
+#, no-wrap
+msgid "It appears your pet dragon was bitten by spiders, and I fear the worst.  Please!  Slay more of the eight-legged beasts, and bring back samples of their venom."
+msgstr "看來你的幼龍被蜘蛛咬傷了，我恐怕情況不妙。請你務必消滅更多八足的怪物，並帶回它們的毒液樣本。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:19
+#, no-wrap
+msgid "This land was once a land of dragons.  Now, few remain.  I can tell you more, but first, please, kill some spiders to retrieve samples of their venom."
+msgstr "這片土地曾是龍族棲息之地，如今已所剩無幾。我可以告訴你更多，但首先，請你消滅一些蜘蛛並取回它們的毒液樣本。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:24
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:42
+#, no-wrap
+msgid "Tell the Wizard you have collected the venom."
+msgstr "告訴魔力師，你已經收集到毒液。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:20
+#, no-wrap
+msgid "By the balrog's bones!  You did it!  I must consult my spellbooks to discern the extent of the damage, and it will take time to fabricate an antidote."
+msgstr "以炎魔之骨起誓！你成功了！我必須查閱魔力書評估傷勢，並需要時間來煉製解藥。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:39
+#, no-wrap
+msgid "While I'm occupied with brewing up the antidote, I have another errand for you.  I received a request from Ted, a viking who lives near here.  Please mine some iron and take it to him."
+msgstr "在我忙於調製解毒劑期間，還有另一項任務交給你。我收到附近維京人泰德的請求，請採集一些鐵礦帶給他。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:49
+#, no-wrap
+msgid "Don't worry.  I will find a cure for the sick dragon.  Poor thing.  You go.  Help Ted."
+msgstr "別擔心，我會找到治癒幼龍的辦法。可憐的小傢伙。你先去幫助泰德吧。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:53
+#, no-wrap
+msgid "Gather some iron and take it to Ted."
+msgstr "收集一些鐵礦並帶給特德。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:70
+#, no-wrap
+msgid "I need more time to find the cure.  I will send word to Ted when I need you again."
+msgstr "我需要更多時間來找到解藥，需要你時，我會通知泰德的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:73
+#, no-wrap
+msgid "Help Ted while you wait for the Wizard to discover the antidote for the Baby Dragon."
+msgstr "在等待魔力師為龍寶寶製作解藥時，幫幫泰德吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:89
+#, no-wrap
+msgid "Welcome back.  I have news of our firebreathing friend.  I have devised an antivenom, but I am missing some key ingredients.  You must find them for me, or this dragon will surely perish."
+msgstr "歡迎回來。我有關於我們那位噴火朋友的消息。我設計了抗毒劑，但缺少一些關鍵材料。你必須找到它們，否則這隻龍會死掉的。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:92
+#, no-wrap
+msgid "Talk to the Wizard about his progress on finding a cure for the Baby Dragon."
+msgstr "與魔力師談談治癒龍寶寶的進展。"
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:99
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:100
+#, no-wrap
+msgid "Sulfur is the first ingredient and has many uses.  You can use it to craft gun powder and other useful items.  Its odor is pungent and recognizable.  Many think it smells like rotten eggs.  Bring me some sulfur and then speak to me about the next ingredient we will need."
+msgstr "硫磺是第一種材料，用途廣泛，可用於製作火藥及其他重要物品。其氣味刺鼻，容易辨認，許多人認為它像腐爛的雞蛋。帶來一些硫磺，然後再來找我獲取下一種材料。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:105
+#, no-wrap
+msgid "Bring the Wizard the sulfur you collected."
+msgstr "把你收集的硫磺帶給魔力師。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:101
+#, no-wrap
+msgid "Good work.  That takes care of the first ingredient.  But there is still more work to do."
+msgstr "幹得不錯，第一種材料收集完成，但還有更多工作要做。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:120
+#, no-wrap
+msgid "The potions we need for the antivenom can be found by talking to the Alchemist.  But be careful.  Some say he is a thief in disguise."
+msgstr "製作解毒劑所需的藥水可以從鍊金術士那裡獲得。但要小心，有人說他其實是個偽裝的盜賊。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:121
+#, no-wrap
+msgid "The Alchemist has always left me with a strange, suspicious feeling.  You'd best be cautious."
+msgstr "鍊金術士總讓我心生奇怪、可疑的感覺，你最好小心。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:124
+#, no-wrap
+msgid "Ask the Alchemist to help find a cure for the baby dragon."
+msgstr "請鍊金術士幫忙尋找治癒龍寶寶的配方。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:140
+#, no-wrap
+msgid "I hope your progress is swift.  This dragon does not have much time."
+msgstr "希望你進展順利，這隻龍的時間不多了。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:143
+#, no-wrap
+msgid "Learn how to craft the potions required to save the baby dragon."
+msgstr "學習如何製作救治龍寶寶所需的藥水。"
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:154
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:155
+#, no-wrap
+msgid "We will need those potions before we can heal the dragon."
+msgstr "在能治療龍之前，我們需要這些藥水。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:160
+#, no-wrap
+msgid "Bring the potions to the Wizard."
+msgstr "把藥水帶給魔力師。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:156
+#, no-wrap
+msgid "You have the potions.  Good.  Give them here.  Believe it or not, the final item we require will be even more challenging to get."
+msgstr "你已經帶來藥水了。很好，交給我吧。不過別高興太早，最後一樣材料將更加棘手。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:177
+#, no-wrap
+msgid "Sharks are plentiful in the waters nearby.  But they are also dangerous.  Normally I wouldn't ask you take such risks, but it must be done if we are to save the dragon.  Sharkfin Soup has restorative properties.  We need some for the antivenom."
+msgstr "附近水域鯊魚眾多，但它們也很危險。通常我不會讓你冒險，但為了救龍，這是必須的。魚翅湯具有療愈作用，我們需要一些來製作抗毒劑。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:185
+#, no-wrap
+msgid "Did you know sharks are some of the oldest animals in existence?  They're quite remarkable creatures.  But whether you think they are majestic or predators, they will die by your sword all the same."
+msgstr "鯊魚是現存最古老的生物之一，確實令人驚歎。不論你認為它們是威嚴的存在還是兇猛的掠食者，在你的劍下它們終將倒下。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:196
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:219
+#, no-wrap
+msgid "Bring the Wizard the Sharkfin Soup you brewed."
+msgstr "把你熬製的魚翅湯帶給魔力師。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:186
+#, no-wrap
+msgid "Glad to see you're back in one piece."
+msgstr "很高興你平安歸來。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:215
+#, no-wrap
+msgid "Now to combine the ingredients and administer the treatment. . . . It worked!  The dragon seems to be coming around.  Look!  His eyes are clear.  This is wonderful.  And it's all thanks to you."
+msgstr "現在將材料融合並施以治療……成功了！龍正在恢復神智，看！它的眼睛恢復了清澈，這一切都歸功於你。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:1
+msgid "Dragon Lord"
+msgstr "龍主"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:6
+#, no-wrap
+msgid "I have a confession to make.  My motivations to help you, and to train you, have not been entirely altruistic.  Will you listen to this old man's tale of the Dragon Lord?"
+msgstr "我必須坦白，我幫助你、訓練你，並非完全出於無私。願意聽聽一個老者關於龍主的故事嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:13
+#, no-wrap
+msgid "Then perhaps you are not the hero I had hoped for."
+msgstr "那麼，你或許並非我所期待的英雄。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:21
+#, no-wrap
+msgid "The Dragon Lord is a wicked sorcerer who has plagued this land for many years.  He commands three terrible monsters: the Ice Dragon, the Fire Dragon, and the Bolt Dragon.  These dragons have been known to burn fields and raze whole villages.  They must be stopped.  But until now, until you, there has been no one to stand up to the Dragon Lord.  It is said that only another dragon rider of equal power stands a chance of defeating the Dragon Lord.  Will you become a dragon rider and defeat the Dragon Lord?"
+msgstr "龍主是一名邪惡的法師，多年來一直蹂躪這片土地。他統御三隻恐怖的巨獸：冰龍、火龍與雷龍。這些龍曾焚燬農田、夷平村莊，必須被阻止。但直到你出現之前，無人敢正面對抗龍主。據說，唯有與他同等力量的龍騎士，才有機會將其擊敗。你願意成為龍騎士，擊敗龍主嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:28
+#, no-wrap
+msgid "I knew my faith in you was well founded, my friend.  Take good care of the baby dragon."
+msgstr "我就知道，我對你的信任並非空穴來風，我的朋友。好好照顧幼龍。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:44
+#, no-wrap
+msgid "Your dragon will need to be much stronger if you hope to take on the Dragon Lord.  There is an animal trainer, Paula, who lives near here.  Find her, and continue your training."
+msgstr "你若想挑戰龍主，你的龍必須變得更強。附近有一位馴獸師葆拉，去找她繼續訓練。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:45
+#, no-wrap
+msgid "Paula has lost much to the Dragon Lord's wrath.  She will help you if you ask."
+msgstr "葆拉在龍主的怒火下失去了許多，她會在你開口請求時伸出援手。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:48
+#, no-wrap
+msgid "Ask Paula to help train the Baby Dragon."
+msgstr "請葆拉幫忙訓練龍寶寶。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:58
+#, no-wrap
+msgid "How goes the training?  I will continue to meditate on your success."
+msgstr "訓練進展如何？我會繼續關注你的成就。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:61
+#, no-wrap
+msgid "Complete the Baby Dragon's training with Paula."
+msgstr "與葆拉一起完成龍寶寶的訓練。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:72
+#, no-wrap
+msgid "Welcome back.  And my!  Look how that dragon has grown."
+msgstr "歡迎回來！我的天啊，看看這條龍已經長得如此茁壯。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:75
+#, no-wrap
+msgid "Tell the Wizard you have completed the Dragon's training."
+msgstr "告訴魔力師你已經完成了龍的訓練。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:82
+#, no-wrap
+msgid "Your skills are improving, Dragon Rider, but there is still much to learn.  To defeat the Dragon Lord, you must defeat and capture all three of his dragons.  The first dragon is the Ice Dragon.  You will need armor to protect yourself from his freezing breath.  Talk to the warrior, Aaron, about making armor."
+msgstr "你的能力正在提升，龍騎士，但仍有許多必須學習。要擊敗龍主，你必須擊敗並捕獲他的三條龍。第一條是冰龍，你需要盔甲來抵禦他的冰息。和武士艾倫談談如何製作盔甲。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:83
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:105
+#, no-wrap
+msgid "Be careful how you speak to Aaron.  Let's just say he's not the most optimistic individual."
+msgstr "和艾倫說話時要小心，可以說他不是最樂觀的人。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:86
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:108
+#, no-wrap
+msgid "Learn how to make armor from Aaron."
+msgstr "向艾倫學習如何製作盔甲。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:119
+#, no-wrap
+msgid "You have the armor.  Good.  But the Ice Dragon is resilient.  You will need a weapon that can pierce his defenses.  This is the next step."
+msgstr "你已經擁有盔甲，很好。但冰龍極為堅韌，你需要能貫穿其防禦的武器。這是下一步。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:122
+#, no-wrap
+msgid "Tell the Wizard you have learned how to craft armor from Aaron."
+msgstr "告訴魔力師，你已經向艾倫學習瞭如何製作盔甲。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:129
+#, no-wrap
+msgid "To defeat the Ice Dragon, you will need to master the magic of Fire.  That is the Ice Dragon's weakness.  Magic is contained inside special wands, much like the wand you use to command your dragon.  Your next task will be to craft a Fire Magic Wand."
+msgstr "要打敗冰龍，你需要掌握火焰魔力，這是冰龍的弱點。魔力封存在特殊的法杖中，就像你用來指揮龍的法杖。你的下一個任務是製作一根火焰魔力杖。"
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:130
+#, no-wrap
+msgid "It may seem like a lot of hocus pocus, but a sword is nothing compared to the power of the arcane.  You must craft a Fire Magic Wand to stand a chance against the Ice Dragon."
+msgstr "或許聽起來像一派胡言，但與奧術之力相比，劍不過是凡鐵。你必須製作火焰法杖，才有機會對抗冰龍。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:135
+#, no-wrap
+msgid "Tell the Wizard you have the power to cast Fire Magic."
+msgstr "告訴魔力師，你已掌握施展火焰魔力的能力。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:131
+#, no-wrap
+msgid "Dragon Rider, you continue to amaze these old eyes.  Are you a wizard now too?  The Dragon Lord will quake when he sees you coming."
+msgstr "龍騎士，你繼續讓我這把老骨頭驚歎。你現在也是法師了嗎？龍主見到你到來必定顫抖。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:146
+#, no-wrap
+msgid "In good conscience I cannot allow you to face the dragon without first practicing with your Fire Magic.  Go to the frozen thundra with the pine trees.  Test your wands on the Ice Elementals that come out at night there.  If you run out of magic, make more wands.  If you need more mana, craft a potion.  Good luck, Dragon Rider.  Be careful."
+msgstr "出於良知，我不能允許你在未熟練火焰魔力之前挑戰冰龍。去那片有松樹的冰凍苔原，在夜晚出現的冰元素身上測試你的法杖。如果法杖耗盡，就製作更多法杖。如果需要更多法力，製作法力藥水。祝你好運，龍騎士，小心。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:147
+#, no-wrap
+msgid "The Ice Elementals, like the projectiles from your wands, are manifestations of magical power.  But Fire Magic is the Ice Elemental's opposite.  You should make short work of them!"
+msgstr "冰元素就像你的法杖投射物一樣，是法力的顯現。但火焰魔力剋制冰元素，你應該輕鬆擊敗它們！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:152
+#, no-wrap
+msgid "Tell the Wizard you have slain the Ice Elemental."
+msgstr "告訴魔力師，你已經擊敗了冰元素。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:148
+#, no-wrap
+msgid "With the completion of this task, I believe you are finally ready to face the Ice Dragon."
+msgstr "完成此任務後，我相信你終於準備好面對冰龍了。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:167
+#, no-wrap
+msgid "Your battle with the Ice Dragon is nigh, Dragon Rider.  Are you prepared to face your greatest challenge yet?"
+msgstr "你與冰龍的戰鬥臨近了，龍騎士。你準備好迎接迄今為止最大的挑戰了嗎？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:170
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:181
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:193
+#, no-wrap
+msgid "Tell the Wizard you are ready to face the Ice Dragon."
+msgstr "告訴魔力師，你已準備好面對冰龍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:178
+#, no-wrap
+msgid "Take all the time you need to get ready."
+msgstr "充分利用時間做好準備。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:190
+#, no-wrap
+msgid "The Ice Dragon has frozen entire farms in the middle of summer.  The unseasonable cold was devastating.  Mass starvation set in.  I remember these dark times well.  I do not wish to burden you with more sorrowful tales.  Needless to say, the people of this land hold you in their hearts this day."
+msgstr "冰龍曾在盛夏凍結整片農田。異常的寒冷摧毀了一切，大規模饑荒隨之降臨。我親歷那些黑暗歲月，但不願再讓你揹負更多悲痛。如今，這片土地上的人們，都將希望寄託於你。"
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:200
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:201
+#, no-wrap
+msgid "I require the soul of the Ice Dragon, so you will need to craft a Soul Catcher to contain its essence.  The Ice Dragon is quite powerful.  You may need to smack it around a bit to make it easier to contain."
+msgstr "我需要冰龍的靈魂，因此你必須製作噬魂法杖來容納它的本質。冰龍極其強大，你或許需要先削弱它，才能更容易將其封存。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:206
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:239
+#, no-wrap
+msgid "Tell the Wizard you have captured the Ice Dragon."
+msgstr "告訴魔力師，你已經捕獲了冰龍。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:202
+#, no-wrap
+msgid "The Dragon Rider returns triumphant!  Quick, give me the Ice Dragon.  Excellent.  I will take care of this monster.  As for you, bask in your victory.  But not for too long.  There are more dragons to hunt, and greater battles.  Until then, remember, the world belongs to those who shape it."
+msgstr "龍騎士凱旋歸來！快，把冰龍交給我。很好，我會處理這隻怪物。至於你，就享受勝利的榮耀吧，但不要太久。還有更多的龍需要狩獵，以及更艱難的戰鬥。在此之前，記住，世界屬於那些塑造它的人。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:236
+#, no-wrap
+msgid "Do you feel the power radiating through you?  The magic of the ice dragon has imbued you with its energy.  Yes...  I feel it.  An old spell is coming back to me."
+msgstr "你能感受到力量在體內流動嗎？冰龍的魔力賦予了你能量。是的……我感受到了。一個古老的咒語正在重新回到我的腦海中。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:252
+#, no-wrap
+msgid "Once you find the stones, binding them to the staff will create a powerful magical effect."
+msgstr "一旦你找到這些石頭，將它們綁定在法杖上，會產生強大的魔力效果。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:260
+#, no-wrap
+msgid "Tell the Wizard you have the power to cast Life Magic."
+msgstr "告訴魔力師，你已經掌握施展生命魔力的能力。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:256
+#, no-wrap
+msgid "Now you see the power these dragons possess.  The wisdom.  But there is much more to do, and so little time."
+msgstr "現在你看到了這些龍所擁有的力量與智慧。但你還有許多事情要做，而時間卻很有限。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:275
+#, no-wrap
+msgid "I must continue to reflect on the power of the dragons.  While I meditate, you should check on Ted to see if he requires any assistance."
+msgstr "我必須繼續思考龍的力量。在我冥想時，你去找泰德，看看他是否需要幫助。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:281
+#, no-wrap
+msgid "Speak with Ted about any assistance he may require."
+msgstr "與泰德談談他可能需要的幫助。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:295
+#, no-wrap
+msgid "Now how did that old spell go?  Bibbity bob-bama?  Banana-nana—no, no, no, that’s not it."
+msgstr "那個古老的咒語是怎麼說的？Bibbity bob-bama？Banana-nana——不，不，不，肯定不是這樣。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:298
+#, no-wrap
+msgid "Wait for the Wizard to complete his meditation."
+msgstr "等待魔力師完成冥想。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:308
+#, no-wrap
+msgid ""
+"BLAH! ~~ Dragon Rider.\n"
+"\n"
+"Listen carefully to my voice.  I have possessed this foul creature in hope of reaching you.  Rendezvous with my corporeal form.  There is much to do."
+msgstr ""
+"呸！~~ 龍騎士。\n"
+"\n"
+"聽清我的聲音。我藉助這具汙穢之軀與你聯繫。前往尋找我的實體，還有許多事必須完成。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:315
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:331
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:556
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:602
+#, no-wrap
+msgid "Speak to the Wizard about the next task."
+msgstr "與魔力師討論下一個任務。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:328
+#, no-wrap
+msgid "You are late.  It is time to face your next great challenge."
+msgstr "你來晚了。現在是時候迎接下一個重大挑戰了。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:344
+#, no-wrap
+msgid ""
+"From the depths of hell came the roar of the Fire Dragon.  The earth shook.  The seas boiled.  The sky turned the color of blood.\n"
+"\n"
+"Are you ready to begin your quest?"
+msgstr ""
+"從地獄深處傳來了火龍的咆哮。大地震動，海洋沸騰，天空變得血紅。\n"
+"\n"
+"你準備好開始你的任務了嗎？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:351
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:362
+#, no-wrap
+msgid "Tell the Wizard you are ready to face the Fire Dragon."
+msgstr "告訴魔力師，你已準備好面對火龍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:359
+#, no-wrap
+msgid "I grow weary of your indecisiveness, Dragon Rider."
+msgstr "我對你的優柔寡斷感到厭倦，龍騎士。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:371
+#, no-wrap
+msgid "To begin, you will need a way to cross the sea.  Speak to Ted.  He will help you."
+msgstr "首先，你需要找到穿越大海的方法。去找泰德，他會幫助你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:374
+#, no-wrap
+msgid "Speak to Ted to learn how to cross the sea."
+msgstr "與泰德交談，學習如何渡海。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:389
+#, no-wrap
+msgid "While you’ve been running errands, I have been honing my power."
+msgstr "在你四處奔波之時，我也在不斷磨礪自己的力量。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:392
+#, no-wrap
+msgid "Learn how to sail the seas from Ted."
+msgstr "向泰德學習航海的方法。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:402
+#, no-wrap
+msgid "You’re late.  Now, come closer.  I have a mission for you."
+msgstr "你來晚了。靠近些。我有新的使命交付於你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:405
+#, no-wrap
+msgid "Speak to the Wizard to prepare for the Fire Dragon."
+msgstr "與魔力師交談，為迎戰火龍做準備。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:412
+#, no-wrap
+msgid "The Fire Dragon has great power.  He can breathe the fire of life into the already deceased.  He has raised an army of Dark Knights and Dark Mages who patrol the depths of the Underworld.  You must take the fight to these minions if you hope to capture the Fire Dragon."
+msgstr "火龍擁有強大力量。他能夠將生命之火注入早已死去的軀體，使其重新行動。他組建了一支由黑暗騎士與黑暗法師構成的軍團，遊蕩於冥界深處。若想捕獲火龍，你必須先擊潰這些爪牙。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:413
+#, no-wrap
+msgid "Hurry, Dragon Rider.  Use your weapons to remind these Dark Knights and Dark Mages that they are supposed to be dead."
+msgstr "快點，龍騎士。用你的武器提醒這些黑暗騎士與黑暗法師——他們早已不屬於生者。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:418
+#, no-wrap
+msgid "Tell the Wizard you have slain the undead minions."
+msgstr "告訴魔力師，你已經消滅了這些亡靈手下。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:414
+#, no-wrap
+msgid "Sickening.  I can smell the stench of death on you.  But at least you were effective."
+msgstr "令人作嘔。我能從你身上嗅到死亡的氣息。不過……至少你完成得很乾淨。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:435
+#, no-wrap
+msgid "The Fire Dragon’s Dark Boss is a brutal taskmaster.  Return to the dragon’s domain and destroy this monster."
+msgstr "火龍麾下的黑暗魔王是一名殘暴的監工。返回其領域，將其徹底摧毀。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:436
+#, no-wrap
+msgid "They say Dark Boss buries his victims deep underground without a pickaxe and no way out, trapping them forever."
+msgstr "傳聞黑暗魔王將受害者埋入地下，沒有鎬子，也無路可逃，永遠囚禁他們。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:441
+#, no-wrap
+msgid "Tell the Wizard you have slain the Dark BOSS."
+msgstr "告訴魔力師，你已消滅黑暗魔王。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:437
+#, no-wrap
+msgid "You have become a skilled killer, Dragon Rider.  You bring such death, and yet you never hesitate."
+msgstr "你已成為一名高效的死亡使者，龍騎士。你帶來死亡，卻從不遲疑。"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:457
+#, no-wrap
+msgid "No more games.  The time to face the Fire Dragon has come.  It will take all your strength and skill to vanquish him.  Remember!  Bring me the Fire Dragon’s spawner once he is defeated.  Now go."
+msgstr "不再有任何拖延。是時候面對火龍了。要擊敗它，你需要傾盡全力與所有技巧。記住！擊敗火龍後，將它的生怪磚帶給我。現在出發吧。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:458
+#, no-wrap
+msgid "Do not fail me, Dragon Rider.  You are the only one who can defeat the Fire Dragon."
+msgstr "別讓我失望，龍騎士。你是唯一能擊敗火龍的人。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:463
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:484
+#, no-wrap
+msgid "Tell the Wizard you have captured the Fire Dragon."
+msgstr "告訴魔力師，你已捕獲火龍。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:459
+#, no-wrap
+msgid "Yes, at last!  At long last.  Give me the Fire Dragon Spawner.  I will put it to good use."
+msgstr "是的，終於！快！把火龍生怪磚給我，我會好好利用它。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:479
+#, no-wrap
+msgid "The dragon you slew was filled with power.  The magical knowledge I once had is returning to me now.  Let me teach you something I have recalled."
+msgstr "你擊敗的龍充滿了力量。我曾擁有的魔力知識正在迴歸。讓我教你一些我記起的東西。"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:497
+#, no-wrap
+msgid "You can imbue a staff with the Spikes Magic.  Do it, and you will wield phenomenal power."
+msgstr "你可以將尖刺魔力注入法杖。這樣，你將擁有非凡的力量。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:507
+#, no-wrap
+msgid "Tell the Wizard you have crafted the Spikes Magic."
+msgstr "告訴魔力師，你已製作尖刺法杖。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:503
+#, no-wrap
+msgid "A simple task I never doubted you would accomplish.  Now, for the next phase of your journey."
+msgstr "一個我從未懷疑你能完成的簡單任務。現在，進入你旅程的下一階段。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:522
+#, no-wrap
+msgid "The final dragon, the Bolt Dragon, Ashkore, awaits.  But you will not last three seconds in that monster’s presence without more suitable equipment.  Speak to Aaron, that mewling coward may be able to help you."
+msgstr "最後一條龍，雷龍 阿什科爾，在等待你。但若沒有更好的裝備，你在它面前連三秒都撐不過。去找艾倫——那個只會抱怨的懦夫，他或許能幫你。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:523
+#, no-wrap
+msgid "Speak to Aaron, Dragon Rider.  You must learn how to vanquish the Bolt Dragon, Ashkore."
+msgstr "與艾倫交談，龍騎士。你必須學會如何擊敗雷龍 阿什科爾。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:526
+#, no-wrap
+msgid "Speak to Aaron to learn how to craft better equipment."
+msgstr "與艾倫交談，學習如何製作更好的裝備。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:540
+#, no-wrap
+msgid "Work quickly, Dragon Rider.  You must vanquish the Bolt Dragon, Ashkore."
+msgstr "快點，龍騎士。你必須征服雷龍 阿什科爾。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:543
+#, no-wrap
+msgid "Learn how to craft better equipment from Aaron."
+msgstr "向艾倫學習如何製作更好的裝備。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:553
+#, no-wrap
+msgid "Hello.  During your absence, I have been meditating on Ashkore’s powers."
+msgstr "你好。在你不在的時候，我一直在沉思 阿什科爾的力量。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:569
+#, no-wrap
+msgid "Ashkore resides in the Sky World high above this land.  Your dragon will need to be strong if you hope to fly there.  Perhaps that pet trainer, Paula, can help you."
+msgstr " 阿什科爾居住在這片土地上方的天空世界。要飛往那裡，你的龍必須足夠強大。也許馴獸師葆拉可以幫你。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:572
+#, no-wrap
+msgid "Speak to Paula to learn how to ride your dragon."
+msgstr "向葆拉學習如何騎乘你的龍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:586
+#, no-wrap
+msgid "Speak to me again when your dragon has grown stronger."
+msgstr "當你的龍更強壯時，再來找我。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:589
+#, no-wrap
+msgid "Learn how to ride the dragon from Paula."
+msgstr "在葆拉處學習如何騎龍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:599
+#, no-wrap
+msgid "You continue to amaze me, Dragon Rider.  Now you are ready to take to skies."
+msgstr "你依然讓我驚訝，龍騎士。現在你已經準備好翱翔天空了。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:609
+#, no-wrap
+msgid "We are nearly finished.  Ohhhh...the old bones can FEEL it.  Now go!  Head to the Sky World and weaken Ashkore’s defenses."
+msgstr "我們快完成了。噢……老骨頭可以感覺到了。現在出發！前往天空世界，削弱 阿什科爾的防禦。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:610
+#, no-wrap
+msgid "Ashkore is the strongest of the Dragon Lord’s terrible brood.  His land is the hardest to get to, his minions the most vicious, his breath the most deadly.  Even a skilled dragon slayer like you could perish."
+msgstr " 阿什科爾是龍主麾下最強的存在。它的領地最難抵達，它的爪牙最為兇殘，它的吐息最為致命。即便是你這樣的屠龍者，也可能隕命於此。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:615
+#, no-wrap
+msgid "Tell the Wizard you have slain the eagles."
+msgstr "告訴魔力師你已擊敗老鷹。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:611
+#, no-wrap
+msgid "Wipe your blade clean, and ready your spells.  There is more work to be done."
+msgstr "擦乾淨你的刀，準備好咒語。還有更多工作要做。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:631
+#, no-wrap
+msgid "What are you waiting for?  Eliminate the last of Ashkore’s monsters so you can capture him!  Go!  I grow tired of this dawdling."
+msgstr "你還在等什麼？消滅 阿什科爾最後的怪物，好讓你捕獲它！快去！我受夠拖拖拉拉了。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:632
+#, no-wrap
+msgid "If I come across as curt with you, it is only because we are so close to the end.  You trust me, of course."
+msgstr "若我顯得急躁，請見諒。只是因為我們已接近終點。你當然信任我，對吧？"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:637
+#, no-wrap
+msgid "Tell the Wizard you have slain the visitors."
+msgstr "告訴魔力師你已擊敗訪客。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:633
+#, no-wrap
+msgid "The way is clear.  Are you ready for the final step?"
+msgstr "道路已清。你準備好最後一步了嗎？"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:653
+#, no-wrap
+msgid ""
+"Ashkore creates great storms with its power, terrorizing people from his palace in the clouds.  The Dragon Lord made good use of that power when he tightened his grip on this land.  It could happen again.\n"
+"\n"
+"Capture Ashkore for me."
+msgstr ""
+"阿什科爾以其力量製造毀滅性的風暴，從雲端宮殿俯視並恐嚇這片土地的生靈。龍主曾藉助它的力量鞏固統治。這樣的災厄，不能再次發生。\n"
+"\n"
+"為我捕獲阿什科爾。"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:658
+#, no-wrap
+msgid ""
+"The power.  So much power.  I feel it!\n"
+"\n"
+"Capture Ashkore for me."
+msgstr ""
+"力量……如此強大。我感覺到了！\n"
+"\n"
+"為我捕獲阿什科爾。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:667
+#, no-wrap
+msgid "Tell the Wizard you have captured Ashkore."
+msgstr "告訴魔力師你已捕獲阿什科爾。"
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:663
+#, no-wrap
+msgid "At last!  YES!  At long last!  I have the dragons.  You fool!"
+msgstr "終於！太好了！終於！這些龍都歸我了！你這個蠢貨！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:682
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:7
+#, no-wrap
+msgid "My dragons abandoned me, but you brought them back.  Yes, you, my stupid little pawn.  Now, with fire, ice, and lightning, you will see the true power of the Dragon Lord!"
+msgstr "我的龍曾拋棄了我，但你把它們帶回來了。是的，就是你，我愚蠢的小棋子。現在，有了火焰、寒冰和雷電，現在，讓你見識龍主真正的力量！”"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:685
+#, no-wrap
+msgid "Speak to Paula about the Wizard's betrayal."
+msgstr "與葆拉談談魔力師的背叛。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:1
+msgid "Dragon Master"
+msgstr "馴龍師"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:6
+#, no-wrap
+msgid "As you may have seen, when our golden star takes its slumber below the horizon, dangerous monsters roam the countryside.  Pretty scary!"
+msgstr "如你所見，當金色的太陽沉入地平線，危險的怪物會在鄉間遊蕩。相當可怕！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:9
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:21
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:261
+#, no-wrap
+msgid "Tell the Wizard you have opened the Recipe Book."
+msgstr "告訴魔力師你已打開配方書。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:18
+#, no-wrap
+msgid "There are other dangers too.  It gets dark.  You might walk into something and bump your head!  To counteract this problem (I call it Headbumpitis) you can use torches or candles to light your way."
+msgstr "還有其他危險。天黑時，你可能在黑暗中撞到東西！為了解決這個問題（我稱之為撞頭症），你可以使用火把或蠟燭來照亮道路。"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:28
+#, no-wrap
+msgid "But that will not be your biggest concern.  You see.  I have a baby dragon that I can't give the proper care.  There are too many spiders in the areas I like to travel to gather ingredients, and I fear this may become problematic in the future.  Kill some cave dwelling spiders and you will have my blessing to care for the baby dragon."
+msgstr "但這不會是你最大的擔憂。你看，我有一隻龍寶寶，我無法給它適當的照顧。我喜歡去收集材料的地方有太多蜘蛛，我擔心將來會成為問題。消滅一些穴居蜘蛛，我會祝福你照顧好龍寶寶。"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:29
+#, no-wrap
+msgid "If you kill some cave dwelling spiders, you will have my blessing to care for the baby dragon."
+msgstr "殺掉一些穴居蜘蛛，我會祝福你照顧好龍寶寶。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:34
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:21
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:133
+#, no-wrap
+msgid "Tell the Wizard you have slain the spiders."
+msgstr "告訴魔力師你已擊敗蜘蛛。"
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:30
+#, no-wrap
+msgid "Thank you for your help with those monsters.  Take good care of the baby dragon.  It will need your utmost attention."
+msgstr "謝謝你幫忙處理那些怪物。好好照顧龍寶寶，它需要你全心的照料。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:20
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:24
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:82
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:71
+# UnityGame/Assets/Scripts/Quests/Quest.cs:305
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:929
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:648
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:503
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:55
+#, fuzzy, no-wrap
+msgid ""
+"Feed the baby dragon by dropping food it can consume.\n"
+"\n"
+"View the [FF0000]Dragon Soul[-] description to see what the dragon likes to eat."
+msgstr ""
+"把食物丟給龍寶寶讓它吃。\n"
+"\n"
+"查看[FF0000]巨龍之魂[-]說明，瞭解龍寶寶喜歡吃什麼"
+
+#. (itstool) path: consumestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:49
+#, no-wrap
+msgid ""
+"It appears the baby dragon is hungry.  It can't fight monsters at full strength without being fed.\n"
+"\n"
+"Kill some of the local wildlife for meat, and be sure to search for some apples too.  It would be a shame for the dragon to be hungry before you run off adventuring."
+msgstr ""
+"龍寶寶似乎餓了。如果不餵食，它無法全力對抗怪物。\n"
+"\n"
+"殺掉一些本地野生動物獲取肉類，也要記得找些蘋果。在你出發冒險前可不能讓它餓著。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:71
+#, no-wrap
+msgid "Tell the Wizard you have fed the Baby Dragon."
+msgstr "告訴魔力師你已經完成龍寶寶的餵食。"
+
+#. (itstool) path: consumestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:67
+#, no-wrap
+msgid "Some say the Dragon Lord has a telepathic connection with his dragons.  That a piece of his soul is in each of them.  It appears you and your dragon make a good team as well.  This plan may work after all.  But there is much more to do."
+msgstr "有人說龍主與他的龍之間有心靈感應，每條龍體內都留著他靈魂的一部分。看起來你和你的龍也配合得很好。這計劃或許真能行，但還有許多事情等待完成。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:1
+msgid "Final Battle Dialog"
+msgstr "決戰對話"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:18
+#, no-wrap
+msgid "Well, well, well.  Our foolish peon has returned.  Have you come to admit defeat?"
+msgstr "喲，我們的蠢貨終於回來了。你是來認輸的嗎？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:24
+#, no-wrap
+msgid "We’re not so different, you and I.  We both have the strength and the guts to harness the power of dragons.  And think of all those beings you’ve killed.  You’re a murderer too, Dragon Rider.  Just like me.  Join me, and we will destroy this world together, then move on to others."
+msgstr "你和我，本質上沒有區別。我們都有力量與膽量去操控龍的力量。想想你殺掉的那些生物吧——龍騎士，你同樣也是個殺戮者，和我一樣。加入我吧，我們將一起毀滅這個世界，然後再去毀滅下一個。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:58
+#, no-wrap
+msgid "MWA HA HA!  Still so naïve and stupid.  Why would I ever share my power with you?"
+msgstr "哇哈哈！還是如此天真，如此愚蠢。我為什麼要和你分享力量？"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:88
+#, no-wrap
+msgid "No?  THEN DIE!"
+msgstr "不？那就死吧！"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:117
+#, no-wrap
+msgid "You may have defeated me, but I would enjoy a rematch if you are up to it, Dragon Rider."
+msgstr "你雖然打敗了我，但如果你願意的話，我倒是很期待下一場比試，龍騎士。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:127
+#, no-wrap
+msgid "Speak to me again if you are serious about our rematch, Dragon Rider."
+msgstr "若你真的想再戰一場，就再來找我談吧，龍騎士。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:157
+#, no-wrap
+msgid "MWA HA HA!  DIE!!!"
+msgstr "哇哈哈！去死吧！！！"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:1
+msgid "Mining Master"
+msgstr "挖掘大師"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:6
+#, no-wrap
+msgid ""
+"You must not only survive in this world.  You must command it!  With the resources you gather, you can build shelter, a castle, perhaps even a whole city!\n"
+"\n"
+"You will need to learn how to craft special tools to help gather resources faster.  Let's get started."
+msgstr ""
+"你不僅要在這個世界生存，還要掌控它！利用收集到的資源，你可以建造庇護所、城堡，甚至整座城市！\n"
+"\n"
+"你需要學會製作特殊工具，以提高資源收集效率。我們開始吧。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:30
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:35
+#, no-wrap
+msgid ""
+"The pick axe works best when digging through stone or mining materials.\n"
+"\n"
+"Craft a pick axe and test it out."
+msgstr ""
+"鎬子在挖掘石頭或採礦時效果最佳。\n"
+"\n"
+"製作一把鎬子並試用一下。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:44
+#, no-wrap
+msgid "Tell the Wizard you have a pick axe."
+msgstr "告訴魔力師你已製作鎬子。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:40
+#, no-wrap
+msgid "Now that you have the pick axe, we can move on to the next digging tool."
+msgstr "既然你已經有了鎬子，我們可以繼續下一個工具了。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:55
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:60
+#, no-wrap
+msgid ""
+"The next tool available is the axe.  Axes work best on trees and the various plant life.\n"
+"\n"
+"Craft an axe and test it out."
+msgstr ""
+"下一個可製作的工具是斧頭。斧頭適合砍伐樹木及各類植物資源。\n"
+"\n"
+"製作一把斧頭並試用一下。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:69
+#, no-wrap
+msgid "Tell the Wizard you have an axe."
+msgstr "告訴魔力師你已製作斧頭。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:65
+#, no-wrap
+msgid "Now that you have the axe, we can move on to the next digging tool."
+msgstr "既然你已經有了斧頭，我們可以繼續下一種工具了。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:80
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:85
+#, no-wrap
+msgid ""
+"The next tool available is the hammer.  Hammers work best on stone objects and generally well on anything.\n"
+"\n"
+"Craft a hammer and test it out."
+msgstr ""
+"接下來可製作的工具是錘子。錘子在處理石質物體時效果最佳，對多數材料也有效。\n"
+"\n"
+"製作一把錘子並試用一下。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:94
+#, no-wrap
+msgid "Tell the Wizard you have a hammer."
+msgstr "告訴魔力師你已製作錘子。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:90
+#, no-wrap
+msgid "Now that you have the hammer, we can move on to the next digging tool."
+msgstr "既然你已經有了錘子，我們可以繼續下一種工具了。"
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:105
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:110
+#, no-wrap
+msgid ""
+"The last tool available is the shovel.  Shovels work best on dirt and sand.\n"
+"\n"
+"Craft a shovel and test it out."
+msgstr ""
+"最後一種可製作的工具是鏟子。鏟子適用於泥土和沙地。\n"
+"\n"
+"製作一把鏟子並試用一下。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:119
+#, no-wrap
+msgid "Tell the Wizard you have a shovel."
+msgstr "告訴魔力師你已製作鏟子。"
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:115
+#, no-wrap
+msgid "Now that you have a shovel, you possess all the tools necessary to dig with efficiency."
+msgstr "既然你已經有了鏟子，你現在擁有所有高效挖掘的基礎工具了。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:130
+#, no-wrap
+msgid "Wonderful!  Simply wonderful.  I gathered a few goodies to help you settle in.  Now, if you're not too busy, I have a problem I could really use your help with."
+msgstr "太好了，幹得不錯。我準備了一些物品，幫助你適應環境。如果你現在不太忙，我這有個問題確實需要你的協助。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:152
+#, no-wrap
+msgid "That crafting table you built has many uses.  With it, you can forge powerful weapons, construct magnificent contraptions, perhaps even tap into the arcane power of MAGIC!"
+msgstr "你建造的工作臺用途極多。藉助它，你可以鍛造強力武器、製造精巧裝置，甚至觸碰到魔力的力量！"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:155
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1195
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1209
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1219
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1229
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1239
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1249
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1259
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1269
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1279
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1289
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1299
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1309
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1319
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1329
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1339
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1349
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1359
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1369
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1379
+#, no-wrap
+msgid "Tell the Wizard you have crafted a sword."
+msgstr "告訴魔力師你已經製作好了劍。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:162
+#, no-wrap
+msgid ""
+"But first thing's first.  Instructions for how to craft various items can be found in the Recipe Book.\n"
+"\n"
+"Go ahead.  Open your inventory and open the Recipe Book in the lower left hand corner."
+msgstr ""
+"但首先最重要的是：各種物品的製作說明都能在配方書中找到。\n"
+"\n"
+"來吧，打開你的揹包，然後在左下角找到配方書。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:167
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:224
+#, no-wrap
+msgid ""
+"What's the matter?  Never opened a book before?  I guess you're more a warrior than a scholarly type, but still!\n"
+"\n"
+"Click on your inventory and open the Recipe Book in the lower left hand corner."
+msgstr ""
+"怎麼了？沒打開過書嗎？我猜你更像是個武士而不是學者，不過該學的還是得學！\n"
+"\n"
+"打開揹包，然後查看左下角的配方書。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:174
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:231
+#, no-wrap
+msgid "Open the Recipe Book within your Inventory."
+msgstr "查看揹包中的配方書。"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:178
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:570
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:610
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:648
+#, no-wrap
+msgid "Open Inventory"
+msgstr "打開揹包"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:258
+#, no-wrap
+msgid "There.  That wasn't so hard, was it?  Now you can do some serious crafting."
+msgstr "這不挺簡單的嗎？現在你可以開始真正的製作了。"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Tutorial.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1
+msgid "Tutorial"
+msgstr "教程"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:14
+#, no-wrap
+msgid "You there!  Young one!  Are you all right?  Looks like you took a nasty spill.  I think it best you move around a bit; make sure nothing's broken."
+msgstr "喂！年輕人！你還好嗎？看起來你摔得挺嚴重。我建議你走動一下，確認有沒有受傷。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:15
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:91
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:222
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:303
+#, no-wrap
+msgid "Go on!  Count your fingers.  Wiggle your toes.  I'll be here when you get back."
+msgstr "繼續！數數你的手指，動動你的腳趾。你回來時我就在這裡。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:18
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:94
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:225
+#, no-wrap
+msgid "Follow the instructions to learn how to move around."
+msgstr "按照指示學習如何移動。"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:22
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:46
+#, no-wrap
+msgid "Look Around"
+msgstr "環顧四周"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:98
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:122
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:179
+#, no-wrap
+msgid "Walk"
+msgstr "行走"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:134
+#, no-wrap
+msgid "S"
+msgstr "S"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:146
+#, no-wrap
+msgid "W"
+msgstr "W"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:158
+#, no-wrap
+msgid "A"
+msgstr "A"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:170
+#, no-wrap
+msgid "D"
+msgstr "D"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:229
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:251
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:272
+#, no-wrap
+msgid "Jump"
+msgstr "跳躍"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:263
+#, no-wrap
+msgid "Space"
+msgstr "空格"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:307
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:411
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by pressing R2 while targeting him."
+msgstr "對準魔力師並按R2確認狀態正常。"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:310
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:336
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:377
+#, no-wrap
+msgid "Open Quest Log"
+msgstr "查看任務日誌"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:333
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:417
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by clicking on him."
+msgstr "點擊魔力師，告訴他一切正常。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestDrawableColumn.cs:49
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:115
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:111
+# UnityGame/Assets/Scripts/Quests/Quest.cs:382
+# UnityGame/Assets/Scripts/Quests/QuestOptionAuto.cs:77
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:348
+#, no-wrap
+msgid "J"
+msgstr "J"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:374
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:423
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by pressing down on him."
+msgstr "長按魔力師，告訴他一切正常。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:407
+#, no-wrap
+msgid "Glad to see you're all in one piece."
+msgstr "很好，你看起來毫髮無損。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:432
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Hold down R2 on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"你需要學會如何挖掘。\n"
+"\n"
+"按住 R2 破壞方塊。\n"
+"\n"
+"這是挖洞、開鑿隧道並改變環境的最佳方式。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:441
+#, no-wrap
+msgid "Hold down R2 on a block to break it."
+msgstr "對著方塊按住 R2 以破壞它。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:446
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Hold down the left mouse button on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"你需要學會如何挖掘。\n"
+"\n"
+"按住鼠標左鍵破壞方塊。\n"
+"\n"
+"這是挖洞、開鑿隧道並改變環境的最佳方式。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:455
+#, no-wrap
+msgid "Hold down the left mouse button on a block to break it."
+msgstr "按住鼠標左鍵破壞方塊。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:460
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Press down on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"你需要學會如何挖掘。\n"
+"\n"
+"長按方塊以破壞它。\n"
+"\n"
+"這是挖洞、開鑿隧道並改變環境的最佳方式。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:469
+#, no-wrap
+msgid "Press down on a block to break it."
+msgstr "長按方塊以破壞它。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:481
+#, no-wrap
+msgid "Now that you understand how the simple things in this world work, you must be prepared for the dangers that inhabit the land."
+msgstr "既然你已經瞭解這個世界的基本規則，就要準備好面對潛藏的危險。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:484
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:494
+#, no-wrap
+msgid "Tell the Wizard you know how to break blocks."
+msgstr "向魔力師說明你已經學會破壞方塊。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:491
+#, no-wrap
+msgid "When the last beam of sunlight vanishes below the horizon, you can be sure all sorts of dangerous monsters will come looking for food.  You don't want to end up as someone's midnight snack!"
+msgstr "當最後一束日光沉入地平線，各種危險的怪物就會開始覓食。你可不想成為它們的午夜點心！"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:501
+#, no-wrap
+msgid ""
+"You will need a torch to see them coming.\n"
+"\n"
+"Collect some wood and let's get started."
+msgstr ""
+"你需要火把來照亮周圍以提前發現它們。\n"
+"\n"
+"收集一些木材，讓我們開始吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:507
+#, no-wrap
+msgid ""
+"To survive the night, you will need a torch.  Torches provide limited protection against monsters.\n"
+"\n"
+"Collect some wood and let's get started."
+msgstr ""
+"要在夜晚生存，你需要火把。火把能提供有限的照明與保護。\n"
+"\n"
+"收集一些木材，讓我們開始吧。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:529
+#, no-wrap
+msgid "Good.  To make torches,  you will need to make sticks out of wood."
+msgstr "很好。製作火把需要先把木材加工成木棍。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:533
+#, no-wrap
+msgid "Tell the Wizard you have collected the piece of wood."
+msgstr "告訴魔力師你已經收集到木材。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:542
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:679
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:761
+#, no-wrap
+msgid ""
+"Craft the wood into planks,  then craft the planks into sticks.\n"
+"\n"
+"Open your inventory and drag the wood to an empty crafting slot to begin."
+msgstr ""
+"先將木材加工成木板，再將木板製作成木棍。\n"
+"\n"
+"打開揹包，把木材拖入任意製作格即可開始。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:549
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:686
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:768
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:857
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:945
+#, no-wrap
+msgid "Follow the instructions on how to craft the items required to create a torch."
+msgstr "按照提示製作火把所需材料。"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:622
+#, no-wrap
+msgid "Q"
+msgstr "Q"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:692
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:774
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:863
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:951
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:699
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:781
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:870
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:958
+#, no-wrap
+msgid ""
+"You can do this by pressing [00FF00]A[-] to grab or place one item, [7777FF]X[-] to grab or place half a stack, or [FFFF00]Y[-] to grab or place the entire stack.\n"
+"\n"
+"Items can also be dropped once they have been grabbed by pressing [FF0000]B[-]."
+msgstr ""
+"你可以按 [00FF00]A[-] 拿取或放置單個物品，按 [7777FF]X[-] 拿取或放置一半，按 [FFFF00]Y[-] 拿取或放置整組。\n"
+"\n"
+"按 [FF0000]B[-] 可丟棄物品。"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:709
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:791
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:880
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:968
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:716
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:798
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:887
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:975
+#, no-wrap
+msgid ""
+"You can do this by holding the left mouse button and dragging the cursor to grab one item, middle mouse button to grab half a stack, or right mouse button to grab the entire stack.\n"
+"\n"
+"Items can also be dropped by dragging the item away from a valid slot and releasing."
+msgstr ""
+"按住左鍵拖動可拿取單個物品，中鍵拿取一半，右鍵拿取整組。\n"
+"\n"
+"將物品拖出槽位並釋放即可丟棄。"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:726
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:808
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:897
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:985
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:733
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:815
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:904
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:992
+#, no-wrap
+msgid ""
+"You can do this by dragging your finger from the item slot to grab one item, or pressing and holding on the item slot to grab the entire stack.\n"
+"\n"
+"Items can also be dropped by dragging the item away from a valid slot and releasing."
+msgstr ""
+"用手指從物品格拖動可拿取單個物品，或長按物品格以拿取整組。\n"
+"\n"
+"將物品拖出槽位並釋放即可丟棄。"
+
+#. (itstool) path: step/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:741
+#, no-wrap
+msgid "Drag wood here"
+msgstr "將木材拖到這裡"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:850
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:938
+#, no-wrap
+msgid ""
+"Now that you have some planks, you can make sticks.\n"
+"\n"
+"Open your inventory, and drag the planks on the indicated crafting slots."
+msgstr ""
+"現在你已經有了木板，可以製作木棍了。\n"
+"\n"
+"打開揹包，把木板拖到指定的製作槽裡。"
+
+#. (itstool) path: step/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:912
+#, no-wrap
+msgid "Drag planks here"
+msgstr "將木板拖到這裡"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1029
+#, no-wrap
+msgid "Tell the Wizard you have crafted sticks for the torch."
+msgstr "向魔力師說明你已經製作好火把所需的木棍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1036
+#, no-wrap
+msgid "The last ingredient to make the torch is coal.  Coal, which glows a purple hue, is easily found in caves.  When you have the coal, speak to me about how to make the torch."
+msgstr "製作火把的最後一種材料是煤炭。煤炭帶有淡紫色光澤，常見於洞穴中。找到煤炭後再來找我，我會告訴你如何製作火把。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1055
+#, no-wrap
+msgid "Tell the Wizard you have collected the piece of coal."
+msgstr "告訴魔力師你已經收集到一塊煤炭。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1064
+#, no-wrap
+msgid "Now that you have the ingredients I have asked of you, it is finally time to craft the torch you so desperately require."
+msgstr "既然你已經集齊我要求的材料，是時候製作你迫切需要的火把了。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1070
+#, no-wrap
+msgid "Craft a torch."
+msgstr "製作火把。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1083
+#, no-wrap
+msgid "Good work, but there is still much more to do if you hope to stay alive."
+msgstr "做得不錯，但如果想活下去，還有很多事要做。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1086
+#, no-wrap
+msgid "Tell the Wizard you have crafted a torch."
+msgstr "告訴魔力師你已經製作好火把。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1093
+#, no-wrap
+msgid "A crafting table is required to make most tools.  You will need more wood to get the planks required to make the table.  Return when you have crafted the table."
+msgstr "大多數工具都需要工作臺來製作。你需要更多木材來製作木板，再用木板製作工作臺。準備好後再回來找我。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1100
+#, no-wrap
+msgid "Craft a crafting table."
+msgstr "製作工作臺。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1114
+#, no-wrap
+msgid "Tell the Wizard you have crafted a crafting table."
+msgstr "告訴魔力師你已經製作好工作臺。"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1121
+#, no-wrap
+msgid "Now that you've made a crafting table, you can craft weapons to protect yourself.  Collect a few supplies, then come back and I will show you how."
+msgstr "既然你已經做出工作臺，就可以開始製作武器來保護自己。收集一些材料，然後回來，我會教你下一步。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1148
+#, no-wrap
+msgid "Tell the Wizard you have gathered the ingredients to craft a sword."
+msgstr "告訴魔力師你已經收集齊製作劍所需的材料。"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1159
+#, no-wrap
+msgid "Use the crafting table to craft a sword."
+msgstr "使用工作臺來製作一把劍。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1164
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by pressing L2, and let's use it to craft a sword."
+msgstr "是時候試試工作臺了。按下 L2 將其放置在地面，然後用它製作一把劍。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1168
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by pressing the right mouse button, and let's use it to craft a sword."
+msgstr "是時候試試工作臺了。右鍵將其放置在地面，然後用它製作一把劍。"
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1172
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by tapping on the block you wish to place it next to, and let's use it to craft a sword."
+msgstr "是時候試試工作臺了。點擊你想放置的位置旁邊，將其放在地面，然後用它製作一把劍。"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1188
+#, no-wrap
+msgid ""
+"Now you look like a proper warrior.\n"
+"\n"
+"Hmm . . . perhaps you can help me with my current dilemma."
+msgstr ""
+"現在你看起來像個真正的戰士了。\n"
+"\n"
+"嗯……也許你能幫我解決一個麻煩。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Grand Finale"
+msgstr "最終章"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"What do I see! Really? You subdued my dragons! I underestimated you! You "
+"turned out to be stronger than I thought."
+msgstr ""
+"我看到了什麼？！真的？你竟然擊敗了我的龍！我低估你了！你比我想象的更強。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"But that means ... What do you feel now, Dragon Rider? Do you feel the power "
+"that overwhelms you and wants to break out? \n"
+"    Do you want to use all of it? I can help you with this if you join me. "
+"Let’s put all the disagreements behind us and unite together for the great "
+"goal of conquering this world. \n"
+"    No one and nothing can stop us."
+msgstr ""
+"但這意味著……你現在感覺到了嗎，龍騎士？那股幾乎要衝破束縛、壓倒你的力量？"
+"量？\n"
+"    你想完全釋放它嗎？如果你加入我，我可以幫助你。讓我們拋棄一切分歧，為征服這個世界的偉大目標聯合。\n"
+"    沒有任何東西能阻止我們。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Are you ready to join me?"
+msgstr "準備好加入我了嗎？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"At last! For a long time, I had to wait for this hour! You know that I "
+"already tried to conquer this world, but alone I could not do it. \n"
+"    But now, with you, I will become twice as strong, we will conquer not "
+"only this world but also that external one, all around will obey to my "
+"strength! \n"
+"    I will become the omnipotent ruler of all worlds, I will put everyone on "
+"their knees, I ... oh, I wanted to say \"we\"..."
+msgstr ""
+"終於！我等這一刻太久了！你知道我曾試圖獨自征服這個世界，但失敗了。\n"
+"    但現在有了你，我將變得更強。我們不僅要征服這個世界，還要征服外面的世界，一切都將臣服於我的力量之下！\n"
+"    我將成為統治所有世界的至高存在，讓所有人跪伏在我腳下。我……哦，我是說“我們”……"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Why are you looking at me like that? I am the Dragon Lord, and you are only "
+"their Rider. The title of Lord still needs to be earned. \n"
+"      Do you want to become equal to me and get the title of Lord of the "
+"Dragons so that miserable little people tremble at the mention of your "
+"name?\n"
+"\n"
+"      Then take my staff..."
+msgstr ""
+"你為什麼這樣看著我？我是龍主，而你只是騎士。主宰的稱號可不是輕易得來的。\n"
+"      你想與我平起平坐，獲得“龍主”的稱號，讓那些渺小的人只要聽到你的名字就顫"
+"抖嗎？\n"
+"\n"
+"      那麼，拿起我的權杖吧……"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "... and kill them all!"
+msgstr "……把他們全都殺了！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "What are you waiting for? Are you scared?"
+msgstr "還在等什麼？害怕了嗎？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+#, fuzzy
+msgid "Tell Dragon Lord about your success."
+msgstr "向龍主彙報你的成功。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Now we are connected forever, and our agreement is signed by the blood of "
+"all these people whom you killed."
+msgstr "從現在起，我們將永遠相連，這份契約以你所殺之人的鮮血為證。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Let's start destroying this world together, let everyone see the strength "
+"and power of the Dragon Lords!"
+msgstr "讓我們一起毀滅這個世界，讓所有人見識龍主的力量與威嚴！"

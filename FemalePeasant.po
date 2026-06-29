@@ -1,0 +1,302 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Female"
+msgstr "女性"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Store"
+msgstr "商店"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trade"
+msgstr "交易"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Get Water"
+msgstr "幫我們取水"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Protect Us"
+msgstr "保護我們"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Get Food"
+msgstr "幫我們找食物"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Add Beauty To Our Town"
+msgstr "幫我們裝飾我們的小鎮"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Light Up The Town"
+msgstr "幫我們照亮小鎮"
+
+msgid ""
+"Hey there traveler! We could really use your help. Our people are struggling "
+"badly. We can barely survive the night out here. Could you help us out? We "
+"are really thirsty. We've lost our water supplies and need to find some "
+"fresh water to drink. If you can bring us buckets of water, maybe we can "
+"make some deals to get you some supplies in return."
+msgstr "你好旅人！我們真的很需要你的幫助。我們被困住了。我們很難在夜 "
+"晚存活。你能幫我們嗎？我們很渴。我們的飲用水已經喝完了，需要找到一些可以喝的淡水 "
+"要是你可以給我們帶幾桶水的話，我們可以優惠價給你一些資源。"
+
+msgid "Have you managed to get the buckets of water yet? We are very thirsty!"
+msgstr "你找到水了嗎？我們快渴死了！"
+
+msgid ""
+"Thank you so much for bringing us these buckets of water! We will be able to "
+"survive a little longer thanks to your help. Take this. I got this the last "
+"time I went fishing and cooked them up for you as a token of our gratitude. "
+"Keep helping us out and I might have something special for you soon."
+msgstr "太感謝你了，有了你的幫助我們就可以繼續存活下去.拿下這個禮物吧， "
+"這是我上次釣魚找到的。你要是願意繼續幫助我們的話，我會送你一個特殊的禮物。 "
+
+msgid "Tell a Countrywoman you have the Buckets of Water."
+msgstr "告訴一個農婦你找到水了"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150 
+msgid ""
+"Welcome back fellow traveler! You've been a great help to our towns. I was "
+"recently doing some exploring myself, and I came across this Music disk, in "
+"a chest, that I think you might like. I've heard that these things can be "
+"valuable to travelers like yourself. Our King used to tell us stories about "
+"these lands up very high in the sky. So high that gravity gets low. He told "
+"us just how beautiful the jungles were up there. If this place does exist, "
+"could you bring me back some Space Flowers for our towns? It will attract "
+"other travels to stop by and trade with us. In return, I'll give you this "
+"Music Disk. What do you think, fellow traveler? If this place does exist, "
+"can you bring me some Space Flowers?"
+msgstr "歡迎！我最近探索的時候在箱子裡找到了這個唱片。我聽說這種唱片 "
+"對旅人很有價值。我們的國王以前經常會講關於一個天上的大陸的故事 "
+"那個地方高的連重力都會減少。他經常會描述那裡的美麗的森林。要是 "
+"這種地方真的存在的話，你可以給我帶來那裡的花朵嗎？那些花一定會 "
+"吸引其他的旅人讓他們和我們交易。你要是可以帶來這些花朵的話， "
+"我可以把這個唱片送給你。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"Do you have the Space Flowers? We could really use them to attract fellow "
+"travelers from all over!"
+msgstr "你找到那些太空花朵了嗎？他們一定會引來其他的旅人"
+
+msgid ""
+"Wow! These Space Flowers are incredible! I've never seen anything like them "
+"before! Thank you so much for bringing these to us! I can't wait to show "
+"them to the others in our village! I hope you enjoy the Music Disk I give "
+"you in return!"
+msgstr "哇！這些花朵太神奇了！我從未見過這樣的花！太感謝你給我帶來這些了 "
+"我要趕緊給村裡其他的人看一看！希望你能喜歡我送你的唱片。"
+
+msgid "Tell a Countrywoman you have the Space Flowers."
+msgstr "告訴一個農婦你找到太空花朵了"
+
+msgid ""
+"Welcome back traveler! Our people are doing better thanks to your help. "
+"However we still face great dangers from the wild creatures that roam these "
+"lands and swim these waters. I've heard of this magical branch called a "
+"Sentinel Branch that can help protect us from harm. The branch is made from "
+"the feather of a Raven with some sticks. If you can bring us a few of these "
+"branches, we can use them to create protective wards around our towns to "
+"keep us safe. In return, I'll make sure to reward you with some of our "
+"finest Fried LionFish for your efforts."
+msgstr "歡迎歸來，旅人！在你的幫助下，我們的人民生活得越來越好了但是，我 "
+"們仍然面臨著來自這些土地上漫遊的和水中游蕩的野生生物的巨大危險。我聽說有一種 "
+"叫做哨兵靈木的神奇樹枝，可以幫助我們免受傷害。這種靈木是用烏鴉的羽毛和一些 "
+"樹枝做成的。如果你能給我們帶來一些這樣的樹枝，我們可以用它們在城鎮周圍設置防 "
+"護結界，以確保我們的安全。作為回報，我會確保用我們最好的炸獅子魚來回饋你的付出。"
+
+msgid ""
+"Have you managed to craft the Sentinel Branches yet? We could really use "
+"them to protect out people from the dangers on the outside."
+msgstr "你做完了哨兵靈木嗎？我們需要用來他保護我們的村莊"
+
+msgid ""
+"Thank you so much for bringing us these Sentinel Branches! We will be able "
+"to protect our people from harm thanks to your help! Take this. I cooked "
+"these and saved them for you. Keep helping us out and I might have something "
+"special for you soon."
+msgstr "太感謝你為我們帶來這些哨兵靈木了。有了你的幫助，我們就可以保護我們的村民們 "
+"拿著這個，這是我給你做的。要是你繼續幫我們的話我會給你一個特殊的禮物"
+
+msgid "Tell a Countrywoman you have the Sentinel Branches."
+msgstr "告訴一個農婦你做完了哨兵靈木。"
+
+msgid ""
+"Oh it's you again traveler! It's amazing, these Sentienel Branches are "
+"working wonders for us! Our people feel so much safer now! But we still need "
+"your help. Our crops are failing and we are running low on food supplies. If "
+"you could bring us some Wheat, we can use it to bake some bread to feed our "
+"people. In return, I'll make sure to reward you with some Mana Potions for "
+"your efforts."
+msgstr "哦，旅人，我們又見面了！太神奇了，這些哨兵靈木對我們來說簡直是奇蹟！我 "
+"們的人民現在感覺安全多了！但我們仍然需要你的幫助。我們的莊稼歉收，食物供應也日益 "
+"短缺。如果你能給我們帶來一些小麥，我們可以用它來烤些麵包來餵飽我們的人民。作為回 "
+"報，我會給你一些法力藥水。"
+
+msgid "Have you managed to get the wheat yet? Our people are hungry!"
+msgstr "你拿到小麥了嗎？我們的人民都快餓死了！"
+
+msgid ""
+"Thank you so much for bringing us this Wheat! We will be able to bake some "
+"bread and feed our people thanks to your help. You can have these Mana "
+"Potions. These will help you on your journey. Keep helping us out and I "
+"might have something special for you soon."
+msgstr "太感謝你幫我們帶來小麥了！有了小麥我們就可以做麵包，給我們的人民帶來糧食了 "
+"給，這些法力藥水送給你吧。他們會幫助你的旅程。要是你繼續幫我們的話我會給你一個特殊 "
+"的禮物。"
+
+msgid "Tell a Countrywoman you have the Wheat."
+msgstr "告訴一個農婦你拿到小麥了"
+
+msgid ""
+"Good to see you again, traveler! The town is flourishing thanks to your "
+"help! It's time to add some beauty to our town. Our people have been talking "
+"about how nice some flower gardens would be around our homes. Could you help "
+"us gather some Rose Bushes to plant around our town? If you can bring us "
+"some Rose Bushes, we can exchange another reward for your efforts. Would "
+"Health Potions meet your needs?"
+msgstr "很高興再次見到你，旅人！多虧了你，這座城鎮才如此繁榮！是時候為我們的 "
+"城鎮增添一些優美的風景了。我們的鎮上的人一直在說，要是家周圍能有些花園該有多好。 "
+"你能幫我們收集一些玫瑰灌木，在城鎮周圍種植嗎？如果你能給我們帶來一些玫瑰灌木，我 "
+"們可以為你換取另一份獎勵。生命藥水如何？"
+
+msgid ""
+"Have you managed to get the rose bushes yet? Our town could really use some "
+"beautification!"
+msgstr "你拿到了玫瑰灌木了嗎？我們的小鎮真的需要裝飾一下！"
+
+msgid ""
+"Thank you for bringing us these Rose Bushes! We will be able to plant them "
+"around our town and make it look so much better thanks to you! Here you go! "
+"These Health Potions should help you on your adventures. Keep helping us out "
+"and I might have something special for you soon."
+msgstr "謝謝你為我們帶來這些玫瑰灌木！我們會把他們才村裡種下的。應為有了你的幫助， "
+"我們的小鎮變得多麼的美麗。給你，這些生命藥水因該會幫助你的。要是你繼續幫我們的話 "
+"我會給你一個特殊的禮物。"
+
+msgid "Tell a Countrywoman you have the Rose Bushes."
+msgstr "告訴一個農婦你拿到了玫瑰灌木"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150 
+msgid ""
+"It's nice to see you back, fellow traveler! Our town is getting darker at "
+"night and it's becoming harder for our people to move around safely. We "
+"could really use some help lighting up the town. If you could bring us some "
+"Wall Torches, we can use them to light up the towns for our people. In "
+"return, I'll make sure to reward you with some of the best cooked food you "
+"can find for your efforts!"
+msgstr "很高興見到你回來，旅人！我們的小鎮夜晚越來越黑了，人們的安全出行也變得 "
+"越來越困難。我們急需一些幫助來照亮小鎮。如果你能給我們帶來一些壁掛火把，我們可以 "
+"用它們為人們照亮小鎮。作為回報，我一定會用你能找到的最美味的食物來獎勵你！"
+
+msgid ""
+"Have you managed to get the Wall Torches yet? Our town could really use some "
+"light at night!"
+msgstr "你拿到了壁掛火把了嗎？我們的小鎮晚上需要一點燈光！"
+
+msgid ""
+"Thank you so much for bringing us these Wall Torches! We will be able to "
+"light up the town and keep our people safe at night thanks to your help! As "
+"promised, here are some of the best cooked fish I could find for you! Keep "
+"helping us out and I might have something special for you soon."
+msgstr "太感謝你為我們帶來這些壁掛火把了！有了你的幫助我們就能晚上讓小鎮亮起來 "
+"並晚上保護我們的村民們！你收下這些燒魚把，這是我能給你找到的最好的燒魚！ "
+"要是你繼續幫我們的話我會給你一個特殊的禮物。"
+
+msgid "Tell a Countrywoman you crafted the Wall Torches."
+msgstr "告訴一個農婦你製作了壁掛火把"
+
+

@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2023-10-21 03:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/npc-speak/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "I'll never forget this."
+msgstr "我永遠忘不了這些。"
+
+msgid "I will collect it for you."
+msgstr "讓我來為您收集。"
+
+msgid "AAAAAHHHHHHHH!"
+msgstr "啊啊啊啊啊啊！"
+
+msgid "I'm hungry. Give me something to eat so I can restore my strength."
+msgstr "我餓了。給我點東西吃，讓我恢復精力。"
+
+msgid "I'm feeling stronger!"
+msgstr "我感到更強壯了！"
+
+msgid "Have mercy...."
+msgstr "仁慈一點吧..."
+
+msgid "Test me and learn the hard way."
+msgstr "考驗自己，用困難的方式學習。"
+
+msgid "Die!"
+msgstr "死！"
+
+msgid "Do you know where I can find some mushrooms?"
+msgstr "你知道我在哪裡找得到蘑菇嗎？"
+
+msgid "Nothing like a dark cave to have the good life."
+msgstr "沒什麼比住在漆黑的洞穴裡更好了。"
+
+msgid "After what I've seen, I doubt anything could surprise me."
+msgstr "種種所見之後，沒什麼能再讓我驚訝的了。"
+
+msgid "There are some really scary creatures further below.  Be careful."
+msgstr "地下有些可怕的怪物。當心。"
+
+msgid "What? No more spawners? But where are all these creatures coming from?"
+msgstr "什麼？沒有生怪磚了？那這些生物是從哪兒來的？"
+
+msgid "These stupid sharks are everywhere. Be careful!"
+msgstr "這些蠢鯊魚無處不在。當心！"
+
+msgid "I'm so tired of these monsters.  :(  They appear every night."
+msgstr "我對這些怪物感到厭倦了。:( 它們每晚都出現。"
+
+msgid "Beware of Ashkore!  He's your worst nightmare."
+msgstr "小心阿什科爾！他是你最糟的噩夢。"
+
+msgid "Why is everything made out of blocks? Where I am?"
+msgstr "為什麼一切都由方塊組成？我在哪？"
+
+msgid "I need to talk with someone.  I'm going crazy."
+msgstr "我得找人聊聊天。我快瘋了。"
+
+msgid "There's nothing like getting out of the castle once in while."
+msgstr "沒什麼比偶爾散散步更舒適的了。"
+
+msgid "Click on my health bar if you want to rename me."
+msgstr "單擊我的血條可以重命名我。"
+
+msgid "I'm happy to serve my kingdom."
+msgstr "我非常樂意為王國效力。"
+
+msgid "Be good.  Be well."
+msgstr "舒適。安好。"
+
+msgid "This is for my kingdom!"
+msgstr "為了王國！"
+
+msgid "There is nothing that can stop me!"
+msgstr "無人能阻止我！"
+
+msgid "Food too strong."
+msgstr "食物太濃了。"
+
+msgid "I will return with a thousand men!"
+msgstr "我會帶數千人歸來！"
+
+msgid "I'm starving.  I suddenly feel very weak."
+msgstr "我要餓死了。突然感到十分虛弱。"
+
+msgid "How pathetic."
+msgstr "真可憐。"
+
+msgid "The boat won't be accepting your toll."
+msgstr "無需船費。"
+
+msgid "How dare you!"
+msgstr "你怎麼敢！"
+
+msgid "You are no longer welcome here."
+msgstr "這兒不再歡迎你。"
+
+msgid "GRRRAAAWWWRRR!"
+msgstr "嗷嗚嗚嗚嗚嗚!"
+
+msgid "Me no like you no more."
+msgstr "我沒再喜歡你了。"
+
+msgid "Ahhhhhhhhh!"
+msgstr "啊啊啊啊啊！"
+
+msgid "Mwahahaha!"
+msgstr "哇哈哈！"
+
+msgid "Would you like to buy something?"
+msgstr "要買點東西嗎？"
+
+msgid "Get the greatest deals in all the land!"
+msgstr "做世界上最好的買賣！"
+
+msgid "Step right up, and purchase the finest quality items."
+msgstr "來看一看，買最優質的商品。"
+
+msgid "You look like you could use some help."
+msgstr "你看起來需要些幫助。"
+
+msgid "Watch my dancing skills!"
+msgstr "看我的舞技！"
+
+msgid "I smell...food?"
+msgstr "我聞到...食物？"
+
+msgid "I see you."
+msgstr "看到你了。"
+
+msgid "You'll never dance like me!"
+msgstr "你永遠不會有我這樣的舞技！"
+
+msgid "Me like shiny things."
+msgstr "我喜歡閃亮的東西。"
+
+msgid "Me Goblin."
+msgstr "我是哥布林。"
+
+msgid "Now you know what it is to mess with a Viking."
+msgstr "現在你知道和維京人一起混是什麼感覺了。"
+
+msgid "Please leave me be."
+msgstr "不要來打擾我。"
+
+msgid "You should have thought twice before attacking me."
+msgstr "攻擊我之前，你應該想清楚點。"
+
+msgid "You will make a fine meal!"
+msgstr "你會變成一頓美餐！"
+
+msgid "Crush! Smash!"
+msgstr "衝！殺！"
+
+msgid "I wish I didn't have to do that."
+msgstr "我但願自己用不著那樣做。"
+
+msgid "I'm too weak. It is better to stay away from these monsters."
+msgstr "我太疲憊了。得遠離這些怪物。"
+
+msgid "I'll show you the strength of a real warrior!"
+msgstr "我會讓你見識下一個真正戰士的力量！"
+
+msgid "Die evil fiend!"
+msgstr "去死吧惡魔！"
+
+msgid "Hello, adventurer."
+msgstr "你好，冒險者。"
+
+msgid ""
+"If you think my skills are as dull as my blade, you got another thing coming."
+msgstr "如果你以為我的技能很差，接招吧。"
+
+msgid "Do you ever wonder what lies deep within the caves?"
+msgstr "有沒有想過洞穴深處會有些什麼？"
+
+msgid "What a great day to be a warrior."
+msgstr "成為戰士這天多麼美好啊。"
+
+msgid "I've had better days..."
+msgstr "我也曾快樂過..."
+
+msgid "He he! I have defeated him again!"
+msgstr "哈哈！我再次戰勝了他！"
+
+msgid "Smiting evil never gets old."
+msgstr "邪惡從不衰退。"
+
+msgid "We could have been friends..."
+msgstr "我們本可是朋友..."
+
+msgid "Good luck, my boy!"
+msgstr "祝你好運，小夥子！"
+
+msgid "I am all powerful!"
+msgstr "我充滿力量！"
+
+msgid "Feel the source of life become your death!"
+msgstr "好好感受一下生命之源如何置你於死地！"
+
+msgid "What? A human?"
+msgstr "什麼？一個人類？"
+
+msgid "Where are you?"
+msgstr "你在哪？"
+
+msgid "It would be nice to have something to eat."
+msgstr "吃點東西應該不錯。"
+
+msgid "FOR THE EMPIRE!!!"
+msgstr "為了帝國！！！"
+
+msgid "I'm coming!"
+msgstr "我來了！"
+
+msgid "Attack!"
+msgstr "攻擊！"
+
+msgid "I'll teach you some manners!"
+msgstr "我會教你怎麼懂禮貌！"
+
+msgid "You're too weak for me!"
+msgstr "你對我來說太弱了！"
+
+msgid "You will never find me."
+msgstr "你永遠找不到我。"
+
+msgid "Do you really think you can kill the dead?"
+msgstr "你真認為可以幹掉一具死人嗎？"
+
+msgid "I will pour upon you the power of my blade!"
+msgstr "我將把刀劍之力全數傾注於你身上！"
+
+msgid "I'm going to chop you up into little pieces!"
+msgstr "我要把你切碎！"
+
+msgid "You just made a big mistake!"
+msgstr "你剛剛犯了大錯！"
+
+msgid "Watch my moves!"
+msgstr "注意我的動作！"
+
+msgid "I'm bored..."
+msgstr "我厭倦了..."
+
+msgid "You cant hide."
+msgstr "你無法躲藏。"
+
+msgid "Time for dinner."
+msgstr "晚餐時間。"
+
+msgid "I didn't sign up for this!"
+msgstr "我可沒參加這些！"
+
+msgid "I need to hide."
+msgstr "我得躲一下。"
+
+msgid "Many great dangers live far below the surface."
+msgstr "許多危險潛藏在地面之下。"
+
+msgid "The ocean can be wonderous at times."
+msgstr "海洋有時也很奇妙。"
+
+msgid "The sky is quite beautiful."
+msgstr "這天太美了。"
+
+msgid "Travel the world and discover the wonders of life."
+msgstr "周遊世界，發現生活中的奇蹟。"
+
+msgid   "Hey kid, you sure do look wimpy. Now build me a boat."
+msgstr  "嘿，小鬼，你看起來真弱。現在給我造一艘船。"
+
+msgid   "You should see the scar my bite left in that shark!"
+msgstr  "你應該看看我咬那條鯊魚留下的傷疤！"
+
+msgid   "Good luck, Dragon Rider!"
+msgstr  "祝你好運，龍騎士！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:287
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:25
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1432
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:734
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:385
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:233
+#, fuzzy
+msgid "You will fail!"
+msgstr "你不可能成功！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:287
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:25
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1432
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:734
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:385
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:233
+#, fuzzy
+msgid "Dragon Lord reborn!"
+msgstr "龍主重生！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "How did the mumble of these arthropod aliens bother me."
+#, fuzzy
+msgstr "這些節肢外星人的喃喃自語是個困擾。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+#, fuzzy
+msgid "I look very peaceful, but believe me, this is far from true."
+msgstr "我看起來很友善，但相信我，這遠非事實。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "Eat my blades!"
+msgstr "吃我一劍！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "You are too naive, mortal!"
+msgstr "你太天真了，凡人！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+#, fuzzy
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "Ashkor is strong and powerful, beware of him!"
+msgstr "阿什科爾強大有力，小心點！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "My lightning will pierce you through!"
+msgstr "我的雷霆會像怒火一樣將你刺穿！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+#, fuzzy
+msgid "Do you feel the air being electrified when I get angry?"
+msgstr "我發怒時，你是否有注意到空氣如帶電一樣？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+#, fuzzy
+msgid "This world is full of dangers, you need to be careful!"
+msgstr "這世界滿是危險，你得小心！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "You can't defeat me, stranger!"
+msgstr "你打不過我，陌生人！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "Ashkor gives me the power to crush you!"
+msgstr "阿什科爾賦予我力量以粉碎你！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "You really wanted to get my grace? You fool!"
+msgstr "你真的想得到我的恩典嗎？你個蠢貨！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "In vain you wandered here, terrible monsters are found here!"
+msgstr "你不該在此徘徊，這兒盡是恐怖的猛獸！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:40
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1919
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1334
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "As I said this won't be easy."
+msgstr "如我所說，這絕非易事。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "My swords are charged with the power of lightning!"
+msgstr "我的劍充滿了雷霆之力！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1913
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1410
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+#, fuzzy
+msgid "Ashkor lightning gives me strength, but they can kill you!"
+msgstr "阿什科爾的閃電能給我力量，但它們也能殺了你！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:40
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:2157
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1396
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:646
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:349
+#, fuzzy
+msgid "Impossible!!!!"
+msgstr "這不可能！！！！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "If you’ve got spare hands, we’ve got work that needs doing."
+msgstr "如果你有空的話，就來幫忙乾點活吧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The sea gives little, and takes plenty."
+msgstr "大海給予甚少，卻奪走無數。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Got any spare gear? Even broken tools help."
+msgstr "有多餘的裝備嗎？哪怕是破舊工具也有用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We’re not just surviving. We’re trying to live."
+msgstr "我們不僅僅是活著，我們在努力生活。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Hope’s a fragile thing out here. Don’t let it sink."
+msgstr "希望在這裡很脆弱。別讓它沉沒。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We trade stories for supplies. Got any to share?"
+msgstr "我們用故事換取物資。你有什麼故事要分享嗎？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We need harpoons, not hope! These beasts don’t care about royal blood!"
+msgstr "我們需要魚叉，不是希望！這些野獸不在乎皇室血脈！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The megalodon’s not a myth! I saw it breach once! Like a mountain rising "
+"from the deep!"
+msgstr "巨齒鯊不是傳說！我曾親眼看到它躍出水面！宛如深海中升起的巨山！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "What happened to the king? Some say he’s alive. Others whisper he fled."
+msgstr "國王發生了什麼事？有人說他還活著，也有人低聲說他逃走了。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince talks of finding his brother, but who will save us if he leaves "
+"too?"
+msgstr "王子說要去找他的兄弟，但如果他也離開了，誰來拯救我們？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The King ruled with wisdon. Now we drift without it."
+msgstr "國王曾以智慧統治。如今我們在無序中漂流。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The King is missing. The Prince said something about fighting a dragon that "
+"can bury itself underground. I’ve never heard of such a creature before."
+msgstr "國王失蹤了。王子提到要對付一條能潛入地下的龍。我以前從未聽說過這種生物。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The King spoke of a beast with scales like shifting dunes. We thought it was "
+"madness."
+msgstr "國王曾提到一隻鱗片如流沙般的野獸。我們以為那是瘋狂之語。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"Do sand dunes move? I could have sworn I saw the sand mmove like waves once, "
+"just before the king disappeared."
+msgstr "沙丘...會移動嗎？我發誓，在國王消失前，我看到沙子在動---像波浪一樣在翻湧。"
+
+msgid "For the king! For the town! "
+msgstr "為了國王！為了城鎮！"
+
+msgid "You stirred the deep, outsider! Now we drown you in it!"
+msgstr "你攪動了深淵，外來者！現在輪到你沉入其中！"
+
+#, fuzzy
+msgid "The sea’s cruel, but we can be crueler!"
+msgstr "大海殘酷，但我們可以更殘酷！"
+
+msgid "Fall back! We can’t hold them!"
+msgstr "撤退！我們擋不住他們！"
+
+msgid "They are too strong! We need to regroup!"
+msgstr "他們太強了！我們需要重新集結！"
+
+#, fuzzy
+msgid "I won’t die here! Not like this!"
+msgstr "我不會死在這裡！絕不可能就這樣！"
+
+msgid "What's Kill?"
+msgstr "殺，是什麼？"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"We recently installed platforms around our floating villages to make it "
+"easier to get out of the ocean. Hope these help travelers like you. "
+msgstr "我們最近在漂浮村莊周圍安裝了平臺，讓大家更容易上岸。希望能對像你這樣的旅者有所幫助。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "I used to dream of gardens. Now I dream of clean water."
+msgstr "我曾經夢想有花園，現在只希望有乾淨的水。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Even scraps can be salvaged. We’re not picky out here."
+msgstr "哪怕是碎片也能用，我們在這裡不挑剔。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Got extras? Let's make a deal."
+msgstr "有多餘的嗎？來換一換吧。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We sleep in shifts. The environment doesn't care if we’re tired."
+msgstr "我們輪班休息，這個環境可不在乎我們是否疲憊。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"I've heard tales of a giant shark that drags entire villages underwater. Be "
+"careful out there."
+msgstr "我聽說過有巨型鯊魚會把整座村莊拖入水中。外出要小心。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The Prince means well, but kindness doesn’t patch leaks."
+msgstr "王子好心，但好心可堵不住漏口。"
+
+msgid ""
+"Before he left, the King provided for all of us. Now we scavenge to survive."
+msgstr "在國王離開之前，他照顧過我們所有人。現在我們靠撿拾維持生計。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"We used to count stars for fun. Now we count them to forget we’re hungry."
+msgstr "我們曾經數星星只是為了好玩。如今數星星只為忘記飢餓。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince says we’re safe. He hasn’t seen the shark fins circling our "
+"floating villages!"
+msgstr "王子說我們很安全。可他可沒看到那些在我們浮動村莊周圍盤旋的鯊魚鰭！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince tries, but he’s no king. Maybe one day he can find his lost "
+"father."
+msgstr "王子努力了，但他還不是國王。也許有一天，他能找到失散的父親。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "I swear I saw an eye the size of a bucket beneath the waves!"
+msgstr "我發誓我看到海浪下有一隻像水桶一樣大的眼睛！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"I might be going crazy, but I swear I saw something looking at me from the "
+"sky! It had red glowing eyes and just vanished!"
+msgstr "我可能快瘋了，但我發誓我看到有東西從天空盯著我！它有紅色發光的眼睛，然後消失了！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The King used to walk among us. Not above us. That’s why we miss him."
+msgstr "國王曾與我們同行，而不是高高在上。這就是我們懷念他的原因。"

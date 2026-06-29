@@ -1,0 +1,172 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2015-02-23 12:18-0400\n"
+"Last-Translator: Ron <ron@blockstory.net>\n"
+"Language-Team: Chinese (China) <http://weblate-blockstory.rhcloud.com/"
+"projects/block-story/hints/zh_CN/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.3\n"
+
+msgid "You can enable Split Touch Controls in the Controls settings."
+msgstr "你可以在控制設置中啟用拆分觸控。"
+
+msgid ""
+"To place block, equip it in inventory and simply click on the spot where you "
+"want to place it."
+msgstr ""
+"要放置方塊，將它裝備在手中中並點擊屏幕上其中一點即可。"
+
+msgid "The [FF0000]Source of Life[-] only spawns at night."
+msgstr "[FF0000]生命之源[-]僅在晚上生成。"
+
+msgid ""
+"The [00FF00]Boat[-] is good for travelling on more than [00FF00]Water[-]."
+msgstr ""
+"[00FF00]船[-]適用但不僅限於[00FF00]水[-]上行駛。"
+
+msgid "Watch that rogue orchard! Growing trees can damage nearby buildings."
+msgstr ""
+"小心肆意生長的果園！樹木的生長會破壞附近的建築物。"
+
+msgid "Plants can grow anywhere with the right type of soil."
+msgstr "如有合適的土壤，植物可以在任何地方生長。"
+
+msgid "Make some [00FF00]Torch[-] before you go exploring."
+msgstr "探索之前，製作一些[00FF00]火把[-]。"
+
+msgid "Complete [FF0000]Aarons'[-] quests to unlock the radar recipe."
+msgstr "完成[FF0000]魔力師[-]的任務以解鎖雷達配方。"
+
+msgid "Go into caves to easily find ore."
+msgstr "洞穴中很容易找到礦石。"
+
+msgid "Stronger enemies drop better items."
+msgstr "強大的敵人掉落更好的物品。"
+
+msgid "With the teleport staff you can teleport to any placed bed."
+msgstr "使用傳送器，你可以傳送到任何地方。"
+
+msgid ""
+"If you die, you will be respawned near the last placed [00FF00]Bed[-] block."
+msgstr ""
+"如果你死了，你會在最後放置的[00FF00]床[-]的附近重生。"
+
+msgid "A lost world resides deep underwater."
+msgstr "深海里存在著一個迷失的世界。"
+
+msgid   "Be sure to check out the official [FF0000]Discord[-]!"
+msgstr  "別忘了加入官方[FF0000]Discord[-]服務器！"
+
+msgid "Go to [FF0000]www.blockstory.net[-] for more info about the game."
+msgstr ""
+"到[FF0000] www.blockstory.net [-]去了解關於遊戲的更多資訊。"
+
+msgid "Collect a spawner to take any creature with you."
+msgstr ""
+"收集生怪磚，就可以帶走任何生物。"
+
+msgid "The amount of time you can fly is linked to your [FF0000]Mana[-]."
+msgstr "你能飛行的時間與[FF0000]魔力值[-]有關。"
+
+msgid "Creatures: Red - Aggressive, Yellow - Neutral, Green - peaceful."
+msgstr ""
+"生物: [FF0000]紅色 - 敵對[-]，[FFFF00]黃色 - 中立[-]，[00FF00]綠色 - 和平[-]。"
+
+msgid ""
+"Eliminate a spawner to prevent being overwhelmed by monsters (eg. spiders)."
+msgstr ""
+"拆掉生怪磚，以防止被怪物(如蜘蛛)淹沒。"
+
+msgid "The [FF0000]Alchemist[-] is also a merchant."
+msgstr "[FF0000]鍊金術士[-]也是一個商人。"
+
+msgid ""
+"DON'T stab an [FF0000]Electric Dragon[-] (or any other [FF0000]Dragon[-])!"
+msgstr ""
+"不要過早挑戰[FF0000]雷龍[-](或任何其他的[FF0000]龍[-])！"
+
+msgid "Make a diving suit before traveling to [FF0000]Atlantis[-]."
+msgstr "前往[FF0000]亞特蘭蒂斯[-]前要製造一件潛水服。"
+
+msgid "[00FF00]Clouds[-] are pretty to look at, but will not hold you up."
+msgstr "[00FF00]雲[-]相當好看，但並不能把你托住。"
+
+msgid ""
+"Hold a [00FF00]Bucket[-] of [00FF00]Water[-] in your hand to place water; "
+"hold an empty [00FF00]Bucket[-] in your hand to collect [00FF00]Water[-]."
+msgstr ""
+"手持[00FF00]水桶[-]來放置水；手持空的[00FF00]桶[-]來收集[00FF00]水[-]。"
+
+msgid ""
+"Water in Forgotten Sky islands is often open to the sky below it - be "
+"careful when swimming, you can fall out of the water into open air!"
+msgstr ""
+"被遺忘的天空中的島嶼裡的水域常常與下面的天空相連 - 游泳時要小心，你可能由水跌進天空中！"
+
+msgid ""
+"[00FF00]Iron Ore[-] glows a weak grey light - you may not be able to see it "
+"when brighter ores are nearby."
+msgstr ""
+"[00FF00]鐵礦石[-]發出微弱的灰色光芒 - 當附近有更明亮的礦石時，你可能看不見它。"
+
+msgid ""
+"[00FF00]Sea Grass[-] contains trapped air. You can swim into it to replenish "
+"your [FF0000]Breath[-] while deep underwater."
+msgstr ""
+"[00FF00]海草[-]中包含空氣。當在深水處的時候，你可以遊進它來補充你的[FF0000]氧氣值[-]。"
+
+msgid "Sleeping restores your [FF0000]Mana[-] and [FF0000]Health[-]."
+msgstr "通過睡眠恢復你的[FF0000]魔力值[-]和[FF0000]生命值[-]。"
+
+msgid "Spend skill points on dig speed to dig faster."
+msgstr ""
+"花一些技能點在挖掘速度上以加快挖掘。"
+
+msgid ""
+"[00FF00]Lava[-], [00FF00]Acid[-], and [00FF00]Cactus[-] do damage when you "
+"touch them."
+msgstr ""
+"當你觸摸[00FF00]熔岩[-]，[00FF00]硫酸[-]，[00FF00]仙人掌[-]和[FF00FF]蘑菇[-]時，你會受到傷害。"
+
+msgid "Dig deep to find [FF0000]Moria[-] and the [FF0000]Underworld[-]."
+msgstr "向下挖以去往[FF0000]地獄[-]。"
+
+msgid "Fly high above to find a forgotten world."
+msgstr "飛到高空去尋找被遺忘的世界。"
+
+msgid "You can trade with [FF0000]The Alchemist[-] for useful items."
+msgstr "你可以用有用的物件去和[FF0000]鍊金術士[-]交易。"
+
+msgid "The recipe book can be found within the inventory window."
+msgstr "配方書可以在揹包窗口內找到。"
+
+msgid "Use skill points to make your character stronger."
+msgstr ""
+"花一些技能點去讓你的角色變得更強大"
+
+msgid "Dont attack [FF0000]Ted[-]!!!"
+msgstr "不要攻擊[FF0000]泰德[-]!!!"
+
+msgid ""
+"[FF0000]Quests[-] need to be completed for certain recipes to be unlocked."
+msgstr ""
+"需要完成[FF0000]任務[-]去解開某些配方。"
+
+msgid ""
+"Need [00FF00]Sulfur[-] or [00FF00]Unobtainium[-]? Go to the "
+"[FF0000]Underworld[-]!"
+msgstr ""
+"需要[00FF00]硫磺[-]或[00FF00]難得素[-]？去[FF0000]地獄[-]找找！"
+
+msgid "[00FF00]Sea Grass[-] can be used to make elevators."
+msgstr "[00FF00]海草[-]可以用於製造簡易電梯。"
+
+msgid "Trees you plant will not stop growing until they are full size."
+msgstr ""
+"你栽種的樹會一直生長直到完全長大。"
+

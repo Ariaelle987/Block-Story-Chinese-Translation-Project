@@ -1,0 +1,4093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 54ca55defcf933aff3000136\n"
+"PO-Revision-Date: 2023-09-06 22:39+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified) <http://translate.blockstory.net/"
+"projects/block-story/item-names/zh_Hans/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Sky Leaves"
+msgstr "空之葉"
+
+msgid "Axe"
+msgstr "石斧"
+
+msgid "Jungle Bush Plant"
+msgstr "叢林灌木"
+
+msgid "Goblin Pants"
+msgstr "地精褲子"
+
+msgid "Tentackle Staff"
+msgstr "觸鬚法杖"
+
+msgid "Saw Shield"
+msgstr "圓鋸盾牌"
+
+msgid "Animal Spawner"
+msgstr "{0}動物生怪磚"
+
+msgid "Old Stone Fence"
+msgstr "老舊石欄"
+
+msgid "Goblin PickAxe"
+msgstr "哥布林地精鎬"
+
+msgid "TRex"
+msgstr "暴龍"
+
+msgid "Bricks"
+msgstr "磚塊"
+
+msgid "Hammer"
+msgstr "石錘"
+
+msgid "Oak Leaves"
+msgstr "橡樹葉"
+
+msgid "Poplar Leaves"
+msgstr "白楊樹葉"
+
+msgid "Wheat Seed"
+msgstr "小麥種子"
+
+msgid "Brick Stairs"
+msgstr "磚樓梯"
+
+msgid "Jungle Bush Green"
+msgstr "叢林綠灌木"
+
+msgid "Dragonscale"
+msgstr "龍鱗"
+
+msgid "Shiva"
+msgstr "希瓦"
+
+msgid "Chest"
+msgstr "箱子"
+
+msgid "Warrior Boots"
+msgstr "戰士長靴"
+
+msgid "Arrow"
+msgstr "箭"
+
+msgid "Replicon"
+msgstr "誘變劑"
+
+msgid "Old Stone Stairs"
+msgstr "老舊石樓梯"
+
+msgid "Gravity Boots"
+msgstr "重力靴"
+
+msgid "Ticket"
+msgstr "獎券"
+
+msgid "Electrite"
+msgstr "雷晶"
+
+msgid "Necklace Of Life"
+msgstr "生命項鍊"
+
+msgid "Palm Plank"
+msgstr "棕櫚木板"
+
+msgid "Boat"
+msgstr "木船"
+
+msgid "Wood Window"
+msgstr "木窗"
+
+msgid "Leaves"
+msgstr "樹葉"
+
+msgid "Miner Helmet"
+msgstr "礦工頭盔"
+
+msgid "Pumpkin"
+msgstr "南瓜"
+
+msgid "Cactus Plant"
+msgstr "仙人掌苗"
+
+msgid "Palm Bark"
+msgstr "棕櫚木"
+
+msgid "Cryptonite"
+msgstr "氪石"
+
+msgid "Life Magic"
+msgstr "生命法杖"
+
+msgid "Dragon Soul"
+msgstr "巨龍之魂"
+
+msgid "Tentackle Magic"
+msgstr "觸鬚法杖"
+
+msgid "Spider Soul"
+msgstr "蜘蛛之魂"
+
+msgid "Skull"
+msgstr "頭骨"
+
+msgid "Monster Spawner"
+msgstr "{0}生怪磚"
+
+msgid "Acacia Plant"
+msgstr "金合歡樹苗"
+
+msgid "Birch Plank"
+msgstr "樺木木板"
+
+msgid "water"
+msgstr "水桶"
+
+msgid "Meat"
+msgstr "肉"
+
+msgid "Desert Bird Spawner"
+msgstr "沙漠鳥生怪磚"
+
+msgid "Yellow Coral"
+msgstr "黃珊瑚"
+
+msgid "Teleportation Arrow"
+msgstr "傳送箭"
+
+msgid "Gold Ore"
+msgstr "金礦石"
+
+msgid "Baobab Plant"
+msgstr "猴麵包樹苗"
+
+msgid "Car"
+msgstr "汽車"
+
+msgid "Apple Tree Plant"
+msgstr "蘋果樹苗"
+
+msgid "Food"
+msgstr "食物"
+
+msgid "Gun"
+msgstr "槍"
+
+msgid "Dragon Armor"
+msgstr "龍甲"
+
+msgid "Birch Bark"
+msgstr "白樺木"
+
+msgid "Ring"
+msgstr "戒指"
+
+msgid "Angelic Swords"
+msgstr "天使雙劍"
+
+msgid "Bread"
+msgstr "麵包"
+
+msgid "Baobab Leaves"
+msgstr "猴麵包樹葉"
+
+msgid "Crystal Block Red"
+msgstr "紅水晶塊"
+
+msgid "Glass"
+msgstr "玻璃"
+
+msgid "Diver Suit"
+msgstr "潛水服"
+
+msgid "Forgotten Grass"
+msgstr "空之草"
+
+msgid "Bucket"
+msgstr "桶"
+
+msgid "Dye"
+msgstr "染料"
+
+msgid "Magic Orb"
+msgstr "魔珠"
+
+msgid "Dragon Shield"
+msgstr "龍盾"
+
+msgid "Fire Arrow"
+msgstr "火焰箭"
+
+msgid "Gold Bar"
+msgstr "金錠"
+
+msgid "Birch Stairs"
+msgstr "樺木樓梯"
+
+msgid "Watermelon"
+msgstr "西瓜"
+
+msgid "Pine Plant"
+msgstr "松樹苗"
+
+msgid "Bow"
+msgstr "弓"
+
+msgid "Unobtainium Bar"
+msgstr "難得素錠"
+
+msgid "Brick Fence"
+msgstr "磚塊柵欄"
+
+msgid "Stone"
+msgstr "石頭"
+
+msgid "Clouds"
+msgstr "雲"
+
+msgid "Spider Web"
+msgstr "蜘蛛網"
+
+msgid "Seed"
+msgstr "種子"
+
+msgid "Iron Hammer"
+msgstr "鐵錘"
+
+msgid "Crystal Block Blue"
+msgstr "藍水晶塊"
+
+msgid "Window"
+msgstr "窗戶"
+
+msgid "Gold Block"
+msgstr "金塊"
+
+msgid "Aragog Eye"
+msgstr "阿拉戈克之眼"
+
+msgid "Spider Fang"
+msgstr "蜘蛛牙"
+
+msgid "Wheat Crop"
+msgstr "麥苗"
+
+msgid "Iron Shovel"
+msgstr "鐵鏟"
+
+msgid "Fence"
+msgstr "木柵欄"
+
+msgid "Health Potion"
+msgstr "治療藥水"
+
+msgid "Stick"
+msgstr "木棍"
+
+msgid "Green Coral"
+msgstr "綠珊瑚"
+
+msgid "Cauldron"
+msgstr "大鍋"
+
+msgid "Wood Door"
+msgstr "木門"
+
+msgid "Antique Spawner"
+msgstr "{0}生怪磚"
+
+msgid "Acid"
+msgstr "硫酸桶"
+
+msgid "Megalodon Tooth"
+msgstr "巨齒鯊齒"
+
+msgid "Hunting Knife"
+msgstr "獵刀"
+
+msgid "Palm Stairs"
+msgstr "棕櫚樓梯"
+
+msgid "Trident"
+msgstr "三叉戟"
+
+msgid "Dig"
+msgstr "石鎬"
+
+msgid "Pumpkin Head"
+msgstr "南瓜頭"
+
+msgid "Unobtainium"
+msgstr "難得素"
+
+msgid "Sulphure Ore"
+msgstr "硫磺"
+
+msgid "Shirt"
+msgstr "襯衫"
+
+msgid "Sand Clock"
+msgstr "沙漏"
+
+msgid "Radar"
+msgstr "雷達"
+
+msgid "Forgotten Stone Old"
+msgstr "被遺忘的仿古石"
+
+msgid "Iron Axe"
+msgstr "鐵斧"
+
+msgid "Dragon Pants"
+msgstr "龍褲"
+
+msgid "Blue Flower"
+msgstr "藍花"
+
+msgid "Soul Catcher"
+msgstr "噬魂法杖"
+
+msgid "Cactus"
+msgstr "仙人掌"
+
+msgid "Graviton"
+msgstr "引力子"
+
+msgid "Air Ring"
+msgstr "空氣戒指"
+
+msgid "Deerskin"
+msgstr "鹿皮"
+
+msgid "Elevator"
+msgstr "電梯"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid "TNT"
+msgstr "TNT"
+
+msgid "Great Sword"
+msgstr "大劍"
+
+msgid "Shark Fin Soup"
+msgstr "魚翅湯"
+
+msgid "Red Flower"
+msgstr "紅花"
+
+msgid "Jungle Tree Plant"
+msgstr "叢林樹苗"
+
+msgid "Epic Sword"
+msgstr "史詩劍"
+
+msgid "Torch"
+msgstr "燈籠"
+
+msgid "Generator"
+msgstr "發電機"
+
+msgid "Drill"
+msgstr "消除者"
+
+msgid "Snow Leaves"
+msgstr "覆雪樹葉"
+
+msgid "Apple"
+msgstr "蘋果"
+
+msgid "Cat Soul"
+msgstr "貓之魂"
+
+msgid "Book Shelf"
+msgstr "書架"
+
+msgid "Iron Ore"
+msgstr "鐵礦石"
+
+msgid "Grass 3D"
+msgstr "草"
+
+msgid "Palm Plant"
+msgstr "棕櫚樹苗"
+
+msgid "CarBody"
+msgstr "車身"
+
+msgid "Dragon Boots"
+msgstr "龍靴"
+
+msgid "Iron Block"
+msgstr "鐵塊"
+
+msgid "Electric Pipe"
+msgstr "電子管"
+
+msgid "Grass"
+msgstr "草皮"
+
+msgid "Poisoned Arrow"
+msgstr "毒箭"
+
+msgid "Blue Dye"
+msgstr "藍染料"
+
+msgid "Ashkore"
+msgstr "阿什科爾"
+
+msgid "Yellow Dye"
+msgstr "黃染料"
+
+msgid "Swamp"
+msgstr "沼澤桶"
+
+msgid "Hand Torch"
+msgstr "火把"
+
+msgid "BoarSkin"
+msgstr "野豬皮"
+
+msgid "Stone Stairs"
+msgstr "石樓梯"
+
+msgid "Springs"
+msgstr "彈簧鞋"
+
+msgid "Dragon Heart"
+msgstr "龍心"
+
+msgid "Magic Arrow"
+msgstr "魔力箭"
+
+msgid "Coal"
+msgstr "煤炭"
+
+msgid "Hoe"
+msgstr "鋤頭"
+
+msgid "Letter"
+msgstr "信"
+
+msgid "Candle"
+msgstr "蠟燭"
+
+msgid "Fence Gate"
+msgstr "木柵欄門"
+
+msgid "Fuel"
+msgstr "燃料"
+
+msgid "Table"
+msgstr "木桌"
+
+msgid "Fire"
+msgstr "火"
+
+msgid "Wheat"
+msgstr "小麥"
+
+msgid "Pants"
+msgstr "褲子"
+
+msgid "My Precious"
+msgstr "我的寶貝"
+
+msgid "Epic Shield"
+msgstr "史詩盾"
+
+msgid "Jungle Grass"
+msgstr "叢林草"
+
+msgid "Ice"
+msgstr "冰"
+
+msgid "Hydra"
+msgstr "海德拉"
+
+msgid "Crystal Block Black"
+msgstr "黑水晶塊"
+
+msgid "Swamp Stone"
+msgstr "沼澤石"
+
+msgid "Rose Bush"
+msgstr "玫瑰灌木"
+
+msgid "Sand Stone"
+msgstr "砂岩"
+
+msgid "Bed"
+msgstr "床"
+
+msgid "Dirt"
+msgstr "泥土"
+
+msgid "Nest"
+msgstr "{0}巢"
+
+msgid "Spider Venom"
+msgstr "蜘蛛毒液"
+
+msgid "Dark Staff"
+msgstr "黑暗法杖"
+
+msgid "Forgotten Stone"
+msgstr "被遺忘的石頭"
+
+msgid "Forgotten Stone Antique"
+msgstr "被遺忘的仿古石"
+
+msgid "Shovel"
+msgstr "石鏟"
+
+msgid "Crystal Block Green"
+msgstr "翡翠塊"
+
+msgid "Birch Leaves"
+msgstr "白樺樹葉"
+
+msgid "Wax"
+msgstr "蠟"
+
+msgid "Iron Dig"
+msgstr "鐵鎬"
+
+msgid "Brush"
+msgstr "刷子"
+
+msgid "Birch Fence"
+msgstr "樺木柵欄"
+
+msgid "Coco Bean"
+msgstr "椰子"
+
+msgid "GiantSpider"
+msgstr "阿拉戈克"
+
+msgid "Furnace"
+msgstr "熔爐"
+
+msgid "Paraffin"
+msgstr "蜂巢"
+
+msgid "Lilia Flower"
+msgstr "百合花"
+
+msgid "Alien Dog Soul"
+msgstr "外星狗之魂"
+
+msgid "Boots"
+msgstr "靴子"
+
+msgid "Spirit Necklace"
+msgstr "靈魂項鍊"
+
+msgid "Forgotten Bushes"
+msgstr "被遺忘的灌木"
+
+msgid "Bullet"
+msgstr "子彈"
+
+msgid "Magic"
+msgstr "黑暗法杖"
+
+msgid "Safebox"
+msgstr "箱子"
+
+msgid "Green Fluorite"
+msgstr "翡翠"
+
+msgid "Saddle"
+msgstr "鞍"
+
+msgid "Red Dye"
+msgstr "紅染料"
+
+msgid "Warrior Armor"
+msgstr "戰士鎧甲"
+
+msgid "Nature Staff"
+msgstr "自然法杖"
+
+msgid "Pan Tool"
+msgstr "篩子"
+
+msgid "Stone Fence"
+msgstr "石欄"
+
+msgid "Palm Leaves"
+msgstr "棕櫚樹葉"
+
+msgid "Skeletone Helmet"
+msgstr "骷髏頭盔"
+
+msgid "JetPack"
+msgstr "噴氣揹包"
+
+msgid "Spikes Magic"
+msgstr "尖峰法杖"
+
+msgid "Bone"
+msgstr "骨頭"
+
+msgid "Spruce Plant"
+msgstr "雲杉樹苗"
+
+msgid "Oak Tree Plant"
+msgstr "橡樹苗"
+
+msgid "Clear Plank"
+msgstr "純淨木板"
+
+msgid "Wheel"
+msgstr "車輪"
+
+msgid "Hat"
+msgstr "帽子"
+
+msgid "Replicator"
+msgstr "複製者"
+
+msgid "Coal Ore"
+msgstr "煤炭礦石"
+
+msgid "Palm Fence"
+msgstr "棕櫚柵欄"
+
+msgid "Goblin Armor"
+msgstr "地精裝甲"
+
+msgid "Fire Staff"
+msgstr "火焰法杖"
+
+msgid "Iron Bar"
+msgstr "鐵錠"
+
+msgid "Sea Grass"
+msgstr "海草"
+
+msgid "Antique Window"
+msgstr "仿古窗"
+
+msgid "TrapDoor"
+msgstr "陷阱門"
+
+msgid "Devil Rock"
+msgstr "魔巖"
+
+msgid "Birch Plant"
+msgstr "白樺樹苗"
+
+msgid "Raven Wing"
+msgstr "烏鴉羽翼"
+
+msgid "Coloring Block"
+msgstr "彩繪方塊"
+
+msgid "Metal Fence Gate"
+msgstr "金屬柵欄門"
+
+msgid "Stair"
+msgstr "木樓梯"
+
+msgid "Mistic Ring"
+msgstr "神秘戒指"
+
+msgid "Duck Spawner"
+msgstr "鴨子生怪磚"
+
+msgid "Dragon Helmet"
+msgstr "龍盔"
+
+msgid "Teleport"
+msgstr "傳送"
+
+msgid "Swamp Spawner"
+msgstr "{0}生怪磚"
+
+msgid "Bark"
+msgstr "原木"
+
+msgid "Sand"
+msgstr "沙子"
+
+msgid "Short Sword"
+msgstr "短劍"
+
+msgid "Crystal Sword"
+msgstr "水晶劍"
+
+msgid "Bones Shield"
+msgstr "骨盾"
+
+msgid "Dog Soul"
+msgstr "狗之魂"
+
+msgid "GunPowder"
+msgstr "火藥"
+
+msgid "SheepSkin"
+msgstr "羊皮"
+
+msgid "Dragon Ring"
+msgstr "龍戒"
+
+msgid "Clear Stone"
+msgstr "清澈石"
+
+msgid "Chair"
+msgstr "木椅"
+
+msgid "Red Leaves"
+msgstr "紅葉"
+
+msgid "Red Crystals"
+msgstr "紅水晶"
+
+msgid "Lava"
+msgstr "岩漿桶"
+
+msgid "Forgotten Leaves"
+msgstr "被遺忘的樹葉"
+
+msgid "HorseSkin"
+msgstr "馬皮"
+
+msgid "Poplar Plant"
+msgstr "白楊樹苗"
+
+msgid "Flippers"
+msgstr "腳蹼"
+
+msgid "Warrior Pants"
+msgstr "戰士護腿"
+
+msgid "Long Sword"
+msgstr "長劍"
+
+msgid "Sword"
+msgstr "石劍"
+
+msgid "Engine"
+msgstr "引擎"
+
+msgid "Shark Fin"
+msgstr "魚翅"
+
+msgid "Yellow Flower"
+msgstr "{0}黃花"
+
+msgid "Mana Potion"
+msgstr "法力藥水"
+
+msgid "Explosive Arrow"
+msgstr "爆炸箭"
+
+msgid "Diamond"
+msgstr "鑽石"
+
+msgid "Plank"
+msgstr "木板"
+
+msgid "Goblin Helmet"
+msgstr "地精頭盔"
+
+msgid "Pine Leaves"
+msgstr "松葉"
+
+msgid "Fire Magic"
+msgstr "火焰法杖"
+
+msgid "Rose Flower"
+msgstr "玫瑰花"
+
+msgid "Blue Crystals"
+msgstr "藍水晶"
+
+msgid "Craft Table"
+msgstr "工作臺"
+
+msgid "Spikes Staff"
+msgstr "尖刺法杖"
+
+msgid "Ladder"
+msgstr "梯子"
+
+msgid "Klorium"
+msgstr "輝石"
+
+msgid "Jungle Bush Leaves"
+msgstr "叢林灌木樹葉"
+
+msgid "Jungle Leaves"
+msgstr "叢林樹葉"
+
+msgid "Rose Flowers"
+msgstr "玫瑰花"
+
+msgid "Jungle Flower"
+msgstr "叢林花卉"
+
+msgid "Vehicles"
+msgstr "交通工具"
+
+msgid "Neck"
+msgstr "頸部"
+
+msgid "Klorium Block"
+msgstr "輝石塊"
+
+msgid "Cryptonite Block"
+msgstr "氪石塊"
+
+msgid "Forgotten Light"
+msgstr "被遺忘之光"
+
+msgid "Meteorite Block"
+msgstr "隕石塊"
+
+msgid "Devil Coal Ore"
+msgstr "惡魔煤礦石"
+
+msgid "Devil Ruby Ore"
+msgstr "惡魔紅水晶礦石"
+
+msgid "Sulphure Block"
+msgstr "硫磺塊"
+
+msgid "Unobtainium Block"
+msgstr "難得素塊"
+
+msgid "Slime"
+msgstr "史萊姆"
+
+msgid "Radar Recipe"
+msgstr "雷達配方"
+
+msgid "Melon Slice"
+msgstr "西瓜片"
+
+msgid "Pal"
+msgstr "夥伴"
+
+msgid "Pet Space Suit"
+msgstr "寵物太空衣"
+
+msgid "Creative Kelp"
+msgstr "創造海帶"
+
+msgid "Creative Kombu"
+msgstr "創造昆布"
+
+msgid "Creative Enhalus"
+msgstr "創造海草"
+
+msgid "Creative Anemone"
+msgstr "創造海葵"
+
+msgid "Kelp"
+msgstr "海帶"
+
+msgid "Kombu"
+msgstr "昆布"
+
+msgid "Enhalus"
+msgstr "海草"
+
+msgid "Anemone"
+msgstr "海葵"
+
+msgid "Forgotten Grass 3D"
+msgstr "被遺忘的3D草"
+
+msgid "Yellow Crystals"
+msgstr "黃色水晶"
+
+msgid "Klorium Ore"
+msgstr "輝石礦"
+
+msgid "Cryptonite Ore"
+msgstr "氪石礦"
+
+msgid "Crystal Block Yellow"
+msgstr "黃水晶塊"
+
+msgid "Unobtainium From Bar"
+msgstr "難得素錠配方"
+
+msgid "Klorium From Ore"
+msgstr "輝石錠"
+
+msgid "Cryptonite From Ore"
+msgstr "氪石錠"
+
+msgid "Poison Potion"
+msgstr "毒藥藥水"
+
+msgid "Nebula Rock"
+msgstr "星雲巖"
+
+msgid "Star Core"
+msgstr "星核"
+
+msgid "Asteroid Stone"
+msgstr "星彩巖"
+
+msgid "Dark Matter"
+msgstr "暗物質"
+
+msgid "Nebula Cloud"
+msgstr "星雲"
+
+msgid "Obsidian"
+msgstr "黑曜石"
+
+msgid "Obsidian Shard"
+msgstr "黑曜石碎片"
+
+msgid "Obsidian Block"
+msgstr "黑曜石塊"
+
+msgid "Cosmic Helmet"
+msgstr "宇宙頭盔"
+
+msgid "Cosmic Armor"
+msgstr "宇宙胸甲"
+
+msgid "Cosmic Boots"
+msgstr "宇宙靴子"
+
+msgid "Cosmic Pants"
+msgstr "宇宙護腿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:118
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1142
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:673
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1493
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:929
+msgid "Skill Reset"
+msgstr "重置技能"
+
+msgid "Marble Block"
+msgstr "大理石塊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:118
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:91
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:41
+msgid "Anvil"
+msgstr "鐵砧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:62
+# UnityGame/Assets/Scripts/Achievements/Actions/AchieveRewardRecipe.cs:46
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:131
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:32
+msgid "DarkBoss"
+msgstr "黑暗魔王"
+
+msgid "DragonLord"
+msgstr "龍主"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Pet"
+msgstr "機械寵物"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Cannon"
+msgstr "加農炮"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Computer"
+msgstr "計算機"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Left"
+msgstr "左機械腿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Right"
+msgstr "右機械腿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rocket Launcher"
+msgstr "火箭筒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Left"
+msgstr "左通風器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Right"
+msgstr "右通風器"
+
+msgid "Rockets"
+msgstr "火箭"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:33
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1244
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1250
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Storage Row"
+msgstr "存儲行"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Desert Bush"
+msgstr "沙漠灌木"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mystical Block"
+msgstr "神秘的方塊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bush"
+msgstr "惡魔灌木"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Ice Bricks"
+msgstr "冰磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet"
+msgstr "地毯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bricks"
+msgstr "魔磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Skulls Block"
+msgstr "骨塊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Granite"
+msgstr "花崗岩"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Battle Axe"
+msgstr "戰斧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Axe"
+msgstr "火焰戰斧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Ice Axe"
+msgstr "寒冰戰斧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dark Axe"
+msgstr "黑暗戰斧"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Snowman"
+msgstr "雪人"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Christmas Tree"
+msgstr "聖誕樹"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Teleporter"
+msgstr "傳送器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:874
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:840
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:653
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Baby Ashkore Soul"
+msgstr "阿什科爾寶寶之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rails"
+msgstr "鐵軌"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Minecart"
+msgstr "礦車"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sign"
+msgstr "告示牌"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fireworks"
+msgstr "煙花"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati Soul"
+msgstr "瑪蒂之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rainbow Basilisk Soul"
+msgstr "彩虹蛇怪之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Viking Boat"
+msgstr "維京船"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bait"
+msgstr "魚餌"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fish Rod"
+msgstr "釣魚竿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Meat"
+msgstr "烤肉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried ClownFish"
+msgstr "熟小丑魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried LionFish"
+msgstr "熟獅子魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried GruntFish"
+msgstr "熟咕噥魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried TriggerFish"
+msgstr "熟炮彈魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Squid"
+msgstr "熟烏賊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Stingray"
+msgstr "熟黃貂魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Urchin"
+msgstr "熟海膽"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried StarFish"
+msgstr "熟海星"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Shark"
+msgstr "熟鯊魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "ClownFish"
+msgstr "小丑魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "LionFish"
+msgstr "獅子魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "GruntFish"
+msgstr "咕噥魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "TriggerFish"
+msgstr "炮彈魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Squid"
+msgstr "烏賊"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stingray"
+msgstr "黃貂魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Urchin"
+msgstr "海膽"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "StarFish"
+msgstr "海星"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Shark"
+msgstr "鯊魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wall Torch"
+msgstr "壁掛火把"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mashine Gun"
+msgstr "機槍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber"
+msgstr "琥珀"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Half"
+msgstr "木質橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Vertical"
+msgstr "木質豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Triangle"
+msgstr "木質三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Half"
+msgstr "樺木橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Vertical"
+msgstr "樺木豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Triangle"
+msgstr "樺木三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Half"
+msgstr "棕櫚橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Vertical"
+msgstr "棕櫚豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Triangle"
+msgstr "棕櫚三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Half"
+msgstr "純淨木橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Vertical"
+msgstr "純淨木豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Triangle"
+msgstr "純淨木三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Stairs"
+msgstr "純淨木樓梯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Half"
+msgstr "石質橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Vertical"
+msgstr "石質豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Triangle"
+msgstr "石質三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Half"
+msgstr "仿古石橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Vertical"
+msgstr "仿古石豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Triangle"
+msgstr "仿古石三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Half"
+msgstr "紅磚橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Vertical"
+msgstr "紅磚豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Triangle"
+msgstr "紅磚三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet Half"
+msgstr "地毯橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet Vertical"
+msgstr "地毯豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Tile"
+msgstr "金屬磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Half"
+msgstr "大理石橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Vertical"
+msgstr "大理石豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Triangle"
+msgstr "大理石三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Stairs"
+msgstr "大理石樓梯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar Bottom"
+msgstr "石柱底"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar"
+msgstr "石柱"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar Top"
+msgstr "石柱頂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Miracle Stone"
+msgstr "奇蹟之石"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Half"
+msgstr "鐵製橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Vertical"
+msgstr "鐵製豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Triangle"
+msgstr "鐵製三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Half"
+msgstr "黃金橫半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Vertical"
+msgstr "黃金豎半磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Triangle"
+msgstr "黃金三角版"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Ladder"
+msgstr "金屬梯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Simple Wood Door"
+msgstr "簡易木門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Lattice Door"
+msgstr "金屬格柵門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Door"
+msgstr "金屬門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Trap Door"
+msgstr "金屬陷阱門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Fence"
+msgstr "純淨木柵欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Fence"
+msgstr "金屬欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Fence"
+msgstr "大理石欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Fence"
+msgstr "黃金欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Fence Gate"
+msgstr "樺木柵欄門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Fence Gate"
+msgstr "棕櫚柵欄門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Fence Gate"
+msgstr "純淨木柵欄門"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Chain"
+msgstr "鐵鏈"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sponge"
+msgstr "海綿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Alien Fish Rod"
+msgstr "外星魚竿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sunshard Paula"
+msgstr "日耀法杖·葆拉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sunshard Wizard"
+msgstr "日耀法杖·法師"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Goblin Rocket Launcher"
+msgstr "哥布林火箭筒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Phoenix Swords"
+msgstr "菲尼克斯雙劍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "World Breaker"
+msgstr "世界破壞者"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Helmet"
+msgstr "琥珀頭盔"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Armor"
+msgstr "琥珀胸甲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Pants"
+msgstr "琥珀護腿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Boots"
+msgstr "琥珀靴子"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Alien Shield"
+msgstr "異形盾"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Phoenix Shield"
+msgstr "菲尼克斯之盾"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Space Suit"
+msgstr "宇航頭盔"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Angel Wings"
+msgstr "天使之翼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Daithir Soul"
+msgstr "達伊希爾之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Vairmut Soul"
+msgstr "維爾繆特之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Xordaraxus Soul"
+msgstr "索達拉修斯之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Onyx Soul"
+msgstr "菲尼克斯之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "SwampGolem"
+msgstr "沼澤傀儡"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Liana"
+msgstr "藤蔓"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Big Liana"
+msgstr "巨藤"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sequoia Tree Plant"
+msgstr "紅杉樹苗"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
+msgid "Amber From Bricks"
+msgstr "磚制琥珀"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
+msgid "Amber Bricks"
+msgstr "琥珀磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Paving Stone"
+msgstr "鋪路石"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Purplefish"
+msgstr "熟紫火魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried DumboOctopus"
+msgstr "熟飛象章魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Dunkleosteus"
+msgstr "熟鄧氏魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Fangtooth"
+msgstr "熟尖牙魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Gulper"
+msgstr "熟寬咽魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Concrete"
+msgstr "混凝土"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Mashine Gun Bullet"
+msgstr "機槍子彈"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:930
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:896
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sunshard"
+msgstr "日耀法杖"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Purplefish"
+msgstr "紫火魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "DumboOctopus"
+msgstr "飛象章魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dunkleosteus"
+msgstr "鄧氏魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fangtooth"
+msgstr "尖牙魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gulper"
+msgstr "寬咽魚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moon Sand"
+msgstr "月球沙"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Grass"
+msgstr "太空草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Dirt"
+msgstr "太空土"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Bark"
+msgstr "太空木"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Water"
+msgstr "靜態水"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Lava"
+msgstr "靜態岩漿"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Swamp"
+msgstr "靜態沼澤"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Frozen Coral"
+msgstr "冰凍珊瑚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom Trunk"
+msgstr "蘑菇主幹"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Flower"
+msgstr "太空花"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom"
+msgstr "蘑菇"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Glowing Grass"
+msgstr "發光草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Acid Grass"
+msgstr "硫酸草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moss"
+msgstr "苔蘚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Leafs"
+msgstr "太空樹葉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Straight Grass"
+msgstr "直草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blooming Grass"
+msgstr "開花草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Grace"
+msgstr "恩典"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Wing"
+msgstr "菲尼克斯羽翼"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Essence"
+msgstr "火焰精華"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Cheat Diamond"
+msgstr "假鑽石"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Railway Dead End"
+msgstr "軌道尾"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle son Note"
+msgstr "符印紙條瓶"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Poi Note"
+msgstr "紋記紙條瓶"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Empty Note"
+msgstr "空瓶紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Empty"
+msgstr "空白紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Poi"
+msgstr "紋記紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note son"
+msgstr "符印紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Note With Symbols"
+msgstr "帶有符號的紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Magic Scroll"
+msgstr "魔力卷軸"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Empty Iron"
+msgstr "空白紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Poi Iron"
+msgstr "鐵質紋記紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note son Iron"
+msgstr "鐵質符印紙條"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:906
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:872
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:682
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Locomotive"
+msgstr "火車頭"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:906
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:872
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:682
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wrench"
+msgstr "扳手"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Scripts/Achievements/Actions/AchieveRewardRecipe.cs:46
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:172
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:37
+msgid "Multitool"
+msgstr "多功能工具"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Eldriar Soul"
+msgstr "隕石龍之魂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Meteorite Ore"
+msgstr "隕石礦"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dragon Egg"
+msgstr "龍蛋"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Dragon Armor"
+msgstr "老舊的龍甲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blue Dragon Armor"
+msgstr "藍水晶龍甲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Red Dragon Armor"
+msgstr "紅水晶龍甲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Emerald Dragon Armor"
+msgstr "綠水晶龍甲"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Vehicle"
+msgstr "交通工具"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Radar/RadarTool.cs:11
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:135
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:202
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:254
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:235
+# UnityGame/Assets/Blocksters/Scripts/Particles/InventoryStorage.cs:60
+msgid "Teleport / Bed / Vehicle"
+msgstr "床/交通工具"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Heavy Metal Swords"
+msgstr "重金屬雙劍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Wires"
+msgstr "電線"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Piston"
+msgstr "活塞"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Wood Piston"
+msgstr "木活塞"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Electric Torch"
+msgstr "電燈"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Light Sensor"
+msgstr "光線傳感器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Motion Sensor"
+msgstr "運動傳感器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Timer Sensor"
+msgstr "計時器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Relay Sensor"
+msgstr "中繼器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Variable Resistor"
+msgstr "電位器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Relay Controller"
+msgstr "控制器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Remote Sensor"
+msgstr "發射器"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Piano Music Box"
+msgstr "鋼琴音符盒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Guitar Music Box"
+msgstr "吉他音符盒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Accordion Music Box"
+msgstr "手風琴音符盒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Drum Music Box"
+msgstr "鼓音符盒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Gramophone"
+msgstr "留聲機"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Clock"
+msgstr "鍾"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Diode"
+msgstr "二極管"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:48
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Flame of the Cosmic Forge"
+msgstr "宇宙熔爐之焰"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Airplane"
+msgstr "飛機"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Jungle Sod"
+msgstr "叢林草皮"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Siren"
+msgstr "唱片 - 警笛"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Haven"
+msgstr "唱片 - 避風港"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Abyss"
+msgstr "唱片 - 深淵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Arpeggio"
+msgstr "唱片 - 琶音"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Atmosphere"
+msgstr "唱片 - 氛圍"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Atmosphere Piano"
+msgstr "唱片 - 氛圍鋼琴"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Boss Fight"
+msgstr "唱片 - Boss戰"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Desrtino"
+msgstr "唱片 - 命運"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Epic"
+msgstr "唱片 - 史詩"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Guitar Accords"
+msgstr "唱片 - 吉他和絃"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Menu Theme"
+msgstr "唱片 - 菜單主題"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Miracles"
+msgstr "唱片 - 奇蹟"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Mistery"
+msgstr "唱片 - 神秘"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record New Forest"
+msgstr "唱片 - 新森林"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Pip Orquesta"
+msgstr "唱片 - 皮普樂團"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Solar"
+msgstr "唱片 - 太陽"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Vanity"
+msgstr "唱片 - 虛榮"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Wonderland"
+msgstr "唱片 - 仙境"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - 8bit"
+msgstr "傳統唱片 - 像素風"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Indie"
+msgstr "傳統唱片 - 獨立音樂"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Ragga"
+msgstr "傳統唱片 - 拉加"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Ray of sunset"
+msgstr "傳統唱片 - 夕陽之光"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Serenity"
+msgstr "傳統唱片 - 寧靜"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Space 80s"
+msgstr "傳統唱片 - 太空80年代"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Thoughts"
+msgstr "傳統唱片 - 思緒"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Tradiore - Walpurgis Night"
+msgstr "傳統唱片 - 瓦爾普吉斯之夜"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Pirates - Silent Sea"
+msgstr "海盜唱片 - 寂靜之海"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Record Pirates - Ending"
+msgstr "海盜唱片 - 結局"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gold Coin"
+msgstr "金幣"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Red"
+msgstr "紅色染料"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Blue"
+msgstr "藍色染料"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Yellow"
+msgstr "黃色染料"
+
+#, fuzzy
+msgid "Drill 50x50"
+msgstr "挖掘 50x50"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drill Creative"
+msgstr "創造挖掘"
+
+#, fuzzy
+msgid "Lost Bark"
+msgstr "樹皮"
+
+#, fuzzy
+msgid "Dead Bark"
+msgstr "枯死木"
+
+#, fuzzy
+msgid "Lost Leaves"
+msgstr "凋落樹葉"
+
+#, fuzzy
+msgid "Autumn Leaves"
+msgstr "秋葉"
+
+#, fuzzy
+msgid "Sakura Leaves"
+msgstr "櫻花葉"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:97 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51 
+msgid "Sentinel's Branch"
+msgstr "哨兵靈木"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Aragog"
+msgstr "阿拉戈克唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ashkore"
+msgstr "阿什科爾唱片"
+
+#, fuzzy
+msgid "Record Dragon Lord"
+msgstr "龍主唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Mati"
+msgstr "瑪蒂唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Phoenix"
+msgstr "菲尼克斯唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Swamp Golem"
+msgstr "沼澤傀儡唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Space Mushrooms"
+msgstr "太空蘑菇唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Liquid Fog"
+msgstr "凝霧液"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ocean Ripples"
+msgstr "海洋漣漪唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Begin"
+msgstr "序曲唱片"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Skill Reset Scroll"
+msgstr "遺忘卷軸"
+
+#, fuzzy
+msgid "Swamp Grass"
+msgstr "沼澤草"
+
+#, fuzzy
+msgid "Peony Flower"
+msgstr "牡丹花"
+
+#, fuzzy
+msgid "Swamp Plank"
+msgstr "沼澤木板"
+
+#, fuzzy
+msgid "Elf Bricks"
+msgstr "精靈磚"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:83 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:34 
+msgid "Elf Column"
+msgstr "精靈石柱"
+
+#, fuzzy
+msgid "Elf Brick Fence"
+msgstr "精靈磚柵欄"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Kelp"
+msgstr "海帶"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Kombu"
+msgstr "昆布"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Enhalus"
+msgstr "海草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Anemone"
+msgstr "海葵"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Creative Kelp"
+msgstr "創造海帶"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Creative Kombu"
+msgstr "創造昆布"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Creative Enhalus"
+msgstr "創造海草"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Creative Anemone"
+msgstr "創造海葵"
