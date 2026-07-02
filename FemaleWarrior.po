@@ -410,7 +410,7 @@ msgstr "一切结束后我该去做什么？安安静静地照料我的那些动
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:18
 #, no-wrap
 msgid "Reach level 50 with the dragon."
-msgstr "将龙升至50级。"
+msgstr "将龙升至30级。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:29
@@ -422,13 +422,13 @@ msgstr "你是我所认识的最伟大的人。我相信你可以给这场战争
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
 #, no-wrap
 msgid "Tell Paula the dragon has reached its maximum potential."
-msgstr "告诉葆拉，你的龙达到了全部潜能。"
+msgstr "告诉葆拉，你的龙达到了全部潜能（30级）。"
 
 msgid "The Maturation of the Dragon"
 msgstr "龙的成熟"
 
 msgid "Tell Paula the Xordaraxus has reached its maximum potential."
-msgstr "告诉葆拉，索达拉修斯达到了全部潜能。"
+msgstr "告诉葆拉，索达拉修斯达到了全部潜能（30级）。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -844,9 +844,9 @@ msgid ""
 "remained on the Heavenly islands to be closer to their homeland, the rest "
 "flew down..."
 msgstr ""
-"古代传说中描述，你刚刚到达过的世界即为他们的故乡。很久以前，它们曾乘大型飞船从那里飞过，这种飞船无需借助魔法就能在空中翱翔。\n"
-"      它们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，阿什科尔，他们非常害怕。\n"
-"      因此，它们决定迁往地面生活。它们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
+"古代传说中描述，你刚刚到达过的世界即为他们的故乡。很久以前，他们曾乘大型飞船从那里飞过，这种飞船无需借助魔法就能在空中翱翔。\n"
+"      他们曾是自己家园中的囚徒和流浪者，设法从那里逃到了我们的世界。起初，他们降落在天堂中的岛屿上，但在那里住着一个强大的怪物，阿什科尔，他们非常害怕。\n"
+"      因此，他们决定迁往地面生活。他们中的一些人仍留在天堂中的岛屿上，以更接近自己的家园，其余的则飞了下来..."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -872,9 +872,9 @@ msgid ""
 "      But once they managed to get an unusual substance - a mutagen. With "
 "the help of it, they found the opportunity to live on the surface."
 msgstr ""
-"但是它们的飞船掉入海中沉没了。他们说它仍在那里。泰德甚至声称，有一次，当他在明朗的晴天钓鱼时，大海特别平静，他透过水看到了它的轮廓，但没人相信他。\n"
+"但是他们的飞船掉入海中沉没了。他们说飞船仍在那里。泰德甚至声称，有一次，当他在明朗的晴天钓鱼时，大海特别平静，他透过水看到了飞船的轮廓，但没人相信他。\n"
 "      飞船上的来访者并没有因此丧命。最初，他们建造了水下圆顶房并居住在其中，因为阳光对他们而言是致命的，因此，直到夜晚他们才去往地面。\n"
-"      直到它们设法获得一种不寻常的物质 - 诱变剂后。在它的帮助下，它们才得到了在地表生活的机会。"
+"      直到他们设法获得一种不寻常的物质 - 诱变剂后。在诱变剂的帮助下，他们才得到了在地表生活的机会。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
