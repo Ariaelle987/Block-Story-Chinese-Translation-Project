@@ -42,7 +42,7 @@ msgstr "与葆拉谈谈巫师的背叛。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:24
 #, no-wrap
 msgid "With the last of his magic, the Dragon Lord concealed himself with a glamer, taking on the appearance of a weak old man.  He then used you to do his bidding, to bring his dragons home, and make him more powerful than ever.  He tricked you.  We were all fooled."
-msgstr "龙主用他最后的魔力来掩饰自己，伪装成一位虚弱的老人。然后，他利用了你，将龙带了回来，使他比以往任何时候都更具力量。所以他欺骗了你，我们所有人都被蒙骗了。"
+msgstr "龙主用他最后的魔力来掩饰自己，伪装成一位虚弱的老人。然后，他利用了你，将龙带了回来，使他比以前更加强大。他欺骗了你，我们所有人都被蒙骗了。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:34
