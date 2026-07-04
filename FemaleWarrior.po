@@ -218,7 +218,7 @@ msgid ""
 msgstr ""
 "殺死強大的怪物是強化龍的最快方法。當龍打敗怪物時，它會升級並最終成長為一種強大的生物。\n"
 "\n"
-"尋找一些狼人並終結他們帶來的恐怖。狼人生活在紅杉林的山上。"
+"尋找一些狼人並終結他們帶來的恐怖。狼人生活在有著紅杉林的山上。"
 
 #. (itstool) path: killstep/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:19
@@ -290,7 +290,7 @@ msgstr "替葆拉找一隻寵物蜘蛛。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:72
 #, no-wrap
 msgid "It is nice to see you and your dragon getting along so well.  But the truth is, seeing you two reminds me of my grief.  Perhaps you guessed that I too was once a dragon rider.  Xordaraxus, that was my dragon's name.  And what a beautiful dragon he was, long necked and majestic, with scales like polished ebony.  Oh I miss him so.  Even more than flying among the clouds, I miss the companionship.  My dragon was my dearest friend."
-msgstr "很高興看到你和你的龍相處得這麼好。但看到你們也讓我想起了一些悲傷的事。也許你已經猜到了，我曾是一位龍騎士。索達拉修斯，那是我的龍的名字。它是條很棒的龍，顯出威嚴的長頸，烏木一般的鱗片。喔，我很想他。我想念他的陪伴比想在雲裡飛行更強烈。我的龍是我最親愛的朋友。"
+msgstr "很高興看到你和你的龍相處得這麼好。但看到你們也讓我想起了一些悲傷的事。也許你已經猜到了，我曾是一位龍騎士。索達拉修斯，那是我的龍的名字。它是條很棒的龍，顯出威嚴的長頸，烏木一般的鱗片。喔，我很想它。我想念它的陪伴比想在雲裡飛行更強烈。我的龍是我最親愛的朋友。"
 
 #. (itstool) path: removestep/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:80
@@ -320,7 +320,7 @@ msgstr "感謝你把小索迪帶到我身邊。當我和它玩耍時，總會想
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:101
 #, no-wrap
 msgid "Careful of the dinosaur's deadly bite, and huge feet, or he'll squash you like a bug."
-msgstr "小心來自暴龍的致命一咬和它巨大的腳，否則他會像踩蟲子一樣踩扁你。"
+msgstr "小心來自暴龍的致命一咬和它巨大的腳，否則它會像踩蟲子一樣踩扁你。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:106
@@ -495,7 +495,7 @@ msgid ""
 "    But this is not an easy goal, are you ready to start?"
 msgstr ""
 "我曾看見龍主虐待他的龍，他不配擁有它們！但我沒法照顧小龍。\n"
-"    只有你，龍騎士，才能馴服那三條龍，併成為他們的良師益友。\n"
+"    只有你，龍騎士，只有你才能馴服那三條龍，併成為它們的良師益友。\n"
 "    但這不是一個簡單的目標，你準備好開始了嗎？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -589,7 +589,7 @@ msgid ""
 "Before I begin, I have to show you one amazing thing with the help of which "
 "you can gain power over the Fire Dragon."
 msgstr ""
-"在開始之前，我得向你展示一件令人驚奇的東西，藉助你可以獲得駕馭火龍的力量。"
+"在開始之前，我得向你展示一件令人驚奇的東西，藉助它，你可以獲得駕馭火龍的力量。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -632,7 +632,7 @@ msgid ""
 "and there is another huge world, beautiful and dangerous at the same time, a "
 "world that is hard to get into and even harder to survive there."
 msgstr ""
-"傳說中描述，在我們的世界之外，還有在其外部的，未知的世界，還有另一個巨大的世界，同時美麗而危險，這個世界極難進入，連生存都非易事。"
+"傳說中描述，在我們的世界之外，還有在其外部的，未知的世界，還有另一個美麗而危險的巨大世界，這個世界極難進入，連生存都非易事。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -817,8 +817,8 @@ msgid ""
 "underwater domes and on the Heavenly islands. \n"
 "      But have you ever wondered where they came from in our world?"
 msgstr ""
-"當然，你或許早就遇到了這些生活在海洋浮冰上的奇怪生物，以及與它們相似的其他生物，它們生活在亞特蘭蒂斯和天堂的島嶼上。\n"
-"      但你是否想知道它們來自何處？"
+"當然，你或許早就遇到了這些生活在海洋浮冰上的奇怪生物，以及與他們相似的其他生物，他們生活在亞特蘭蒂斯和天堂的島嶼上。\n"
+"      但你是否想知道他們來自何處？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -873,7 +873,7 @@ msgid ""
 "the help of it, they found the opportunity to live on the surface."
 msgstr ""
 "但是他們的飛船掉入海中沉沒了。他們說飛船仍在那裡。泰德甚至聲稱，有一次，當他在明朗的晴天釣魚時，大海特別平靜，他透過水看到了飛船的輪廓，但沒人相信他。\n"
-"      飛船上的來訪者並沒有因此喪命。最初，他們建造了水下圓頂房並居住在其中，因為陽光對他們而言是致命的，因此，直到夜晚他們才去往地面。\n"
+"      飛船上的來訪者並沒有因此喪命。最初，他們建造了水下圓頂房並居住在其中，因為陽光對他們而言是致命的，所以直到夜晚他們才去往地面。\n"
 "      直到他們設法獲得一種不尋常的物質 - 誘變劑後。在誘變劑的幫助下，他們才得到了在地表生活的機會。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -946,8 +946,8 @@ msgid ""
 "they said, this relic is not so easy to pick up. I do not know what these "
 "words mean, you have to figure it out by yourself."
 msgstr ""
-"他們要求你為他們得到這個遺物，將它作為被遺棄故鄉的紀念品儲存下來。但他們很久以前就離開了家園，以致沒有誰確切記得這東西的存放地。\n"
-"      它們只知道要在蘑菇溼地的同類的定居點中其中一個蘑菇屋裡尋找這塊石頭。它們說，要小心，這東西不是那麼容易得到。我不知道這是什麼意思，所以你不得不自己搞清楚。"
+"他們請求你為他們得到這個遺物，將它作為被遺棄故鄉的紀念品儲存下來。但他們很久以前就離開了家園，以致沒有誰確切記得這東西的存放地。\n"
+"      他們只知道要在蘑菇溼地的同類的定居點中其中一個蘑菇屋裡尋找這塊石頭。他們說，要小心，這東西不是那麼容易得到。我不知道這是什麼意思，所以你不得不自己搞清楚。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1299,7 +1299,7 @@ msgid ""
 "increases with its every revival, and when it becomes very strong, the fire "
 "begins to fall from its wings..."
 msgstr ""
-"要召喚菲尼克斯，你必須找到它的卵並將其打碎。只有像你這樣強大的戰士才能破開火焰鳥的卵。\n"
+"要召喚菲尼克斯，你必須找到它的蛋並將其打碎。只有像你這樣強大的戰士才能破開火焰鳥的蛋。\n"
 "      菲尼克斯即使死亡，也會一次又一次地重生。每一次重生，它的破壞力都會增強，當它變得極其強大時，烈焰將從翅膀上傾瀉而下……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -1382,7 +1382,7 @@ msgid ""
 msgstr ""
 "你必須獲得最後、也是最強大的那條龍。\n"
 "      我們不需要馴服它，因為我確信，那正是我最喜愛的龍——我的索達拉修斯。\n"
-"      你是不是在問我，為什麼我不把它留在自己身邊，畢竟我曾如此愛它，也為失去它而悲痛？"
+"      你是不是想問我，為什麼我不把它留在自己身邊，畢竟我曾如此愛它，也為失去它而悲痛？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1489,7 +1489,7 @@ msgid ""
 "you are, Dragon Rider, now I'm sure I can trust you with my beloved "
 "Xordaraxus."
 msgstr ""
-"難以置信，你做到了！你擊敗了可怕的沼澤傀儡！龍騎士，你真的有足夠實力。現在，我相信我心愛的索達拉修斯可以信任你了。"
+"難以置信，你做到了！你擊敗了可怕的沼澤傀儡！龍騎士，你真的有足夠的實力。現在，我相信我心愛的索達拉修斯可以信任你了。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1524,10 +1524,10 @@ msgid ""
 "Now it's time to train Xordaraxus so it reaches his maximum power. Just like "
 "in old good days."
 msgstr ""
-"現在是時候訓練索達拉修斯了，讓他達到自己的最大潛力。就像它在曾經那光輝歲月時一樣。"
+"現在是時候訓練索達拉修斯了，讓他達到自己的最大潛力。就像它在過去的光輝歲月時一樣。"
 
 msgid "Reach level 50 with the Xordaraxus."
-msgstr "將索達拉修斯升至50級。"
+msgstr "將索達拉修斯升至30級。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1574,7 +1574,7 @@ msgid ""
 "it did to the Dragon Lord."
 msgstr ""
 "現在，當你獲得對龍的控制權時，你的力量就會成倍增長。我必須警告你。 並非所有人都能承受這種權力的負擔，將權力用於邪惡的慾望總是伴隨著你。\n"
-"      作為主人，你可能無法應付，黑暗力量的誘惑曾擊潰了龍主。你選擇接受還是抗拒，我不清楚。但我知道，這種不可思議的力量會使人瘋狂，就像那龍主一樣。"
+"      作為主人，你可能無法應付，黑暗力量的誘惑曾使龍主墮落。你選擇接受還是抗拒，我不清楚。但我知道，這種不可思議的力量會使人瘋狂，就像那龍主一樣。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1697,11 +1697,11 @@ msgid ""
 "appears at night and for which there are no barriers. \n"
 "    This is an evil dark spirit that claimed many lives and his name is Mati."
 msgstr ""
-"他來自另一個世界。很長一段時間裡，他始終只是旁觀者，從未乾涉人類的生活。\n"
+"它來自另一個世界。很長一段時間裡，它始終只是旁觀者，從未乾涉人類的生活。\n"
 "    只有那雙偶爾出現在夜空中的眼睛，會讓人感到不寒而慄。\n"
-"    然而後來，他真正出現在世人面前，而從那一刻起，再也沒有人能夠逃離他的陰影。\n"
-"    或許正是龍主施展的黑暗魔力將他召喚到了這裡。\n"
-"    他是夜晚降臨的災厄，是一道沒有任何屏障能夠阻擋的邪惡存在。\n"
+"    然而後來，它真正出現在世人面前，而從那一刻起，再也沒有人能夠逃離它的陰影。\n"
+"    或許正是龍主施展的黑暗魔力將它召喚到了這裡。\n"
+"    它是夜晚降臨的災厄，是一道沒有任何屏障能夠阻擋的邪惡存在。\n"
 "    這個奪走無數生命的黑暗之靈，名叫瑪蒂。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
@@ -1724,7 +1724,7 @@ msgid ""
 "\n"
 "    Take this staff, it will help you kill this evil spirit."
 msgstr ""
-"邪惡的咒文覆蓋著他的身體，普通武器根本無法傷害他，只有魔力的力量才能將其擊敗。\n"
+"邪惡的咒文覆蓋著他的身體，普通武器根本無法傷害它，只有魔力的力量才能將其擊敗。\n"
 "\n"
 "    我知道你的實力已經十分強大，但做好更充分的準備總沒有壞處。拿上這根法杖吧，它會幫助你消滅這個邪惡的靈體。"
 
@@ -1766,7 +1766,7 @@ msgid ""
 "afraid of! You cleansed our land of evil and chose the hard path of the "
 "protector of this world. Legends will be composed of your exploits."
 msgstr ""
-"最後，那個令所有人聞風喪膽的可怕怪物終於被消滅了！那個令所有人聞風喪膽的可怕怪物終於被消滅了！你驅散了這片土地上的邪惡，並選擇了成為世界守護者這條艱難的道路。你的功績必將被世代傳頌，並化作新的傳奇。"
+"最後，那個令所有人聞風喪膽的可怕怪物終於被消滅了！你驅散了這片土地上的邪惡，並選擇了成為世界守護者這條艱難的道路。你的功績必將被世代傳頌，並化作新的傳奇。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1788,7 +1788,7 @@ msgid ""
 "    Good luck, Dragon Rider, maybe we'll meet again and I will reveal to you "
 "new secrets of our world."
 msgstr ""
-"照顧好你的龍夥伴們，好好訓練並引導它們。，因為邪惡隨時都有可能捲土重來。\n"
+"照顧好你的龍夥伴們，好好訓練並引導它們。因為邪惡隨時都有可能捲土重來。\n"
 "    或許未來我們還會再次相見，到那時，我會向你揭示這個世界更多不為人知的秘密。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
