@@ -32,7 +32,7 @@ msgid ""
 "receive my grace, you will be able to possess them. But are you worthy? "
 "Let's check your strength."
 msgstr ""
-"终于，我见到了一位值得一战的对手！看看我华丽的翅膀，你也想拥有吗？它们能赋予你力量和飞行的自由，你将不再需要使用那个骗子炼金术士的药水。等你收到我赐予你的恩典后，你便能拥有它们。但你配得上吗？让我们来测试一下你的实力吧。"
+"终于，我见到了一位值得一战的对手！看看我华丽的翅膀，你也想拥有吗？它们能赋予你力量和飞行的自由，你将不再需要使用那个骗子奸商炼金术士的药水。等你收到我赐予你的恩典后，你便能拥有它们。但你配得上这对翅膀吗？让我来测试一下你的实力吧。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -50,7 +50,7 @@ msgstr ""
 msgid ""
 "I see you're not ready to fight me yet. Muster up the nerve and come next "
 "time, I do not want to think that you are a coward."
-msgstr "我看你还没有准备好。鼓起勇气，下次再来，我可不想认为你是个懦夫。"
+msgstr "我看你还没有准备好。鼓起勇气，下次再来，我可不认为你是个懦夫。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
