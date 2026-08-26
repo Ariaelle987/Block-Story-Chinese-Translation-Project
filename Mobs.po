@@ -100,7 +100,7 @@ msgid "IceElemental"
 msgstr "冰元素"
 
 msgid "Basilisk"
-msgstr "蛇怪"
+msgstr "巴斯里斯克"
 
 msgid "LionFish"
 msgstr "獅子魚"
@@ -130,7 +130,7 @@ msgid "SwampSnake"
 msgstr "沼澤水蛇"
 
 msgid "GiantSpider"
-msgstr "阿拉戈克"
+msgstr "阿拉戈"
 
 msgid "Ashkore"
 msgstr "阿什科爾"
