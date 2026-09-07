@@ -130,7 +130,7 @@ msgid "SwampSnake"
 msgstr "沼澤水蛇"
 
 msgid "GiantSpider"
-msgstr "阿拉戈"
+msgstr "阿拉戈克"
 
 msgid "Ashkore"
 msgstr "阿什科爾"
