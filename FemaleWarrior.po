@@ -314,7 +314,7 @@ msgstr "什么？你给我带来一只宠物蜘蛛？这小家伙真可爱！(�
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:100
 #, no-wrap
 msgid "Thank you again for bringing Xordy Jr. to me.  When I play with him, I will always think of you.  These recent events remind me.  There was a monster Xordaraxus and I could never defeat.  I should have taken that as a sign we were not strong enough to fight the Dragon Lord.  You and your dragon must defeat Rex, a dinosaur, as a test."
-msgstr "感谢你把小索迪带到我身边。当我和它玩耍时，总会想起你。最近发生的这些事给了我提醒。曾经有一个怪物，我和索达拉修斯始终无法击败。我本该把那当作一个征兆。我们还不够强大，没有能力打败龙主。作为测试，你和你的龙必须击败暴龙。"
+msgstr "感谢你把小索迪带到我身边。当我和它玩耍时，总会想起你。最近发生的这些事给了我提醒。曾经有一个怪物，我和索达拉修斯始终无法击败。我本该把那当作一个征兆：我们还不够强大，没有能力打败龙主。作为测试，你和你的龙必须击败暴龙。"
 
 #. (itstool) path: killstep/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:101
