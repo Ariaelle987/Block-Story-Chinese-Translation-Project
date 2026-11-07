@@ -1473,4 +1473,218 @@ msgstr "告訴泰德，你殺了肯塔克隆。"
 msgid "Store"
 msgstr "商店"
 
+msgid "Scary Giant"
+msgstr ""
 
+msgid "Tell Ted that you caught the Rainbow Basilisk."
+msgstr ""
+
+msgid "Clean the Water"
+msgstr ""
+
+msgid "Down there"
+msgstr ""
+
+msgid "Lost underwater world"
+msgstr ""
+
+msgid "Myth of the Megalodon"
+msgstr ""
+
+msgid "Sharks"
+msgstr ""
+
+msgid "Strange Tooth"
+msgstr ""
+
+msgid "Supplies for the Trip"
+msgstr ""
+
+msgid "Ted is Hurt"
+msgstr ""
+
+msgid "Ted the Viking"
+msgstr ""
+
+msgid "Wimpy Kid"
+msgstr ""
+
+msgid "All right, then. Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you."
+msgstr ""
+
+msgid "Please, get me [FF0000]10 coconut tree leaves[-] to stop the bleeding. Once I'm patched up, I'll go see a doctor."
+msgstr ""
+
+msgid "Hello! I'm Ted the Viking.\nMy ship sank, so now I'm stranded on this forsaken beach.\nSay... can you help me build a new boat so I can get back home?"
+msgstr ""
+
+msgid "Great!\nTo build a new boat, I'm going to need lots of wood.\nPlease bring me [FF0000]30 blocks of wood[-].\n\nTo collect wood:\n* Find the nearest tree\n* Tap and hold on the trunk until it breaks\n* Walk over the block that was dropped\n\nIn the future, you can dig faster if you use a [FF0000]Pickaxe[-]. Talk to Shadow Hunter, he might be able to sell you one."
+msgstr ""
+
+msgid "Bring Ted the wood."
+msgstr ""
+
+msgid "Thank you!\nI'll start working on my new boat right away.\nCome back when you get a little stronger, since I might need more help."
+msgstr ""
+
+msgid "Hey kid, you sure do look wimpy. You'll never make it here without some weapons! You probably can't even kill a fly.\nI can give you something to defend yourself with, but it's gonna cost you.\nWhat do you say? Do you want to stop being such a weakling?"
+msgstr ""
+
+msgid "All right, then. Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you.\n\nYou can find Gold Ore underground. So either search around cliffs and inside caves, or dig down until you find some."
+msgstr ""
+
+msgid "Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you."
+msgstr ""
+
+msgid "Bring Ted the ores."
+msgstr ""
+
+msgid "You brought the loot?!?!\nMaybe you're not as soft as I thought! Here, you've earned this.\n\nTo use the Sword:\n* Go to the inventory\n* Select the Sword\n* Tap and hold on a monster to attack it.\n\nKeep the Soul Catchers safe, you'll need them soon!"
+msgstr ""
+
+msgid "Ouch! I hurt my hand!\nOh... You see it? Can you help me?"
+msgstr ""
+
+msgid "To build a new boat, I'm going to need lots of wood. Please bring me [FF0000]30 blocks of wood[-]."
+msgstr ""
+
+msgid "Please, get me [FF0000]10 coconut tree leaves[-] to stop the bleeding."
+msgstr ""
+
+msgid "Thanks! I'll live! Here, take some arrows to defend yourself with.\nWhat? You actually want to shoot them? Well, talk to Paula, she is really good with a bow."
+msgstr ""
+
+msgid "When my boat sank, I had to swim to shore.\nBut I almost became shark bait!\nSee this scar over here? One of the monsters bit me.\nIt's alright, though. You should see the scar my bite left in the shark!\nIf you get rid of some sharks, I will tell you another story."
+msgstr ""
+
+msgid "Ok, go ahead and kill [FF0000]20 sharks[-] for me will ya?\n(The idiot is actually going to try to do it?! Just when I was starting to like him, too...)"
+msgstr ""
+
+msgid "Tell Ted you have killed the sharks."
+msgstr ""
+
+msgid "What the....? How did you...?\n(clear throat)\nI mean... not bad. But I bet you are too scared to capture them alive."
+msgstr ""
+
+msgid "Take this Soul Catcher. Use it to capture [FF0000]5 sharks[-] and bring them to me, if you dare."
+msgstr ""
+
+msgid "Bring Ted the captured sharks."
+msgstr ""
+
+msgid "(Do my eyes deceive me? Are these actual live sharks?)\nI suppose you think you're tough now, huh? YAWN.\nWell, I have nothing better to do, so I'll tell you a story.\nThere is a legend that deep inside the forest lives a creature that is connected to all other living things.\nIt's rumored to have incredible powers.\nWhat? You didn't like that story? Well, scram then!\n\nHey, wait! When you have a chance, you should visit my old friend Hugo.\nHe is hard to find, look for big floating islands in the sky and dig down. He lives in huge underground caves below the floating islands.\nWhen you find him, give him this letter. Once he sees it, he'll know you're a friend."
+msgstr ""
+
+msgid "I have sailed the 7 seas, and I look at the blue sea and wonder what is down there.\nI have been thinking about a suit that allows me to breathe underwater.\nHelp me make it or else..."
+msgstr ""
+
+msgid "I think I can make it out of iron, and we need an engine to pump air into it.\nBring me [FF0000]4 iron blocks[-], [FF0000]5 glass[-] and [FF0000]1 engine[-].\nTo make an iron block, you need iron ore and fire.\nAnd do me a favor: Hurry up."
+msgstr ""
+
+msgid "Bring me [FF0000]4 iron blocks[-], [FF0000]5 glass[-] and [FF0000]1 engine[-]. And hurry up."
+msgstr ""
+
+msgid "I think this will do. While I work on my suit, I will show you how to make one.\nLook in your recipe book for a Diver Suit."
+msgstr ""
+
+msgid "When I was a kid (not as wimpy as you), a very strange animal washed up on the shore. It was green and had fangs.\nIt carried some strange ore that the elders called \"Graviton\".\nI think it came from deep underwater, though I have never been able to dive too far.\nGo deep and see if you can figure out what is down there, will ya?\n(While I stay here safe and comfortable.)"
+msgstr ""
+
+msgid "I have never been able to dive down more than 180 meters. So whatever is down there must be deeper.\nUse your Diver Suit and find out what is down there.\nBring me [FF0000]5 Graviton[-].\nI would advise you to use either gravity boots or flippers to help you get there."
+msgstr ""
+
+msgid "Bring Ted the Graviton."
+msgstr ""
+
+msgid "You saw WHAT?!?\nI think you are pulling my leg.\nOk, if you don't want to tell me the truth then don't.\nBut this is indeed what the elders called the Graviton.\nTake some to [FF0000]Mr. Goblin[-]. He is really good with machines and might have an idea for what to do with it.\nHe is hard to find. Pay attention:\nLook for floating islands, big ones. Then dig down, he lives in huge underground caves under the floating islands."
+msgstr ""
+
+msgid "I've heard rumors that deep under the water there's a shark the size of 5 men.\nI've sailed the 7 seas, and have never seen such a creature.\nIf it's real, can you find one for me?"
+msgstr ""
+
+msgid "Ok idio.... ahem.... I mean buddy.\nPut on your Diver Suit, and use it to go deep underwater.\nSee if you can find one of those legendary Megalodons.\nBring me a [FF0000]Megalodon Spawner[-] and a [FF0000]Megalodon Tooth[-].\nWith those I'll be able to prove that the monsters exist!"
+msgstr ""
+
+msgid "Capture a Megalodon with a Soul Catcher, and bring me the [FF0000]Megalodon Spawner[-] and a [FF0000]Megalodon Tooth[-]."
+msgstr ""
+
+msgid "You expect me to believe this is real?\n(THIS IS REAL!!! GULP...)\nOk, let's say these are real. I don't care who you stole them from, here you go."
+msgstr ""
+
+msgid "You know that tooth you stole?\nWell, I have been studying it and it has some quite remarkable properties.\nLook, when I put it in water it seems to build up an electric charge.\nThese sharks are not ordinary animals.\nI think I can make a weapon out of these.\nWhat do you say?"
+msgstr ""
+
+msgid "Good.\nNow go bring me [FF0000]3 megalodon teeth[-] and [FF0000]2 sticks[-].\n(Either this kid will die and stop bugging me, or he will bring me the stuff. Either way, I win.)"
+msgstr ""
+
+msgid "So you stole some more?\nGive it to me....\n\nI MADE IT: The ultimate weapon.\nThose sharks will learn not to mess with me.\nHeck, forget about the sharks, I shall RULE THE SEA!\n\nWhat? You are still here?\nI suppose you want a reward for your effort?\nWell, I will give you just a couple of tridents. You can go make your own.\nI wrote down how to make them in your recipe book.\nTo use them, equip them and click and hold on a monster.\nAlso, go in the water with them, see what happens.\nNow get lost before I use one on you."
+msgstr ""
+
+msgid "I'm going to need some supplies for my trip back home.\nI'll make you a deal, since you've already helped me so much. If you bring me what I need, I'll tell you a story. How's that?"
+msgstr ""
+
+msgid "Bring me [FF0000]20 pieces of meat[-].\nTo get meat, just hunt down some animals."
+msgstr ""
+
+msgid "Great, you brought the meat...\nBut you expect me to only eat meat?! That's not a balanced meal! I'm watching my cholesterol, you know."
+msgstr ""
+
+msgid "Bring me something else. How about [FF0000]10 apples[-]?"
+msgstr ""
+
+msgid "Bring me [FF0000]10 apples[-] for a balanced meal."
+msgstr ""
+
+msgid "What took you so long?\nWell, in return, I'll tell you what happened to me the other day.\nI was exploring the area and got lost. I wandered into a cave and inside there was a creature that offered me shelter for a day. After, the stranger helped me find my way back.\nIf you ever find the cave and see Hugo, tell him that Ted sends his regards."
+msgstr ""
+
+msgid "Horns and Roaring"
+msgstr ""
+
+msgid "Oi! Dragon Rider! Thank gravy ya came. Dinosaurs AGAIN. I thought we'd squashed the lot of 'em!"
+msgstr ""
+
+msgid "Go on, sort 'em out. And tell that knight lady her bounty's fair. Mostly. Okay, it's a bit steep."
+msgstr ""
+
+msgid "These ones got horns. HORNS, Dragon Rider. They're stompin' all over the mountains, knockin' rocks loose on anyone climbin' up there. Head up into the peaks and you'll find 'em. Or they'll find you."
+msgstr ""
+
+msgid "And somethin' else. At night I hear roarin' out past the city. Big roarin'. Not dinosaur roarin'."
+msgstr ""
+
+msgid "Talk to Ted the Viking."
+msgstr ""
+
+msgid "Go ahead and kill [FF0000]20 sharks[-] for me will ya?"
+msgstr ""
+
+msgid "Use the Soul Catcher to capture [FF0000]5 sharks[-] and bring them to me, if you dare."
+msgstr ""
+
+msgid "Bring Ted the diver suit parts."
+msgstr ""
+
+msgid "Use your Diver Suit, dive deep and bring me [FF0000]5 Graviton[-]."
+msgstr ""
+
+msgid "Bring Ted the Megalodon proof."
+msgstr ""
+
+msgid "Bring me [FF0000]3 megalodon teeth[-] and [FF0000]2 sticks[-]."
+msgstr ""
+
+msgid "Bring Ted the teeth and sticks."
+msgstr ""
+
+msgid "Bring me [FF0000]20 pieces of meat[-]. To get meat, just hunt down some animals."
+msgstr ""
+
+msgid "Bring Ted the meat."
+msgstr ""
+
+msgid "Bring Ted the apples."
+msgstr ""
+
+msgid "Bring Ted the coconut tree leaves."
+msgstr ""
