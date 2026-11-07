@@ -271,7 +271,7 @@ msgid "Gold Block"
 msgstr "金块"
 
 msgid "Aragog Eye"
-msgstr "阿拉戈克之眼"
+msgstr "阿拉戈之眼"
 
 msgid "Spider Fang"
 msgstr "蜘蛛牙"
@@ -928,10 +928,10 @@ msgid "Unobtainium From Bar"
 msgstr "难得素块"
 
 msgid "Klorium From Ore"
-msgstr "辉石锭"
+msgstr "辉石块"
 
 msgid "Cryptonite From Ore"
-msgstr "氪石锭"
+msgstr "氪石块"
 
 msgid "Poison Potion"
 msgstr "毒药药水"
