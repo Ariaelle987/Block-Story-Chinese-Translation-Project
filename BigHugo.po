@@ -20,12 +20,10 @@ msgstr "雷霆降臨"
 msgid ""
 "Ashkore continues to antagonize the sky world.  Please defeat him and bring "
 "me his Electrite."
-msgstr ""
-"阿什科爾仍在不斷挑釁天空世界。請擊敗它，並把它的雷晶帶給我。"
+msgstr "阿什科爾仍在不斷挑釁天空世界。請擊敗它，並把它的雷晶帶給我。"
 
 msgid "Ashkore is not a creature to be trifled with.  Exercise caution."
-msgstr ""
-"阿什科爾不是可以輕視的敵人。務必小心。"
+msgstr "阿什科爾不是可以輕視的敵人。務必小心。"
 
 msgid ""
 "This will do for now, but I will need more Electrite tomorrow.  Bring me "
@@ -34,9 +32,162 @@ msgstr ""
 "這些暫時夠用了，但明天我還需要更多雷晶。帶來足夠的數量，你就會得到獎勵。"
 
 msgid "Tell Hugo you have the Electrite."
-msgstr ""
-"告訴雨果你已經拿到了雷晶。"
+msgstr "告訴雨果你已經拿到了雷晶。"
 
 msgid "Thank you.  I suspect you will make good use of this item."
 msgstr ""
 "謝謝你。我想你會善加利用這件物品。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Hugo's Arachnophobia"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Hugo's Arachnophobia II"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:85 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:378 
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:34 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:56 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1168 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:899 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:648 
+msgid "Give Hugo the letter from Ted."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:874 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:849 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"Ohh, you got a letter for me? From Ted? Let me see...\n"
+"\n"
+"\"Dear Hugo, thanks for your help the other day.\n"
+"This guy is not as useless as he seems.\n"
+"Maybe he can help you with your problem.\""
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:874 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:849 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Well, since you come so highly recommended, can you give me a hand?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Since I was a little baby, I've been afraid of spiders.\n"
+"But this whole place is full of them!\n"
+"Please kill [FF0000]20 spiders[-].\n"
+"Let me know when you are finished.\n"
+"(I bet this is the last I'll hear from this guy...)"
+msgstr ""
+
+msgid "Who are you? What do you want?\nDid someone send you down here?"
+msgstr ""
+
+msgid "Did someone send you down here?"
+msgstr ""
+
+msgid "(whimper) I saw... I saw.... A HUGE SPIDER!\nIt said \"WHO DISTURBS ARAGOG!\" and I ran as fast as I could out of there!\nThat thing is straight out of my nightmares...\nI can't eat, sleep or even breathe knowing that that creature is out there.\nPlease HELP ME!!!"
+msgstr ""
+
+msgid "Talk to Hugo."
+msgstr ""
+
+msgid "Get rid of it! Just... get rid of it!\n[FF0000]KILL ARAGOG[-]!\nYou can summon him with the Aragog spawner I showed you how to make."
+msgstr ""
+
+msgid "[FF0000]KILL ARAGOG[-]! You can summon him with an Aragog spawner."
+msgstr ""
+
+msgid "You did it? Really?\nThen bring me his eye so I know it's safe!"
+msgstr ""
+
+msgid "Tell Hugo you have killed Aragog."
+msgstr ""
+
+msgid "Bring me [FF0000]Aragog's eye[-] so I know it's safe!"
+msgstr ""
+
+msgid "Wow, how did you do it?!\nThat beast looked so scary!\nHere, take some apples as a reward."
+msgstr ""
+
+msgid "Bring Hugo Aragog's eye."
+msgstr ""
+
+msgid "Please kill [FF0000]20 spiders[-]. Let me know when you are finished."
+msgstr ""
+
+msgid "What?! You're still alive?!\n(Maybe Ted was right... he's not as useless as he looks.)"
+msgstr ""
+
+msgid "Tell Hugo you have killed the spiders."
+msgstr ""
+
+msgid "It looks like these spiders just never stop coming.\nI think they have nests around here somewhere... Yes... I think they come from the spider webs you see around the caves.\nPlease bring me [FF0000]10 spider webs[-]."
+msgstr ""
+
+msgid "I think the spiders come from the webs around the caves. Please bring me [FF0000]10 spider webs[-]."
+msgstr ""
+
+msgid "Yes! It worked, no more spiders! I can finally sleep!\nTake some apples, they'll restore your health."
+msgstr ""
+
+msgid "Bring Hugo the spider webs."
+msgstr ""
