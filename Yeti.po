@@ -56,3 +56,71 @@ msgid ""
 msgstr ""
 "当你向雪人讲述与访客的战斗时，他脸上露出灿烂的笑容，但看起来似乎仍然不太满意。"
 
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Freaky Dog"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Strange Ritual"
+msgstr ""
+
+msgid "Centuries ago, I heard of a creature called Shiva, with immense powers.\nI heard a rumor you have summoned it.\nBut obviously this is a lie, since you are still alive.\nWhat? You say it is true? Prove it."
+msgstr ""
+
+msgid "Talk to the Yeti."
+msgstr ""
+
+msgid "In the story I heard, Shiva has inside an element of great power. Mutagen I think is what the legend called it.\n...\nWhat? You have seen this? I don't believe you. But then, you did do a good job against the dragon. So just maybe...\nShow it to me. Bring me [FF0000]30 Mutagen[-]."
+msgstr ""
+
+msgid "Bring me [FF0000]30 Mutagen[-] from Shiva."
+msgstr ""
+
+msgid "You have it? YOU HAVE KILLED SHIVA?\nI want to see...\nFascinating. I feel a strange energy coming out of it.\nI need to study this.\n...\nThis substance has some really strange effects on matter.\nMore importantly, it has some really strange effects on animals.\nI fed it to a worm, and it turned into a giant worm that you would recognize as Mr. Giggles.\nIt is all starting to make sense now. I think Shiva was a regular frog that ate this."
+msgstr ""
+
+msgid "Bring the Yeti the Mutagen."
+msgstr ""
+
+msgid "I want to study the effects of the Mutagen on a bigger animal. Bring me a [FF0000]Dog[-]. I heard Shadow Hunter had some for sale."
+msgstr ""
+
+msgid "Bring me a [FF0000]Dog Soul[-]. I heard Shadow Hunter had some for sale."
+msgstr ""
+
+msgid "Thank you. Now let's try...\nHere puppy puppy, eat this meatball with nothing suspicious inside.\n...\nWHAT ON EARTH IS THAT?????\nIn all my centuries I have never seen anything like it.\nThis mutagen is way too dangerous. Here, you have it, it scares me."
+msgstr ""
+
+msgid "Bring the Yeti a Dog."
+msgstr ""
+
+msgid "Hello, hero!\nI heard about you from my brother, Hugo.\nBut I must hurry, I have a job for you.\nCan you please help me?\nThere are Ice Dragons somewhere in the snow mountain.\nTheir Spawners give life to all the Yeti in the world.\nEvery year we hunt for them, but this year I am very sick.\nI can't hunt for myself, and I can't possibly ask one of my brothers to do it.\nCan you hunt for me?"
+msgstr ""
+
+msgid "Thank you for doing this for me.\nPlease bring me\n[FF0000]1 Ice Dragon Spawner[-]\nand\n[FF0000]1 Dragon Heart[-]\nThen I can restore my power.\nCapture the Ice Dragon with a Soul Catcher to get its spawner.\nI will rest and wait for you here..."
+msgstr ""
+
+msgid "Please bring me [FF0000]1 Ice Dragon Spawner[-] and [FF0000]1 Dragon Heart[-]. Capture the Ice Dragon with a Soul Catcher."
+msgstr ""
+
+msgid "You made it! Hugo is right, you are a real hero!\nNow I will live much longer!\nPlease, take this small gift."
+msgstr ""
+
+msgid "Bring the Yeti the Ice Dragon Spawner and Dragon Heart."
+msgstr ""
