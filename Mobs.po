@@ -856,7 +856,7 @@ msgstr "老鼠"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Wyvern"
-msgstr ""
+msgstr "双足飞龙"
 
 msgid "Orbis Felix"
 msgstr "奥比斯·菲利克斯"
@@ -895,7 +895,7 @@ msgstr ""
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Raptor"
-msgstr ""
+msgstr "迅猛龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -914,24 +914,24 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Manticore"
-msgstr ""
+msgstr "蝎狮"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "Triceratops"
-msgstr ""
+msgstr "三角龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "Orthros"
-msgstr ""
+msgstr "双头犬俄耳托斯"
 
 msgid "LavaGolem"
-msgstr ""
+msgstr "熔岩魔像"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -941,90 +941,90 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "FemaleKnight"
-msgstr ""
+msgstr "女骑士"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
 # UnityGame/Assets/Localization/T.cs:127
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
 msgid "Teresa"
-msgstr ""
+msgstr "特蕾莎"
 
 msgid "HorseMare"
-msgstr ""
+msgstr "母马"
 
 msgid "BabyHorseOld"
-msgstr ""
+msgstr "旧版小马"
 
 msgid "GiantScorpion"
-msgstr ""
+msgstr "巨型蝎子"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "CaveScorpion"
-msgstr ""
+msgstr "洞穴蝎子"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "THEDRAGON"
-msgstr ""
+msgstr "巨龙"
 
 msgid "UndeadDragon"
-msgstr ""
+msgstr "亡灵龙"
 
 msgid "HorseOld"
-msgstr ""
+msgstr "旧版马"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "Wyrm"
-msgstr ""
+msgstr "蛇龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "FantasyTiger"
-msgstr ""
+msgstr "幻虎"
 
 msgid "DragonTurtle"
-msgstr ""
+msgstr "龙龟"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "Scorpion"
-msgstr ""
+msgstr "沙漠蝎子"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "Unicorn"
-msgstr ""
+msgstr "独角兽"
 
 msgid "SnowGolem"
-msgstr ""
+msgstr "冰雪魔像"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "MountainGolem"
-msgstr ""
+msgstr "岩石魔像"
 
 msgid "DragonWorm"
-msgstr ""
+msgstr "龙蠕虫"
 
 msgid "AbyssDragon"
-msgstr ""
+msgstr "深渊龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
@@ -1041,7 +1041,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "AngryMushroom"
-msgstr ""
+msgstr "愤怒蘑菇"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
@@ -1058,14 +1058,14 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Elongata"
-msgstr ""
+msgstr "大嘴花"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "WildSpirit"
-msgstr ""
+msgstr "荒野之灵"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1084,71 +1084,71 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mantarion"
-msgstr ""
+msgstr "蝠鲼兽"
 
 msgid "Sunfish"
-msgstr ""
+msgstr "翻车鱼"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "Ammonite"
-msgstr ""
+msgstr "菊石"
 
 msgid "Marlin"
-msgstr ""
+msgstr "马林鱼"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "Orca"
-msgstr ""
+msgstr "虎鲸"
 
 msgid "Beluga"
-msgstr ""
+msgstr "白鲸"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "LeopardSeal"
-msgstr ""
+msgstr "豹纹海豹"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "Amberjack"
-msgstr ""
+msgstr "琥珀鱼"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "MushroomMonster"
-msgstr ""
+msgstr "蘑菇怪"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "DreamWhisp"
-msgstr ""
+msgstr "梦语者"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
 msgid "Pegasus"
-msgstr ""
+msgstr "天马"
 
 msgid "Pegasus_Pet"
-msgstr ""
+msgstr "珀伽索斯"
 
 msgid "Manticore_Pet"
-msgstr ""
+msgstr "曼提柯尔"
 
 msgid "Elongata_Pet"
 msgstr ""
