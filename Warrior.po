@@ -520,3 +520,177 @@ msgstr "與泰德談談他目前的困境。"
 #~ "現在你看起來像個真正的武士。\n"
 #~ "\n"
 #~ "嗯……或許你能幫我解決目前的困境。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Hello Kitty"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Save the Kingdom!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Where is the Capital Castle?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"Hi, I am Aaron from Capital Castle.\n"
+"The king sent me to kill a dragon that has been terrorizing our people for "
+"centuries.\n"
+"I have been searching for him for a long time, and I finally found it in the "
+"desert.\n"
+"It was about to eat this kitten, and I managed to save it.\n"
+"Please take this kitty and guard it, while I go fight the beast."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"I fought the dragon... and I got PWNED!\n"
+"If it wasn't for my mighty shield... I would have surely died...\n"
+"But, I cannot return to my King without completing my mission!\n"
+"Can you help me kill the [FF0000]Dragon[-] and bring me his [FF0000]Heart[-]?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:448 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Thank you so much, stranger!\n"
+"Kill a dragon and bring me [FF0000]1 Dragon Heart[-].\n"
+"Last time I saw this creature from hell it was in the desert.\n"
+"Good luck, stranger. May God be with you!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21 
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:85 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:375 
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:34 
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:56 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1168 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:900 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:648 
+msgid "Bring Aaron the Dragon Heart."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"I can't believe you are alive! How did you do this? Is this real or some "
+"trickery?\n"
+"No, this is all real! Thank God! Finally, I can return home.\n"
+"I cannot wait to see my wife and children again!\n"
+"Take this sword as help for your journey."
+msgstr ""
+
+#~ msgid ""
+#~ "Now you look like a proper warrior.\n"
+#~ "\n"
+#~ "Hmm . . . perhaps you can help me with my current dilemma."
+#~ msgstr ""
+#~ "現在你看起來像個真正的武士。\n"
+#~ "\n"
+#~ "嗯……或許你能幫我解決目前的困境。"
+
+msgid "Talk to Aaron."
+msgstr ""
+
+msgid "Kill a dragon and bring me [FF0000]1 Dragon Heart[-]. Last time I saw it, it was in the desert."
+msgstr ""
+
+msgid "Now that I have proof, I can return home. But... don't laugh... I got lost.\nThis world is so huge, even a mighty warrior like myself can lose his way.\nIn Capital Castle we have some pretty advanced technology.\nWe have invented a device that can find things around you, and point to your home.\nBut I don't know how to make it. Can you help?"
+msgstr ""
+
+msgid "Have you seen Paula? She comes from Capital Castle too.\nShe might know how to make this device.\nGo ask her, please."
+msgstr ""
+
+msgid "Ask Paula how to make the device."
+msgstr ""
+
+msgid "Great, it seems Paula did know how to make it.\nIt needs the essence of spawners to work.\nGo get me [FF0000]1 green spawner[-], [FF0000]1 red spawner[-], [FF0000]1 bed[-], [FF0000]1 glass[-] and [FF0000]1 stick[-].\nGreen Animal Spawners and red Monster Spawners can be found around the world.\nI think you know how to make beds, glass and sticks. Look in your recipe book if you forgot."
+msgstr ""
+
+msgid "Get me [FF0000]1 green Animal Spawner[-], [FF0000]1 red Monster Spawner[-], [FF0000]1 bed[-], [FF0000]1 glass[-] and [FF0000]1 stick[-]."
+msgstr ""
+
+msgid "Thanks. Working on it...\n...\nIT WORKS! I can find my way back now.\nYou know, you should make one of these yourself.\nThey come in really handy.\nHere, I wrote down how to make them in your recipe book.\nLook for Radar under Tools."
+msgstr ""
+
+msgid "Bring Aaron the radar parts."
+msgstr ""
