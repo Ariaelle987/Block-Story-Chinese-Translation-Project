@@ -1,0 +1,903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-18 17:50-0700\n"
+"PO-Revision-Date: 2026-10-18 17:50-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+
+#. Open Season (title)
+msgid "Open Season"
+msgstr ""
+
+#. Open Season (desc)
+msgid "If you're here to arrest me, you're about ten years late. If you're here to rob me, look at the size of this sword and think very carefully."
+msgstr ""
+
+#. Open Season (label)
+msgid "Talk to Teresa."
+msgstr ""
+
+#. Open Season (desc)
+msgid "...Huh. You're the Rider. The one who beat him. You're shorter than the stories."
+msgstr ""
+
+#. Open Season (desc)
+msgid "Don't look so surprised. The whole world's talking about you. A Viking up the road told me twice before I'd finished asking for directions."
+msgstr ""
+
+#. Open Season (desc)
+msgid "My name is Teresa. I hunt things. Have done since before you were born, probably. Except for the last ten years, when something hunted me."
+msgstr ""
+
+#. Open Season (desc)
+msgid "Three days ago the locks on my cage just... broke. No key, no rescue, no explanation. One moment I'm staring at the same wall I've stared at for a decade. The next, I'm standing in the sun, wondering if I'd finally lost my mind."
+msgstr ""
+
+#. Open Season (desc)
+msgid "I walked for a day before I believed it. I ate a whole loaf of bread standing in a field. Don't tell anyone that."
+msgstr ""
+
+#. Open Season (desc)
+msgid "You did that, by the way. Whatever you did to him, it opened every cage he had. Mine. And a lot of others I'd rather were still shut."
+msgstr ""
+
+#. Open Season (desc)
+msgid "So here's how this goes. I don't do thank-yous. I do business. There's more to hunt out there than there's been in years, and I'm short on help I can trust."
+msgstr ""
+
+#. Open Season (desc)
+msgid "Want a contract?"
+msgstr ""
+
+#. Open Season (desc)
+msgid "Your loss. The scorpions will still be here. So will I. I'm not going anywhere I don't choose to, anymore."
+msgstr ""
+
+#. Open Season (desc)
+msgid "I heard what you almost became. I don't care. The contract pays the same."
+msgstr ""
+
+#. Open Season (intro)
+msgid "First contract. Scorpions, out in the sand. Easy work. Consider it an interview."
+msgstr ""
+
+#. Open Season (desc)
+msgid "Stinger's on the tail. Don't let it get personal."
+msgstr ""
+
+#. Open Season (finish)
+msgid "Ten. Clean work. You pass the interview."
+msgstr ""
+
+#. Open Season (label)
+msgid "Tell Teresa you have slain the Scorpions."
+msgstr ""
+
+#. Deeper Stings (title)
+msgid "Deeper Stings"
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "Ten Scorpions, ten clean kills. You didn't waste a single swing. I watched."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "Yes, I followed you. You'd do the same, hiring a stranger off the road."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "You fight like someone who's done this a lot and doesn't enjoy it much. Good. The ones who enjoy it get careless, and the careless ones don't come back to collect."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "You've been paid. Don't spend it all on bread."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "The ones in the sand were the babies. Their bigger cousins live in caves, and they don't just sting. They spit.\n\nCave Scorpions fire venom at you from across the cave. Keep moving, and use the rocks for cover."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "I'd go myself, but I've had enough of small, dark places for one lifetime."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "So you go in. I'll be out here, in the open. Come back with eight."
+msgstr ""
+
+#. Deeper Stings (intro)
+msgid "Eight Cave Scorpions. Bring a torch. And a healing potion. And maybe a second healing potion."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "Still breathing? Good. That's the only progress report I need."
+msgstr ""
+
+#. Deeper Stings (finish)
+msgid "You came back. Most of my old partners didn't, from that sort of cave."
+msgstr ""
+
+#. Deeper Stings (label)
+msgid "Tell Teresa you have slain the Cave Scorpions."
+msgstr ""
+
+#. Deeper Stings (desc)
+msgid "Don't ask about the old partners."
+msgstr ""
+
+#. Thick Skin (title)
+msgid "Thick Skin"
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "Eight Cave Scorpions, and you walked out in one piece. A few new holes in your armour, though. They spit straight, don't they?"
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "I waited by the entrance the whole time. Not because I was worried. Someone had to count."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "You're starting to look like a partner instead of a hire. Don't let it go to your head. I've had partners before."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "Next contract's a Triceratops herd. Three horns, one temper. A Viking called Ted posted the bounty. Loudly. Go and talk to him before you start. He'll want to tell you about it himself."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "This one pays better than coin. Bring down the herd and I'll give you a way into the dream realm."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "It's a world that sits just beside this one. Quiet. Safe. Nothing in there wants to eat you. Mostly."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "There's a little glowing whisp in there who's been having trouble with a couple of nightmares. Help it if you like. Not my contract."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "You can keep your things there, too. Somewhere no thief, no monster and no old Wizard can get at them."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "Ted's the loud one. You'll hear him before you see him."
+msgstr ""
+
+#. Thick Skin (label)
+msgid "Talk to Ted about the Triceratops bounty."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "Go on. Ted first. He'll sulk if you skip him."
+msgstr ""
+
+#. Thick Skin (intro)
+msgid "Three Triceratops, up in the rocky peaks. Go for the side. Nobody survives going at the front."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "The horns are decorative until they aren't."
+msgstr ""
+
+#. Thick Skin (finish)
+msgid "Three. You're officially worth paying."
+msgstr ""
+
+#. Thick Skin (label)
+msgid "Tell Teresa you have slain the Triceratops."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "As promised. Realm Crystals. Hold one up and the door to the dream realm opens."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "Three should get you started. And here's how they're made, for when you run out. You'll need a few things from up among the stars."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "How do I have them? They were the locks on my cage. The vault sat right on the edge of the dream realm. Ten years locked next door to the safest place in the world, and I never once saw it."
+msgstr ""
+
+#. Thick Skin (desc)
+msgid "All the locks broke when he lost his power. ...All but one, maybe. I never saw the bottom cage open."
+msgstr ""
+
+#. Hard to Catch (title)
+msgid "Hard to Catch"
+msgstr ""
+
+#. Hard to Catch (desc)
+msgid "Next contract takes you into the jungle. Bring a blade you trust, and don't wander off the path."
+msgstr ""
+
+#. Hard to Catch (desc)
+msgid "Raptors. They hunt alone, and they're faster than anything else out there. By the time you've seen one, it's already decided what you taste like."
+msgstr ""
+
+#. Hard to Catch (desc)
+msgid "I spent two days chasing my first one through that jungle. Never caught up. In the end I sat down, and it came to me."
+msgstr ""
+
+#. Hard to Catch (desc)
+msgid "That's the trick. You can't outrun them, so don't try. Plant your feet, let it come, and hit it when it does."
+msgstr ""
+
+#. Hard to Catch (intro)
+msgid "Three of them, one at a time. Keep your back to a tree, so it can only come at you from the front."
+msgstr ""
+
+#. Hard to Catch (desc)
+msgid "If you hear something rushing through the leaves, it's already too late to run. So don't."
+msgstr ""
+
+#. Hard to Catch (finish)
+msgid "Three Raptors. Contract says three. I counted two heads. ...Fine. That one was very fast."
+msgstr ""
+
+#. Hard to Catch (label)
+msgid "Tell Teresa you have slain the Raptors."
+msgstr ""
+
+#. Something in the Sky (title)
+msgid "Something in the Sky"
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "Ever been swallowed by the sky, Rider? You will be, if you're careless on this one. Head out to the volcanoes. Wyverns nest up on the slopes, where the rock stays warm and nothing else wants to live."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "Wyverns are dragon cousins. Not as smart, not as big, and they've got a trick real dragons don't."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "They can tear open a small hole into the void. It grabs you, pulls you in, and squeezes. It hurts more than anything else they do."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "If the air goes dark and starts to pull, get clear. Don't be brave about it."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "Odd thing, too. I've been watching them at night. They all fly the same direction. Wyverns don't flock. Two in one sky usually means a fight."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "I don't like it when things change their nature. It usually means someone changed it for them."
+msgstr ""
+
+#. Something in the Sky (intro)
+msgid "Eight of them. Bring them down, and watch for that portal."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "Look up. That's where the problem is. Sometimes it's also behind you."
+msgstr ""
+
+#. Something in the Sky (finish)
+msgid "Eight. You fight well with something over your head."
+msgstr ""
+
+#. Something in the Sky (label)
+msgid "Tell Teresa you have slain the Wyverns."
+msgstr ""
+
+#. Something in the Sky (desc)
+msgid "Here. The Gale Sword. I took the design off a smith who owed me. It wants Nebula Cloud and Electrite. Don't ask me where you find either. I've been in a cage."
+msgstr ""
+
+#. Two Heads, Twice the Pay (title)
+msgid "Two Heads, Twice the Pay"
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "Here's one I know personally. I caught the first one years ago. Took me a week."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "Orthros. Two heads, one bad attitude. They live down in Hades, about as deep as this world goes. Bring something for the heat."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "Two heads means two sets of eyes. You can't sneak up on it, and you can't get behind it. Believe me, I tried for six days."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "The trick is that the heads don't always agree. Make one look left and the other look right, and for a moment it doesn't know what it wants."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "That moment is the whole fight. Don't waste it."
+msgstr ""
+
+#. Two Heads, Twice the Pay (intro)
+msgid "Three of them, down in Hades. That's six heads, if you're counting. I am."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "Both heads are watching you. Pick one and don't stop."
+msgstr ""
+
+#. Two Heads, Twice the Pay (finish)
+msgid "Done faster than I did it. Don't let it go to your heads."
+msgstr ""
+
+#. Two Heads, Twice the Pay (label)
+msgid "Tell Teresa you have slain the Orthros."
+msgstr ""
+
+#. Two Heads, Twice the Pay (desc)
+msgid "That was a joke. I don't make many. Don't get used to it."
+msgstr ""
+
+#. Shell Game (title)
+msgid "Shell Game"
+msgstr ""
+
+#. Shell Game (desc)
+msgid "Back to the jungle, Rider. Something down there moves very slowly and is very, very hard to kill."
+msgstr ""
+
+#. Shell Game (desc)
+msgid "Dragon Turtles. Thick shells, short tempers. Some of them are so old there are trees growing out of their backs."
+msgstr ""
+
+#. Shell Game (desc)
+msgid "The last one I caught had been asleep under the same tree for eleven years. It took me a month to wake it up."
+msgstr ""
+
+#. Shell Game (desc)
+msgid "These ones aren't sleeping. They've left their old feeding grounds, all of them at once. Toward something. I want to know what."
+msgstr ""
+
+#. Shell Game (intro)
+msgid "Three of them. Hit them where the shell isn't."
+msgstr ""
+
+#. Shell Game (desc)
+msgid "Slow doesn't mean weak. Ask anyone it's sat on."
+msgstr ""
+
+#. Shell Game (finish)
+msgid "Cracked. Good. Their tracks all pointed the same way, by the way. Same direction the Wyverns fly."
+msgstr ""
+
+#. Shell Game (label)
+msgid "Tell Teresa you have slain the Dragon Turtles."
+msgstr ""
+
+#. Stripes (title)
+msgid "Stripes"
+msgstr ""
+
+#. Stripes (desc)
+msgid "You know what kept me awake in the vault? Footsteps."
+msgstr ""
+
+#. Stripes (desc)
+msgid "Dragon Tigers. Fast, proud, and they don't give up. I respect that, in a professional sense."
+msgstr ""
+
+#. Stripes (desc)
+msgid "They never stopped pacing. Day and night, back and forth. I could hear them through the wall."
+msgstr ""
+
+#. Stripes (desc)
+msgid "When the cages broke, they were the first ones out. I was second. We looked at each other for a long moment, and then they ran."
+msgstr ""
+
+#. Stripes (desc)
+msgid "I've wondered since why they didn't go for me. I think they had somewhere better to be."
+msgstr ""
+
+#. Stripes (desc)
+msgid "They've made the desert their home now. They don't hide out there. They don't need to."
+msgstr ""
+
+#. Stripes (desc)
+msgid "Listen for the roar. When one roars, the sand in front of it catches fire, and the fire rolls toward you like a wave. Get out of its way, fast."
+msgstr ""
+
+#. Stripes (intro)
+msgid "Three of them. When one takes a deep breath, that's your cue to move."
+msgstr ""
+
+#. Stripes (desc)
+msgid "If the sand ahead of you is burning, don't walk through it. I shouldn't have to say that, but here we are."
+msgstr ""
+
+#. Stripes (finish)
+msgid "Three. You're getting good at this. Don't tell anyone I said so."
+msgstr ""
+
+#. Stripes (label)
+msgid "Tell Teresa you have slain the Dragon Tigers."
+msgstr ""
+
+#. Hot, Cold and Hard (title)
+msgid "Hot, Cold and Hard"
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "This one's three contracts in one, and you'll be doing a lot of walking."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "Golems. Lava, Snow and Mountain. He liked matching sets."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "The Mountain Golem is up in the rocky peaks. The Snow Golem is out in the frozen tundra. The Lava Golem is down in Hades, about as deep and as hot as this world goes."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "They hide as rocks. Just another boulder, until you hit it."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "And they talk. Golems love to taunt you while they fight. Insults, mostly. Ignore them. A rock with opinions is still a rock."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "Funny thing, though. The ones I've passed lately are all facing the same way. Rocks don't face anywhere."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "You'll want explosives for these. There's a goblin near here who'll be thrilled to help. Possibly too thrilled."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "The goblin. Explosives. Try not to let him use them on you."
+msgstr ""
+
+#. Hot, Cold and Hard (label)
+msgid "Ask Mr. Goblin for help with the Golems."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "Still talking to the goblin? Take your time. I'm in no hurry to hear him again."
+msgstr ""
+
+#. Hot, Cold and Hard (intro)
+msgid "One of each. Take the goblin's explosives, and bring something for the heat in Hades."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "Whatever it's saying about you, it's wrong. Mostly. Keep swinging."
+msgstr ""
+
+#. Hot, Cold and Hard (finish)
+msgid "All three. The set's broken."
+msgstr ""
+
+#. Hot, Cold and Hard (label)
+msgid "Tell Teresa you have slain the Golems."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "You've earned this. The Ember Sword. Phoenix Wing, Lava, a few other things. If you've fought a Phoenix, you'll know where the wings come from."
+msgstr ""
+
+#. Hot, Cold and Hard (desc)
+msgid "About the goblin's itch. Tell me if it gets worse. For him or for you."
+msgstr ""
+
+#. Lesser Wyrm (title)
+msgid "Lesser Wyrm"
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "Pack light and drink plenty. This one's out in the desert."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "Wyrms. The old books call them 'lesser wyrms'. Lesser than what, though?"
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "They don't hide and they don't stalk. They just wander the sand like they own it. Mostly because they do."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "Watch for the fire. They spit a huge ball of it that bursts when it lands. Don't be standing where it lands. That's the whole lesson."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "In the vault, they were kept next to the bottom cage. They'd lie against that wall all night, staring at it."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "I thought they wanted out. Now I wonder if they wanted in."
+msgstr ""
+
+#. Lesser Wyrm (intro)
+msgid "Two of them. Keep your distance until it's time not to."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "If the sand around you starts to glow, move."
+msgstr ""
+
+#. Lesser Wyrm (finish)
+msgid "Two. Rider, every beast we've hunted has been moving toward the same place. That isn't instinct. Something is calling them."
+msgstr ""
+
+#. Lesser Wyrm (label)
+msgid "Tell Teresa you have slain the Wyrms."
+msgstr ""
+
+#. Lesser Wyrm (desc)
+msgid "Come back when you're ready. There's something I should have told you at the start."
+msgstr ""
+
+#. The Ledger (title)
+msgid "The Ledger"
+msgstr ""
+
+#. The Ledger (desc)
+msgid "Sit down, Rider. This one isn't a contract."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "Every beast you've hunted, I caught first. Years ago. For a kindly old Wizard who said he was keeping villages safe."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "He wasn't. He was keeping them. Draining them. When I worked out what he was, he locked me in with my own catches."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "Fine. I've kept it to myself this long."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "I want to see him. Come with me. Keep me from doing anything I'd enjoy."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "The Wizard. Let's go."
+msgstr ""
+
+#. The Ledger (label)
+msgid "Visit the Wizard with Teresa."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "I'm right behind you. Go on."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "He should be terrified of me. Why isn't he?"
+msgstr ""
+
+#. The Ledger (label)
+msgid "Talk to Teresa about the Wizard."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "There was one cage at the bottom of the vault. Sealed before I ever got there. I was never allowed near it. It's the only lock that didn't break."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "I think I know what's been calling the beasts. Its name is Oathmaw. The one dragon that never left him."
+msgstr ""
+
+#. The Ledger (desc)
+msgid "I need to be sure before we go after it. Two more contracts first. And these ones, we take alive."
+msgstr ""
+
+#. The Ledger (label)
+msgid "Tell Teresa you have spoken with the Wizard."
+msgstr ""
+
+#. The Tail That Burns (title)
+msgid "The Tail That Burns"
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "Still thinking about the Wizard? So am I. Let's do something useful with it."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "There's one beast I've put off hunting since I got out. My first catch. The Manticore."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "I was a young bounty hunter, and very proud of myself. I tracked it for a month, and when I finally caught it with a Soul Catcher and held its spawner in my hand, I thought I'd made my name."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "Then I handed it to a kind old man who said he'd keep it somewhere safe. You know the rest."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "It's made its home in the Forgotten Sky, up above the land. Ashkore's old neighborhood. It always did like to look down on everyone."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "Be ready for anything. It has more ways to hurt you than anything else I ever caught. Fire, poison, lightning, leaping at you from a distance. You never know which one is coming until it hits. When it roars, a wall of fire springs up. Don't touch it."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "I put it in a cage once. I'm not putting it in the ground too. We take it alive."
+msgstr ""
+
+#. The Tail That Burns (intro)
+msgid "Wear it down, then use your Soul Catcher. It'll turn into a spawner. Bring that to me. Watch the tail. It holds a grudge, and so do I."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "It remembers me. That's why it's angry. Don't take it personally."
+msgstr ""
+
+#. The Tail That Burns (finish)
+msgid "Caught. Again. This time it's going somewhere better."
+msgstr ""
+
+#. The Tail That Burns (label)
+msgid "Bring Teresa the Manticore spawner."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "Here's how to raise one properly. It'll be loyal to you. More than it ever was to me."
+msgstr ""
+
+#. The Tail That Burns (desc)
+msgid "The closer we get, the quieter he gets. The Wizard. I don't like it."
+msgstr ""
+
+#. Pretty Monster (title)
+msgid "Pretty Monster"
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "The Manticore's spawner is locked away where nobody can take it. I checked the lock twice. Old habits."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "It took me a month to catch that thing when I was young. It took you an afternoon. I won't pretend that doesn't sting a little."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "One more contract before it's time. The Pegasus."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "It was the last thing I ever caught. I was paid to bring it in, and I did. A week later he put me in a cage. I never saw the coin, and I never saw the Pegasus again. Now it's flying around free, same as me. I'd like to see where it ends up this time."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "Don't let the wings fool you. It's the most dangerous thing on my list that isn't a dragon. Fast, strong, and it flies. When it opens its mouth wide, get out of the way. It breathes sunlight. That isn't poetry. Get caught in the beam and you'll still be on fire long after it stops."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "The Wizard still won't talk to me about any of it. Fine. I'll talk to people who will."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "There's a woman called Paula who keeps animals. She'll want a word before we go. Everyone says so."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "Paula. The animal trainer. Go and hear her out."
+msgstr ""
+
+#. Pretty Monster (label)
+msgid "Talk to Paula about the Pegasus."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "Go on. I'll wait."
+msgstr ""
+
+#. Pretty Monster (intro)
+msgid "She wants it alive. So do I, as it happens. We capture it.\n\nAnd she's right about the dragon. It isn't alive. Not really.\n\nBack up to the Forgotten Sky, Rider. Not the islands this time: it keeps to the bridges between them. Bring it down gently, if anything about this is gentle. Then the Soul Catcher, same as before."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "Back up in the Forgotten Sky, on the bridges between the islands. It's faster in the air. Make it land."
+msgstr ""
+
+#. Pretty Monster (finish)
+msgid "Caught, and not a scratch it didn't deserve. Paula should be pleased."
+msgstr ""
+
+#. Pretty Monster (label)
+msgid "Bring Teresa the Pegasus spawner."
+msgstr ""
+
+#. Pretty Monster (desc)
+msgid "That's the last contract. All that's left is the bottom cage. Get ready, Rider."
+msgstr ""
+
+#. The First Dragon (title)
+msgid "The First Dragon"
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Both spawners are locked away, and both beasts are going to someone who'll treat them better than I did. That's every contract closed but one."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "I went back to the vault last night. First time since I walked out. It's quiet down there now. Empty cages, broken locks, ten years of scratch marks on my wall."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Except the bottom cage. That lock's still whole, and it's warm to the touch. Something behind it is breathing."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "That's why the Wizard's so calm. He thinks he still has one move left. I'd like to take it off the board."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "I've hunted for money, and I've hunted for pride. This one's neither. This one's for ten years in a cage, and for every beast he ever kept down there with me."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "I sharpened this every day for ten years. Let's find out if it was worth it."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "I know how to call it out. The vault's last lock answers to these crystals, same as all the others did. Hold one up and it'll come to us. Are you ready?"
+msgstr ""
+
+#. The First Dragon (label)
+msgid "Tell Teresa when you are ready to face the dragon."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Take your time. It's waited this long."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Good. Stay close, keep moving, and don't stop until it stays down."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "No more contracts. No more ledger. Just this."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Ten years I listened to you breathe through that wall. Now I get to see your face. Hold still. This won't take long."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "...That's it? Ten years of listening to that thing breathe, and it goes down like any other job.\n\nContract closed. Let's go home, Rider."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "No. That's not right. Dead things don't breathe.\n\nRider. It's not over. Get ready."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Did you really think I'd leave without a backup plan, Dragon Rider? Every piece of me I had left, I gave to this one. It stayed. They always stay, in the end."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "Get up. We go again."
+msgstr ""
+
+#. The First Dragon (desc)
+msgid "It's down. And this time, it's staying down."
+msgstr ""
+
+#. The First Dragon (label)
+msgid "Tell Teresa you have defeated Oathmaw."
+msgstr ""
+
+#. Paid in Full (title)
+msgid "Paid in Full"
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "It's over. That was the last of him. I felt it go."
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "The Wizard's still out there, talking to himself. Just an old man now. For someone like him, that's worse than dead."
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "The dragon's free of him, too. What's left of it isn't evil. It's just tired. It could use someone who won't let it down."
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "One last thing. I always close my contracts. This one's closed."
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "Thank you, Dragon Rider."
+msgstr ""
+
+#. Paid in Full (desc)
+msgid "Rider. The board has work, if you want it. I'll be here."
+msgstr ""
+
+#. Big Game (title)
+msgid "Big Game"
+msgstr ""
+
+#. Big Game (desc)
+msgid "New contract on the board. Same terms as always: you hunt, I pay. Pick one."
+msgstr ""
+
+#. Big Game (intro)
+msgid "Three Raptors, out in the jungle. Plant your feet and let them come."
+msgstr ""
+
+#. Big Game (desc)
+msgid "Board says you're not done. The board is never wrong."
+msgstr ""
+
+#. Big Game (finish)
+msgid "Logged. Come back tomorrow, there'll be more."
+msgstr ""
+
+#. Big Game (label)
+msgid "Tell Teresa you have completed the contract."
+msgstr ""
+
+#. Big Game (intro)
+msgid "Three Triceratops, up in the rocky peaks. Go for the side."
+msgstr ""
+
+#. Big Game (finish)
+msgid "Logged. You've been reliable, and reliable gets a bonus. Don't make it weird."
+msgstr ""
+
+#. Dangerous Game (title)
+msgid "Dangerous Game"
+msgstr ""
+
+#. Dangerous Game (desc)
+msgid "Fine. Two others on the board. Pick one."
+msgstr ""
+
+#. Dangerous Game (intro)
+msgid "One Manticore, up in the Forgotten Sky, on the grassy islands. Watch the tail."
+msgstr ""
+
+#. Dangerous Game (intro)
+msgid "One Pegasus, up in the Forgotten Sky, on the bridges between the islands. Stay out of the beam."
+msgstr ""
+
+#. Dangerous Game (intro)
+msgid "One Wyrm, out in the desert. Don't be standing where the fire lands."
+msgstr ""
+
+#. Small Game (title)
+msgid "Small Game"
+msgstr ""
+
+#. Small Game (intro)
+msgid "Ten Scorpions, out in the sand. Easy money."
+msgstr ""
+
+#. Small Game (intro)
+msgid "Ten Cave Scorpions, down in the caves. Bring a torch."
+msgstr ""
+
+#. The First Dragon Rematch (title)
+msgid "The First Dragon Rematch"
+msgstr ""
+
+#. The First Dragon Rematch (desc)
+msgid "Something's stirring in the bottom cage again. Want to put it down a second time?"
+msgstr ""
+
+#. The First Dragon Rematch (desc)
+msgid "You again. Fine. Same as last time."
+msgstr ""
+
+#. The First Dragon Rematch (desc)
+msgid "Down again. I'll keep the cage locked. You keep that sword sharp."
+msgstr ""

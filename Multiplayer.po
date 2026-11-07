@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-18 17:50-0700\n"
+"PO-Revision-Date: 2026-10-18 17:50-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+
+msgid "Sign in to play online."
+msgstr ""
+
+msgid "Authentication failed."
+msgstr ""
+
+msgid "Could not get a sign-in ticket from Steam."
+msgstr ""
+
+msgid "Steam sign-in is not available right now. You can sign in with Discord instead."
+msgstr ""
+
+msgid "This Steam account does not own Block Story."
+msgstr ""
+
+msgid "This Steam account can't be used for online play."
+msgstr ""
+
+msgid "This Block Story account is disabled."
+msgstr ""
+
+msgid "Steam could not confirm your sign-in. Try again."
+msgstr ""
+
+msgid "Could not reach Steam. Try again later."
+msgstr ""
+
+msgid "Too many sign-in attempts. Wait a minute and try again."
+msgstr ""
+
+msgid "Could not reach the Block Story sign-in service."
+msgstr ""
+
+msgid "In the Block Story Discord type /link {0} (or DM Ted-Bot: !link {0})."
+msgstr ""
+
+msgid "The sign-in code expired. Sign in again to get a new one."
+msgstr ""
+
+msgid "Your sign-in expired. Sign in again."
+msgstr ""
+
+msgid "That server address is not valid."
+msgstr ""
+
+msgid "Sign-in is temporarily unavailable. Try again later."
+msgstr ""
+
+msgid "Sign in to redeem codes in multiplayer."
+msgstr ""
+
+msgid "Enter a code first."
+msgstr ""
+
+msgid "Too many tries. Wait a minute and try again."
+msgstr ""
+
+msgid "Could not reach the Block Story code service."
+msgstr ""
+
+msgid "Code redeemed!"
+msgstr ""
+
+msgid "That code could not be redeemed."
+msgstr ""
+
+msgid "Sign in to use cosmetics."
+msgstr ""
+
+msgid "Signed in with Steam\nas {0}"
+msgstr ""
+
+msgid "Signed in with Discord\nas {0}"
+msgstr ""
+
+msgid "Signing in..."
+msgstr ""
+
+msgid "Not signed in"
+msgstr ""
+
+msgid "Sign Out"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Your code:"
+msgstr ""
+
+msgid "Getting your sign-in code..."
+msgstr ""
+
+msgid "Signing in with Steam..."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Discord\nSign In"
+msgstr ""
+
+msgid "Try\nAgain"
+msgstr ""
+
+msgid "/invite: Invite Steam friends"
+msgstr ""
+
+msgid "Host a LAN game on Steam to invite friends"
+msgstr ""
+
+msgid "The code window is not available right now."
+msgstr ""
+
+msgid "This server does not show that cosmetic yet. Rejoin to use newly redeemed cosmetics."
+msgstr ""
+
+msgid "Could not load your cosmetics."
+msgstr ""
+
+msgid "You have no cosmetics yet. Redeem a cosmetic code with /redeem CODE."
+msgstr ""
+
+msgid "Your cosmetics (use /cosmetic <name> or /cosmetic none):"
+msgstr ""
+
+msgid "No cosmetic shown."
+msgstr ""
+
+msgid "Cosmetic hidden."
+msgstr ""
+
+msgid "Now showing {0} (it has no icon yet, so nothing appears)."
+msgstr ""
+
+msgid "Now showing {0}."
+msgstr ""
+
+msgid "Could not delete that LAN world."
+msgstr ""
+
+msgid "That LAN world is being hosted right now."
+msgstr ""
+
+msgid "No LAN world to host."
+msgstr ""
+
+msgid "That LAN world is missing."
+msgstr ""
+
+msgid "LAN hosting is not available on this device."
+msgstr ""
+
+msgid "Could not start the LAN game."
+msgstr ""
+
+msgid "Signed in as {0}."
+msgstr ""
+
+msgid "Enter server IP and port before saving."
+msgstr ""
+
+msgid "Saved {0}"
+msgstr ""
+
+msgid "Play Online"
+msgstr ""
+
+msgid "Online License Agreement"
+msgstr ""
+
+msgid "Scroll to the end of the agreement, then accept to play online."
+msgstr ""
+
+msgid "Connecting to your Steam friend"
+msgstr ""
+
+msgid "Could not reach your Steam friend"
+msgstr ""
+
+msgid "Enter server IP and port."
+msgstr ""
+
+msgid "Server Name"
+msgstr ""
+
+msgid "Sign in with Discord"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "No image selected."
+msgstr ""
+
+msgid "Could not decode PNG."
+msgstr ""
+
+msgid "Skin is too large even at 64x64. Use a simpler PNG."
+msgstr ""
+
+msgid "Want to join\n{0}?"
+msgstr ""
+
+msgid "Join Server"
+msgstr ""
+
+msgid "Host LAN Game"
+msgstr ""
+
+msgid "New LAN World"
+msgstr ""
+
+msgid "Host {0}\nfor up to {1} players?"
+msgstr ""
+
+msgid "Host a LAN game\nfor up to {0} players?"
+msgstr ""
+
+msgid "Join LAN Game"
+msgstr ""
+
+msgid "Delete {0}\nforever?"
+msgstr ""
+
+msgid "Delete LAN World"
+msgstr ""
+
+msgid "Are you sure you'd like to remove\n{0}?"
+msgstr ""
+
+msgid "Remove Server"
+msgstr ""
+
+msgid "Could not remove saved server."
+msgstr ""
+
+msgid "No saved servers yet.\nTap Add Server to create one."
+msgstr ""
+
+msgid "Steam is not running."
+msgstr ""
+
+msgid "Steam sign-in is only available in the Steam version."
+msgstr ""
+
+msgid "Leave this game to join your Steam friend"
+msgstr ""
+
+msgid "Copy\nCode"
+msgstr ""
+
+msgid "Steam\nSign In"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Discord"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Add\nServer"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Online play uses your Discord account.\nPress Sign In to get a code, then link it in the Block Story Discord."
+msgstr ""
+
+msgid "Online play uses your Discord or Steam account.\nPress Steam Sign In, or press Discord Sign In to get a code and link it in the Block Story Discord."
+msgstr ""
+
+msgid "Waiting for Discord... this screen updates by itself."
+msgstr ""
+
+msgid "Block Story Multiplayer is in Limited Community Testing.\nTo join the next public test, visit our Discord server."
+msgstr ""
+
+msgid "Sign in to join a server."
+msgstr ""
+
+msgid "Could not connect to server.\nCheck the IP and port, and make sure the server is running."
+msgstr ""
+
+msgid "This server is not allowed.\nChoose a different server to join."
+msgstr ""
+
+msgid "WARNING Multiplayer is experimental and very unstable."
+msgstr ""
+
+msgid "Add Server"
+msgstr ""
+
+msgid "Edit Server"
+msgstr ""
+
+msgid "Code copied."
+msgstr ""
+
+msgid "Commands:"
+msgstr ""
+
+msgid "/help: Show this list"
+msgstr ""
+
+msgid "/pm user message: Private message a player"
+msgstr ""
+
+msgid "/warp name: Go to a warp or server"
+msgstr ""
+
+msgid "/listwarps: List warp names"
+msgstr ""
+
+msgid "/list: List players online"
+msgstr ""
+
+msgid "/redeem code: Redeem a cosmetic code"
+msgstr ""
+
+msgid "/cosmetic: List your cosmetics"
+msgstr ""
+
+msgid "/cosmetic name: Show that cosmetic by your name"
+msgstr ""
+
+msgid "/cosmetic none: Hide your cosmetic"
+msgstr ""
+
+msgid "Could not connect to server. Check the IP and port, and make sure the server is running."
+msgstr ""

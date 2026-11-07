@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-18 17:50-0700\n"
+"PO-Revision-Date: 2026-10-18 17:50-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+
+msgid "Lucid Dreams"
+msgstr ""
+
+msgid ""
+"Shhh... you can see me? Few dreamers ever do. Two nightmares have broken "
+"loose in this realm. While they roam, no dream is safe."
+msgstr ""
+
+msgid "Listen to Whisp."
+msgstr ""
+
+msgid ""
+"The nightmares feed on dreams, and I am made of little else. Bring me five "
+"Fading Dreams from the walls of the Dream Castle so I can regain my strength."
+msgstr ""
+
+msgid "Mine five Fading Dreams from the Dream Castle and bring them to me."
+msgstr ""
+
+msgid ""
+"Ahh... I can remember again. The nightmares slipped into this realm through "
+"a tear in the sky, from the cold void between the stars."
+msgstr ""
+
+msgid "Bring the Fading Dreams to the Dream Whisp."
+msgstr ""
+
+msgid "Echoes of the Void"
+msgstr ""
+
+msgid ""
+"Ordinary steel cannot cut a nightmare. A dream blade needs something from "
+"the void they came from, and iron that fell from the stars."
+msgstr ""
+
+msgid "Talk to the Dream Whisp."
+msgstr ""
+
+msgid ""
+"Bring me three pieces of Dark Matter and five Meteorite Blocks. With them I "
+"can follow the nightmares' trail and prepare the blade."
+msgstr ""
+
+msgid ""
+"Bring three pieces of Dark Matter and five Meteorite Blocks to the Dream "
+"Whisp."
+msgstr ""
+
+msgid ""
+"Cold... so cold. Yes, I can feel them now, hiding far out among the stars. "
+"The star iron is ready. Only the nightmares remain."
+msgstr ""
+
+msgid "Bring the Dark Matter and Meteorite Blocks to the Dream Whisp."
+msgstr ""
+
+msgid "End of Nightmares"
+msgstr ""
+
+msgid ""
+"Defeat Infelix Centrum and Orbis Felix, and I will teach you to forge a "
+"blade from dreams themselves."
+msgstr ""
+
+msgid ""
+"The nightmares still stalk this realm. Defeat Infelix Centrum and Orbis "
+"Felix, then come back to me."
+msgstr ""
+
+msgid "Tell the Dream Whisp that the nightmares are defeated."
+msgstr ""
+
+msgid "Sweet dreams, dreamer."
+msgstr ""
+
+msgid "Exp"
+msgstr ""
+
+msgid "The nightmares know you are coming. Infelix Centrum and Orbis Felix are waiting for you among the stars, they grew so big by feeding on Dreams."
+msgstr ""
+
+msgid "The nightmares are gone and the realm sleeps peacefully again. As promised, here is the secret of the Lucid Dream. Dream Pillars for the handle and a Realm Crystal for its core."
+msgstr ""
