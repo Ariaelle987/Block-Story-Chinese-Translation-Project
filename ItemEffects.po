@@ -260,4 +260,4 @@ msgid "NormalDamage"
 msgstr "{0} 普通伤害"
 
 msgid "MagicDamage"
-msgstr ""
+msgstr "{0} 魔法伤害"
