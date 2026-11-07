@@ -170,3 +170,5 @@ msgid "Trees you plant will not stop growing until they are full size."
 msgstr ""
 "你栽種的樹會一直生長直到完全長大。"
 
+msgid "Be sure to check out the official Discord!"
+msgstr ""
