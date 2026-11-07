@@ -3092,3 +3092,350 @@ msgstr "下坐騎"
 msgid "Clear Inventory?"
 msgstr "清空揹包？"
 
+msgid "Use the following keys:\n[FFFF00]1-7[-] for the quick slots\n[FFFF00]Q[-] or [FFFF00]~[-]  for the inventory\n[FFFF00]Tab[-] for using objects\n[FFFF00]Space[-] for jumping\n[FFFF00]WASD[-] for moving\n[FFFF00]F1[-] for skill points\n[FFFF00]F2[-] for current quests\n[FFFF00]F3[-] for taking pictures\n[FFFF00]F4[-] for settings\n[FFFF00]F5[-] for equipment\n[FFFF00]F[-] for flying\n[FFFF00]R[-] use radar (if equipped)"
+msgstr ""
+
+msgid "Searching for remote world {0}"
+msgstr ""
+
+msgid "Searching for remote character {0}"
+msgstr ""
+
+msgid "Oblivion does not touch the armored. It reaches only those who stand exposed. Unequip all of your armor and gear before using this item."
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "Old"
+msgstr ""
+
+msgid "A"
+msgstr ""
+
+msgid "Void"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Caps Lock"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "Num 8"
+msgstr ""
+
+msgid "Num 5"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Left Windows"
+msgstr ""
+
+msgid ","
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "K"
+msgstr ""
+
+msgid "Sandbox"
+msgstr ""
+
+msgid "Skyblock"
+msgstr ""
+
+msgid "/"
+msgstr ""
+
+msgid "Online\n(Beta)\n\n"
+msgstr ""
+
+msgid "Add Server"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Server Name"
+msgstr ""
+
+msgid "Add\nServer"
+msgstr ""
+
+msgid "You already have that pet type summoned!"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "O"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Select Storyline"
+msgstr ""
+
+msgid "Select Gender"
+msgstr ""
+
+msgid "No skins in Themes folder (add skin.png to a pack folder)"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Later"
+msgstr ""
+
+msgid "Scorpions"
+msgstr ""
+
+msgid "Cave Scorpions"
+msgstr ""
+
+msgid "Go on"
+msgstr ""
+
+msgid "Not now"
+msgstr ""
+
+msgid "Not yet"
+msgstr ""
+
+msgid "Raptors"
+msgstr ""
+
+msgid "Triceratops"
+msgstr ""
+
+msgid "Manticore"
+msgstr ""
+
+msgid "Something else"
+msgstr ""
+
+msgid "Pegasus"
+msgstr ""
+
+msgid "Wyrm"
+msgstr ""
+
+msgid "Hardmode creatures can now spawn around you."
+msgstr ""
+
+msgid "Hardmode creatures are already enabled."
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "No video is available right now. Try again in a little while."
+msgstr ""
+
+msgid "Rewarded [0000FF]{0:0}[-] Diamonds!"
+msgstr ""
+
+msgid "Sand Physics"
+msgstr ""
+
+msgid "Water Physics"
+msgstr ""
+
+msgid "Wizard Vault Mobs"
+msgstr ""
+
+msgid "Mobs Fight"
+msgstr ""
+
+msgid "Leaf Decay"
+msgstr ""
+
+msgid "No story, no waiting.\nEverything is unlocked from the start, so you can explore, build, and fight at your own pace."
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Rewarded Items! Check your inventory."
+msgstr ""
+
+msgid "My Bed"
+msgstr ""
+
+msgid "Accept: "
+msgstr ""
+
+msgid "Request: "
+msgstr ""
+
+msgid "This vehicle is full"
+msgstr ""
+
+msgid "The Magic Orb cannot be used inside a Realm."
+msgstr ""
+
+msgid "This block does not work inside a Realm."
+msgstr ""
+
+msgid "This creature cannot be captured."
+msgstr ""
+
+msgid "Teleport request sent."
+msgstr ""
+
+msgid "No active bed set."
+msgstr ""
+
+msgid "World teleport is not available in multiplayer."
+msgstr ""
+
+msgid "Someone is riding this"
+msgstr ""
+
+msgid "If you purchase the full version you will be able to save your worlds and profiles in the cloud and synchronize with other devices"
+msgstr ""
+
+msgid "That area is claimed."
+msgstr ""
+
+msgid "Belongs to: "
+msgstr ""
+
+msgid "Claim: 3x3x3 chunks"
+msgstr ""
+
+msgid "Remove: "
+msgstr ""
+
+msgid "Add Builder..."
+msgstr ""
+
+msgid "Enter builder name"
+msgstr ""
+
+msgid "Enter a player name."
+msgstr ""
+
+msgid "Owner already has full access."
+msgstr ""
+
+msgid "Already added."
+msgstr ""
+
+msgid "Builder list is full."
+msgstr ""
+
+msgid "Added "
+msgstr ""
+
+msgid "Pile of Diamonds"
+msgstr ""
+
+msgid "Bag of Diamonds"
+msgstr ""
+
+msgid "Sack of Diamonds"
+msgstr ""
+
+msgid "Box of Diamonds"
+msgstr ""
+
+msgid "Chest of Diamonds"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Lvl {0}"
+msgstr ""
+
+msgid "Could not load skin."
+msgstr ""
+
+msgid "Invalid skin image."
+msgstr ""
+
+msgid "Name cannot be empty."
+msgstr ""
+
+msgid "A profile with that name already exists."
+msgstr ""
+
+msgid "Original profile file not found."
+msgstr ""
+
+msgid "Error: {0}"
+msgstr ""
+
+msgid "Seed: {0}"
+msgstr ""
+
+msgid "A folder with that name already exists."
+msgstr ""
+
+msgid "Original world folder not found."
+msgstr ""
+
+msgid "Lucid Dream: Light"
+msgstr ""
+
+msgid "Lucid Dream: Dark"
+msgstr ""
+
+msgid "Awarded Respawn"
+msgstr ""
+
+msgid "Drag any item here to destroy it."
+msgstr ""
+
+msgid "You can't summon more than {0} creatures at once!"
+msgstr ""
+
+msgid "Texture packs"
+msgstr ""
+
+msgid "Open Folder"
+msgstr ""
