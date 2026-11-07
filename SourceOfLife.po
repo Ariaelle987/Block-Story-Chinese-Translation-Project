@@ -42,3 +42,212 @@ msgstr ""
 #, fuzzy
 msgid "Tell the Source of Life you have slain the Dark BOSS."
 msgstr "告诉生命之源，你已经击败了黑暗魔王。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dear Brother..."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dear Brother... Down to Hell..."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dear Brother... Snow mountain..."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dear Brother... They lie to me..."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Living Tree...."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Living Tree... Bugs Still Coming..."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:874 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:849 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"... Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\n"
+"Who's there?\n"
+"...\n"
+"What are these vile bugs doing in my sacred forest?!\n"
+"I hate them you know, and you look very similar to them. You're tiny and "
+"your eyes... beady little things.\n"
+"...Gggggggrreeerrmbbbthhhhhhhhh...\n"
+"Be gone! I want nothing to do with you!\n"
+"...Gggrrrrmbbbthhhhhhhhh...\n"
+"But...\n"
+"...Gggrrrrmbbbtttttttttttthhh...\n"
+"I see you have a sword... Maybe...\n"
+"...Grrrrrrttt...\n"
+"Can you help me?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Of course! None can say \"No\" to the Source Of Life!\n"
+"...Gggrrrrmbbbthhhhhhhhh...\n"
+"Rid my forest of these pests...\n"
+"Kill [FF0000]20 Kraden[-]."
+msgstr ""
+
+msgid "...Ggrrmbbbttttttthhhhhhh...\nMy brother says that we have another brother... He lives deep down below the ground...\nGggttrrrr...\nCan you find him, too?"
+msgstr ""
+
+msgid "Talk to the Source of Life."
+msgstr ""
+
+msgid "Grrrmrttttthhh...\nThen don't waste my time...\nGrrtth...\nGo and bring me his spawner...\nBring [FF0000]1 Barlog Spawner[-]."
+msgstr ""
+
+msgid "My other brother lives deep below the ground. Capture him and bring me [FF0000]1 Barlog Spawner[-]."
+msgstr ""
+
+msgid "...Ggrrmbbbttttttthhhhhhh...\nYou made it... (This small creature is a real hero...)\nGrmrttttthhh...\nTake this Fire Staff from my brother...\nIt has very dangerous fire power inside, so be careful with it..."
+msgstr ""
+
+msgid "Bring the Source of Life the Barlog Spawner."
+msgstr ""
+
+msgid "...Gggggggrreeerrmbbbthhhhhhhhh...\nI have been waiting for you, little one...\nWill you help me search for my brother?\n...Ggrrmbbbttttttthhhhhhh...\nWatch out, he is very dangerous!"
+msgstr ""
+
+msgid "...Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nA bat from one of the flowers you gave me says he saw my brother...\n...Gggttrrrr...\nHe lives very high up the mountain.... More than 250 meters up...\n...Gggrrrrmbbbthhhhhhhhh...\nGo and bring me his spawner...\nBring one [FF0000]Ice Elemental Spawner[-]."
+msgstr ""
+
+msgid "My brother lives high up the snow mountain. Capture him and bring me one [FF0000]Ice Elemental Spawner[-]."
+msgstr ""
+
+msgid "...Gggttrrrr...\nIs this real????\nArrrrgggg!!! My dear brother is back!\nTake these Earth Spikes Staffs. They will help you in your journey......\n...Arrrrrrrgggggg...\nNow go away... I need to talk with my brother...."
+msgstr ""
+
+msgid "Bring the Source of Life the Ice Elemental Spawner."
+msgstr ""
+
+msgid "My brothers lie to me...\nAfter all I have done for them!!!!\nARRRRGGGGGGG!!!!!!!\nCan you teach them to respect me?"
+msgstr ""
+
+msgid "ARRRRGGGGGGG!!!!!!!!!!!\nThen GO! And kill them!!!!\n[FF0000]Kill the Ice Elemental[-]\n[FF0000]Kill the Barlog[-]"
+msgstr ""
+
+msgid "GO! And kill them!!!! [FF0000]Kill the Ice Elemental[-] and [FF0000]the Barlog[-]."
+msgstr ""
+
+msgid "Arggg... Who's there?\nI figured you died already...\n...Ggrrmbbbttttttthhhhhhh...\nYou are much stronger than I thought...\nGgrrrthh...\nYou have proven worthy of carrying this.\nTake this Tentacles Staff...\nThis is the most powerful magic in the world... This is the staff I, the Source Of Life, use... Be careful with it. This weapon can bring even a Dragon to his knees...\nGrrrrrttt...\nGood luck in your journey and thank you for all you have done for me..."
+msgstr ""
+
+msgid "Tell the Source of Life his brothers have been dealt with."
+msgstr ""
+
+msgid "... Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nYou're still here? I can barely see you, you are so small!!!\n...Gggrrrrmbbbthhhhhhhhh...\nI lost my brother about a hundred years ago, but I finally know how to find him.\n...Ggrrmbbbttttttthhhhhhh...\nCan you help me again?"
+msgstr ""
+
+msgid "...Ggrrmbbthh ggrrmmmbbttthh grrmbbtthh...\n...I've heard of a creature that knows a lot of things...\n...Grrrrrrttt....\nIt is somewhere in the jungle... In a great swamp... Very dangerous place...\n...Gggrrrrmbbbtttttttttttthhh...\nThis creature looks like a bat. They travel very far and have seen many things. One of them might have seen my Brother.\nThey spawn from [FF0000]Jungle Flowers[-]. Can you bring some of these flowers to me?\nBring [FF0000]10 Jungle Flowers[-]."
+msgstr ""
+
+msgid "The bats spawn from [FF0000]Jungle Flowers[-]. Bring me [FF0000]10 Jungle Flowers[-]."
+msgstr ""
+
+msgid "...Ggrrmbbbttttttthhhhhhh...\nYou are growing in my eyes, small creature...\nThank you for this...\n...Gggggggrreeerrmbbbthhhhhhhhh...\nI have another gift for you. Take this Nature Staff.\nNow you have the sacred nature power in your hands... But be careful with this..."
+msgstr ""
+
+msgid "Bring the Source of Life the Jungle Flowers."
+msgstr ""
+
+msgid "... Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nWhy are you so useless and small!!!!!\n..Arggg...\nYou can't even stop these small bugs!\n...Gggrrrrmbbbthhhhhhhhh...\nYou'd better try harder if you want this [FF0000]Magic Staff[-]!"
+msgstr ""
+
+msgid "...Ggrrmbbthh ggrrmmmbbttthh grrmbbtthh...\nNow make some Soul Catchers, capture the bugs and bring me [FF0000]20 Kraden Spawners[-]!"
+msgstr ""
+
+msgid "Use Soul Catchers to capture the bugs and bring me [FF0000]20 Kraden Spawners[-]!"
+msgstr ""
+
+msgid "...Gggrrrrmbbbthhhhhhhhh...\nI see you got them.\n...Ggrrmbbbttttttthhhhhhh...\nFine, this Dark Magic Staff is yours.\nTo use the staff, tap and hold on an enemy and wait for it to charge up. When the spell cast bar is full, it will release a dark power on your target.\n...Gggrrrrmbbbthhhhhhhhh...\nNow go away! You still look like a bug even with that magnificent Magic Staff in your hand."
+msgstr ""
+
+msgid "Bring the Source of Life the Kraden Spawners."
+msgstr ""
+
+msgid "Rid my forest of these pests... Kill [FF0000]20 Kraden[-]."
+msgstr ""
+
+msgid "...Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nI hope they stop bothering me after you're done with them..."
+msgstr ""
+
+msgid "Tell the Source of Life you have killed the bugs."
+msgstr ""
