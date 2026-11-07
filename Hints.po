@@ -171,4 +171,4 @@ msgstr ""
 "你栽种的树会一直生长直到完全长大。"
 
 msgid "Be sure to check out the official Discord!"
-msgstr ""
+msgstr "记得去看看官方 Discord！"
