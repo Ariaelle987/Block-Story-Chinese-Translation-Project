@@ -40,9 +40,7 @@ msgid "BowDamage"
 msgstr "{0} 弓箭傷害"
 
 msgid "Energy"
-msgstr ""
-"提供[FFFF00]{0}能量[-]以用[FF0000]熔爐[-]"
-"或[FF0000]大鍋[-]製作物品。"
+msgstr "提供[FFFF00]{0}能量[-]以用[FF0000]熔爐[-]或[FF0000]大鍋[-]製作物品。"
 
 msgid "HealthRegen"
 msgstr "{0}最大生命恢復"
@@ -261,3 +259,5 @@ msgstr "{0 }寵物最大生命值"
 msgid "NormalDamage"
 msgstr "{0} 普通傷害"
 
+msgid "MagicDamage"
+msgstr ""
