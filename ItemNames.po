@@ -925,7 +925,7 @@ msgid "Crystal Block Yellow"
 msgstr "黄水晶块"
 
 msgid "Unobtainium From Bar"
-msgstr "难得素锭配方"
+msgstr "难得素块"
 
 msgid "Klorium From Ore"
 msgstr "辉石锭"
@@ -3962,7 +3962,7 @@ msgid "Reeds"
 msgstr "芦苇"
 
 msgid "Pyrite Triangle"
-msgstr "愚人金三角板"
+msgstr "愚人金三角版"
 
 msgid "Pyrite Half"
 msgstr "愚人金横半砖"
@@ -3971,10 +3971,10 @@ msgid "Pyrite Vertical"
 msgstr "愚人金竖半砖"
 
 msgid "Steel Triangle"
-msgstr "钢三角板"
+msgstr "钢三角版"
 
 msgid "Bronze Triangle"
-msgstr "青铜三角板"
+msgstr "青铜三角版"
 
 msgid "Steel Half"
 msgstr "钢横半砖"
@@ -4028,7 +4028,7 @@ msgid "Dream Brick Stairs"
 msgstr "梦境砖楼梯"
 
 msgid "Dream Bricks Triangle"
-msgstr "梦境砖三角板"
+msgstr "梦境砖三角版"
 
 msgid "Dream Bricks Half"
 msgstr "梦境砖横半砖"
