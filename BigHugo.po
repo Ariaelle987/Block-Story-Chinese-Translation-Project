@@ -99,7 +99,11 @@ msgid ""
 "\"Dear Hugo, thanks for your help the other day.\n"
 "This guy is not as useless as he seems.\n"
 "Maybe he can help you with your problem.\""
-msgstr ""
+msgstr "哦，你给我带了封信？泰德写的？让我看看……\n"
+"\n"
+"“亲爱的雨果，谢谢你前几天的帮忙。\n"
+"这家伙并不像看上去那么没用。\n"
+"也许他能帮你解决你的问题。”"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -115,7 +119,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Well, since you come so highly recommended, can you give me a hand?"
-msgstr ""
+msgstr "好吧，既然别人这么极力推荐你，你能帮我个忙吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -136,58 +140,62 @@ msgid ""
 "Please kill [FF0000]20 spiders[-].\n"
 "Let me know when you are finished.\n"
 "(I bet this is the last I'll hear from this guy...)"
-msgstr ""
+msgstr "我从小宝宝的时候起，就一直害怕蜘蛛。\n"
+"但这整个地方到处都是蜘蛛！\n"
+"请杀掉[FF0000]20只蜘蛛[-]。\n"
+"你完成后告诉我。\n"
+"（我敢打赌，这是我最后一次听到这家伙的消息了……）"
 
 msgid "Who are you? What do you want?\nDid someone send you down here?"
-msgstr ""
+msgstr "你是谁？你想干什么？\n是有人派你下来的吗？"
 
 msgid "Did someone send you down here?"
-msgstr ""
+msgstr "是有人派你下来的吗？"
 
 msgid "(whimper) I saw... I saw.... A HUGE SPIDER!\nIt said \"WHO DISTURBS ARAGOG!\" and I ran as fast as I could out of there!\nThat thing is straight out of my nightmares...\nI can't eat, sleep or even breathe knowing that that creature is out there.\nPlease HELP ME!!!"
-msgstr ""
+msgstr "（抽泣）我看见了……我看见了……一只巨大的蜘蛛！\n它说“是谁打扰了阿拉戈！”，然后我就拼了命地逃了出来！\n那东西简直就是从我噩梦里爬出来的……\n一想到那怪物就在外面，我吃不下、睡不着，连呼吸都困难。\n求求你帮帮我！！！"
 
 msgid "Talk to Hugo."
-msgstr ""
+msgstr "与雨果交谈。"
 
 msgid "Get rid of it! Just... get rid of it!\n[FF0000]KILL ARAGOG[-]!\nYou can summon him with the Aragog spawner I showed you how to make."
-msgstr ""
+msgstr "除掉它！就……除掉它！\n[FF0000]杀死阿拉戈[-]！\n我可以教你怎么制作的阿拉戈刷怪箱来把它召唤出来。"
 
 msgid "[FF0000]KILL ARAGOG[-]! You can summon him with an Aragog spawner."
-msgstr ""
+msgstr "[FF0000]杀死阿拉戈[-]！你可以用阿拉戈刷怪箱召唤它。"
 
 msgid "You did it? Really?\nThen bring me his eye so I know it's safe!"
-msgstr ""
+msgstr "你做到了？真的吗？\n那就把他的眼睛带来给我，这样我才能确定安全了！"
 
 msgid "Tell Hugo you have killed Aragog."
-msgstr ""
+msgstr "告诉雨果你已经杀死了阿拉戈。"
 
 msgid "Bring me [FF0000]Aragog's eye[-] so I know it's safe!"
-msgstr ""
+msgstr "把[FF0000]阿拉戈的眼睛[-]带来给我，这样我才能确定安全了！"
 
 msgid "Wow, how did you do it?!\nThat beast looked so scary!\nHere, take some apples as a reward."
-msgstr ""
+msgstr "哇，你是怎么做到的？！\n那野兽看起来太可怕了！\n来，拿些苹果作为奖励吧。"
 
 msgid "Bring Hugo Aragog's eye."
-msgstr ""
+msgstr "把阿拉戈的眼睛带给雨果。"
 
 msgid "Please kill [FF0000]20 spiders[-]. Let me know when you are finished."
-msgstr ""
+msgstr "请杀死[FF0000]20只蜘蛛[-]。完成后告诉我。"
 
 msgid "What?! You're still alive?!\n(Maybe Ted was right... he's not as useless as he looks.)"
-msgstr ""
+msgstr "什么？！你还活着？！\n（也许泰德说得对……他并不像看上去那么没用。）"
 
 msgid "Tell Hugo you have killed the spiders."
-msgstr ""
+msgstr "告诉雨果你已经杀死了蜘蛛。"
 
 msgid "It looks like these spiders just never stop coming.\nI think they have nests around here somewhere... Yes... I think they come from the spider webs you see around the caves.\nPlease bring me [FF0000]10 spider webs[-]."
-msgstr ""
+msgstr "看来这些蜘蛛根本杀不完。\n我想这附近某处应该有它们的巢穴……对……我觉得它们就是从你在洞穴周围看到的蜘蛛网里出来的。\n请给我带[FF0000]10个蜘蛛网[-]来。"
 
 msgid "I think the spiders come from the webs around the caves. Please bring me [FF0000]10 spider webs[-]."
-msgstr ""
+msgstr "我觉得蜘蛛是从洞穴周围的蜘蛛网里来的。请给我带[FF0000]10个蜘蛛网[-]来。"
 
 msgid "Yes! It worked, no more spiders! I can finally sleep!\nTake some apples, they'll restore your health."
-msgstr ""
+msgstr "太好了！成功了，再也没有蜘蛛了！我终于能睡觉了！\n拿些苹果吧，它们能恢复你的生命值。"
 
 msgid "Bring Hugo the spider webs."
-msgstr ""
+msgstr "把蜘蛛网带给雨果。"
