@@ -406,12 +406,6 @@ msgstr "你必須做好準備。要是你和你的龍不夠強大，你不可能
 msgid "What will I do when it’s all over?  Raise my animals in peace.  I suppose Ted will build his city.  What will you do?"
 msgstr "一切結束後我該去做什麼？安安靜靜地照料我的那些動物吧。我想幫泰德建造他的城市。你呢？"
 
-#. (itstool) path: info/label
-#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:18
-#, no-wrap
-msgid "Reach level 50 with the dragon."
-msgstr "將龍升至30級。"
-
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:29
 #, no-wrap
@@ -422,13 +416,13 @@ msgstr "你是我所認識的最偉大的人。我相信你可以給這場戰爭
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
 #, no-wrap
 msgid "Tell Paula the dragon has reached its maximum potential."
-msgstr "告訴葆拉，你的龍達到了全部潛能（30級）。"
+msgstr "告訴葆拉，你的龍達到了全部潛能。"
 
 msgid "The Maturation of the Dragon"
 msgstr "龍的成熟"
 
 msgid "Tell Paula the Xordaraxus has reached its maximum potential."
-msgstr "告訴葆拉，索達拉修斯達到了全部潛能（30級）。"
+msgstr "告訴葆拉，索達拉修斯達到了全部潛能。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1526,9 +1520,6 @@ msgid ""
 msgstr ""
 "現在是時候訓練索達拉修斯了，讓他達到自己的最大潛力。就像它在過去的光輝歲月時一樣。"
 
-msgid "Reach level 50 with the Xordaraxus."
-msgstr "將索達拉修斯升至30級。"
-
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:46
@@ -1843,3 +1834,353 @@ msgstr ""
 "然而那裡棲息著強大的阿什科爾，因此他們始終生活在恐懼之中。\n"
 "後來，他們決定前往地表定居。\n"
 "一部分人仍留在天空群島，希望離自己的故鄉更近一些；而其餘的人，則飛向了下方的大地……"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Another Attack"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Evil creatures"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Lost Warrior"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "New Monster-proof House"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Not Dyllen"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Pet dragon"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"I was training here in the forest, minding my own business. When I returned "
+"to my camp, though, the place was trashed!\n"
+"Some people saw a monster that was half man half wolf around here. They said "
+"he ran up the mountain.\n"
+"Help me build a new camp that can stand up to more attacks from that beast, "
+"please."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:448 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Great. Bring me some materials for building a new house, please.\n"
+"I need [FF0000]30 wood blocks[-], I also need [FF0000]10 gold ores[-] and "
+"[FF0000]50 bricks[-].\n"
+"I think a guy named Shadow Hunter sells bricks."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"I need [FF0000]30 wood blocks[-], [FF0000]10 gold ores[-] and [FF0000]50 "
+"bricks[-] for my new house."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Thank you! I'll start building my new house right away."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"What is it with this monster? He came over and knocked down my house again!\n"
+"I think there is only one way to deal with him...\n"
+"Can you make sure he stays away?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:448 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"There's more than one!\n"
+"I think they call themselves Dyllen. Go ahead and hunt [FF0000]20 Werewolves"
+"[-].\n"
+"Hopefully that will be enough to scare them off for good.\n"
+"I think they live up there in the mountain where there's snow.\n"
+"Beware: I have never seen them during the day."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:373 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:863 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:157 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Not That One"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:920 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Dragon Rider. I heard what she wants with the Pegasus. Please. Not that one."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "It has done nothing but be beautiful. If she must have it, let it live."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"There is something else. A dragon out there, older than Xordaraxus. I can "
+"feel it. Something that old should not still be alive. My prayers are with "
+"you."
+msgstr ""
+
+msgid "Reach level 30 with the dragon."
+msgstr "將龍升至30級。"
+
+msgid "Reach level 30 with the Xordaraxus."
+msgstr "將索達拉修斯升至30級。"
+
+msgid "Talk to Paula."
+msgstr ""
+
+msgid "Hunt [FF0000]20 Werewolves[-]. They live up in the snowy mountains and only come out at night."
+msgstr ""
+
+msgid "Hopefully, now they will leave me alone."
+msgstr ""
+
+msgid "Tell Paula you have hunted the werewolves."
+msgstr ""
+
+msgid "My granny told me one more thing we could do with the Ashkore essence.\nBut she made me swear never to try it. Since I never believed her, I simply swore. But now.... I am kinda curious.\nWhy don't you try it.\nI hope I don't regret this, but I am going to tell you how to summon evil using electrite.\nYou want to know why I told you how to summon the monster?\nWell, it is said to be a man eater, and it is also said to have the ability to create and destroy matter."
+msgstr ""
+
+msgid "I want you to summon Shiva, kill it and harvest its power.\nYou can summon Shiva by placing his spawner somewhere on the ground, and prepare for battle."
+msgstr ""
+
+msgid "Summon [FF0000]Shiva[-] by placing his spawner on the ground, then kill it."
+msgstr ""
+
+msgid "You managed to do it! What did you think of Shiva? Was it as tough as my Granny made it sound?\nI see. Well, you must be pretty tough to survive that.\nHere, these are instructions for what she called Replicators.\nYou can use one of them on any block and it will multiply that block!"
+msgstr ""
+
+msgid "Tell Paula you have defeated Shiva."
+msgstr ""
+
+msgid "-_-\nSigh, that Aaron, he is lucky his head is attached to his body, otherwise he would lose it too.\nAnyway, yes, the device he talks about is called a Radar.\nI know how to make it, and I will tell you... for a price."
+msgstr ""
+
+msgid "Talk to Paula about the Radar."
+msgstr ""
+
+msgid "I hear Aaron got a dragon heart.\nI don't know how he got it, but now I feel compelled to one-up that.\nI want to train a live dragon.\nTake these Soul Catchers. Use them to capture [FF0000]2 red dragons[-], and bring them to me."
+msgstr ""
+
+msgid "Use the Soul Catchers to capture [FF0000]2 red dragons[-], and bring them to me."
+msgstr ""
+
+msgid "Excellent.\nHere, I wrote down instructions for how to make a radar. Even Aaron will be able to understand it.\nGo on, give it to him."
+msgstr ""
+
+msgid "Bring Paula the captured dragons."
+msgstr ""
+
+msgid "Bring Paula the building materials."
+msgstr ""
+
+msgid "IT WASN'T THE DYLLEN!\nI saw him, it was a Black Werewolf! He's the one that attacked my house.\nHe came back and stole all my food!\nGet rid of him for me and I'll give you my best weapon."
+msgstr ""
+
+msgid "Please kill [FF0000]20 Black Werewolves[-]. And free me from this annoying animal once and for all."
+msgstr ""
+
+msgid "Please kill [FF0000]20 Black Werewolves[-]."
+msgstr ""
+
+msgid "Hopefully now I can live in peace.\nThank you.\nTake this Bow as a token of my appreciation."
+msgstr ""
+
+msgid "Tell Paula you have killed the Black Werewolves."
+msgstr ""
+
+msgid "The red dragons are even dumber than Aaron.\nI try to teach them, but they just insist on trying to bite my head off.\nI think I need another kind of dragon. Let's work together, I am sure you could use a dragon too."
+msgstr ""
+
+msgid "When I was little, my granny told me about a world high up in the sky.\nShe said it was the home of some powerful creatures.\nShe said that when lightning strikes it is because one of those creatures sneezed.\nShe called them the Ashkore.\nI always thought she was a loony.\nBut last year, I found something strange.\nDeep in a cave I saw some drawings of dragons in the sky, breathing lightning down on us.\nThe strange part is that I had seen those drawings before, in my dreams.\nMaybe granny was onto something.\nI want you to fly high above the clouds. You can use the floating islands or build a really tall tower.\nFind one of the Ashkore, capture it with a Soul Catcher, and bring me its essence: [FF0000]1 Ashkore Spawner[-]."
+msgstr ""
+
+msgid "Fly high above the clouds, capture an Ashkore with a Soul Catcher and bring me its essence: [FF0000]1 Ashkore Spawner[-]."
+msgstr ""
+
+msgid "This is amazing. THEY EXIST. Granny was not crazy.\nGive it to me!!! I need it.\nWhat? You don't want to give it to me?\nOhhh, stop whining and listen.\nShe told me that the essence of the Ashkore could take multiple shapes.\nIt is supposed to be powerful enough to create life or destroy it.\nShe even told me how to use it."
+msgstr ""
+
+msgid "Bring Paula the Ashkore's essence."
+msgstr ""
+
+msgid "Let's try granny's instructions. Bring me [FF0000]a Dragon Heart[-] from a red dragon."
+msgstr ""
+
+msgid "Bring me [FF0000]a Dragon Heart[-] from a red dragon."
+msgstr ""
+
+msgid "Thanks, now I will try my granny's recipe.\n...\nUnbelievable. IT WORKS!!!\nI have my own pet dragon. Aaron's got nothing on me now.\nHere, for your help I will give you my granny's recipes."
+msgstr ""
+
+msgid "Bring Paula the Dragon Heart."
+msgstr ""
