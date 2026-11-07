@@ -850,3 +850,308 @@ msgstr "褐甲龙虫"
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Rat"
 msgstr "老鼠"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Wyvern"
+msgstr ""
+
+msgid "Orbis Felix"
+msgstr "奥比斯·菲利克斯"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Space Wren"
+msgstr "太空鹪鹩"
+
+msgid "Crescent Ray"
+msgstr "新月鳐"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Ember Tyr"
+msgstr ""
+
+msgid "CrescentRay"
+msgstr "新月鳐"
+
+msgid "OrbisFelix"
+msgstr "奥比斯·菲利克斯"
+
+msgid "InfelixCentrum"
+msgstr ""
+
+msgid "Skeleton"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
+msgid "Raptor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Manticore"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "Triceratops"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "Orthros"
+msgstr ""
+
+msgid "LavaGolem"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "FemaleKnight"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
+msgid "Teresa"
+msgstr ""
+
+msgid "HorseMare"
+msgstr ""
+
+msgid "BabyHorseOld"
+msgstr ""
+
+msgid "GiantScorpion"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "CaveScorpion"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "THEDRAGON"
+msgstr ""
+
+msgid "UndeadDragon"
+msgstr ""
+
+msgid "HorseOld"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "Wyrm"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "FantasyTiger"
+msgstr ""
+
+msgid "DragonTurtle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "Scorpion"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "Unicorn"
+msgstr ""
+
+msgid "SnowGolem"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
+msgid "MountainGolem"
+msgstr ""
+
+msgid "DragonWorm"
+msgstr ""
+
+msgid "AbyssDragon"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:141 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:126 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:220 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "AngryMushroom"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:141 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:126 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:220 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "Elongata"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "WildSpirit"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mantarion"
+msgstr ""
+
+msgid "Sunfish"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "Ammonite"
+msgstr ""
+
+msgid "Marlin"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "Orca"
+msgstr ""
+
+msgid "Beluga"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "LeopardSeal"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "Amberjack"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "MushroomMonster"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "DreamWhisp"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:354 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:158 
+msgid "Pegasus"
+msgstr ""
+
+msgid "Pegasus_Pet"
+msgstr ""
+
+msgid "Manticore_Pet"
+msgstr ""
+
+msgid "Elongata_Pet"
+msgstr ""
+
+msgid "UndeadDragon_Pet"
+msgstr ""
