@@ -1852,3 +1852,87 @@ msgid ""
 "Let's start destroying this world together, let everyone see the strength "
 "and power of the Dragon Lords!"
 msgstr "讓我們一起毀滅這個世界，讓所有人見識龍主的力量與威嚴！"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:373 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:863 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:157 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "My Little Hunter"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:898 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Well, well. My little hunter. Out of her cage at last. And you've brought my "
+"favourite pawn."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:920 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "Give me one reason not to put you in the ground."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Because you would be doing me a kindness, and you have never once been kind. "
+"Look at me. I am nothing now. Isn't that what you both wanted?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:153 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:140 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:171 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Run along, Dragon Rider. Enjoy your little hunts. I have all the time in the "
+"world."
+msgstr ""
