@@ -1845,7 +1845,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Another Attack"
-msgstr ""
+msgstr "另一次袭击"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1857,7 +1857,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Evil creatures"
-msgstr ""
+msgstr "邪恶生物"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1869,7 +1869,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Lost Warrior"
-msgstr ""
+msgstr "迷失的战士"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1881,7 +1881,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "New Monster-proof House"
-msgstr ""
+msgstr "新建防怪房屋"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1893,7 +1893,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Not Dyllen"
-msgstr ""
+msgstr "不是狼人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1905,7 +1905,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Pet dragon"
-msgstr ""
+msgstr "宠物龙"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1928,6 +1928,10 @@ msgid ""
 "Help me build a new camp that can stand up to more attacks from that beast, "
 "please."
 msgstr ""
+"我当时正在这片森林里训练，没有招谁惹谁。可我回到营地时，"
+"那地方已经被砸得稀巴烂！\n"
+"有人在这附近看到过一个半人半狼的怪物。他们说它往山上跑了。\n"
+"请帮我建一个新营地，能扛住那头野兽更多的攻击。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1948,6 +1952,10 @@ msgid ""
 "[FF0000]50 bricks[-].\n"
 "I think a guy named Shadow Hunter sells bricks."
 msgstr ""
+"太好了。请给我带一些建造新房子用的材料来。\n"
+"我需要[FF0000]30块木头[-]，还需要[FF0000]10块金矿石[-]和"
+"[FF0000]50块砖[-]。\n"
+"我记得一个叫炼金术士的家伙卖砖。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1965,7 +1973,9 @@ msgstr ""
 msgid ""
 "I need [FF0000]30 wood blocks[-], [FF0000]10 gold ores[-] and [FF0000]50 "
 "bricks[-] for my new house."
-msgstr ""
+msgstr ""msgstr ""
+"我需要[FF0000]30块木头[-]、[FF0000]10块金矿石[-]和[FF0000]50"
+"块砖[-]来建我的新房子。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1981,7 +1991,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Thank you! I'll start building my new house right away."
-msgstr ""
+msgstr "谢谢你！我马上就开始建我的新房子。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2001,6 +2011,9 @@ msgid ""
 "I think there is only one way to deal with him...\n"
 "Can you make sure he stays away?"
 msgstr ""
+"这怪物到底怎么回事？它又跑过来把我的房子推倒了！\n"
+"我觉得对付它只有一个办法……\n"
+"你能确保它离得远远的吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2023,6 +2036,12 @@ msgid ""
 "I think they live up there in the mountain where there's snow.\n"
 "Beware: I have never seen them during the day."
 msgstr ""
+"不止一个！\n"
+"我记得它们自称狼人。去猎杀[FF0000]20只狼人"
+"[-]吧。\n"
+"希望这足以把它们彻底吓跑。\n"
+"我记得它们住在山上积雪的地方。\n"
+"当心：我从来没在白天见过它们。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2034,7 +2053,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Not That One"
-msgstr ""
+msgstr "不是那只"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2052,7 +2071,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid ""
 "Dragon Rider. I heard what she wants with the Pegasus. Please. Not that one."
-msgstr ""
+msgstr "龙骑士。我听说她想要天马做什么了。拜托。别是那一只。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2068,7 +2087,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "It has done nothing but be beautiful. If she must have it, let it live."
-msgstr ""
+msgstr "它除了美丽什么都没做过。如果她非要得到它，就让它活下去吧。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -2088,6 +2107,8 @@ msgid ""
 "feel it. Something that old should not still be alive. My prayers are with "
 "you."
 msgstr ""
+"还有一件事。外面有一条龙，比索达拉修斯还要古老。我能感觉到它。"
+"那么古老的存在不应该还活着。我会为你祈祷。"
 
 msgid "Reach level 30 with the dragon."
 msgstr "将龙升至30级。"
@@ -2096,91 +2117,91 @@ msgid "Reach level 30 with the Xordaraxus."
 msgstr "将索达拉修斯升至30级。"
 
 msgid "Talk to Paula."
-msgstr ""
+msgstr "与宝拉交谈。"
 
 msgid "Hunt [FF0000]20 Werewolves[-]. They live up in the snowy mountains and only come out at night."
-msgstr ""
+msgstr "猎杀[FF0000]20只狼人[-]。它们住在积雪的高山上，只在夜间出没。"
 
 msgid "Hopefully, now they will leave me alone."
-msgstr ""
+msgstr "希望现在它们能离我远点了。"
 
 msgid "Tell Paula you have hunted the werewolves."
-msgstr ""
+msgstr "告诉宝拉你已经猎杀了狼人。"
 
 msgid "My granny told me one more thing we could do with the Ashkore essence.\nBut she made me swear never to try it. Since I never believed her, I simply swore. But now.... I am kinda curious.\nWhy don't you try it.\nI hope I don't regret this, but I am going to tell you how to summon evil using electrite.\nYou want to know why I told you how to summon the monster?\nWell, it is said to be a man eater, and it is also said to have the ability to create and destroy matter."
-msgstr ""
+msgstr "我奶奶还告诉过我一件可以用阿什科尔精华做的事。\n但她逼我发誓永远不尝试。因为我从来不信她，所以就随便发了誓。但现在……我有点好奇。\n你为什么不试试呢。\n希望我不会后悔，但我要告诉你如何用雷晶召唤邪恶。\n你想知道我为什么告诉你如何召唤那个怪物吗？\n嗯，据说它吃人，而且据说它拥有创造和毁灭物质的能力。"
 
 msgid "I want you to summon Shiva, kill it and harvest its power.\nYou can summon Shiva by placing his spawner somewhere on the ground, and prepare for battle."
-msgstr ""
+msgstr "我要你召唤希瓦，杀死它并收割它的力量。\n你可以把它的刷怪箱放在地面上某处来召唤希瓦，并做好战斗准备。"
 
 msgid "Summon [FF0000]Shiva[-] by placing his spawner on the ground, then kill it."
-msgstr ""
+msgstr "将它的刷怪箱放在地面上以召唤[FF0000]希瓦[-]，然后杀死它。"
 
 msgid "You managed to do it! What did you think of Shiva? Was it as tough as my Granny made it sound?\nI see. Well, you must be pretty tough to survive that.\nHere, these are instructions for what she called Replicators.\nYou can use one of them on any block and it will multiply that block!"
-msgstr ""
+msgstr "你居然做到了！你觉得希瓦怎么样？它真有我奶奶说的那么强吗？\n我明白了。嗯，能活下来，你一定相当强悍。\n给你，这是她所说的复制者的使用说明。\n你可以把它用在任何方块上，它就会复制那个方块！"
 
 msgid "Tell Paula you have defeated Shiva."
-msgstr ""
+msgstr "告诉宝拉你已经击败了希瓦。"
 
 msgid "-_-\nSigh, that Aaron, he is lucky his head is attached to his body, otherwise he would lose it too.\nAnyway, yes, the device he talks about is called a Radar.\nI know how to make it, and I will tell you... for a price."
-msgstr ""
+msgstr "-_-\n唉，那个艾伦，他真该庆幸脑袋还长在脖子上，不然他连脑袋都能弄丢。\n总之，没错，他说的那个装置叫雷达。\n我知道怎么做，我可以告诉你……但得付点代价。"
 
 msgid "Talk to Paula about the Radar."
-msgstr ""
+msgstr "与宝拉谈论雷达的事。"
 
 msgid "I hear Aaron got a dragon heart.\nI don't know how he got it, but now I feel compelled to one-up that.\nI want to train a live dragon.\nTake these Soul Catchers. Use them to capture [FF0000]2 red dragons[-], and bring them to me."
-msgstr ""
+msgstr "我听说艾伦得到了一颗龙心。\n我不知道他是怎么弄到的，但现在我一定要压他一头。\n我想训练一条活龙。\n拿着这些灵魂捕捉器。用它们捕捉[FF0000]2条火龙[-]，然后带给我。"
 
 msgid "Use the Soul Catchers to capture [FF0000]2 red dragons[-], and bring them to me."
-msgstr ""
+msgstr "使用灵魂捕捉器捕捉[FF0000]2条火龙[-]，然后把它们带给我。"
 
 msgid "Excellent.\nHere, I wrote down instructions for how to make a radar. Even Aaron will be able to understand it.\nGo on, give it to him."
-msgstr ""
+msgstr "太好了。\n给，我写下了如何制作雷达的说明。连艾伦都能看懂。\n去吧，交给他。"
 
 msgid "Bring Paula the captured dragons."
-msgstr ""
+msgstr "把捕获的龙带给宝拉。"
 
 msgid "Bring Paula the building materials."
-msgstr ""
+msgstr "把建筑材料带给宝拉。"
 
 msgid "IT WASN'T THE DYLLEN!\nI saw him, it was a Black Werewolf! He's the one that attacked my house.\nHe came back and stole all my food!\nGet rid of him for me and I'll give you my best weapon."
-msgstr ""
+msgstr "不是狼人干的！\n我看见它了，是一只黑狼人！攻击我房子的就是它。\n它又回来把我所有食物都偷走了！\n帮我除掉它，我就把我最好的武器给你。"
 
 msgid "Please kill [FF0000]20 Black Werewolves[-]. And free me from this annoying animal once and for all."
-msgstr ""
+msgstr "请杀死[FF0000]20只黑狼人[-]。把这烦人的畜生彻底从我身边赶走。"
 
 msgid "Please kill [FF0000]20 Black Werewolves[-]."
-msgstr ""
+msgstr "请杀死[FF0000]20只黑狼人[-]。"
 
 msgid "Hopefully now I can live in peace.\nThank you.\nTake this Bow as a token of my appreciation."
-msgstr ""
+msgstr "希望现在我能安稳过日子了。\n谢谢你。\n收下这把弓，算是我的一点心意。"
 
 msgid "Tell Paula you have killed the Black Werewolves."
-msgstr ""
+msgstr "告诉宝拉你已经杀死了黑狼人。"
 
 msgid "The red dragons are even dumber than Aaron.\nI try to teach them, but they just insist on trying to bite my head off.\nI think I need another kind of dragon. Let's work together, I am sure you could use a dragon too."
-msgstr ""
+msgstr "火龙比艾伦还笨。\n我想教它们，可它们就一门心思要咬掉我的脑袋。\n我觉得我需要另一种龙。我们合作吧，我相信你也用得上一条龙。"
 
 msgid "When I was little, my granny told me about a world high up in the sky.\nShe said it was the home of some powerful creatures.\nShe said that when lightning strikes it is because one of those creatures sneezed.\nShe called them the Ashkore.\nI always thought she was a loony.\nBut last year, I found something strange.\nDeep in a cave I saw some drawings of dragons in the sky, breathing lightning down on us.\nThe strange part is that I had seen those drawings before, in my dreams.\nMaybe granny was onto something.\nI want you to fly high above the clouds. You can use the floating islands or build a really tall tower.\nFind one of the Ashkore, capture it with a Soul Catcher, and bring me its essence: [FF0000]1 Ashkore Spawner[-]."
-msgstr ""
+msgstr "小时候，我奶奶跟我说过天空高处的一个世界。\n她说那里是一些强大生物的家园。\n她说打雷就是因为那些生物打了个喷嚏。\n她管它们叫阿什科尔。\n我一直觉得她是个疯子。\n但去年，我发现了一些奇怪的东西。\n在一个洞穴深处，我看到一些画，画着天空中的龙向我们喷下闪电。\n奇怪的是，我以前在梦里见过那些画。\n也许奶奶说的是真的。\n我想让你飞到云层高处。你可以借助浮空岛，或者建一座很高的塔。\n找到一只阿什科尔，用灵魂捕捉器捕获它，然后把它的精华带给我：[FF0000]1个阿什科尔刷怪箱[-]。"
 
 msgid "Fly high above the clouds, capture an Ashkore with a Soul Catcher and bring me its essence: [FF0000]1 Ashkore Spawner[-]."
-msgstr ""
+msgstr "飞到云层高处，用灵魂捕捉器捕获一只阿什科尔，然后把它的精华带给我：[FF0000]1个阿什科尔刷怪箱[-]。"
 
 msgid "This is amazing. THEY EXIST. Granny was not crazy.\nGive it to me!!! I need it.\nWhat? You don't want to give it to me?\nOhhh, stop whining and listen.\nShe told me that the essence of the Ashkore could take multiple shapes.\nIt is supposed to be powerful enough to create life or destroy it.\nShe even told me how to use it."
-msgstr ""
+msgstr "太神奇了。它们真的存在。奶奶没疯。\n把它给我！！！我需要它。\n什么？你不想给我？\n哦，别抱怨了，听我说。\n她告诉我，阿什科尔的精华可以变成多种形态。\n据说它强大到足以创造生命，也能毁灭生命。\n她甚至告诉过我怎么用它。"
 
 msgid "Bring Paula the Ashkore's essence."
-msgstr ""
+msgstr "把阿什科尔的精华带给宝拉。"
 
 msgid "Let's try granny's instructions. Bring me [FF0000]a Dragon Heart[-] from a red dragon."
-msgstr ""
+msgstr "我们来试试奶奶的说明吧。给我从一条火龙身上取来[FF0000]一颗龙心[-]。"
 
 msgid "Bring me [FF0000]a Dragon Heart[-] from a red dragon."
-msgstr ""
+msgstr "给我从一条火龙身上取来[FF0000]一颗龙心[-]。"
 
 msgid "Thanks, now I will try my granny's recipe.\n...\nUnbelievable. IT WORKS!!!\nI have my own pet dragon. Aaron's got nothing on me now.\nHere, for your help I will give you my granny's recipes."
-msgstr ""
+msgstr "谢谢，现在我来试试奶奶的配方。\n……\n难以置信。成功了！！！\n我有自己的宠物龙了。艾伦现在可比不上我了。\n给，为了感谢你的帮助，我把奶奶的配方送给你。"
 
 msgid "Bring Paula the Dragon Heart."
-msgstr ""
+msgstr "把龙心带给宝拉。"
