@@ -50,3 +50,140 @@ msgid ""
 "put it to good use."
 msgstr ""
 "既然戰友的頭骨已經收集齊，我也可以安心了。謝謝你，龍騎士。如約，這是你的獎勵。願你善加利用。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dancing Lessons"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dancing Lessons II"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dancing Lessons III"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Dancing Lessons IV"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid ""
+"... step bump, step bump bump...\n"
+"Ohhh hi there. I've been taking dance lessons, what do you think?\n"
+"...\n"
+"Well, thank you.\n"
+"Unfortunately the other skeletons don't think the same.\n"
+"How about you help me teach them a lesson?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:448 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "Great, can you show [FF0000]20 Dark Mages[-] how to respect my art?"
+msgstr ""
+
+msgid "Watch me:\n.... HABABABAAABABABAA... Macarena, HABABABAABABABAABA.. Buena, Heeeey Macarena...\nPretty good, right?\nWell... the Dark Slashers say it's stupid.\nWhy don't you go show them who's the stupid one?"
+msgstr ""
+
+msgid "Talk to the dancing skeleton."
+msgstr ""
+
+msgid "Make [FF0000]20 Dark Slashers[-] eat their words."
+msgstr ""
+
+msgid "Learned some respect, didn't they?"
+msgstr ""
+
+msgid "Tell the skeleton the Dark Slashers learned their lesson."
+msgstr ""
+
+msgid "You came to watch me dance again? I have something special for you! Watch this...\n... Cause this is thriller, thriiiiiiiiiiiiller night...\nWell, it turns out the Dark Knights know the same move.\nCan you make them forget it?"
+msgstr ""
+
+msgid "Teach [FF0000]20 Dark Knights[-] not to steal my moves."
+msgstr ""
+
+msgid "Ha! Those posers changed their routine now!"
+msgstr ""
+
+msgid "Tell the skeleton the Dark Knights forgot his moves."
+msgstr ""
+
+msgid "I saw the Dark Boss bust a move that was way better than any of mine. He called it \"moonwalking.\" He looked like he was walking forward, but... he was actually moving backward! How did he do that?\nWe have a recital next Sunday, and I have to go right after him! I can't follow that! I'll look ridiculous in comparison...\nCan you... \"persuade\" him not to moonwalk at the recital?"
+msgstr ""
+
+msgid "Gently \"persuade\" [FF0000]a Dark Boss[-] to stay still at the recital.\nJust do me a favor and don't tell him you're working for me? He scares me."
+msgstr ""
+
+msgid "Gently \"persuade\" [FF0000]a Dark Boss[-] to stay still at the recital."
+msgstr ""
+
+msgid "Other Dark Bosses are mourning the one you \"persuaded\".\nThey've asked me to do the moonwalk at the recital in his honor.\nEverything turned out better than expected!"
+msgstr ""
+
+msgid "Tell the skeleton you have \"persuaded\" the Dark Boss."
+msgstr ""
+
+msgid "Show [FF0000]20 Dark Mages[-] how to respect my art."
+msgstr ""
+
+msgid "That ought to teach 'em!\nThey won't be laughing at me anymore!"
+msgstr ""
+
+msgid "Tell the skeleton you have taught the Dark Mages a lesson."
+msgstr ""
