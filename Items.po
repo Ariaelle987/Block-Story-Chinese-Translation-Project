@@ -2341,114 +2341,6 @@ msgstr "一块橘色的木板，看起来像有人洒了染料。 无论如何�
 msgid "Clear Planks Vertical"
 msgstr "一块橘色的木板，看起来像有人洒了染料。 无论如何，它都非常适合地板或墙壁。"
 
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Clear Planks Triangle"
-msgstr "一块橘色的木板，看起来像有人洒了染料。 无论如何，它都非常适合地板或墙壁。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Clear Planks Stairs"
-msgstr ""
-"一个给你理由可以不用木板做天花板的方块。也是很好的阶梯替代品。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Stone Half"
-msgstr "城堡的古老柱子和墙壁由这种坚固的材料组成。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Stone Vertical"
-msgstr "城堡的古老柱子和墙壁由这种坚固的材料组成。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Stone Triangle"
-msgstr "城堡的古老柱子和墙壁由这种坚固的材料组成。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Old Stone Half"
-msgstr "被遗忘的石头。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Old Stone Vertical"
-msgstr "被遗忘的石头。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Old Stone Triangle"
-msgstr "被遗忘的石头。"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:92
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
-# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Bricks Half"
-msgstr ""
 "存在于世中的最坚硬的方块之一，为良好的防御打下基础。\n"
 "\n"
 "用[FF0000]纯石[-]制成。"
@@ -2462,6 +2354,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Vertical"
 msgid "Bricks Vertical"
 msgstr ""
 "存在于世中的最坚硬的方块之一，为良好的防御打下基础。\n"
@@ -2477,6 +2370,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Vertical"
 msgid "Bricks Triangle"
 msgstr ""
 "存在于世中的最坚硬的方块之一，为良好的防御打下基础。\n"
@@ -2492,6 +2386,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clear Planks Vertical"
 msgid "Carpet Half"
 msgstr "用于装饰。"
 
@@ -4580,3 +4475,321 @@ msgstr "虽看似沉重，但其独特组件能让穿戴者跳得更高、更迅
 
 msgid "Cosmic Pants"
 msgstr "轻便利落的长裤，可显著提升法术能力与移动速度。"
+
+msgid "Mech Leg Right"
+msgstr ""
+
+msgid "Sand Spawner"
+msgstr ""
+
+msgid "Mud"
+msgstr ""
+
+msgid "Realm Crystal"
+msgstr ""
+
+msgid "Fools Gold"
+msgstr ""
+
+msgid "Amethyst Shard"
+msgstr ""
+
+msgid "Ember Sword"
+msgstr ""
+
+msgid "Elongata Soul"
+msgstr ""
+
+msgid "Undead Dragon Soul"
+msgstr ""
+
+msgid "Pegasus Soul"
+msgstr ""
+
+msgid "Manticore Soul"
+msgstr ""
+
+msgid "Frozen Coral"
+msgstr ""
+
+msgid "Jungle Sod"
+msgstr ""
+
+msgid "Green Coral Spawner"
+msgstr ""
+
+msgid "Salt"
+msgstr ""
+
+msgid "Cobalt Ore"
+msgstr ""
+
+msgid "Cobalt Block"
+msgstr ""
+
+msgid "Dream Bricks"
+msgstr ""
+
+msgid "Marble Bricks"
+msgstr ""
+
+msgid "Realm Spawner"
+msgstr ""
+
+msgid "Bronze"
+msgstr ""
+
+msgid "Steel"
+msgstr ""
+
+msgid "Pyrite"
+msgstr ""
+
+msgid "Pyrite Ore"
+msgstr ""
+
+msgid "Broken Dreams"
+msgstr ""
+
+msgid "Gravel"
+msgstr ""
+
+msgid "Fall Grass"
+msgstr ""
+
+msgid "Alien Spawner"
+msgstr ""
+
+msgid "Dream Pillar Top"
+msgstr ""
+
+msgid "Dream Pillar"
+msgstr ""
+
+msgid "Dream Pillar Bottom"
+msgstr ""
+
+msgid "Terrain Stasis Machine"
+msgstr ""
+
+msgid "Large Dream Bricks"
+msgstr ""
+
+msgid "Unsettling Dream"
+msgstr ""
+
+msgid "Wool"
+msgstr ""
+
+msgid "CreativeEmeraldOre"
+msgstr ""
+
+msgid "CreativeSaphireOre"
+msgstr ""
+
+msgid "CreativeRubyOre"
+msgstr ""
+
+msgid "CreativeCoalOre"
+msgstr ""
+
+msgid "CreativeApple"
+msgstr ""
+
+msgid "CreativeCoconut"
+msgstr ""
+
+msgid "CreativeUnobtainium"
+msgstr ""
+
+msgid "CreativeCryptonite"
+msgstr ""
+
+msgid "CreativeKlorium"
+msgstr ""
+
+msgid "CreativeGoldOre"
+msgstr ""
+
+msgid "CreativeSulphureOre"
+msgstr ""
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Storage Row"
+msgstr ""
+
+msgid "Record Dark Boss"
+msgstr ""
+
+msgid "Fake Coin"
+msgstr ""
+
+msgid "Cobalt"
+msgstr ""
+
+msgid "Ammonite Shell"
+msgstr ""
+
+msgid "Honey"
+msgstr ""
+
+msgid "Blubber"
+msgstr ""
+
+msgid "Muktuk"
+msgstr ""
+
+msgid "Burning Ember"
+msgstr ""
+
+msgid "Gust"
+msgstr ""
+
+msgid "Static Water"
+msgstr ""
+
+msgid "Static Lava"
+msgstr ""
+
+msgid "Static Swamp"
+msgstr ""
+
+msgid "Pyrite Fence"
+msgstr ""
+
+msgid "Pyrite Triangle"
+msgstr ""
+
+msgid "Pyrite Half"
+msgstr ""
+
+msgid "Pyrite Vertical"
+msgstr ""
+
+msgid "Steel Fence"
+msgstr ""
+
+msgid "Bronze Fence"
+msgstr ""
+
+msgid "Steel Triangle"
+msgstr ""
+
+msgid "Bronze Triangle"
+msgstr ""
+
+msgid "Steel Half"
+msgstr ""
+
+msgid "Bronze Half"
+msgstr ""
+
+msgid "Steel Vertical"
+msgstr ""
+
+msgid "Bronze Vertical"
+msgstr ""
+
+msgid "Dream Brick Stairs"
+msgstr ""
+
+msgid "Dream Bricks Triangle"
+msgstr ""
+
+msgid "Dream Bricks Half"
+msgstr ""
+
+msgid "Dream Bricks Vertical"
+msgstr ""
+
+msgid "Dream Bricks Fence"
+msgstr ""
+
+msgid "Gale Sword"
+msgstr ""
+
+msgid "Lucid Dream"
+msgstr ""
+
+msgid "SandboxSwitch"
+msgstr ""
+
+msgid "Jungle Flowers"
+msgstr ""
+
+msgid "Swamp Grass 3D"
+msgstr ""
+
+msgid "Toadstool"
+msgstr ""
+
+msgid "Ink Cap"
+msgstr ""
+
+msgid "Morel"
+msgstr ""
+
+msgid "Bug Spawner"
+msgstr ""
+
+msgid "Primula Flower"
+msgstr ""
+
+msgid "Tulip Flower"
+msgstr ""
+
+msgid "Jungle Bouquet"
+msgstr ""
+
+msgid "Mythic Flower"
+msgstr ""
+
+msgid "Clovers"
+msgstr ""
+
+msgid "Glowing Mushroom"
+msgstr ""
+
+msgid "Reeds"
+msgstr ""
+
+msgid "Amethyst"
+msgstr ""
+
+msgid "Amethyst Antique"
+msgstr ""
+
+msgid "Klorium Antique"
+msgstr ""
+
+msgid "Black Crystal Antique"
+msgstr ""
+
+msgid "Cobalt Antique"
+msgstr ""
+
+msgid "Green Crystal Antique"
+msgstr ""
+
+msgid "Cryptonite Antique"
+msgstr ""
+
+msgid "Red Crystal Antique"
+msgstr ""
+
+msgid "Blue Crystal Antique"
+msgstr ""
+
+msgid "Yellow Crystal Antique"
+msgstr ""
+
+msgid "Unobtainium Antique"
+msgstr ""
+
+msgid "Fading Dream"
+msgstr ""
+
+msgid "Cat Tails"
+msgstr ""
