@@ -3947,247 +3947,247 @@ msgid "Unobtainium Antique"
 msgstr ""
 
 msgid "Amethyst Shard"
-msgstr ""
+msgstr "紫水晶碎片"
 
 msgid "Fake Coin"
-msgstr ""
+msgstr "假币"
 
 msgid "Gravel"
-msgstr ""
+msgstr "沙砾"
 
 msgid "Glowing Mushroom"
-msgstr ""
+msgstr "发光蘑菇"
 
 msgid "Reeds"
-msgstr ""
+msgstr "芦苇"
 
 msgid "Pyrite Triangle"
-msgstr ""
+msgstr "愚人金三角板"
 
 msgid "Pyrite Half"
-msgstr ""
+msgstr "愚人金横半砖"
 
 msgid "Pyrite Vertical"
-msgstr ""
+msgstr "愚人金竖半砖"
 
 msgid "Steel Triangle"
-msgstr ""
+msgstr "钢三角板"
 
 msgid "Bronze Triangle"
-msgstr ""
+msgstr "青铜三角板"
 
 msgid "Steel Half"
-msgstr ""
+msgstr "钢横半砖"
 
 msgid "Bronze Half"
-msgstr ""
+msgstr "青铜横半砖"
 
 msgid "Steel Vertical"
-msgstr ""
+msgstr "钢竖半砖"
 
 msgid "Bronze Vertical"
-msgstr ""
+msgstr "青铜竖半砖"
 
 msgid "Fools Gold"
-msgstr ""
+msgstr "愚人金"
 
 msgid "Pyrite Fence"
-msgstr ""
+msgstr "愚人金栅栏"
 
 msgid "Steel Fence"
-msgstr ""
+msgstr "钢栅栏"
 
 msgid "Bronze Fence"
-msgstr ""
+msgstr "青铜栅栏"
 
 msgid "Amethyst From Shard"
-msgstr ""
+msgstr "紫水晶块"
 
 msgid "Toadstool"
-msgstr ""
+msgstr "毒蘑菇"
 
 msgid "Ink Cap"
-msgstr ""
+msgstr "墨帽菇"
 
 msgid "Morel"
-msgstr ""
+msgstr "羊肚菌"
 
 msgid "Primula Flower"
-msgstr ""
+msgstr "报春花"
 
 msgid "Jungle Bouquet"
-msgstr ""
+msgstr "丛林花束"
 
 msgid "Mythic Flower"
-msgstr ""
+msgstr "神话之花"
 
 msgid "Fall Grass"
-msgstr ""
+msgstr "秋草"
 
 msgid "Dream Brick Stairs"
-msgstr ""
+msgstr "梦境砖楼梯"
 
 msgid "Dream Bricks Triangle"
-msgstr ""
+msgstr "梦境砖三角板"
 
 msgid "Dream Bricks Half"
-msgstr ""
+msgstr "梦境砖横半砖"
 
 msgid "Dream Bricks Vertical"
-msgstr ""
+msgstr "梦境砖竖半砖"
 
 msgid "Fading Dream"
-msgstr ""
+msgstr "消逝之梦"
 
 msgid "Dream Bricks Fence"
-msgstr ""
+msgstr "梦境砖栅栏"
 
 msgid "Cobalt Ore"
-msgstr ""
+msgstr "钴矿石"
 
 msgid "Cobalt From Ore"
-msgstr ""
+msgstr "钴块"
 
 msgid "Dream Pillar"
-msgstr ""
+msgstr "梦境柱"
 
 msgid "Dream Pillar Bottom"
-msgstr ""
+msgstr "梦境柱底部"
 
 msgid "Dream Pillar Top"
-msgstr ""
+msgstr "梦境柱顶部"
 
 msgid "Terrain Stasis Machine"
-msgstr ""
+msgstr "地形停滞机"
 
 msgid "Large Dream Bricks"
-msgstr ""
+msgstr "大型梦境砖"
 
 msgid "Unsettling Dream"
-msgstr ""
+msgstr "不安的梦境"
 
 msgid "Wool"
-msgstr ""
+msgstr "羊毛"
 
 msgid "Ember Sword"
-msgstr ""
+msgstr "余烬之剑"
 
 msgid "Gale Sword"
-msgstr ""
+msgstr "疾风之剑"
 
 msgid "Cobalt Block"
-msgstr ""
+msgstr "钴块"
 
 msgid "Lucid Dream"
-msgstr ""
+msgstr "澄梦之剑"
 
 msgid "Cobalt"
-msgstr ""
+msgstr "钴"
 
 msgid "SandboxSwitch"
-msgstr ""
+msgstr "沙盒开关"
 
 msgid "Honey"
-msgstr ""
+msgstr "蜂蜜"
 
 msgid "Blubber"
-msgstr ""
+msgstr "鲸脂"
 
 msgid "Ammonite Shell"
-msgstr ""
+msgstr "菊石壳"
 
 msgid "Muktuk"
-msgstr ""
+msgstr "熟鲸皮脂"
 
 msgid "Cat Tails"
-msgstr ""
+msgstr "香蒲"
 
 msgid "Burning Ember"
-msgstr ""
+msgstr "灼热余烬"
 
 msgid "Gust"
-msgstr ""
+msgstr "迅风"
 
 msgid "Salt"
-msgstr ""
+msgstr "盐"
 
 msgid "Realm Spawner"
-msgstr ""
+msgstr "领域刷怪箱"
 
 msgid "Alien Spawner"
-msgstr ""
+msgstr "外星刷怪箱"
 
 msgid "CreativeEmeraldOre"
-msgstr ""
+msgstr "翡翠原矿"
 
 msgid "CreativeSaphireOre"
-msgstr ""
+msgstr "蓝宝石原矿"
 
 msgid "CreativeRubyOre"
-msgstr ""
+msgstr "红宝石原矿"
 
 msgid "CreativeCoalOre"
-msgstr ""
+msgstr "煤原矿"
 
 msgid "CreativeApple"
-msgstr ""
+msgstr "苹果方块"
 
 msgid "CreativeCoconut"
-msgstr ""
+msgstr "椰子方块"
 
 msgid "CreativeUnobtainium"
-msgstr ""
+msgstr "难得素原矿"
 
 msgid "CreativeCryptonite"
-msgstr ""
+msgstr "氪石原矿"
 
 msgid "CreativeKlorium"
-msgstr ""
+msgstr "辉石原矿"
 
 msgid "CreativeGoldOre"
-msgstr ""
+msgstr "黄金原矿"
 
 msgid "CreativeSulphureOre"
-msgstr ""
+msgstr "硫磺原矿"
 
 msgid "Elongata Soul"
-msgstr ""
+msgstr "大嘴花之魂"
 
 msgid "Manticore Soul"
-msgstr ""
+msgstr "蝎狮之魂"
 
 msgid "Undead Dragon Soul"
-msgstr ""
+msgstr "亡灵龙之魂"
 
 msgid "Pegasus Soul"
-msgstr ""
+msgstr "天马之魂"
 
 msgid "Swamp Grass 3D"
-msgstr ""
+msgstr "沼泽草 3D"
 
 msgid "Bug Spawner"
-msgstr ""
+msgstr "虫子刷怪箱"
 
 msgid "Green Fluorite Block"
-msgstr ""
+msgstr "翡翠原矿"
 
 msgid "Blue Crystal Block"
-msgstr ""
+msgstr "蓝宝石原矿"
 
 msgid "Red Crystal Block"
-msgstr ""
+msgstr "红宝石原矿"
 
 msgid "Coal Ore Block"
-msgstr ""
+msgstr "煤原矿"
 
 msgid "Gold Ore Block"
-msgstr ""
+msgstr "黄金原矿"
 
 msgid "Sulphure Ore Block"
-msgstr ""
+msgstr "硫磺原矿"
 
 msgid "Apple Block"
-msgstr ""
+msgstr "苹果方块"
 
 msgid "Coco Bean Block"
-msgstr ""
+msgstr "椰子方块"
