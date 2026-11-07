@@ -60,7 +60,7 @@ msgstr "雨果的恐蛛症"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Hugo's Arachnophobia II"
-msgstr ""
+msgstr "雨果的恐蛛症 II"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -78,7 +78,7 @@ msgstr ""
 # UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:899 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:648 
 msgid "Give Hugo the letter from Ted."
-msgstr ""
+msgstr "把泰德的信交给雨果。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
