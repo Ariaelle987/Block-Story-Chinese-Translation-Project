@@ -482,3 +482,9 @@ msgstr "很好。我不会手下留情。像炼金术士一样，用智慧而非
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Trial of Oblivion Rematch"
 msgstr "遗忘试炼·重赛"
+
+msgid "Bring an Amber Bricks block to the Alchemist."
+msgstr ""
+
+msgid "Thank you for bringing the Amber Bricks. Here is your reward."
+msgstr ""
