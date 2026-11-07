@@ -36,7 +36,7 @@ msgstr "当龙主的龙弃他而去时，它们把龙主的力量一并带走了
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:37
 #, no-wrap
 msgid "Speak to Paula about the Wizard's betrayal."
-msgstr "与葆拉谈谈巫师的背叛。"
+msgstr "与宝拉谈谈巫师的背叛。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:24
@@ -66,7 +66,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:62
 #, no-wrap
 msgid "Tell Paula you have crafted the Dragon Boots."
-msgstr "告诉葆拉，你制作了龙靴。"
+msgstr "告诉宝拉，你制作了龙靴。"
 
 #. (itstool) path: craftstep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:58
@@ -119,7 +119,7 @@ msgstr "我知道龙鳞不容易获取，可你毕竟是龙骑士。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:71
 #, no-wrap
 msgid "Tell Paula you have the Dragonscales."
-msgstr "告诉葆拉，你有龙鳞。"
+msgstr "告诉宝拉，你有龙鳞。"
 
 #. (itstool) path: removestep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:25
@@ -179,7 +179,7 @@ msgstr "真是不可思议！你确实配得上龙骑士的称号。"
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:62
 #, no-wrap
 msgid "Tell Paula you can ride the dragon."
-msgstr "告诉葆拉，你能骑龙。"
+msgstr "告诉宝拉，你能骑龙。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:75
@@ -236,7 +236,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:28
 #, no-wrap
 msgid "Tell Paula that you have slain the werewolves."
-msgstr "告诉葆拉，你杀死了狼人。"
+msgstr "告诉宝拉，你杀死了狼人。"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:24
@@ -272,7 +272,7 @@ msgstr ""
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:57
 #, no-wrap
 msgid "Tell Paula that you have slain the black werewolves."
-msgstr "告诉葆拉，你杀死了黑狼人。"
+msgstr "告诉宝拉，你杀死了黑狼人。"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:53
@@ -284,7 +284,7 @@ msgstr "有人说，龙主的邪恶力量将吸引怪物到这个地方，还使
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:76
 #, no-wrap
 msgid "Find Paula a pet spider."
-msgstr "替葆拉找一只宠物蜘蛛。"
+msgstr "替宝拉找一只宠物蜘蛛。"
 
 #. (itstool) path: removestep/intro
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:72
@@ -302,7 +302,7 @@ msgstr "我真的需要一个同伴。请让我一个人呆会。我太伤心不
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:85
 #, no-wrap
 msgid "Give Paula the pet spider."
-msgstr "给葆拉一只宠物蜘蛛。"
+msgstr "给宝拉一只宠物蜘蛛。"
 
 #. (itstool) path: removestep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:81
@@ -328,7 +328,7 @@ msgstr "小心来自暴龙的致命一咬和它巨大的脚，否则它会像踩
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:134
 #, no-wrap
 msgid "Tell Paula that Rex has been slain."
-msgstr "告诉葆拉，暴龙已被击败"
+msgstr "告诉宝拉，暴龙已被击败"
 
 #. (itstool) path: killstep/finish
 #: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:102
@@ -381,7 +381,7 @@ msgstr "你做到了！龙主已经失败！世界有救了！"
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:34
 #, no-wrap
 msgid "Tell Paula you have defeated the Dragon Lord."
-msgstr "告诉葆拉，你击败了龙主。"
+msgstr "告诉宝拉，你击败了龙主。"
 
 #. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml/quest@title
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:1
@@ -416,13 +416,13 @@ msgstr "你是我所认识的最伟大的人。我相信你可以给这场战争
 #: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
 #, no-wrap
 msgid "Tell Paula the dragon has reached its maximum potential."
-msgstr "告诉葆拉，你的龙达到了全部潜能。"
+msgstr "告诉宝拉，你的龙达到了全部潜能。"
 
 msgid "The Maturation of the Dragon"
 msgstr "龙的成熟"
 
 msgid "Tell Paula the Xordaraxus has reached its maximum potential."
-msgstr "告诉葆拉，索达拉修斯达到了全部潜能。"
+msgstr "告诉宝拉，索达拉修斯达到了全部潜能。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1129,16 +1129,16 @@ msgid "The Amber Armor"
 msgstr "琥珀盔甲"
 
 msgid "Tell Paula that you found Amber Bricks."
-msgstr "告诉葆拉，你找到了琥珀砖。"
+msgstr "告诉宝拉，你找到了琥珀砖。"
 
 msgid "Tell Paula you have dragon hearts."
-msgstr "告诉葆拉，你拥有了龙心。"
+msgstr "告诉宝拉，你拥有了龙心。"
 
 msgid "Tell Paula that you found Amber."
-msgstr "告诉葆拉，你找到了琥珀。"
+msgstr "告诉宝拉，你找到了琥珀。"
 
 msgid "Tell Paula that you found Miracle Stone."
-msgstr "告诉葆拉，你找到了奇迹之石。"
+msgstr "告诉宝拉，你找到了奇迹之石。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1334,7 +1334,7 @@ msgid "Have you found Amber Bricks?"
 msgstr "找到琥珀砖了吗？"
 
 msgid "Tell Paula that you killed Phoenix."
-msgstr "告诉葆拉，你杀死了菲尼克斯。"
+msgstr "告诉宝拉，你杀死了菲尼克斯。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1462,7 +1462,7 @@ msgstr ""
 "要是你能击败这个可怕的怪物，那么我不会再怀疑你的实力。"
 
 msgid "Tell Paula that you killed Swamp Golem."
-msgstr "告诉葆拉，你杀死了沼泽傀儡。"
+msgstr "告诉宝拉，你杀死了沼泽傀儡。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1608,7 +1608,7 @@ msgstr ""
 "你能感受到力量渐渐压迫你。与龙主交谈，将所有疑虑彻底消除吧。"
 
 msgid "Tell Paula that you could resist the temptation of dark forces."
-msgstr "告诉葆拉，你成功抵御了黑暗力量的诱惑。"
+msgstr "告诉宝拉，你成功抵御了黑暗力量的诱惑。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1736,7 +1736,7 @@ msgid "Now go and clear this world from this evil spirit."
 msgstr "去吧，将这个邪恶的恶灵从世界上彻底清除。"
 
 msgid "Tell Paula that you killed Mati."
-msgstr "告诉葆拉，你杀死了玛蒂。"
+msgstr "告诉宝拉，你杀死了玛蒂。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
