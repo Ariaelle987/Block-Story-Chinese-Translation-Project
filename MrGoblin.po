@@ -877,3 +877,167 @@ msgstr ""
 "你得承認，要是身體被那樣徹底打亂一下，其實還挺酷的。\n"
 "\n"
 "總之，如果你還需要引力子，可以從天空世界的外星人那裡獲得一些，或者在商店再買一些。"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Fixing my Zeppeling"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:370 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:840 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Strange ore"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "Grawwww! No human! No kill me! Help me! And me helps you!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:448 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Good human! Will help! Zeppelin break, will repair!\n"
+"Me needs lots of things. Look in quest log, human!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:391 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:875 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:850 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:156 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Zeppelin break! Bring Mr. Goblin all the things in the quest log!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:373 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:863 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:157 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:97 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Blow Em All Up"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:898 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Hello-o-o, Dragon Rider! Golems pretending to be rocks? Easy! Blow up ALL "
+"the rocks! Eventually one of them will complain!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid ""
+"Hey, weird thing. That old Dragon Lord itch in my head is back. The one that "
+"makes goblins all angry. I thought it went away when you beat him."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:336 
+# UnityGame/Assets/Localization/T.cs:50 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:170 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:451 
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:727 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
+msgid "Probably nothing. Probably. Go blow 'em all up! Eee hee hee!"
+msgstr ""
+
+msgid "Talk to Mr. Goblin."
+msgstr ""
+
+msgid "Thanks, human! You take this! It helps you!"
+msgstr ""
+
+msgid "Bring Mr. Goblin the zeppelin parts."
+msgstr ""
+
+msgid "What human brings?\nGraviton. Strange. Mr. Goblin investigate, but need help.\nCan human help?"
+msgstr ""
+
+msgid "Bring to Mr. Goblin some things:\n[FF0000]10 Graviton[-]\n[FF0000]50 Iron Ore[-]\n[FF0000]2 Engines[-]"
+msgstr ""
+
+msgid "Bring to Mr. Goblin: [FF0000]10 Graviton[-], [FF0000]50 Iron Ore[-] and [FF0000]2 Engines[-]."
+msgstr ""
+
+msgid "Mr. Goblin thanks human.\nGraviton helps Mr. Goblin fly.\nMr. Goblin show human how to fly.\nUse Graviton to power machine."
+msgstr ""
+
+msgid "Bring Mr. Goblin the parts."
+msgstr ""
