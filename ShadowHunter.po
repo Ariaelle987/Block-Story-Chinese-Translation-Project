@@ -484,7 +484,7 @@ msgid "Trial of Oblivion Rematch"
 msgstr "遺忘試煉·重賽"
 
 msgid "Bring an Amber Bricks block to the Alchemist."
-msgstr ""
+msgstr "把一塊琥珀磚帶給鍊金術士。"
 
 msgid "Thank you for bringing the Amber Bricks. Here is your reward."
-msgstr ""
+msgstr "感謝你帶來琥珀磚，這是你的獎勵。"
