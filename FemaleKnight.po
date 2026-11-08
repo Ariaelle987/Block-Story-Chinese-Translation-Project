@@ -296,608 +296,610 @@ msgstr "给你。疾风之剑。我从一个欠我人情的铁匠那儿弄来了
 
 #. Two Heads, Twice the Pay (title)
 msgid "Two Heads, Twice the Pay"
-msgstr ""
+msgstr "双头，双倍报酬"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "Here's one I know personally. I caught the first one years ago. Took me a week."
-msgstr ""
+msgstr "这一只我亲自领教过。多年前我抓到过第一只，花了我整整一周。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "Orthros. Two heads, one bad attitude. They live down in Hades, about as deep as this world goes. Bring something for the heat."
-msgstr ""
+msgstr "双头犬俄耳托斯。两个脑袋，一副烂脾气。它们住在地狱深处，差不多是这个世界上最深的地方。带点能应付高温的东西。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "Two heads means two sets of eyes. You can't sneak up on it, and you can't get behind it. Believe me, I tried for six days."
-msgstr ""
+msgstr "两个脑袋意味着两双眼睛。你没法偷偷接近它，也没法绕到它背后。相信我，我试了六天。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "The trick is that the heads don't always agree. Make one look left and the other look right, and for a moment it doesn't know what it wants."
-msgstr ""
+msgstr "诀窍在于两个脑袋并不总是一条心。让一个往左看、另一个往右看，它就会有那么一瞬间不知道该干什么。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "That moment is the whole fight. Don't waste it."
-msgstr ""
+msgstr "那一瞬间就是整场战斗的关键。别浪费了。"
 
 #. Two Heads, Twice the Pay (intro)
 msgid "Three of them, down in Hades. That's six heads, if you're counting. I am."
-msgstr ""
+msgstr "三只，都在地狱深处。要是你数脑袋的话，那就是六个。我数了。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "Both heads are watching you. Pick one and don't stop."
-msgstr ""
+msgstr "两个脑袋都在盯着你。选一个，别停手。"
 
 #. Two Heads, Twice the Pay (finish)
 msgid "Done faster than I did it. Don't let it go to your heads."
-msgstr ""
+msgstr "你比我当年完成得还快。别让这事冲昏了你的脑袋。"
 
 #. Two Heads, Twice the Pay (label)
 msgid "Tell Teresa you have slain the Orthros."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些双头犬俄耳托斯。"
 
 #. Two Heads, Twice the Pay (desc)
 msgid "That was a joke. I don't make many. Don't get used to it."
-msgstr ""
+msgstr "那是个玩笑。我不常开玩笑。别习惯了。"
 
 #. Shell Game (title)
 msgid "Shell Game"
-msgstr ""
+msgstr "龟壳把戏"
 
 #. Shell Game (desc)
 msgid "Back to the jungle, Rider. Something down there moves very slowly and is very, very hard to kill."
-msgstr ""
+msgstr "回丛林去，龙骑士。那下面有个东西动得极慢，而且非常、非常难杀死。"
 
 #. Shell Game (desc)
 msgid "Dragon Turtles. Thick shells, short tempers. Some of them are so old there are trees growing out of their backs."
-msgstr ""
+msgstr "龙龟。壳厚，脾气差。有些老得背上都长出树来了。"
 
 #. Shell Game (desc)
 msgid "The last one I caught had been asleep under the same tree for eleven years. It took me a month to wake it up."
-msgstr ""
+msgstr "我上次抓到的那只，在同一棵树下睡了十一年。我花了一个月才把它弄醒。"
 
 #. Shell Game (desc)
 msgid "These ones aren't sleeping. They've left their old feeding grounds, all of them at once. Toward something. I want to know what."
-msgstr ""
+msgstr "这些家伙没在睡觉。它们全都离开了原来的觅食地，而且是一起走的。朝着某个东西去了。我想知道那是什么。"
 
 #. Shell Game (intro)
 msgid "Three of them. Hit them where the shell isn't."
-msgstr ""
+msgstr "三只。打它们没有壳保护的地方。"
 
 #. Shell Game (desc)
 msgid "Slow doesn't mean weak. Ask anyone it's sat on."
-msgstr ""
+msgstr "慢可不代表弱。你去问问任何一个被它坐过的人就知道了。"
 
 #. Shell Game (finish)
 msgid "Cracked. Good. Their tracks all pointed the same way, by the way. Same direction the Wyverns fly."
-msgstr ""
+msgstr "壳裂了。很好。顺便说一句，它们的足迹全都指向同一个方向。和双足飞龙飞去的方向一样。"
 
 #. Shell Game (label)
 msgid "Tell Teresa you have slain the Dragon Turtles."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些龙龟。"
 
 #. Stripes (title)
 msgid "Stripes"
-msgstr ""
+msgstr "条纹"
 
 #. Stripes (desc)
 msgid "You know what kept me awake in the vault? Footsteps."
-msgstr ""
+msgstr "你知道在那座城堡里是什么让我彻夜难眠吗？脚步声。"
 
 #. Stripes (desc)
 msgid "Dragon Tigers. Fast, proud, and they don't give up. I respect that, in a professional sense."
-msgstr ""
+msgstr "幻虎。速度快，骄傲，而且从不放弃。从职业角度来说，我尊重这一点。"
 
 #. Stripes (desc)
 msgid "They never stopped pacing. Day and night, back and forth. I could hear them through the wall."
-msgstr ""
+msgstr "它们从不停下踱步。日日夜夜，来回走动。我隔着墙都能听见它们。"
 
 #. Stripes (desc)
 msgid "When the cages broke, they were the first ones out. I was second. We looked at each other for a long moment, and then they ran."
-msgstr ""
+msgstr "牢笼破开时，它们最先冲了出去。我是第二个。我们对视了好一会儿，然后它们就跑掉了。"
 
 #. Stripes (desc)
 msgid "I've wondered since why they didn't go for me. I think they had somewhere better to be."
-msgstr ""
+msgstr "从那以后我一直在想，它们为什么没冲我来。我想，它们有更想去的地方。"
 
 #. Stripes (desc)
 msgid "They've made the desert their home now. They don't hide out there. They don't need to."
-msgstr ""
+msgstr "它们现在把沙漠当成了家。它们在那里不躲藏，也不需要躲。"
 
 #. Stripes (desc)
 msgid "Listen for the roar. When one roars, the sand in front of it catches fire, and the fire rolls toward you like a wave. Get out of its way, fast."
-msgstr ""
+msgstr "注意听它的吼声。当一只幻虎吼叫时，它前方的沙子会着火，火焰会像波浪一样朝你滚过来。赶紧躲开。"
 
 #. Stripes (intro)
 msgid "Three of them. When one takes a deep breath, that's your cue to move."
-msgstr ""
+msgstr "三只。当其中一只深吸一口气时，那就是你该动身的信号。"
 
 #. Stripes (desc)
 msgid "If the sand ahead of you is burning, don't walk through it. I shouldn't have to say that, but here we are."
-msgstr ""
+msgstr "如果你前方的沙子在燃烧，别硬从里面走过去。我本来没必要说这种话，但事已至此。"
 
 #. Stripes (finish)
 msgid "Three. You're getting good at this. Don't tell anyone I said so."
-msgstr ""
+msgstr "三只。你越来越擅长这个了。别告诉任何人是我说的。"
 
 #. Stripes (label)
 msgid "Tell Teresa you have slain the Dragon Tigers."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些幻虎。"
 
 #. Hot, Cold and Hard (title)
 msgid "Hot, Cold and Hard"
-msgstr ""
+msgstr "炽热、寒冷与坚硬"
 
 #. Hot, Cold and Hard (desc)
 msgid "This one's three contracts in one, and you'll be doing a lot of walking."
-msgstr ""
+msgstr "这一份契约是三合一，而且你会走很多路。"
 
 #. Hot, Cold and Hard (desc)
 msgid "Golems. Lava, Snow and Mountain. He liked matching sets."
-msgstr ""
+msgstr "魔像。熔岩魔像、冰雪魔像和岩石魔像。他就喜欢凑成整套。"
 
 #. Hot, Cold and Hard (desc)
 msgid "The Mountain Golem is up in the rocky peaks. The Snow Golem is out in the frozen tundra. The Lava Golem is down in Hades, about as deep and as hot as this world goes."
-msgstr ""
+msgstr "岩石魔像在岩石山峰上。冰雪魔像在冰冻苔原上。熔岩魔像则在地狱深处，差不多是这个世界上最深、最热的地方。"
 
 #. Hot, Cold and Hard (desc)
 msgid "They hide as rocks. Just another boulder, until you hit it."
-msgstr ""
+msgstr "它们会伪装成岩石。看起来不过是又一块大石头，直到你打它一下。"
 
 #. Hot, Cold and Hard (desc)
 msgid "And they talk. Golems love to taunt you while they fight. Insults, mostly. Ignore them. A rock with opinions is still a rock."
-msgstr ""
+msgstr "而且它们还会说话。魔像就喜欢在战斗时嘲讽你。多半是些辱骂。别理它们。一块有想法的石头，终究还是石头。"
 
 #. Hot, Cold and Hard (desc)
 msgid "Funny thing, though. The ones I've passed lately are all facing the same way. Rocks don't face anywhere."
-msgstr ""
+msgstr "不过有件怪事。我最近路过的那些魔像，全都朝着同一个方向。石头可不会朝向任何地方。"
 
 #. Hot, Cold and Hard (desc)
 msgid "You'll want explosives for these. There's a goblin near here who'll be thrilled to help. Possibly too thrilled."
-msgstr ""
+msgstr "对付这些家伙，你会需要炸药。这附近有个哥布林会非常乐意帮忙——可能太乐意了。"
 
 #. Hot, Cold and Hard (desc)
 msgid "The goblin. Explosives. Try not to let him use them on you."
-msgstr ""
+msgstr "那个哥布林。炸药。尽量别让他拿炸药对付你。"
 
 #. Hot, Cold and Hard (label)
 msgid "Ask Mr. Goblin for help with the Golems."
-msgstr ""
+msgstr "向哥布林先生求助，对付魔像。"
 
 #. Hot, Cold and Hard (desc)
 msgid "Still talking to the goblin? Take your time. I'm in no hurry to hear him again."
-msgstr ""
+msgstr "还在跟那个哥布林说话？慢慢来。我可一点都不急着再听他开口。"
 
 #. Hot, Cold and Hard (intro)
 msgid "One of each. Take the goblin's explosives, and bring something for the heat in Hades."
-msgstr ""
+msgstr "每种一只。带上哥布林的炸药，再带点能应付地狱高温的东西。"
 
 #. Hot, Cold and Hard (desc)
 msgid "Whatever it's saying about you, it's wrong. Mostly. Keep swinging."
-msgstr ""
+msgstr "不管它怎么说你，都是错的。大部分是。继续打。"
 
 #. Hot, Cold and Hard (finish)
 msgid "All three. The set's broken."
-msgstr ""
+msgstr "三只都解决了。他这套凑不齐了。"
 
 #. Hot, Cold and Hard (label)
 msgid "Tell Teresa you have slain the Golems."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些魔像。"
 
 #. Hot, Cold and Hard (desc)
 msgid "You've earned this. The Ember Sword. Phoenix Wing, Lava, a few other things. If you've fought a Phoenix, you'll know where the wings come from."
-msgstr ""
+msgstr "这是你应得的。余烬之剑。不死鸟的火焰，岩浆，还有一些其他东西。如果你和不死鸟交过手，就会知道那对翅膀是从哪儿来的。"
 
 #. Hot, Cold and Hard (desc)
 msgid "About the goblin's itch. Tell me if it gets worse. For him or for you."
-msgstr ""
+msgstr "关于哥布林那股躁动。要是变得更严重了，就告诉我。不管是他，还是你。"
 
 #. Lesser Wyrm (title)
 msgid "Lesser Wyrm"
-msgstr ""
+msgstr "次级巨龙"
 
 #. Lesser Wyrm (desc)
 msgid "Pack light and drink plenty. This one's out in the desert."
-msgstr ""
+msgstr "轻装上路，多喝水。这一只在沙漠里。"
 
 #. Lesser Wyrm (desc)
 msgid "Wyrms. The old books call them 'lesser wyrms'. Lesser than what, though?"
-msgstr ""
+msgstr "轻装上路，多喝水。这一只在沙漠里。
+
+蛇龙。古书管它们叫“次级巨龙”。比什么低级呢？"
 
 #. Lesser Wyrm (desc)
 msgid "They don't hide and they don't stalk. They just wander the sand like they own it. Mostly because they do."
-msgstr ""
+msgstr "它们不躲藏，也不潜行。它们只是在沙地里游荡，仿佛那片沙地归它们所有。大部分情况下，确实如此。"
 
 #. Lesser Wyrm (desc)
 msgid "Watch for the fire. They spit a huge ball of it that bursts when it lands. Don't be standing where it lands. That's the whole lesson."
-msgstr ""
+msgstr "注意火焰。它们会吐出一个巨大的火球，落地时爆开。别站在它落下的地方。要学的就这些。"
 
 #. Lesser Wyrm (desc)
 msgid "In the vault, they were kept next to the bottom cage. They'd lie against that wall all night, staring at it."
-msgstr ""
+msgstr "在城堡里，它们被关在最底层的牢笼旁边。它们整夜都贴着那面墙躺着，盯着它看。"
 
 #. Lesser Wyrm (desc)
 msgid "I thought they wanted out. Now I wonder if they wanted in."
-msgstr ""
+msgstr "我原以为它们想出去。现在我在想，它们是不是想进去。"
 
 #. Lesser Wyrm (intro)
 msgid "Two of them. Keep your distance until it's time not to."
-msgstr ""
+msgstr "两只。保持距离，直到该靠近的时候。"
 
 #. Lesser Wyrm (desc)
 msgid "If the sand around you starts to glow, move."
-msgstr ""
+msgstr "如果你周围的沙子开始发光，就赶紧移动。"
 
 #. Lesser Wyrm (finish)
 msgid "Two. Rider, every beast we've hunted has been moving toward the same place. That isn't instinct. Something is calling them."
-msgstr ""
+msgstr "两只。龙骑士，我们猎过的每一只野兽，都在朝同一个地方去。那不是本能。是有东西在召唤它们。"
 
 #. Lesser Wyrm (label)
 msgid "Tell Teresa you have slain the Wyrms."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些蛇龙。"
 
 #. Lesser Wyrm (desc)
 msgid "Come back when you're ready. There's something I should have told you at the start."
-msgstr ""
+msgstr "你准备好了就回来。有件事我一开始就该告诉你。"
 
 #. The Ledger (title)
 msgid "The Ledger"
-msgstr ""
+msgstr "账本"
 
 #. The Ledger (desc)
 msgid "Sit down, Rider. This one isn't a contract."
-msgstr ""
+msgstr "坐下，龙骑士。这次不是契约。"
 
 #. The Ledger (desc)
 msgid "Every beast you've hunted, I caught first. Years ago. For a kindly old Wizard who said he was keeping villages safe."
-msgstr ""
+msgstr "你猎杀的每一只野兽，当年都是我先抓到的。很多年前，为了一位和善的老巫师——他说他是在保护村庄的安全。"
 
 #. The Ledger (desc)
 msgid "He wasn't. He was keeping them. Draining them. When I worked out what he was, he locked me in with my own catches."
-msgstr ""
+msgstr "他并不是。他是在圈养它们，抽取它们的力量。等我弄明白他到底是什么东西时，他就把我关了进去，和那些我自己抓来的猎物关在一起。"
 
 #. The Ledger (desc)
 msgid "Fine. I've kept it to myself this long."
-msgstr ""
+msgstr "好吧。这件事我憋在心里已经够久了。"
 
 #. The Ledger (desc)
 msgid "I want to see him. Come with me. Keep me from doing anything I'd enjoy."
-msgstr ""
+msgstr "我想见见他。跟我来。拦着我点，别让我做出什么自己会乐在其中的事。"
 
 #. The Ledger (desc)
 msgid "The Wizard. Let's go."
-msgstr ""
+msgstr "那个魔法师。我们走。"
 
 #. The Ledger (label)
 msgid "Visit the Wizard with Teresa."
-msgstr ""
+msgstr "与特蕾莎一起拜访魔法师。"
 
 #. The Ledger (desc)
 msgid "I'm right behind you. Go on."
-msgstr ""
+msgstr "我就在你身后。走吧。"
 
 #. The Ledger (desc)
 msgid "He should be terrified of me. Why isn't he?"
-msgstr ""
+msgstr "他应该怕我才对。为什么他不怕？"
 
 #. The Ledger (label)
 msgid "Talk to Teresa about the Wizard."
-msgstr ""
+msgstr "与特蕾莎谈谈魔法师的事。"
 
 #. The Ledger (desc)
 msgid "There was one cage at the bottom of the vault. Sealed before I ever got there. I was never allowed near it. It's the only lock that didn't break."
-msgstr ""
+msgstr "城堡最底层有一个笼子。在我到那里之前，它就已经被封死了。他们从来不允许我靠近它。那上面有唯一一把没有断掉的锁。"
 
 #. The Ledger (desc)
 msgid "I think I know what's been calling the beasts. Its name is Oathmaw. The one dragon that never left him."
-msgstr ""
+msgstr "我想我知道是什么在召唤那些野兽了。它叫奥瑟莫。那条从未离开过他的龙。"
 
 #. The Ledger (desc)
 msgid "I need to be sure before we go after it. Two more contracts first. And these ones, we take alive."
-msgstr ""
+msgstr "在追它之前，我需要先确认清楚。先完成另外两份契约。而且这一次，我们要活捉。"
 
 #. The Ledger (label)
 msgid "Tell Teresa you have spoken with the Wizard."
-msgstr ""
+msgstr "告诉特蕾莎你已经和魔法师谈过了。"
 
 #. The Tail That Burns (title)
 msgid "The Tail That Burns"
-msgstr ""
+msgstr "燃烧之尾"
 
 #. The Tail That Burns (desc)
 msgid "Still thinking about the Wizard? So am I. Let's do something useful with it."
-msgstr ""
+msgstr "还在想那个魔法师的事？我也是。我们把这份心思用在正事上吧。"
 
 #. The Tail That Burns (desc)
 msgid "There's one beast I've put off hunting since I got out. My first catch. The Manticore."
-msgstr ""
+msgstr "自从我出来以后，一直有只野兽我没去猎杀。我抓到的第一个猎物。蝎狮。"
 
 #. The Tail That Burns (desc)
 msgid "I was a young bounty hunter, and very proud of myself. I tracked it for a month, and when I finally caught it with a Soul Catcher and held its spawner in my hand, I thought I'd made my name."
-msgstr ""
+msgstr "我当时是个年轻的赏金猎人，还非常自以为自己了不起。我追踪了它整整一个月，当我终于用灵魂捕捉器抓住它、手里握着它的刷怪箱时，我以为自己从此就能扬名立万了。"
 
 #. The Tail That Burns (desc)
 msgid "Then I handed it to a kind old man who said he'd keep it somewhere safe. You know the rest."
-msgstr ""
+msgstr "然后我把它交给了一个和善的老人，他说会把它放到安全的地方。后面的你也知道了。"
 
 #. The Tail That Burns (desc)
 msgid "It's made its home in the Forgotten Sky, up above the land. Ashkore's old neighborhood. It always did like to look down on everyone."
-msgstr ""
+msgstr "它把家安在了天堂，就在陆地上方。那是阿什科尔以前的地盘。它一直就喜欢居高临下地看着所有人。"
 
 #. The Tail That Burns (desc)
 msgid "Be ready for anything. It has more ways to hurt you than anything else I ever caught. Fire, poison, lightning, leaping at you from a distance. You never know which one is coming until it hits. When it roars, a wall of fire springs up. Don't touch it."
-msgstr ""
+msgstr "做好准备，什么情况都可能发生。它伤害你的方式比我抓过的任何东西都多。火焰、毒、闪电、从远处扑向你。你永远不知道哪一种会先来，直到它打中你。当它咆哮时，一道火墙会拔地而起。别碰它。"
 
 #. The Tail That Burns (desc)
 msgid "I put it in a cage once. I'm not putting it in the ground too. We take it alive."
-msgstr ""
+msgstr "我曾经把它关进过笼子一次。我不会再把它埋进土里。我们要活捉它。"
 
 #. The Tail That Burns (intro)
 msgid "Wear it down, then use your Soul Catcher. It'll turn into a spawner. Bring that to me. Watch the tail. It holds a grudge, and so do I."
-msgstr ""
+msgstr "把它耗到虚弱，然后用你的灵魂捕捉器。它会变成一个刷怪箱。把那个带给我。小心它的尾巴。它非常记仇，我也记仇。"
 
 #. The Tail That Burns (desc)
 msgid "It remembers me. That's why it's angry. Don't take it personally."
-msgstr ""
+msgstr "它记得我，所以才会这么愤怒。别往心里去。"
 
 #. The Tail That Burns (finish)
 msgid "Caught. Again. This time it's going somewhere better."
-msgstr ""
+msgstr "抓到了。又一次。这次它会被安置到更好的地方。"
 
 #. The Tail That Burns (label)
 msgid "Bring Teresa the Manticore spawner."
-msgstr ""
+msgstr "把蝎狮刷怪箱带给特蕾莎。"
 
 #. The Tail That Burns (desc)
 msgid "Here's how to raise one properly. It'll be loyal to you. More than it ever was to me."
-msgstr ""
+msgstr "这是正确饲养它的方法。它会忠于你，比它当初对我还要忠诚。"
 
 #. The Tail That Burns (desc)
 msgid "The closer we get, the quieter he gets. The Wizard. I don't like it."
-msgstr ""
+msgstr "我们越靠近，他就越安静。那个魔法师。我不喜欢这样。"
 
 #. Pretty Monster (title)
 msgid "Pretty Monster"
-msgstr ""
+msgstr "美丽怪物"
 
 #. Pretty Monster (desc)
 msgid "The Manticore's spawner is locked away where nobody can take it. I checked the lock twice. Old habits."
-msgstr ""
+msgstr "蝎狮的刷怪箱被锁在没人能拿走的地方。我检查了那把锁两遍。老习惯了。"
 
 #. Pretty Monster (desc)
 msgid "It took me a month to catch that thing when I was young. It took you an afternoon. I won't pretend that doesn't sting a little."
-msgstr ""
+msgstr "我年轻时抓那东西花了一个月。你只花了一个下午。我不会假装让我完全不难受的样子。"
 
 #. Pretty Monster (desc)
 msgid "One more contract before it's time. The Pegasus."
-msgstr ""
+msgstr "时候到之前还有一份契约。天马。"
 
 #. Pretty Monster (desc)
 msgid "It was the last thing I ever caught. I was paid to bring it in, and I did. A week later he put me in a cage. I never saw the coin, and I never saw the Pegasus again. Now it's flying around free, same as me. I'd like to see where it ends up this time."
-msgstr ""
+msgstr "它是我抓到的最后一样东西。有人付钱让我把它带来，我照做了。一周后，他就把我关进了笼子。我从没见过那笔钱，也再没见过那匹天马。现在它自由自在地飞着，和我一样。我想看看这一次它最终会去向哪里。"
 
 #. Pretty Monster (desc)
 msgid "Don't let the wings fool you. It's the most dangerous thing on my list that isn't a dragon. Fast, strong, and it flies. When it opens its mouth wide, get out of the way. It breathes sunlight. That isn't poetry. Get caught in the beam and you'll still be on fire long after it stops."
-msgstr ""
+msgstr "别被那对翅膀骗了。它是我名单上除龙以外最危险的东西。速度快、力量强，而且会飞。当它张大嘴时，赶紧躲开。它喷吐的是阳光。这不是什么比喻。一旦被光束扫中，就算它停下来，你还会烧上很久。"
 
 #. Pretty Monster (desc)
 msgid "The Wizard still won't talk to me about any of it. Fine. I'll talk to people who will."
-msgstr ""
+msgstr "魔法师还是不肯跟我谈这些事的任何一件。行吧。我去找愿意谈的人谈。"
 
 #. Pretty Monster (desc)
 msgid "There's a woman called Paula who keeps animals. She'll want a word before we go. Everyone says so."
-msgstr ""
+msgstr "有个叫宝拉的女人，专门饲养动物。出发前她想跟我们谈谈。大家都这么说。"
 
 #. Pretty Monster (desc)
 msgid "Paula. The animal trainer. Go and hear her out."
-msgstr ""
+msgstr "宝拉。那位驯兽师。去听听她怎么说。"
 
 #. Pretty Monster (label)
 msgid "Talk to Paula about the Pegasus."
-msgstr ""
+msgstr "与宝拉谈谈天马的事。"
 
 #. Pretty Monster (desc)
 msgid "Go on. I'll wait."
-msgstr ""
+msgstr "去吧。我等着。"
 
 #. Pretty Monster (intro)
 msgid "She wants it alive. So do I, as it happens. We capture it.\n\nAnd she's right about the dragon. It isn't alive. Not really.\n\nBack up to the Forgotten Sky, Rider. Not the islands this time: it keeps to the bridges between them. Bring it down gently, if anything about this is gentle. Then the Soul Catcher, same as before."
-msgstr ""
+msgstr "她想活捉它。碰巧，我也想。我们抓活的。\n\n她说得对，那条龙不是活物。不算真的活着。\n\n回天堂去，龙骑士。这次不是那些岛屿：它待在岛屿之间的桥上。把它弄下来时尽量轻一点——如果这事有哪部分算轻的话。然后用噬魂法杖，和之前一样。"
 
 #. Pretty Monster (desc)
 msgid "Back up in the Forgotten Sky, on the bridges between the islands. It's faster in the air. Make it land."
-msgstr ""
+msgstr "回到天堂，到岛屿之间的桥上去。它在空中速度更快。想办法让它降落。"
 
 #. Pretty Monster (finish)
 msgid "Caught, and not a scratch it didn't deserve. Paula should be pleased."
-msgstr ""
+msgstr "抓到了，它身上没一道伤是白挨的。宝拉应该会满意。"
 
 #. Pretty Monster (label)
 msgid "Bring Teresa the Pegasus spawner."
-msgstr ""
+msgstr "把天马刷怪箱带给特蕾莎。"
 
 #. Pretty Monster (desc)
 msgid "That's the last contract. All that's left is the bottom cage. Get ready, Rider."
-msgstr ""
+msgstr "那是最后一份契约。剩下的只有最底层的牢笼了。准备好，龙骑士。"
 
 #. The First Dragon (title)
 msgid "The First Dragon"
-msgstr ""
+msgstr "最初之龙"
 
 #. The First Dragon (desc)
 msgid "Both spawners are locked away, and both beasts are going to someone who'll treat them better than I did. That's every contract closed but one."
-msgstr ""
+msgstr "两个刷怪箱都已经锁好了，两只野兽也都会交给比我更善待它们的人。所有契约都了结了，只剩一个。"
 
 #. The First Dragon (desc)
 msgid "I went back to the vault last night. First time since I walked out. It's quiet down there now. Empty cages, broken locks, ten years of scratch marks on my wall."
-msgstr ""
+msgstr "我昨晚回了那座城堡。这是我走出来后第一次回去。现在下面很安静。空荡荡的笼子，坏掉的锁，还有我墙上十年留下的抓痕。"
 
 #. The First Dragon (desc)
 msgid "Except the bottom cage. That lock's still whole, and it's warm to the touch. Something behind it is breathing."
-msgstr ""
+msgstr "除了最底层的牢笼。那把锁依然完好，摸上去还是温热的。锁后面有东西在呼吸。"
 
 #. The First Dragon (desc)
 msgid "That's why the Wizard's so calm. He thinks he still has one move left. I'd like to take it off the board."
-msgstr ""
+msgstr "这就是为什么巫师那么镇定。他以为自己还剩一步棋。我想把这步棋从棋盘上拿掉。"
 
 #. The First Dragon (desc)
 msgid "I've hunted for money, and I've hunted for pride. This one's neither. This one's for ten years in a cage, and for every beast he ever kept down there with me."
-msgstr ""
+msgstr "我为钱猎杀过，也为骄傲猎杀过。这一次两者都不是。这一次，是为了笼子里的十年，也是为了他关在那下面陪我的每一只野兽。"
 
 #. The First Dragon (desc)
 msgid "I sharpened this every day for ten years. Let's find out if it was worth it."
-msgstr ""
+msgstr "这十年来我每天都磨这把剑。现在就去看看，这十年到底值不值。"
 
 #. The First Dragon (desc)
 msgid "I know how to call it out. The vault's last lock answers to these crystals, same as all the others did. Hold one up and it'll come to us. Are you ready?"
-msgstr ""
+msgstr "我知道怎么把它引出来。城堡最后那把锁和所有其他锁一样，会对这些水晶起反应。举起一块水晶，它就会来找我们。你准备好了吗？"
 
 #. The First Dragon (label)
 msgid "Tell Teresa when you are ready to face the dragon."
-msgstr ""
+msgstr "准备好面对那条龙后，告诉特蕾莎。"
 
 #. The First Dragon (desc)
 msgid "Take your time. It's waited this long."
-msgstr ""
+msgstr "慢慢来。它都等了这么久了。"
 
 #. The First Dragon (desc)
 msgid "Good. Stay close, keep moving, and don't stop until it stays down."
-msgstr ""
+msgstr "很好。跟紧我，保持移动，别停手，直到它再也爬不起来。"
 
 #. The First Dragon (desc)
 msgid "No more contracts. No more ledger. Just this."
-msgstr ""
+msgstr "不再有契约。不再有账本。只剩这个。"
 
 #. The First Dragon (desc)
 msgid "Ten years I listened to you breathe through that wall. Now I get to see your face. Hold still. This won't take long."
-msgstr ""
+msgstr "十年了，我一直隔着那面墙听你呼吸。现在终于能见到你的脸了。别动。很快就结束。"
 
 #. The First Dragon (desc)
 msgid "...That's it? Ten years of listening to that thing breathe, and it goes down like any other job.\n\nContract closed. Let's go home, Rider."
-msgstr ""
+msgstr "……就这样？听了那东西呼吸十年，结果它倒下的样子跟别的活儿没什么两样。\n\n契约了结。我们回家吧，龙骑士。"
 
 #. The First Dragon (desc)
 msgid "No. That's not right. Dead things don't breathe.\n\nRider. It's not over. Get ready."
-msgstr ""
+msgstr "不。不对。死的东西不会呼吸。\n\n龙骑士。还没结束。做好准备。"
 
 #. The First Dragon (desc)
 msgid "Did you really think I'd leave without a backup plan, Dragon Rider? Every piece of me I had left, I gave to this one. It stayed. They always stay, in the end."
-msgstr ""
+msgstr "你真以为我会不留后手就离开吗，龙骑士？我仅剩的每一分力量，都给了这一个。它留下来了。到最后，它们总是会留下来。"
 
 #. The First Dragon (desc)
 msgid "Get up. We go again."
-msgstr ""
+msgstr "起来。我们再来一次。"
 
 #. The First Dragon (desc)
 msgid "It's down. And this time, it's staying down."
-msgstr ""
+msgstr "它倒下了。而且这一次，它再也不会起来了。"
 
 #. The First Dragon (label)
 msgid "Tell Teresa you have defeated Oathmaw."
-msgstr ""
+msgstr "告诉特蕾莎你已经击败了奥瑟莫。"
 
 #. Paid in Full (title)
 msgid "Paid in Full"
-msgstr ""
+msgstr "债已偿清"
 
 #. Paid in Full (desc)
 msgid "It's over. That was the last of him. I felt it go."
-msgstr ""
+msgstr "结束了。那是他最后的一丝残存。我感觉到它消失了。"
 
 #. Paid in Full (desc)
 msgid "The Wizard's still out there, talking to himself. Just an old man now. For someone like him, that's worse than dead."
-msgstr ""
+msgstr "那巫师还在外面，自言自语。现在只是个老头罢了。对他这种人来说，这比死还惨。"
 
 #. Paid in Full (desc)
 msgid "The dragon's free of him, too. What's left of it isn't evil. It's just tired. It could use someone who won't let it down."
-msgstr ""
+msgstr "那条龙也摆脱他了。它残存的部分并不邪恶。它只是累了，需要一个不会辜负它的人。"
 
 #. Paid in Full (desc)
 msgid "One last thing. I always close my contracts. This one's closed."
-msgstr ""
+msgstr "最后一件事。我向来会了结我的契约。这一份，已经了结了。"
 
 #. Paid in Full (desc)
 msgid "Thank you, Dragon Rider."
-msgstr ""
+msgstr "谢谢你，龙骑士。"
 
 #. Paid in Full (desc)
 msgid "Rider. The board has work, if you want it. I'll be here."
-msgstr ""
+msgstr "龙骑士。告示板上还有活儿，如果你想要的话。我会在这儿。"
 
 #. Big Game (title)
 msgid "Big Game"
-msgstr ""
+msgstr "大型猎物"
 
 #. Big Game (desc)
 msgid "New contract on the board. Same terms as always: you hunt, I pay. Pick one."
-msgstr ""
+msgstr "告示板上有新契约。条件照旧：你狩猎，我付钱。选一个吧。"
 
 #. Big Game (intro)
 msgid "Three Raptors, out in the jungle. Plant your feet and let them come."
-msgstr ""
+msgstr "三只迅猛龙，在丛林里。站稳脚跟，让它们冲过来。"
 
 #. Big Game (desc)
 msgid "Board says you're not done. The board is never wrong."
-msgstr ""
+msgstr "告示板上说你还没做完。告示板从不出错。"
 
 #. Big Game (finish)
 msgid "Logged. Come back tomorrow, there'll be more."
-msgstr ""
+msgstr "已记录。明天再来，还会有更多。"
 
 #. Big Game (label)
 msgid "Tell Teresa you have completed the contract."
-msgstr ""
+msgstr "告诉特蕾莎你已经完成了契约。"
 
 #. Big Game (intro)
 msgid "Three Triceratops, up in the rocky peaks. Go for the side."
-msgstr ""
+msgstr "三只三角龙，在山地上。从侧面下手。"
 
 #. Big Game (finish)
 msgid "Logged. You've been reliable, and reliable gets a bonus. Don't make it weird."
-msgstr ""
+msgstr "已记录。你一直很可靠，可靠的人会拿到奖金。别搞得那么别扭。"
 
 #. Dangerous Game (title)
 msgid "Dangerous Game"
-msgstr ""
+msgstr "危险游戏"
 
 #. Dangerous Game (desc)
 msgid "Fine. Two others on the board. Pick one."
-msgstr ""
+msgstr "行吧。告示板上还有另外两个。选一个吧。"
 
 #. Dangerous Game (intro)
 msgid "One Manticore, up in the Forgotten Sky, on the grassy islands. Watch the tail."
-msgstr ""
+msgstr "一只蝎狮，在天堂长满草的岛屿上。小心它的尾巴。"
 
 #. Dangerous Game (intro)
 msgid "One Pegasus, up in the Forgotten Sky, on the bridges between the islands. Stay out of the beam."
-msgstr ""
+msgstr "一只天马，在遗忘之空岛屿之间的桥上。别被光束扫到。"
 
 #. Dangerous Game (intro)
 msgid "One Wyrm, out in the desert. Don't be standing where the fire lands."
-msgstr ""
+msgstr "一只蛇龙，在沙漠里。别站在火焰落下的地方。"
 
 #. Small Game (title)
 msgid "Small Game"
-msgstr ""
+msgstr "小型猎物"
 
 #. Small Game (intro)
 msgid "Ten Scorpions, out in the sand. Easy money."
-msgstr ""
+msgstr "十只蝎子，在沙地里。这钱好赚。"
 
 #. Small Game (intro)
 msgid "Ten Cave Scorpions, down in the caves. Bring a torch."
-msgstr ""
+msgstr "十只洞穴蝎子，在下面的洞穴里。带上火把。"
 
 #. The First Dragon Rematch (title)
 msgid "The First Dragon Rematch"
-msgstr ""
+msgstr "最初之龙再战"
 
 #. The First Dragon Rematch (desc)
 msgid "Something's stirring in the bottom cage again. Want to put it down a second time?"
-msgstr ""
+msgstr "最底层的牢笼里又有动静了。想再把它放倒一次吗？"
 
 #. The First Dragon Rematch (desc)
 msgid "You again. Fine. Same as last time."
-msgstr ""
+msgstr "又是你。行吧。和上次一样。"
 
 #. The First Dragon Rematch (desc)
 msgid "Down again. I'll keep the cage locked. You keep that sword sharp."
-msgstr ""
+msgstr "又倒下了。笼子我会锁好。请让你那把剑继续保持锋利。"
