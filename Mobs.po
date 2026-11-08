@@ -1058,7 +1058,7 @@ msgstr "憤怒蘑菇"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Elongata"
-msgstr "大嘴花"
+msgstr "異形奇花"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:354 
