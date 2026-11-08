@@ -876,7 +876,7 @@ msgstr "新月鳐"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:122 
 msgid "Ember Tyr"
-msgstr ""
+msgstr "余烬提尔"
 
 msgid "CrescentRay"
 msgstr "新月鳐"
@@ -885,10 +885,10 @@ msgid "OrbisFelix"
 msgstr "奥比斯·菲利克斯"
 
 msgid "InfelixCentrum"
-msgstr ""
+msgstr "因费利克斯·森特鲁姆"
 
 msgid "Skeleton"
-msgstr ""
+msgstr "骷髅"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
