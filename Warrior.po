@@ -118,7 +118,7 @@ msgstr "..."
 #: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:110
 #, no-wrap
 msgid "Speak to Paula to prepare for your fight against the Dragon Lord."
-msgstr "与葆拉交谈，为与龙主的战斗作准备。"
+msgstr "与宝拉交谈，为与龙主的战斗作准备。"
 
 #. (itstool) path: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml/quest@title
 #: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:1
@@ -531,7 +531,7 @@ msgstr "与泰德谈谈他目前的困境。"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Hello Kitty"
-msgstr ""
+msgstr "凯蒂猫"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -543,7 +543,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Save the Kingdom!"
-msgstr ""
+msgstr "拯救王国！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -555,7 +555,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Where is the Capital Castle?"
-msgstr ""
+msgstr "首都城堡在哪里？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -579,6 +579,11 @@ msgid ""
 "It was about to eat this kitten, and I managed to save it.\n"
 "Please take this kitty and guard it, while I go fight the beast."
 msgstr ""
+"嗨，我是来自首都城堡的艾伦。\n"
+"国王派我来杀死一条数百年来一直恐吓我们人民的龙。\n"
+"我找了它很久，终于在沙漠里找到了它。\n"
+"它正要吃掉这只小猫，我设法救下了它。\n"
+"请带着这只小猫并保护好它，我去和那头野兽战斗。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -599,6 +604,10 @@ msgid ""
 "But, I cannot return to my King without completing my mission!\n"
 "Can you help me kill the [FF0000]Dragon[-] and bring me his [FF0000]Heart[-]?"
 msgstr ""
+"我和那条龙打了一场……结果被彻底打败了！\n"
+"要不是我那面强大的盾牌……我肯定已经死了……\n"
+"但是，我要是完不成任务，就没法回去见国王！\n"
+"你能帮我杀死那条[FF0000]火龙[-]，并把它的[FF0000]心脏[-]带给我吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -619,6 +628,10 @@ msgid ""
 "Last time I saw this creature from hell it was in the desert.\n"
 "Good luck, stranger. May God be with you!"
 msgstr ""
+"太感谢你了，陌生人！\n"
+"杀死一条火龙，并给我带来[FF0000]1颗龙心[-]。\n"
+"我上次见到这个来自地狱的生物时，它就在沙漠里。\n"
+"祝你好运，陌生人。愿上帝与你同在！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -636,7 +649,7 @@ msgstr ""
 # UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:900 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:648 
 msgid "Bring Aaron the Dragon Heart."
-msgstr ""
+msgstr "把龙心带给艾伦。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -658,6 +671,10 @@ msgid ""
 "I cannot wait to see my wife and children again!\n"
 "Take this sword as help for your journey."
 msgstr ""
+"我真不敢相信你还活着！你是怎么做到的？这是真的，还是什么骗术？\n"
+"不，这一切都是真的！谢天谢地！我终于可以回家了。\n"
+"我迫不及待想再见到我的妻子和孩子们！\n"
+"拿着这把剑，助你旅途一臂之力。"
 
 #~ msgid ""
 #~ "Now you look like a proper warrior.\n"
@@ -669,28 +686,28 @@ msgstr ""
 #~ "嗯……或许你能帮我解决目前的困境。"
 
 msgid "Talk to Aaron."
-msgstr ""
+msgstr "与艾伦交谈。"
 
 msgid "Kill a dragon and bring me [FF0000]1 Dragon Heart[-]. Last time I saw it, it was in the desert."
-msgstr ""
+msgstr "杀死一条火龙，并给我带来[FF0000]1颗龙心[-]。我上次见到它时，它就在沙漠里。"
 
 msgid "Now that I have proof, I can return home. But... don't laugh... I got lost.\nThis world is so huge, even a mighty warrior like myself can lose his way.\nIn Capital Castle we have some pretty advanced technology.\nWe have invented a device that can find things around you, and point to your home.\nBut I don't know how to make it. Can you help?"
-msgstr ""
+msgstr "既然我已经有了证据，那就可以回家了。但是……别笑……我迷路了。\n这个世界太大了，就算像我这样强大的战士也会迷路。\n在首都城堡，我们有一些相当先进的技术。\n我们发明了一种装置，能找到你周围的东西，并为你指明回家的路。\n但我不知道怎么做它。你能帮忙吗？"
 
 msgid "Have you seen Paula? She comes from Capital Castle too.\nShe might know how to make this device.\nGo ask her, please."
-msgstr ""
+msgstr "你见过宝拉吗？她也来自首都城堡。\n她也许知道怎么做这个装置。\n去问问她吧。"
 
 msgid "Ask Paula how to make the device."
-msgstr ""
+msgstr "去问宝拉怎么做这个装置。"
 
 msgid "Great, it seems Paula did know how to make it.\nIt needs the essence of spawners to work.\nGo get me [FF0000]1 green spawner[-], [FF0000]1 red spawner[-], [FF0000]1 bed[-], [FF0000]1 glass[-] and [FF0000]1 stick[-].\nGreen Animal Spawners and red Monster Spawners can be found around the world.\nI think you know how to make beds, glass and sticks. Look in your recipe book if you forgot."
-msgstr ""
+msgstr "太好了，看来宝拉确实知道怎么做它。\n它需要刷怪箱的精华才能运作。\n去给我带[FF0000]1个绿色刷怪箱[-]、[FF0000]1个红色刷怪箱[-]、[FF0000]1张床[-]、[FF0000]1块玻璃[-]和[FF0000]1根木棍[-]。\n绿色动物刷怪箱和红色怪物刷怪箱可以在世界各地找到。\n我想你知道怎么做床、玻璃和木棍。如果忘了，就去配方书里看看。"
 
 msgid "Get me [FF0000]1 green Animal Spawner[-], [FF0000]1 red Monster Spawner[-], [FF0000]1 bed[-], [FF0000]1 glass[-] and [FF0000]1 stick[-]."
-msgstr ""
+msgstr "给我带[FF0000]1个绿色动物刷怪箱[-]、[FF0000]1个红色怪物刷怪箱[-]、[FF0000]1张床[-]、[FF0000]1块玻璃[-]和[FF0000]1根木棍[-]。"
 
 msgid "Thanks. Working on it...\n...\nIT WORKS! I can find my way back now.\nYou know, you should make one of these yourself.\nThey come in really handy.\nHere, I wrote down how to make them in your recipe book.\nLook for Radar under Tools."
-msgstr ""
+msgstr "谢谢。正在做……\n……\n成功了！我现在能找回回家的路了。\n你知道吗，你应该自己也做一个。\n它们真的很好用。\n给，我把制作方法写进你的配方书里了。\n在“工具”分类下找“雷达”。"
 
 msgid "Bring Aaron the radar parts."
-msgstr ""
+msgstr "把雷达零件带给艾伦。"
