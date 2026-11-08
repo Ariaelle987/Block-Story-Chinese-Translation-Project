@@ -2114,7 +2114,7 @@ msgstr "外星魚竿"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sunshard Paula"
-msgstr "日耀法杖·葆拉"
+msgstr "日耀法杖·寶拉"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
