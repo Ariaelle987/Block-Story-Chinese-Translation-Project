@@ -3093,349 +3093,349 @@ msgid "Clear Inventory?"
 msgstr "清空揹包？"
 
 msgid "Use the following keys:\n[FFFF00]1-7[-] for the quick slots\n[FFFF00]Q[-] or [FFFF00]~[-]  for the inventory\n[FFFF00]Tab[-] for using objects\n[FFFF00]Space[-] for jumping\n[FFFF00]WASD[-] for moving\n[FFFF00]F1[-] for skill points\n[FFFF00]F2[-] for current quests\n[FFFF00]F3[-] for taking pictures\n[FFFF00]F4[-] for settings\n[FFFF00]F5[-] for equipment\n[FFFF00]F[-] for flying\n[FFFF00]R[-] use radar (if equipped)"
-msgstr ""
+msgstr "使用以下按鍵：\n[FFFF00]1-7[-] 快捷欄\n[FFFF00]Q[-] 或 [FFFF00]~[-] 打開物品欄\n[FFFF00]Tab[-] 使用物品\n[FFFF00]Space[-] 跳躍\n[FFFF00]WASD[-] 移動\n[FFFF00]F1[-] 技能點\n[FFFF00]F2[-] 當前任務\n[FFFF00]F3[-] 拍照\n[FFFF00]F4[-] 設置\n[FFFF00]F5[-] 裝備\n[FFFF00]F[-] 飛行\n[FFFF00]R[-] 使用雷達（如果已裝備）"
 
 msgid "Searching for remote world {0}"
-msgstr ""
+msgstr "正在搜尋遠程世界 {0}"
 
 msgid "Searching for remote character {0}"
-msgstr ""
+msgstr "正在搜尋遠程角色 {0}"
 
 msgid "Oblivion does not touch the armored. It reaches only those who stand exposed. Unequip all of your armor and gear before using this item."
-msgstr ""
+msgstr "遺忘不會觸及身披護甲者，只會降臨在毫無防護的人身上。使用此物品前，請卸下你所有的護甲和裝備。"
 
 msgid "Window"
-msgstr ""
+msgstr "窗口"
 
 msgid "Flat"
-msgstr ""
+msgstr "平面"
 
 msgid "Old"
-msgstr ""
+msgstr "舊"
 
 msgid "A"
-msgstr ""
+msgstr "A"
 
 msgid "Void"
-msgstr ""
+msgstr "虛空"
 
 msgid "Enter"
-msgstr ""
+msgstr "進入"
 
 msgid "Caps Lock"
-msgstr ""
+msgstr "大寫鎖定鍵"
 
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgid "Num 8"
-msgstr ""
+msgstr "小鍵盤 8"
 
 msgid "Num 5"
-msgstr ""
+msgstr "小鍵盤 5"
 
 msgid "`"
-msgstr ""
+msgstr "`"
 
 msgid "Shift"
-msgstr ""
+msgstr "Shift 鍵"
 
 msgid "Left Windows"
-msgstr ""
+msgstr "左 Windows 鍵"
 
 msgid ","
-msgstr ""
+msgstr ","
 
 msgid "'"
-msgstr ""
+msgstr "'"
 
 msgid "Online"
-msgstr ""
+msgstr "在線"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP 地址"
 
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 msgid "Username"
-msgstr ""
+msgstr "用戶名"
 
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgid "Sandbox"
-msgstr ""
+msgstr "沙盒"
 
 msgid "Skyblock"
-msgstr ""
+msgstr "空島"
 
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgid "Online\n(Beta)\n\n"
-msgstr ""
+msgstr "在線\n(測試版)\n\n"
 
 msgid "Add Server"
-msgstr ""
+msgstr "添加服務器"
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Server Name"
-msgstr ""
+msgstr "服務器名稱"
 
 msgid "Add\nServer"
-msgstr ""
+msgstr "添加\n服務器"
 
 msgid "You already have that pet type summoned!"
-msgstr ""
+msgstr "你已經召喚了該類型的寵物！"
 
 msgid "Gender"
-msgstr ""
+msgstr "性別"
 
 msgid "O"
-msgstr ""
+msgstr "O"
 
 msgid "Current"
-msgstr ""
+msgstr "當前"
 
 msgid "Select Storyline"
-msgstr ""
+msgstr "選擇劇情線"
 
 msgid "Select Gender"
-msgstr ""
+msgstr "選擇性別"
 
 msgid "No skins in Themes folder (add skin.png to a pack folder)"
-msgstr ""
+msgstr "Themes 文件夾中沒有皮膚（請將 skin.png 添加到資源包文件夾中）"
 
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 msgid "Decline"
-msgstr ""
+msgstr "拒絕"
 
 msgid "Later"
-msgstr ""
+msgstr "稍後"
 
 msgid "Scorpions"
-msgstr ""
+msgstr "蠍子"
 
 msgid "Cave Scorpions"
-msgstr ""
+msgstr "洞穴蠍子"
 
 msgid "Go on"
-msgstr ""
+msgstr "繼續吧"
 
 msgid "Not now"
-msgstr ""
+msgstr "現在不行"
 
 msgid "Not yet"
-msgstr ""
+msgstr "還沒有"
 
 msgid "Raptors"
-msgstr ""
+msgstr "迅猛龍"
 
 msgid "Triceratops"
-msgstr ""
+msgstr "三角龍"
 
 msgid "Manticore"
-msgstr ""
+msgstr "蠍獅"
 
 msgid "Something else"
-msgstr ""
+msgstr "其他東西"
 
 msgid "Pegasus"
-msgstr ""
+msgstr "天馬"
 
 msgid "Wyrm"
-msgstr ""
+msgstr "蛇龍"
 
 msgid "Hardmode creatures can now spawn around you."
-msgstr ""
+msgstr "困難模式生物現在會在你周圍生成。"
 
 msgid "Hardmode creatures are already enabled."
-msgstr ""
+msgstr "困難模式生物已經啟用。"
 
 msgid "Join"
-msgstr ""
+msgstr "加入"
 
 msgid "Show"
-msgstr ""
+msgstr "顯示"
 
 msgid "Hide"
-msgstr ""
+msgstr "隱藏"
 
 msgid "No video is available right now. Try again in a little while."
-msgstr ""
+msgstr "目前沒有可用的視頻。請稍後再試。"
 
 msgid "Rewarded [0000FF]{0:0}[-] Diamonds!"
-msgstr ""
+msgstr "已獲得 [0000FF]{0:0}[-] 顆鑽石獎勵！"
 
 msgid "Sand Physics"
-msgstr ""
+msgstr "沙子物理"
 
 msgid "Water Physics"
-msgstr ""
+msgstr "水物理"
 
 msgid "Wizard Vault Mobs"
-msgstr ""
+msgstr "魔力師城堡生物"
 
 msgid "Mobs Fight"
-msgstr ""
+msgstr "生物互鬥"
 
 msgid "Leaf Decay"
-msgstr ""
+msgstr "樹葉腐爛"
 
 msgid "No story, no waiting.\nEverything is unlocked from the start, so you can explore, build, and fight at your own pace."
-msgstr ""
+msgstr "沒有劇情，無需等待。\n所有內容從一開始就已解鎖，你可以按自己的節奏探索、建造和戰鬥。"
 
 msgid "Sign In"
-msgstr ""
+msgstr "登錄"
 
 msgid "Rewarded Items! Check your inventory."
-msgstr ""
+msgstr "已獲得物品獎勵！請查看你的物品欄。"
 
 msgid "My Bed"
-msgstr ""
+msgstr "我的床"
 
 msgid "Accept: "
-msgstr ""
+msgstr "接受："
 
 msgid "Request: "
-msgstr ""
+msgstr "請求："
 
 msgid "This vehicle is full"
-msgstr ""
+msgstr "這輛載具已滿員"
 
 msgid "The Magic Orb cannot be used inside a Realm."
-msgstr ""
+msgstr "魔珠無法在領域內使用。"
 
 msgid "This block does not work inside a Realm."
-msgstr ""
+msgstr "此方塊無法在領域內使用。"
 
 msgid "This creature cannot be captured."
-msgstr ""
+msgstr "此生物無法被捕捉。"
 
 msgid "Teleport request sent."
-msgstr ""
+msgstr "傳送請求已發送。"
 
 msgid "No active bed set."
-msgstr ""
+msgstr "未設置當前床。"
 
 msgid "World teleport is not available in multiplayer."
-msgstr ""
+msgstr "多人遊戲中無法使用世界傳送。"
 
 msgid "Someone is riding this"
-msgstr ""
+msgstr "有人正騎著它。"
 
 msgid "If you purchase the full version you will be able to save your worlds and profiles in the cloud and synchronize with other devices"
-msgstr ""
+msgstr "如果你購買完整版，你將能夠將你的世界和檔案儲存在雲端，並與其他設備同步。"
 
 msgid "That area is claimed."
-msgstr ""
+msgstr "該區域已被圈佔。"
 
 msgid "Belongs to: "
-msgstr ""
+msgstr "屬於："
 
 msgid "Claim: 3x3x3 chunks"
-msgstr ""
+msgstr "圈佔：3x3x3 區塊"
 
 msgid "Remove: "
-msgstr ""
+msgstr "移除："
 
 msgid "Add Builder..."
-msgstr ""
+msgstr "添加建造者……"
 
 msgid "Enter builder name"
-msgstr ""
+msgstr "輸入建造者名稱"
 
 msgid "Enter a player name."
-msgstr ""
+msgstr "請輸入玩家名稱。"
 
 msgid "Owner already has full access."
-msgstr ""
+msgstr "所有者已擁有完全權限。"
 
 msgid "Already added."
-msgstr ""
+msgstr "已添加。"
 
 msgid "Builder list is full."
-msgstr ""
+msgstr "建造者列表已滿。"
 
 msgid "Added "
-msgstr ""
+msgstr "已添加"
 
 msgid "Pile of Diamonds"
-msgstr ""
+msgstr "一堆鑽石"
 
 msgid "Bag of Diamonds"
-msgstr ""
+msgstr "一袋鑽石"
 
 msgid "Sack of Diamonds"
-msgstr ""
+msgstr "一麻袋鑽石"
 
 msgid "Box of Diamonds"
-msgstr ""
+msgstr "一箱鑽石"
 
 msgid "Chest of Diamonds"
-msgstr ""
+msgstr "一寶箱鑽石"
 
 msgid "Share"
-msgstr ""
+msgstr "分享"
 
 msgid "Purchase"
-msgstr ""
+msgstr "購買"
 
 msgid "Lvl {0}"
-msgstr ""
+msgstr "等級 {0}"
 
 msgid "Could not load skin."
-msgstr ""
+msgstr "無法加載皮膚。"
 
 msgid "Invalid skin image."
-msgstr ""
+msgstr "無效的皮膚圖片。"
 
 msgid "Name cannot be empty."
-msgstr ""
+msgstr "名稱不能為空。"
 
 msgid "A profile with that name already exists."
-msgstr ""
+msgstr "已存在同名檔案。"
 
 msgid "Original profile file not found."
-msgstr ""
+msgstr "未找到原始檔案文件。"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "錯誤：{0}"
 
 msgid "Seed: {0}"
-msgstr ""
+msgstr "種子：{0}"
 
 msgid "A folder with that name already exists."
-msgstr ""
+msgstr "已存在同名文件夾。"
 
 msgid "Original world folder not found."
-msgstr ""
+msgstr "未找到原始世界文件夾。"
 
 msgid "Lucid Dream: Light"
-msgstr ""
+msgstr "澄夢：光"
 
 msgid "Lucid Dream: Dark"
-msgstr ""
+msgstr "澄夢：暗"
 
 msgid "Awarded Respawn"
-msgstr ""
+msgstr "已獲得重生"
 
 msgid "Drag any item here to destroy it."
-msgstr ""
+msgstr "把任何物品拖到這裡即可銷燬。"
 
 msgid "You can't summon more than {0} creatures at once!"
-msgstr ""
+msgstr "你一次最多隻能召喚 {0} 個生物！"
 
 msgid "Texture packs"
-msgstr ""
+msgstr "材質包"
 
 msgid "Open Folder"
-msgstr ""
+msgstr "打開文件夾"
