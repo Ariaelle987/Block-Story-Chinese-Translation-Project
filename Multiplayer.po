@@ -11,349 +11,349 @@ msgstr ""
 "Language: zh_CN\n"
 
 msgid "Sign in to play online."
-msgstr ""
+msgstr "登录以在线游玩。"
 
 msgid "Authentication failed."
-msgstr ""
+msgstr "身份验证失败。"
 
 msgid "Could not get a sign-in ticket from Steam."
-msgstr ""
+msgstr "无法从 Steam 获取登录票据。"
 
 msgid "Steam sign-in is not available right now. You can sign in with Discord instead."
-msgstr ""
+msgstr "Steam 登录目前不可用。你可以改用 Discord 登录。"
 
 msgid "This Steam account does not own Block Story."
-msgstr ""
+msgstr "此 Steam 账户未拥有 Block Story。"
 
 msgid "This Steam account can't be used for online play."
-msgstr ""
+msgstr "此 Steam 账户无法用于在线游玩。"
 
 msgid "This Block Story account is disabled."
-msgstr ""
+msgstr "此 Block Story 账户已被禁用。"
 
 msgid "Steam could not confirm your sign-in. Try again."
-msgstr ""
+msgstr "Steam 无法确认你的登录状态。请重试。"
 
 msgid "Could not reach Steam. Try again later."
-msgstr ""
+msgstr "无法连接到 Steam。请稍后再试。"
 
 msgid "Too many sign-in attempts. Wait a minute and try again."
-msgstr ""
+msgstr "登录尝试次数过多。请等一分钟过后重试。"
 
 msgid "Could not reach the Block Story sign-in service."
-msgstr ""
+msgstr "无法连接到 Block Story 登录服务。"
 
 msgid "In the Block Story Discord type /link {0} (or DM Ted-Bot: !link {0})."
-msgstr ""
+msgstr "在 Block Story 的 Discord 社区中输入 /link {0}（或私信 Ted-Bot：!link {0}）。"
 
 msgid "The sign-in code expired. Sign in again to get a new one."
-msgstr ""
+msgstr "登录码已过期。请重新登录以获取新的登录码。"
 
 msgid "Your sign-in expired. Sign in again."
-msgstr ""
+msgstr "你的登录已过期。请重新登录。"
 
 msgid "That server address is not valid."
-msgstr ""
+msgstr "该服务器地址无效。"
 
 msgid "Sign-in is temporarily unavailable. Try again later."
-msgstr ""
+msgstr "登录暂时不可用。请稍后再试。"
 
 msgid "Sign in to redeem codes in multiplayer."
-msgstr ""
+msgstr "登录后即可在多人游戏中兑换兑换码。"
 
 msgid "Enter a code first."
-msgstr ""
+msgstr "请先输入兑换码。"
 
 msgid "Too many tries. Wait a minute and try again."
-msgstr ""
+msgstr "尝试次数过多。请等一分钟后再试。"
 
 msgid "Could not reach the Block Story code service."
-msgstr ""
+msgstr "无法连接到 Block Story 兑换码服务。"
 
 msgid "Code redeemed!"
-msgstr ""
+msgstr "兑换成功！"
 
 msgid "That code could not be redeemed."
-msgstr ""
+msgstr "该兑换码无法兑换。"
 
 msgid "Sign in to use cosmetics."
-msgstr ""
+msgstr "登录后即可使用装扮。"
 
 msgid "Signed in with Steam\nas {0}"
-msgstr ""
+msgstr "已通过 Steam 登录\n当前账号：{0}"
 
 msgid "Signed in with Discord\nas {0}"
-msgstr ""
+msgstr "已通过 Discord 登录\n身份：{0}"
 
 msgid "Signing in..."
-msgstr ""
+msgstr "正在登录……"
 
 msgid "Not signed in"
-msgstr ""
+msgstr "未登录"
 
 msgid "Sign Out"
-msgstr ""
+msgstr "退出登录"
 
 msgid "Sign In"
-msgstr ""
+msgstr "登录"
 
 msgid "Your code:"
-msgstr ""
+msgstr "你的登录码："
 
 msgid "Getting your sign-in code..."
-msgstr ""
+msgstr "正在获取你的登录码……"
 
 msgid "Signing in with Steam..."
-msgstr ""
+msgstr "正在通过 Steam 登录……"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 msgid "Discord\nSign In"
-msgstr ""
+msgstr "Discord\n登录"
 
 msgid "Try\nAgain"
-msgstr ""
+msgstr "再试\n一次"
 
 msgid "/invite: Invite Steam friends"
-msgstr ""
+msgstr "/invite：邀请 Steam 好友"
 
 msgid "Host a LAN game on Steam to invite friends"
-msgstr ""
+msgstr "在 Steam 上创建局域网游戏即可邀请好友"
 
 msgid "The code window is not available right now."
-msgstr ""
+msgstr "兑换码窗口目前不可用。"
 
 msgid "This server does not show that cosmetic yet. Rejoin to use newly redeemed cosmetics."
-msgstr ""
+msgstr "该服务器尚未显示该装扮。请重新加入服务器，以使用新兑换的装扮。"
 
 msgid "Could not load your cosmetics."
-msgstr ""
+msgstr "无法加载你的装扮。"
 
 msgid "You have no cosmetics yet. Redeem a cosmetic code with /redeem CODE."
-msgstr ""
+msgstr "你还没有任何装扮。使用 /redeem CODE 来兑换装扮兑换码。"
 
 msgid "Your cosmetics (use /cosmetic <name> or /cosmetic none):"
-msgstr ""
+msgstr "你的装扮（使用 /cosmetic <name> 或 /cosmetic none）："
 
 msgid "No cosmetic shown."
-msgstr ""
+msgstr "当前未显示任何装扮。"
 
 msgid "Cosmetic hidden."
-msgstr ""
+msgstr "装扮已隐藏。"
 
 msgid "Now showing {0} (it has no icon yet, so nothing appears)."
-msgstr ""
+msgstr "现在显示 {0}（它还没有图标，所以不会显示任何内容）。"
 
 msgid "Now showing {0}."
-msgstr ""
+msgstr "现在显示 {0}。"
 
 msgid "Could not delete that LAN world."
-msgstr ""
+msgstr "无法删除那个局域网世界。"
 
 msgid "That LAN world is being hosted right now."
-msgstr ""
+msgstr "那个局域网世界目前正在托管中。"
 
 msgid "No LAN world to host."
-msgstr ""
+msgstr "没有可托管的局域网世界。"
 
 msgid "That LAN world is missing."
-msgstr ""
+msgstr "那个局域网世界已缺失。"
 
 msgid "LAN hosting is not available on this device."
-msgstr ""
+msgstr "此设备不支持局域网托管。"
 
 msgid "Could not start the LAN game."
-msgstr ""
+msgstr "无法启动局域网游戏。"
 
 msgid "Signed in as {0}."
-msgstr ""
+msgstr "已以 {0} 身份登录。"
 
 msgid "Enter server IP and port before saving."
-msgstr ""
+msgstr "保存前请输入服务器 IP 和端口。"
 
 msgid "Saved {0}"
-msgstr ""
+msgstr "已保存 {0}"
 
 msgid "Play Online"
-msgstr ""
+msgstr "在线游玩"
 
 msgid "Online License Agreement"
-msgstr ""
+msgstr "在线许可协议"
 
 msgid "Scroll to the end of the agreement, then accept to play online."
-msgstr ""
+msgstr "滚动到协议末尾，然后接受即可在线游玩。"
 
 msgid "Connecting to your Steam friend"
-msgstr ""
+msgstr "正在连接你的 Steam 好友"
 
 msgid "Could not reach your Steam friend"
-msgstr ""
+msgstr "无法连接到你的 Steam 好友"
 
 msgid "Enter server IP and port."
-msgstr ""
+msgstr "请输入服务器 IP 和端口。"
 
 msgid "Server Name"
-msgstr ""
+msgstr "服务器名称"
 
 msgid "Sign in with Discord"
-msgstr ""
+msgstr "使用 Discord 登录"
 
 msgid "Gender"
-msgstr ""
+msgstr "性别"
 
 msgid "No image selected."
-msgstr ""
+msgstr "未选择图片。"
 
 msgid "Could not decode PNG."
-msgstr ""
+msgstr "无法解码 PNG。"
 
 msgid "Skin is too large even at 64x64. Use a simpler PNG."
-msgstr ""
+msgstr "皮肤即使缩小到 64x64 仍然太大。请使用更简单的 PNG。"
 
 msgid "Want to join\n{0}?"
-msgstr ""
+msgstr "想加入\n{0}吗？"
 
 msgid "Join Server"
-msgstr ""
+msgstr "加入服务器"
 
 msgid "Host LAN Game"
-msgstr ""
+msgstr "创建局域网游戏"
 
 msgid "New LAN World"
-msgstr ""
+msgstr "新建局域网世界"
 
 msgid "Host {0}\nfor up to {1} players?"
-msgstr ""
+msgstr "托管 {0}\n供最多 {1} 名玩家游玩？"
 
 msgid "Host a LAN game\nfor up to {0} players?"
-msgstr ""
+msgstr "托管局域网游戏\n最多供 {0} 名玩家游玩？"
 
 msgid "Join LAN Game"
-msgstr ""
+msgstr "加入局域网游戏"
 
 msgid "Delete {0}\nforever?"
-msgstr ""
+msgstr "删除 {0}\n且永久删除？"
 
 msgid "Delete LAN World"
-msgstr ""
+msgstr "删除局域网世界"
 
 msgid "Are you sure you'd like to remove\n{0}?"
-msgstr ""
+msgstr "你确定要移除\n{0}吗？"
 
 msgid "Remove Server"
-msgstr ""
+msgstr "移除服务器"
 
 msgid "Could not remove saved server."
-msgstr ""
+msgstr "无法移除已保存的服务器。"
 
 msgid "No saved servers yet.\nTap Add Server to create one."
-msgstr ""
+msgstr "还没有已保存的服务器。\n轻点“添加服务器”来创建一个。"
 
 msgid "Steam is not running."
-msgstr ""
+msgstr "Steam 未运行。"
 
 msgid "Steam sign-in is only available in the Steam version."
-msgstr ""
+msgstr "Steam 登录仅在 Steam 版本中可用。"
 
 msgid "Leave this game to join your Steam friend"
-msgstr ""
+msgstr "离开当前游戏，以加入你的 Steam 好友"
 
 msgid "Copy\nCode"
-msgstr ""
+msgstr "复制\n代码"
 
 msgid "Steam\nSign In"
-msgstr ""
+msgstr "Steam\n登录"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Join"
-msgstr ""
+msgstr "加入"
 
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 msgid "Decline"
-msgstr ""
+msgstr "拒绝"
 
 msgid "Add\nServer"
-msgstr ""
+msgstr "添加\n服务器"
 
 msgid "No"
-msgstr ""
+msgstr "否"
 
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 msgid "Online play uses your Discord account.\nPress Sign In to get a code, then link it in the Block Story Discord."
-msgstr ""
+msgstr "在线游玩使用你的 Discord 账户。\n按“登录”获取代码，然后在 Block Story 的 Discord 社区中关联。"
 
 msgid "Online play uses your Discord or Steam account.\nPress Steam Sign In, or press Discord Sign In to get a code and link it in the Block Story Discord."
-msgstr ""
+msgstr "在线游玩使用你的 Discord 或 Steam 账户。\n按“Steam 登录”，或按“Discord 登录”获取代码，并在 Block Story 的 Discord 社区中关联。"
 
 msgid "Waiting for Discord... this screen updates by itself."
-msgstr ""
+msgstr "正在等待 Discord……此界面会自动更新。"
 
 msgid "Block Story Multiplayer is in Limited Community Testing.\nTo join the next public test, visit our Discord server."
-msgstr ""
+msgstr "Block Story 多人游戏正处于有限社区测试阶段。\n要加入下一次公开测试，请访问我们的 Discord 服务器。"
 
 msgid "Sign in to join a server."
-msgstr ""
+msgstr "登录以加入服务器。"
 
 msgid "Could not connect to server.\nCheck the IP and port, and make sure the server is running."
-msgstr ""
+msgstr "无法连接到服务器。\n请检查 IP 和端口，并确认服务器正在运行。"
 
 msgid "This server is not allowed.\nChoose a different server to join."
-msgstr ""
+msgstr "此服务器不被允许。\n请选择其他服务器加入。"
 
 msgid "WARNING Multiplayer is experimental and very unstable."
-msgstr ""
+msgstr "警告：多人游戏仍处于实验阶段，且非常不稳定。"
 
 msgid "Add Server"
-msgstr ""
+msgstr "添加服务器"
 
 msgid "Edit Server"
-msgstr ""
+msgstr "编辑服务器"
 
 msgid "Code copied."
-msgstr ""
+msgstr "代码已复制。"
 
 msgid "Commands:"
-msgstr ""
+msgstr "命令："
 
 msgid "/help: Show this list"
-msgstr ""
+msgstr "/help：显示此列表"
 
 msgid "/pm user message: Private message a player"
-msgstr ""
+msgstr "/pm 用户 消息：向玩家发送私信"
 
 msgid "/warp name: Go to a warp or server"
-msgstr ""
+msgstr "/warp 名称：前往传送点或服务器"
 
 msgid "/listwarps: List warp names"
-msgstr ""
+msgstr "/listwarps：列出传送点名称"
 
 msgid "/list: List players online"
-msgstr ""
+msgstr "/list：列出在线玩家"
 
 msgid "/redeem code: Redeem a cosmetic code"
-msgstr ""
+msgstr "/redeem code：兑换装扮兑换码"
 
 msgid "/cosmetic: List your cosmetics"
-msgstr ""
+msgstr "/cosmetic：列出你的装扮"
 
 msgid "/cosmetic name: Show that cosmetic by your name"
-msgstr ""
+msgstr "/cosmetic 名称：在你的名字旁显示该装扮"
 
 msgid "/cosmetic none: Hide your cosmetic"
-msgstr ""
+msgstr "/cosmetic none：隐藏你的装扮"
 
 msgid "Could not connect to server. Check the IP and port, and make sure the server is running."
-msgstr ""
+msgstr "无法连接到服务器。请检查 IP 和端口，并确认服务器正在运行。"
