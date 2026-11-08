@@ -271,7 +271,7 @@ msgid "Gold Block"
 msgstr "金塊"
 
 msgid "Aragog Eye"
-msgstr "阿拉戈之眼"
+msgstr "阿拉戈克之眼"
 
 msgid "Spider Fang"
 msgstr "蜘蛛牙"
@@ -838,7 +838,7 @@ msgid "Rose Flowers"
 msgstr "玫瑰花"
 
 msgid "Jungle Flower"
-msgstr "叢林花卉"
+msgstr "叢林花"
 
 msgid "Vehicles"
 msgstr "交通工具"
@@ -3941,10 +3941,10 @@ msgid "Elf Brick Fence"
 msgstr "精靈磚柵欄"
 
 msgid "Yellow Crystal Antique"
-msgstr ""
+msgstr "遠古黃水晶塊"
 
 msgid "Unobtainium Antique"
-msgstr ""
+msgstr "遠古難得素塊"
 
 msgid "Amethyst Shard"
 msgstr "紫水晶碎片"
