@@ -1151,7 +1151,7 @@ msgid "Manticore_Pet"
 msgstr "曼提柯尔"
 
 msgid "Elongata_Pet"
-msgstr ""
+msgstr "艾隆加塔"
 
 msgid "UndeadDragon_Pet"
-msgstr ""
+msgstr "亡灵龙"
