@@ -240,7 +240,7 @@ msgid "The bats spawn from [FF0000]Jungle Flowers[-]. Bring me [FF0000]10 Jungle
 msgstr "蝙蝠從[FF0000]叢林花[-]中生成。給我帶[FF0000]10朵叢林花[-]來。"
 
 msgid "...Ggrrmbbbttttttthhhhhhh...\nYou are growing in my eyes, small creature...\nThank you for this...\n...Gggggggrreeerrmbbbthhhhhhhhh...\nI have another gift for you. Take this Nature Staff.\nNow you have the sacred nature power in your hands... But be careful with this..."
-msgstr "……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你在我眼裡越來越高大了，小生物……\n謝謝你……\n……咕嚕嚕嚕哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n我還有一件禮物給你。拿著這根生命法杖。\n現在你手中握有神聖的自然之力……但要小心使用……"
+msgstr "……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你在我眼裡越來越高大了，小生物……\n謝謝你……\n……咕嚕嚕嚕哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n我還有一件禮物給你。拿著這根自然法杖。\n現在你手中握有神聖的自然之力……但要小心使用……"
 
 msgid "Bring the Source of Life the Jungle Flowers."
 msgstr "把叢林花帶給生命之源。"
