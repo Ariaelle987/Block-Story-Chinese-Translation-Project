@@ -231,19 +231,19 @@ msgstr "我就知道，我对你的信任并非空穴来风，我的朋友。好
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:44
 #, no-wrap
 msgid "Your dragon will need to be much stronger if you hope to take on the Dragon Lord.  There is an animal trainer, Paula, who lives near here.  Find her, and continue your training."
-msgstr "你若想挑战龙主，你的龙必须变得更强。附近有一位驯兽师葆拉，去找她继续训练。"
+msgstr "你若想挑战龙主，你的龙必须变得更强。附近有一位驯兽师宝拉，去找她继续训练。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:45
 #, no-wrap
 msgid "Paula has lost much to the Dragon Lord's wrath.  She will help you if you ask."
-msgstr "葆拉在龙主的怒火下失去了许多，她会在你开口请求时伸出援手。"
+msgstr "宝拉在龙主的怒火下失去了许多，她会在你开口请求时伸出援手。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:48
 #, no-wrap
 msgid "Ask Paula to help train the Baby Dragon."
-msgstr "请葆拉帮忙训练龙宝宝。"
+msgstr "请宝拉帮忙训练龙宝宝。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:58
@@ -255,7 +255,7 @@ msgstr "训练进展如何？我会继续关注你的成就。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:61
 #, no-wrap
 msgid "Complete the Baby Dragon's training with Paula."
-msgstr "与葆拉一起完成龙宝宝的训练。"
+msgstr "与宝拉一起完成龙宝宝的训练。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:72
@@ -669,13 +669,13 @@ msgstr "你好。在你不在的时候，我一直在沉思 阿什科尔的力�
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:569
 #, no-wrap
 msgid "Ashkore resides in the Sky World high above this land.  Your dragon will need to be strong if you hope to fly there.  Perhaps that pet trainer, Paula, can help you."
-msgstr " 阿什科尔居住在这片土地上方的天空世界。要飞往那里，你的龙必须足够强大。也许驯兽师葆拉可以帮你。"
+msgstr " 阿什科尔居住在这片土地上方的天空世界。要飞往那里，你的龙必须足够强大。也许驯兽师宝拉可以帮你。"
 
 #. (itstool) path: info/label
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:572
 #, no-wrap
 msgid "Speak to Paula to learn how to ride your dragon."
-msgstr "向葆拉学习如何骑乘你的龙。"
+msgstr "向宝拉学习如何骑乘你的龙。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:586
@@ -687,7 +687,7 @@ msgstr "当你的龙更强壮时，再来找我。"
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:589
 #, no-wrap
 msgid "Learn how to ride the dragon from Paula."
-msgstr "在葆拉处学习如何骑龙。"
+msgstr "在宝拉处学习如何骑龙。"
 
 #. (itstool) path: step/desc
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:599
@@ -790,7 +790,7 @@ msgstr "我的龙曾抛弃了我，但你把它们带回来了。是的，就是
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:685
 #, no-wrap
 msgid "Speak to Paula about the Wizard's betrayal."
-msgstr "与葆拉谈谈魔法师的背叛。"
+msgstr "与宝拉谈谈魔法师的背叛。"
 
 #. (itstool) path: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml/quest@title
 #: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:1
@@ -1863,7 +1863,7 @@ msgstr "让我们一起毁灭这个世界，让所有人见识龙主的力量与
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "My Little Hunter"
-msgstr ""
+msgstr "我的小猎人"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1883,6 +1883,8 @@ msgid ""
 "Well, well. My little hunter. Out of her cage at last. And you've brought my "
 "favourite pawn."
 msgstr ""
+"好啊，好啊。我的小猎人。终于走出关她的笼子了。"
+"你还带来了我最喜欢的棋子。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1899,7 +1901,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Give me one reason not to put you in the ground."
-msgstr ""
+msgstr "给我一个不把你埋进土里的理由。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1918,6 +1920,8 @@ msgid ""
 "Because you would be doing me a kindness, and you have never once been kind. "
 "Look at me. I am nothing now. Isn't that what you both wanted?"
 msgstr ""
+"因为那等于是在对我发善心，可你从来没发过善心。"
+"看看我。我现在什么都不是了。这不正是你们俩想要的吗？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1936,3 +1940,5 @@ msgid ""
 "Run along, Dragon Rider. Enjoy your little hunts. I have all the time in the "
 "world."
 msgstr ""
+"滚开吧，龙骑士。享受你的小小狩猎吧。我有的是"
+"时间。"
