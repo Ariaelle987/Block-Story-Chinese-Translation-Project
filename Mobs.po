@@ -1154,4 +1154,4 @@ msgid "Elongata_Pet"
 msgstr "艾隆加塔"
 
 msgid "UndeadDragon_Pet"
-msgstr "亡灵龙"
+msgstr "奥瑟莫"
