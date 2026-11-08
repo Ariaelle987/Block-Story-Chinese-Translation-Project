@@ -184,7 +184,7 @@ msgid "SourceOfLife"
 msgstr "生命之源"
 
 msgid "Striker"
-msgstr "蝎子"
+msgstr "攻击者"
 
 msgid "Megalodon"
 msgstr "巨齿鲨"
@@ -193,7 +193,7 @@ msgid "BabyBearGrizzly"
 msgstr "灰熊宝宝"
 
 msgid "FemaleWarrior"
-msgstr "葆拉"
+msgstr "宝拉"
 
 msgid "Raven"
 msgstr "乌鸦"
