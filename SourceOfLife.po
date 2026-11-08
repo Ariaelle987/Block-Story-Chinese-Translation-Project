@@ -53,7 +53,7 @@ msgstr "告訴生命之源，你已經擊敗了黑暗魔王。"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dear Brother..."
-msgstr ""
+msgstr "親愛的兄弟……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -65,7 +65,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dear Brother... Down to Hell..."
-msgstr ""
+msgstr "親愛的兄弟們……下地獄吧……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -77,7 +77,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dear Brother... Snow mountain..."
-msgstr ""
+msgstr "親愛的兄弟……雪山……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -89,7 +89,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dear Brother... They lie to me..."
-msgstr ""
+msgstr "親愛的兄弟……他們在騙我……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -101,7 +101,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Living Tree...."
-msgstr ""
+msgstr "活樹……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -113,7 +113,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Living Tree... Bugs Still Coming..."
-msgstr ""
+msgstr "活樹……蟲子仍在襲來……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -144,6 +144,19 @@ msgid ""
 "...Grrrrrrttt...\n"
 "Can you help me?"
 msgstr ""
+"……咕嚕嚕嚕姆巴巴嘶嘶嘶 咕嚕嚕姆姆巴嘶嘶 咕姆巴嘶嘶……\n"
+"誰在那兒？\n"
+"……\n"
+"這些噁心的蟲子在我的神聖森林裡幹什麼？！\n"
+"你知道，我討厭它們，而你看起來和它們非常像。你很小，你的眼睛……豆子一樣的小東西。\n"
+"……咕嚕嚕嚕嚕哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n"
+"滾開！我不想和你有任何瓜葛！\n"
+"……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n"
+"但是……\n"
+"……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶嘶……\n"
+"我看你有一把劍……也許……\n"
+"……咕嚕嚕嚕特特特……\n"
+"你能幫幫我嗎？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -164,90 +177,94 @@ msgid ""
 "Rid my forest of these pests...\n"
 "Kill [FF0000]20 Kraden[-]."
 msgstr ""
+"當然！沒人能對生命之源說\"不\"！\n"
+"……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n"
+"把這些害蟲從我的森林裡清除掉……\n"
+"殺死[FF0000]20只 龍蟲[-]。"
 
 msgid "...Ggrrmbbbttttttthhhhhhh...\nMy brother says that we have another brother... He lives deep down below the ground...\nGggttrrrr...\nCan you find him, too?"
-msgstr ""
+msgstr "……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n我的兄弟說，我們還有一個兄弟……他住在地底深處……\n咕咕特特嚕嚕……\n你能找到他嗎？"
 
 msgid "Talk to the Source of Life."
-msgstr ""
+msgstr "與生命之源交談。"
 
 msgid "Grrrmrttttthhh...\nThen don't waste my time...\nGrrtth...\nGo and bring me his spawner...\nBring [FF0000]1 Barlog Spawner[-]."
-msgstr ""
+msgstr "咕嚕嚕姆爾特特特嘶嘶嘶……\n那就別浪費我的時間……\n咕嚕特嘶……\n去把他的生怪磚帶給我……\n帶來[FF0000]1個炎魔巴洛克生怪磚[-]。"
 
 msgid "My other brother lives deep below the ground. Capture him and bring me [FF0000]1 Barlog Spawner[-]."
-msgstr ""
+msgstr "我的另一個兄弟住在地底深處。抓住他，並帶給我[FF0000]1個炎魔巴洛克生怪磚[-]。"
 
 msgid "...Ggrrmbbbttttttthhhhhhh...\nYou made it... (This small creature is a real hero...)\nGrmrttttthhh...\nTake this Fire Staff from my brother...\nIt has very dangerous fire power inside, so be careful with it..."
-msgstr ""
+msgstr "……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你做到了……（這個小生物真是個英雄……）\n咕嚕姆爾特特特嘶……\n拿著這根從我兄弟那裡拿來的火焰法杖……\n裡面蘊含著非常危險的火焰力量，請你要小心使用……"
 
 msgid "Bring the Source of Life the Barlog Spawner."
-msgstr ""
+msgstr "把炎魔巴洛克生怪磚帶給生命之源。"
 
 msgid "...Gggggggrreeerrmbbbthhhhhhhhh...\nI have been waiting for you, little one...\nWill you help me search for my brother?\n...Ggrrmbbbttttttthhhhhhh...\nWatch out, he is very dangerous!"
-msgstr ""
+msgstr "……咕嚕嚕嚕哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n我一直在等你，小傢伙……\n你願意幫我尋找我的兄弟嗎？\n……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n小心，他非常危險！"
 
 msgid "...Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nA bat from one of the flowers you gave me says he saw my brother...\n...Gggttrrrr...\nHe lives very high up the mountain.... More than 250 meters up...\n...Gggrrrrmbbbthhhhhhhhh...\nGo and bring me his spawner...\nBring one [FF0000]Ice Elemental Spawner[-]."
-msgstr ""
+msgstr "……咕嚕嚕嚕姆巴巴嘶嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n你給我的其中一朵花上的一隻蝙蝠說，他看見我兄弟了……\n……咕咕特特嚕嚕……\n他住在山上非常高的地方……超過250米高……\n……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n去把他的生怪磚帶給我……\n帶來一個[FF0000]冰元素生怪磚[-]。"
 
 msgid "My brother lives high up the snow mountain. Capture him and bring me one [FF0000]Ice Elemental Spawner[-]."
-msgstr ""
+msgstr "我的兄弟住在高高的雪山上。抓住他，並給我帶一個[FF0000]冰元素生怪磚[-]。"
 
 msgid "...Gggttrrrr...\nIs this real????\nArrrrgggg!!! My dear brother is back!\nTake these Earth Spikes Staffs. They will help you in your journey......\n...Arrrrrrrgggggg...\nNow go away... I need to talk with my brother...."
-msgstr ""
+msgstr "……咕咕特特嚕嚕……\n這是真的嗎？？？？\n啊啊啊啊！！！我親愛的兄弟回來了！\n拿著這些大地尖刺法杖。它們會在你的旅途中幫助你……\n……啊啊啊啊啊啊啊……\n現在走開吧……我需要和我兄弟談談……"
 
 msgid "Bring the Source of Life the Ice Elemental Spawner."
-msgstr ""
+msgstr "把冰元素生怪磚帶給生命之源。"
 
 msgid "My brothers lie to me...\nAfter all I have done for them!!!!\nARRRRGGGGGGG!!!!!!!\nCan you teach them to respect me?"
-msgstr ""
+msgstr "我的兄弟們騙了我……\n我為他們做了那麼多！！！！\n啊啊啊啊啊啊啊！！！！！！！\n你能讓他們學會尊重我嗎？"
 
 msgid "ARRRRGGGGGGG!!!!!!!!!!!\nThen GO! And kill them!!!!\n[FF0000]Kill the Ice Elemental[-]\n[FF0000]Kill the Barlog[-]"
-msgstr ""
+msgstr "啊啊啊啊啊啊啊!!!!!!!!!!!\n那就去！殺了他們！！！！\n[FF0000]殺死冰元素[-]\n[FF0000]殺死炎魔巴洛克[-]"
 
 msgid "GO! And kill them!!!! [FF0000]Kill the Ice Elemental[-] and [FF0000]the Barlog[-]."
-msgstr ""
+msgstr "去！殺了他們！！！！[FF0000]殺死冰元素[-]和[FF0000]炎魔巴洛克[-]。"
 
 msgid "Arggg... Who's there?\nI figured you died already...\n...Ggrrmbbbttttttthhhhhhh...\nYou are much stronger than I thought...\nGgrrrthh...\nYou have proven worthy of carrying this.\nTake this Tentacles Staff...\nThis is the most powerful magic in the world... This is the staff I, the Source Of Life, use... Be careful with it. This weapon can bring even a Dragon to his knees...\nGrrrrrttt...\nGood luck in your journey and thank you for all you have done for me..."
-msgstr ""
+msgstr "啊啊啊……誰在那兒？\n我還以為你已經死了……\n……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你比我想象的強多了……\n咕嚕特嘶……\n你已經證明有資格攜帶這個。\n拿著這根觸手法杖……\n這是世界上最強大的魔力……這是我，生命之源，所使用的法杖……小心使用它。這件武器甚至能讓巨龍屈膝……\n咕嚕嚕嚕特特特……\n祝你的旅途好運，也感謝你為我所做的一切……"
 
 msgid "Tell the Source of Life his brothers have been dealt with."
-msgstr ""
+msgstr "告訴生命之源，他的兄弟們已經被處理了。"
 
 msgid "... Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nYou're still here? I can barely see you, you are so small!!!\n...Gggrrrrmbbbthhhhhhhhh...\nI lost my brother about a hundred years ago, but I finally know how to find him.\n...Ggrrmbbbttttttthhhhhhh...\nCan you help me again?"
-msgstr ""
+msgstr "……咕嚕嚕嚕姆巴巴嘶嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n你還在這兒？我幾乎看不見你，你太小了！！！\n……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n大約一百年前我失去了我的兄弟，但我終於知道怎麼找到他了。\n……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你能再幫我一次嗎？"
 
 msgid "...Ggrrmbbthh ggrrmmmbbttthh grrmbbtthh...\n...I've heard of a creature that knows a lot of things...\n...Grrrrrrttt....\nIt is somewhere in the jungle... In a great swamp... Very dangerous place...\n...Gggrrrrmbbbtttttttttttthhh...\nThis creature looks like a bat. They travel very far and have seen many things. One of them might have seen my Brother.\nThey spawn from [FF0000]Jungle Flowers[-]. Can you bring some of these flowers to me?\nBring [FF0000]10 Jungle Flowers[-]."
-msgstr ""
+msgstr "……咕嚕嚕姆巴嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n……我聽說有一種生物知道很多事情……\n……咕嚕嚕嚕特特特……\n它在叢林裡的某個地方……在一片大沼澤中……非常危險的地方……\n……咕嚕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n這種生物看起來像蝙蝠。它們旅行得很遠，見過很多事情。它們中可能有一隻見過我的兄弟。\n它們從[FF0000]叢林花[-]中生成。你能帶一些這種花給我嗎？\n帶來[FF0000]10朵叢林花[-]。"
 
 msgid "The bats spawn from [FF0000]Jungle Flowers[-]. Bring me [FF0000]10 Jungle Flowers[-]."
-msgstr ""
+msgstr "蝙蝠從[FF0000]叢林花[-]中生成。給我帶[FF0000]10朵叢林花[-]來。"
 
 msgid "...Ggrrmbbbttttttthhhhhhh...\nYou are growing in my eyes, small creature...\nThank you for this...\n...Gggggggrreeerrmbbbthhhhhhhhh...\nI have another gift for you. Take this Nature Staff.\nNow you have the sacred nature power in your hands... But be careful with this..."
-msgstr ""
+msgstr "……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你在我眼裡越來越高大了，小生物……\n謝謝你……\n……咕嚕嚕嚕哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n我還有一件禮物給你。拿著這根生命法杖。\n現在你手中握有神聖的自然之力……但要小心使用……"
 
 msgid "Bring the Source of Life the Jungle Flowers."
-msgstr ""
+msgstr "把叢林花帶給生命之源。"
 
 msgid "... Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nWhy are you so useless and small!!!!!\n..Arggg...\nYou can't even stop these small bugs!\n...Gggrrrrmbbbthhhhhhhhh...\nYou'd better try harder if you want this [FF0000]Magic Staff[-]!"
-msgstr ""
+msgstr "……咕嚕嚕嚕姆巴巴嘶嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n你怎麼這麼沒用又這麼小！！！！！！\n..啊啊啊……\n你連這些小蟲子都擋不住！\n……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n如果你想要這根[FF0000]魔力法杖[-]，最好再加把勁！"
 
 msgid "...Ggrrmbbthh ggrrmmmbbttthh grrmbbtthh...\nNow make some Soul Catchers, capture the bugs and bring me [FF0000]20 Kraden Spawners[-]!"
-msgstr ""
+msgstr "……咕嚕嚕姆巴嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n現在去做一些噬魂法杖，抓住那些蟲子，並給我帶[FF0000]20個龍蟲生怪磚[-]！"
 
 msgid "Use Soul Catchers to capture the bugs and bring me [FF0000]20 Kraden Spawners[-]!"
-msgstr ""
+msgstr "使用噬魂法杖抓住蟲子，並給我帶[FF0000]20個龍蟲生怪磚[-]！"
 
 msgid "...Gggrrrrmbbbthhhhhhhhh...\nI see you got them.\n...Ggrrmbbbttttttthhhhhhh...\nFine, this Dark Magic Staff is yours.\nTo use the staff, tap and hold on an enemy and wait for it to charge up. When the spell cast bar is full, it will release a dark power on your target.\n...Gggrrrrmbbbthhhhhhhhh...\nNow go away! You still look like a bug even with that magnificent Magic Staff in your hand."
-msgstr ""
+msgstr "……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n我看到你拿到了。\n……咕嚕嚕姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n好吧，這根黑暗魔力法杖歸你了。\n使用法杖時，按住一個敵人，等待它蓄力。當施法條充滿時，它會對你的目標釋放一股黑暗力量。\n……咕嚕嚕姆巴巴嘶嘶嘶嘶嘶嘶……\n現在走開吧！就算你手裡拿著那根了不起的魔力法杖，你看起來還是像只蟲子。"
 
 msgid "Bring the Source of Life the Kraden Spawners."
-msgstr ""
+msgstr "把龍蟲生怪磚帶給生命之源。"
 
 msgid "Rid my forest of these pests... Kill [FF0000]20 Kraden[-]."
-msgstr ""
+msgstr "把這些害蟲從我的森林裡清除掉... 殺死[FF0000]20只龍蟲[-]。"
 
 msgid "...Gggrrrrmbbbthhh ggggrrrmmmbbttthh grrmbbtthh...\nI hope they stop bothering me after you're done with them..."
-msgstr ""
+msgstr "……咕嚕嚕嚕姆巴巴嘶嘶 咕嚕嚕姆姆巴特特嘶 咕姆巴特嘶……\n我希望你解決它們之後，它們就別再來煩我了……"
 
 msgid "Tell the Source of Life you have killed the bugs."
-msgstr ""
+msgstr "告訴生命之源你已經殺死了那些蟲子。"
