@@ -65,7 +65,7 @@ msgstr "亲爱的兄弟……"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dear Brother... Down to Hell..."
-msgstr "亲爱的兄弟们……下地狱吧……"
+msgstr "亲爱的兄弟……下地狱吧……"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -189,16 +189,16 @@ msgid "Talk to the Source of Life."
 msgstr "与生命之源交谈。"
 
 msgid "Grrrmrttttthhh...\nThen don't waste my time...\nGrrtth...\nGo and bring me his spawner...\nBring [FF0000]1 Barlog Spawner[-]."
-msgstr "咕噜噜姆尔特特特嘶嘶嘶……\n那就别浪费我的时间……\n咕噜特嘶……\n去把他的刷怪箱带给我……\n带来[FF0000]1个炎魔巴洛克刷怪箱[-]。"
+msgstr "咕噜噜姆尔特特特嘶嘶嘶……\n那就别浪费我的时间……\n咕噜特嘶……\n去把他的刷怪箱带给我……\n带来[FF0000]1个炎魔刷怪箱[-]。"
 
 msgid "My other brother lives deep below the ground. Capture him and bring me [FF0000]1 Barlog Spawner[-]."
-msgstr "我的另一个兄弟住在地底深处。抓住他，并带给我[FF0000]1个炎魔巴洛克刷怪箱[-]。"
+msgstr "我的另一个兄弟住在地底深处。抓住他，并带给我[FF0000]1个炎魔刷怪箱[-]。"
 
 msgid "...Ggrrmbbbttttttthhhhhhh...\nYou made it... (This small creature is a real hero...)\nGrmrttttthhh...\nTake this Fire Staff from my brother...\nIt has very dangerous fire power inside, so be careful with it..."
 msgstr "……咕噜噜姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你做到了……（这个小生物真是个英雄……）\n咕噜姆尔特特特嘶……\n拿着这根从我兄弟那里拿来的火焰法杖……\n里面蕴含着非常危险的火焰力量，请你要小心使用……"
 
 msgid "Bring the Source of Life the Barlog Spawner."
-msgstr "把炎魔巴洛克刷怪箱带给生命之源。"
+msgstr "把炎魔刷怪箱带给生命之源。"
 
 msgid "...Gggggggrreeerrmbbbthhhhhhhhh...\nI have been waiting for you, little one...\nWill you help me search for my brother?\n...Ggrrmbbbttttttthhhhhhh...\nWatch out, he is very dangerous!"
 msgstr "……咕噜噜噜哩哩姆巴巴嘶嘶嘶嘶嘶嘶……\n我一直在等你，小家伙……\n你愿意帮我寻找我的兄弟吗？\n……咕噜噜姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n小心，他非常危险！"
@@ -219,10 +219,10 @@ msgid "My brothers lie to me...\nAfter all I have done for them!!!!\nARRRRGGGGGG
 msgstr "我的兄弟们骗了我……\n我为他们做了那么多！！！！\n啊啊啊啊啊啊啊！！！！！！！\n你能让他们学会尊重我吗？"
 
 msgid "ARRRRGGGGGGG!!!!!!!!!!!\nThen GO! And kill them!!!!\n[FF0000]Kill the Ice Elemental[-]\n[FF0000]Kill the Barlog[-]"
-msgstr "啊啊啊啊啊啊啊!!!!!!!!!!!\n那就去！杀了他们！！！！\n[FF0000]杀死冰元素[-]\n[FF0000]杀死炎魔巴洛克[-]"
+msgstr "啊啊啊啊啊啊啊!!!!!!!!!!!\n那就去！杀了他们！！！！\n[FF0000]杀死冰元素[-]\n[FF0000]杀死炎魔[-]"
 
 msgid "GO! And kill them!!!! [FF0000]Kill the Ice Elemental[-] and [FF0000]the Barlog[-]."
-msgstr "去！杀了他们！！！！[FF0000]杀死冰元素[-]和[FF0000]炎魔巴洛克[-]。"
+msgstr "去！杀了他们！！！！[FF0000]杀死冰元素[-]和[FF0000]炎魔[-]。"
 
 msgid "Arggg... Who's there?\nI figured you died already...\n...Ggrrmbbbttttttthhhhhhh...\nYou are much stronger than I thought...\nGgrrrthh...\nYou have proven worthy of carrying this.\nTake this Tentacles Staff...\nThis is the most powerful magic in the world... This is the staff I, the Source Of Life, use... Be careful with it. This weapon can bring even a Dragon to his knees...\nGrrrrrttt...\nGood luck in your journey and thank you for all you have done for me..."
 msgstr "啊啊啊……谁在那儿？\n我还以为你已经死了……\n……咕噜噜姆巴巴特特特特特嘶嘶嘶嘶嘶嘶……\n你比我想象的强多了……\n咕噜特嘶……\n你已经证明有资格携带这个。\n拿着这根触手法杖……\n这是世界上最强大的魔法……这是我，生命之源，所使用的法杖……小心使用它。这件武器甚至能让巨龙屈膝……\n咕噜噜噜特特特……\n祝你的旅途好运，也感谢你为我所做的一切……"
