@@ -971,10 +971,10 @@ msgstr "洞穴蝎子"
 # UnityGame/Assets/Localization/T.cs:134 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:155 
 msgid "THEDRAGON"
-msgstr "巨龙"
+msgstr "誓约之颚"
 
 msgid "UndeadDragon"
-msgstr "亡灵龙"
+msgstr "奥瑟莫"
 
 msgid "HorseOld"
 msgstr "旧版马"
