@@ -888,7 +888,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Fixing my Zeppeling"
-msgstr ""
+msgstr "修理我的飞艇"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -900,7 +900,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Strange ore"
-msgstr ""
+msgstr "奇异矿石"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -917,7 +917,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Grawwww! No human! No kill me! Help me! And me helps you!"
-msgstr ""
+msgstr "嘎嗷——！不要人类！别杀我！帮帮我！我帮你！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -935,7 +935,7 @@ msgstr ""
 msgid ""
 "Good human! Will help! Zeppelin break, will repair!\n"
 "Me needs lots of things. Look in quest log, human!"
-msgstr ""
+msgstr "好人类！会帮忙！飞艇坏了，会修好！\n我需要好多东西。看任务日志，人类！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -951,7 +951,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Zeppelin break! Bring Mr. Goblin all the things in the quest log!"
-msgstr ""
+msgstr "飞艇坏了！把任务日志里的所有东西都带给哥布林先生！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -963,7 +963,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Blow Em All Up"
-msgstr ""
+msgstr "把它们全炸掉"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -982,7 +982,7 @@ msgstr ""
 msgid ""
 "Hello-o-o, Dragon Rider! Golems pretending to be rocks? Easy! Blow up ALL "
 "the rocks! Eventually one of them will complain!"
-msgstr ""
+msgstr "你好——呀，龙骑士！魔像装成石头？简单！把所有的石头都炸掉！迟早有一个会吭声！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1000,7 +1000,7 @@ msgstr ""
 msgid ""
 "Hey, weird thing. That old Dragon Lord itch in my head is back. The one that "
 "makes goblins all angry. I thought it went away when you beat him."
-msgstr ""
+msgstr "嘿，怪事。我脑子里那股老龙主的躁动又回来了。就是让哥布林全都发狂的那个。我还以为你打败他之后它就消失了。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -1016,28 +1016,28 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Probably nothing. Probably. Go blow 'em all up! Eee hee hee!"
-msgstr ""
+msgstr "大概没什么事。大概吧。去把它们全炸掉！哈哈哈！"
 
 msgid "Talk to Mr. Goblin."
-msgstr ""
+msgstr "与哥布林先生交谈。"
 
 msgid "Thanks, human! You take this! It helps you!"
-msgstr ""
+msgstr "谢谢，人类！你拿着这个！它能帮你！"
 
 msgid "Bring Mr. Goblin the zeppelin parts."
-msgstr ""
+msgstr "把飞艇的零件带给哥布林先生。"
 
 msgid "What human brings?\nGraviton. Strange. Mr. Goblin investigate, but need help.\nCan human help?"
-msgstr ""
+msgstr "人类带来什么？\n引力。奇怪。哥布林先生调查，但需要帮忙。\n人类能帮忙吗？"
 
 msgid "Bring to Mr. Goblin some things:\n[FF0000]10 Graviton[-]\n[FF0000]50 Iron Ore[-]\n[FF0000]2 Engines[-]"
-msgstr ""
+msgstr "给哥布林先生带一些东西：\n[FF0000]10个引力[-]\n[FF0000]50块铁矿石[-]\n[FF0000]2台发动机[-]"
 
 msgid "Bring to Mr. Goblin: [FF0000]10 Graviton[-], [FF0000]50 Iron Ore[-] and [FF0000]2 Engines[-]."
-msgstr ""
+msgstr "给哥布林先生带：[FF0000]10个引力[-]、[FF0000]50块铁矿石[-]和[FF0000]2台发动机[-]。"
 
 msgid "Mr. Goblin thanks human.\nGraviton helps Mr. Goblin fly.\nMr. Goblin show human how to fly.\nUse Graviton to power machine."
-msgstr ""
+msgstr "哥布林先生感谢人类。\n引力帮助哥布林先生飞行。\n哥布林先生教人类如何飞行。\n用引力为机器提供动力。"
 
 msgid "Bring Mr. Goblin the parts."
-msgstr ""
+msgstr "把零件带给哥布林先生。"
