@@ -724,49 +724,49 @@ msgid "The King used to walk among us. Not above us. That’s why we miss him."
 msgstr "國王曾與我們同行，而不是高高在上。這就是我們懷念他的原因。"
 
 msgid "The sea’s cruel, but we can be crueler!"
-msgstr ""
+msgstr "大海很殘酷，但我們可以比它更殘酷！"
 
 msgid "Fall back! We can’t hold them! "
-msgstr ""
+msgstr "撤退！我們擋不住它們了！"
 
 msgid "I won’t die here! Not like this!"
-msgstr ""
+msgstr "我不會死在這裡！絕不能這樣死！"
 
 msgid "Ten years in a cage. The sun still feels new."
-msgstr ""
+msgstr "在牢籠裡待了十年。陽光依然讓人覺得新鮮。"
 
 msgid "Got a contract for me? No? Then you're standing in my light."
-msgstr ""
+msgstr "有契約要交給我嗎？沒有？那你擋著我的光了。"
 
 msgid "This sword's been sharp for ten years. I sharpen it anyway."
-msgstr ""
+msgstr "這把劍已經鋒利了十年。我照樣還是會磨它。"
 
 msgid "Everything out there has a price on its head. Some of them are even worth it."
-msgstr ""
+msgstr "外面每個東西的腦袋上都掛著賞金。其中有些甚至還算值得。"
 
 msgid "I don't do small talk. I do bounties."
-msgstr ""
+msgstr "我不閒聊。我只接受賞金。"
 
 msgid "Hold still. This won't take long."
-msgstr ""
+msgstr "別動。很快就結束。"
 
 msgid "Nothing personal. It's a contract."
-msgstr ""
+msgstr "不是針對你。這是契約。"
 
 msgid "You picked the wrong hunter."
-msgstr ""
+msgstr "你選錯獵人了。"
 
 msgid "Not again. I'm not going back in a cage."
-msgstr ""
+msgstr "又來這套。我不會再回到籠子裡去。"
 
 msgid "Fall back. Breathe. Then finish it."
-msgstr ""
+msgstr "後撤。喘口氣。然後了結它。"
 
 msgid "Contract closed."
-msgstr ""
+msgstr "契約已了結。"
 
 msgid "Next."
-msgstr ""
+msgstr "下一個。"
 
 msgid "How did the mumble of these arthropod aliens bother me."
-msgstr ""
+msgstr "這些外星節肢生物的嘟囔聲真是煩死我了。"
