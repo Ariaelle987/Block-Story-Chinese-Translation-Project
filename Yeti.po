@@ -66,7 +66,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Freaky Dog"
-msgstr ""
+msgstr "怪狗"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -78,49 +78,49 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Strange Ritual"
-msgstr ""
+msgstr "奇异仪式"
 
 msgid "Centuries ago, I heard of a creature called Shiva, with immense powers.\nI heard a rumor you have summoned it.\nBut obviously this is a lie, since you are still alive.\nWhat? You say it is true? Prove it."
-msgstr ""
+msgstr "几个世纪前，我听说过一种叫希瓦的生物，拥有无比强大的力量。\n我听说你把它召唤出来了。\n但这显然是个谎言，因为你还活着。\n什么？你说这是真的？证明给我看。"
 
 msgid "Talk to the Yeti."
-msgstr ""
+msgstr "与雪人交谈。"
 
 msgid "In the story I heard, Shiva has inside an element of great power. Mutagen I think is what the legend called it.\n...\nWhat? You have seen this? I don't believe you. But then, you did do a good job against the dragon. So just maybe...\nShow it to me. Bring me [FF0000]30 Mutagen[-]."
-msgstr ""
+msgstr "在我听过的故事里，希瓦体内有一种蕴含强大力量的东西。传说管它叫诱变剂。\n...\n什么？你见过这东西？我不信你。不过，你对付那条龙确实干得不错。所以也许...\n把它给我看看。给我带[FF0000]30个诱变剂[-]。"
 
 msgid "Bring me [FF0000]30 Mutagen[-] from Shiva."
-msgstr ""
+msgstr "从希瓦那里给我带[FF0000]30个诱变剂[-]来。"
 
 msgid "You have it? YOU HAVE KILLED SHIVA?\nI want to see...\nFascinating. I feel a strange energy coming out of it.\nI need to study this.\n...\nThis substance has some really strange effects on matter.\nMore importantly, it has some really strange effects on animals.\nI fed it to a worm, and it turned into a giant worm that you would recognize as Mr. Giggles.\nIt is all starting to make sense now. I think Shiva was a regular frog that ate this."
-msgstr ""
+msgstr "你拿到了？你杀了希瓦？\n我想看看……\n真神奇。我感觉到它散发出一股奇怪的能量。\n我需要研究一下这个。\n……\n这种物质对物质有一些非常奇怪的影响。\n更重要的是，它对动物有一些非常奇怪的影响。\n我把它喂给了一只虫子，它变成了一条巨大的蠕虫，你应该认得出那就是吉格斯蠕虫。\n现在一切都开始说得通了。我想希瓦是一只吃了这个的普通青蛙。"
 
 msgid "Bring the Yeti the Mutagen."
-msgstr ""
+msgstr "把诱变剂带给雪人。"
 
 msgid "I want to study the effects of the Mutagen on a bigger animal. Bring me a [FF0000]Dog[-]. I heard Shadow Hunter had some for sale."
-msgstr ""
+msgstr "我想研究诱变剂对更大动物的影响。给我带一只[FF0000]狗之魂[-]来。我听说炼金术士那里有卖。"
 
 msgid "Bring me a [FF0000]Dog Soul[-]. I heard Shadow Hunter had some for sale."
-msgstr ""
+msgstr "给我带一个[FF0000]狗之魂[-]来。我听说炼金术士那里有卖。"
 
 msgid "Thank you. Now let's try...\nHere puppy puppy, eat this meatball with nothing suspicious inside.\n...\nWHAT ON EARTH IS THAT?????\nIn all my centuries I have never seen anything like it.\nThis mutagen is way too dangerous. Here, you have it, it scares me."
-msgstr ""
+msgstr "谢谢。现在我们来试试……\n来，狗狗，狗狗，吃掉这颗完全没有任何可疑成分的肉丸。\n……\n那到底是什么鬼东西？？？？？\n我这几个世纪以来从没见过这种东西。\n这诱变剂太危险了。给，你拿着，它让我害怕。"
 
 msgid "Bring the Yeti a Dog."
-msgstr ""
+msgstr "把一只狗之魂带给雪人。"
 
 msgid "Hello, hero!\nI heard about you from my brother, Hugo.\nBut I must hurry, I have a job for you.\nCan you please help me?\nThere are Ice Dragons somewhere in the snow mountain.\nTheir Spawners give life to all the Yeti in the world.\nEvery year we hunt for them, but this year I am very sick.\nI can't hunt for myself, and I can't possibly ask one of my brothers to do it.\nCan you hunt for me?"
-msgstr ""
+msgstr "你好，英雄！\n我从我兄弟雨果那里听说过你。\n但我得抓紧时间，我有个活儿要交给你。\n你能帮帮我吗？\n雪山里的某个地方有冰龙。\n它们的刷怪箱维系着世界上所有雪人的生命。\n每年我们都会去猎杀它们，但今年我病得很重。\n我没法自己去猎杀，也不可能让我的某个兄弟去做。\n你能替我去猎杀吗？"
 
 msgid "Thank you for doing this for me.\nPlease bring me\n[FF0000]1 Ice Dragon Spawner[-]\nand\n[FF0000]1 Dragon Heart[-]\nThen I can restore my power.\nCapture the Ice Dragon with a Soul Catcher to get its spawner.\nI will rest and wait for you here..."
-msgstr ""
+msgstr "谢谢你为我做这件事。\n请给我带\n[FF0000]1个冰龙刷怪箱[-]\n和\n[FF0000]1颗龙心[-]\n然后我就能恢复力量。\n用噬魂法杖捕获冰龙，以获得它的刷怪箱。\n我会在这里休息等你……"
 
 msgid "Please bring me [FF0000]1 Ice Dragon Spawner[-] and [FF0000]1 Dragon Heart[-]. Capture the Ice Dragon with a Soul Catcher."
-msgstr ""
+msgstr "请给我带[FF0000]1个冰龙刷怪箱[-]和[FF0000]1颗龙心[-]。用噬魂法杖捕获冰龙。"
 
 msgid "You made it! Hugo is right, you are a real hero!\nNow I will live much longer!\nPlease, take this small gift."
-msgstr ""
+msgstr "你做到了！雨果说得对，你是个真正的英雄！\n现在我能活得更久了！\n请收下这份小礼物。"
 
 msgid "Bring the Yeti the Ice Dragon Spawner and Dragon Heart."
-msgstr ""
+msgstr "把冰龙刷怪箱和龙心带给雪人。"
