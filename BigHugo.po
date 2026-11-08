@@ -153,31 +153,31 @@ msgid "Did someone send you down here?"
 msgstr "是有人派你下來的嗎？"
 
 msgid "(whimper) I saw... I saw.... A HUGE SPIDER!\nIt said \"WHO DISTURBS ARAGOG!\" and I ran as fast as I could out of there!\nThat thing is straight out of my nightmares...\nI can't eat, sleep or even breathe knowing that that creature is out there.\nPlease HELP ME!!!"
-msgstr "（抽泣）我看見了……我看見了……一隻巨大的蜘蛛！\n它說“是誰打擾了阿拉戈！”，然後我就拼了命地逃了出來！\n那東西簡直就是從我噩夢裡爬出來的……\n一想到那怪物就在外面，我吃不下、睡不著，連呼吸都困難。\n求求你幫幫我！！！"
+msgstr "（抽泣）我看見了……我看見了……一隻巨大的蜘蛛！\n它說“是誰打擾了阿拉戈克！”，然後我就拼了命地逃了出來！\n那東西簡直就是從我噩夢裡爬出來的……\n一想到那怪物就在外面，我吃不下、睡不著，連呼吸都困難。\n求求你幫幫我！！！"
 
 msgid "Talk to Hugo."
 msgstr "與雨果交談。"
 
 msgid "Get rid of it! Just... get rid of it!\n[FF0000]KILL ARAGOG[-]!\nYou can summon him with the Aragog spawner I showed you how to make."
-msgstr "除掉它！就……除掉它！\n[FF0000]殺死阿拉戈[-]！\n我可以教你怎麼製作的阿拉戈生怪磚來把它召喚出來。"
+msgstr "除掉它！就……除掉它！\n[FF0000]殺死阿拉戈克[-]！\n我可以教你怎麼製作的阿拉戈克生怪磚來把它召喚出來。"
 
 msgid "[FF0000]KILL ARAGOG[-]! You can summon him with an Aragog spawner."
-msgstr "[FF0000]殺死阿拉戈[-]！你可以用阿拉戈生怪磚召喚它。"
+msgstr "[FF0000]殺死阿拉戈克[-]！你可以用阿拉戈克生怪磚召喚它。"
 
 msgid "You did it? Really?\nThen bring me his eye so I know it's safe!"
 msgstr "你做到了？真的嗎？\n那就把他的眼睛帶來給我，這樣我才能確定安全了！"
 
 msgid "Tell Hugo you have killed Aragog."
-msgstr "告訴雨果你已經殺死了阿拉戈。"
+msgstr "告訴雨果你已經殺死了阿拉戈克。"
 
 msgid "Bring me [FF0000]Aragog's eye[-] so I know it's safe!"
-msgstr "把[FF0000]阿拉戈的眼睛[-]帶來給我，這樣我才能確定安全了！"
+msgstr "把[FF0000]阿拉戈克的眼睛[-]帶來給我，這樣我才能確定安全了！"
 
 msgid "Wow, how did you do it?!\nThat beast looked so scary!\nHere, take some apples as a reward."
 msgstr "哇，你是怎麼做到的？！\n那野獸看起來太可怕了！\n來，拿些蘋果作為獎勵吧。"
 
 msgid "Bring Hugo Aragog's eye."
-msgstr "把阿拉戈的眼睛帶給雨果。"
+msgstr "把阿拉戈克的眼睛帶給雨果。"
 
 msgid "Please kill [FF0000]20 spiders[-]. Let me know when you are finished."
 msgstr "請殺死[FF0000]20只蜘蛛[-]。完成後告訴我。"
