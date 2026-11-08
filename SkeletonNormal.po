@@ -61,7 +61,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dancing Lessons"
-msgstr ""
+msgstr "舞蹈课"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -73,7 +73,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dancing Lessons II"
-msgstr ""
+msgstr "舞蹈课 II"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -85,7 +85,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dancing Lessons III"
-msgstr ""
+msgstr "舞蹈课 III"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -97,7 +97,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Dancing Lessons IV"
-msgstr ""
+msgstr "舞蹈课 IV"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -119,7 +119,12 @@ msgid ""
 "Well, thank you.\n"
 "Unfortunately the other skeletons don't think the same.\n"
 "How about you help me teach them a lesson?"
-msgstr ""
+msgstr "……踏一步，碰，踏一步，碰碰……\n"
+"哦哦，你好呀。我一直在上舞蹈课，你觉得怎么样？\n"
+"……\n"
+"嗯，谢谢你。\n"
+"可惜其他骷髅不这么认为。\n"
+"不如你帮我给他们点教训？"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:336 
@@ -135,55 +140,55 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1804 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:998 
 msgid "Great, can you show [FF0000]20 Dark Mages[-] how to respect my art?"
-msgstr ""
+msgstr "太好了，你能让[FF0000]20个黑暗法师[-]懂得尊重我的艺术吗？"
 
 msgid "Watch me:\n.... HABABABAAABABABAA... Macarena, HABABABAABABABAABA.. Buena, Heeeey Macarena...\nPretty good, right?\nWell... the Dark Slashers say it's stupid.\nWhy don't you go show them who's the stupid one?"
-msgstr ""
+msgstr "看我：\n……哈巴巴巴啊啊吧吧吧啊啊……玛卡瑞纳，哈巴巴吧啊啊吧吧吧啊啊……布埃纳，嘿嘿嘿玛卡瑞纳……\n很不错，对吧？\n嗯……黑暗杀人狂说这很蠢。\n不如你去让他们看看谁才是蠢的那个？"
 
 msgid "Talk to the dancing skeleton."
-msgstr ""
+msgstr "与跳舞的骷髅交谈。"
 
 msgid "Make [FF0000]20 Dark Slashers[-] eat their words."
-msgstr ""
+msgstr "让[FF0000]20个黑暗杀人狂[-]收回他们的话。"
 
 msgid "Learned some respect, didn't they?"
-msgstr ""
+msgstr "他们学会点尊重了吧？"
 
 msgid "Tell the skeleton the Dark Slashers learned their lesson."
-msgstr ""
+msgstr "告诉骷髅，黑暗杀人狂已经受到教训了。"
 
 msgid "You came to watch me dance again? I have something special for you! Watch this...\n... Cause this is thriller, thriiiiiiiiiiiiller night...\nWell, it turns out the Dark Knights know the same move.\nCan you make them forget it?"
-msgstr ""
+msgstr "你又来看我跳舞了？我有特别的东西给你！看好了……\n……因为这是颤栗，颤栗栗栗栗栗栗栗栗之夜……\n嗯，结果黑暗骑士也会同样的舞步。\n你能让他们忘掉吗？"
 
 msgid "Teach [FF0000]20 Dark Knights[-] not to steal my moves."
-msgstr ""
+msgstr "教训[FF0000]20个黑暗骑士[-]，让他们别偷学我的舞步。"
 
 msgid "Ha! Those posers changed their routine now!"
-msgstr ""
+msgstr "哈！那些装模作样的家伙现在改舞步了！"
 
 msgid "Tell the skeleton the Dark Knights forgot his moves."
-msgstr ""
+msgstr "告诉骷髅，黑暗骑士已经忘了他的舞步。"
 
 msgid "I saw the Dark Boss bust a move that was way better than any of mine. He called it \"moonwalking.\" He looked like he was walking forward, but... he was actually moving backward! How did he do that?\nWe have a recital next Sunday, and I have to go right after him! I can't follow that! I'll look ridiculous in comparison...\nCan you... \"persuade\" him not to moonwalk at the recital?"
-msgstr ""
+msgstr "我看见黑暗魔王跳了一段舞步，比我会的任何舞步都好得多。他管那叫“太空步”。他看起来像是在往前走，但……实际上是在向后移动！他是怎么做到的？\n下周日我们有一场演出，而我必须紧接在他后面上场！我可接不住那个！一比之下我会显得很可笑……\n你能……“说服”他别在演出上跳太空步吗？"
 
 msgid "Gently \"persuade\" [FF0000]a Dark Boss[-] to stay still at the recital.\nJust do me a favor and don't tell him you're working for me? He scares me."
-msgstr ""
+msgstr "温和地“说服”[FF0000]一位黑暗魔王[-]在演出时保持不动。\n就当帮我个忙，别告诉他你在为我做事？他让我害怕。"
 
 msgid "Gently \"persuade\" [FF0000]a Dark Boss[-] to stay still at the recital."
-msgstr ""
+msgstr "温和地“说服”[FF0000]一位黑暗魔王[-]在演出时保持不动。"
 
 msgid "Other Dark Bosses are mourning the one you \"persuaded\".\nThey've asked me to do the moonwalk at the recital in his honor.\nEverything turned out better than expected!"
-msgstr ""
+msgstr "其他黑暗魔王正在哀悼你“说服”的那位。\n他们请我在演出上跳太空步来纪念他。\n结果一切都比预想的更好！"
 
 msgid "Tell the skeleton you have \"persuaded\" the Dark Boss."
-msgstr ""
+msgstr "告诉骷髅你已经“说服”了黑暗魔王。"
 
 msgid "Show [FF0000]20 Dark Mages[-] how to respect my art."
-msgstr ""
+msgstr "让[FF0000]20个黑暗法师[-]懂得尊重我的艺术。"
 
 msgid "That ought to teach 'em!\nThey won't be laughing at me anymore!"
-msgstr ""
+msgstr "这应该能给他们点教训！\n他们不会再嘲笑我了！"
 
 msgid "Tell the skeleton you have taught the Dark Mages a lesson."
-msgstr ""
+msgstr "告诉骷髅你已经教训了黑暗法师。"
