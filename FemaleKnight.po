@@ -12,287 +12,287 @@ msgstr ""
 
 #. Open Season (title)
 msgid "Open Season"
-msgstr ""
+msgstr "狩猎季"
 
 #. Open Season (desc)
 msgid "If you're here to arrest me, you're about ten years late. If you're here to rob me, look at the size of this sword and think very carefully."
-msgstr ""
+msgstr "如果你是来抓我的，那你大概晚了十年。如果你是来抢劫我的，先看看这把剑的个头，好好想清楚再说。"
 
 #. Open Season (label)
 msgid "Talk to Teresa."
-msgstr ""
+msgstr "与特蕾莎交谈。"
 
 #. Open Season (desc)
 msgid "...Huh. You're the Rider. The one who beat him. You're shorter than the stories."
-msgstr ""
+msgstr "……哈。你就是那位龙骑士，那个打败他的人？你比故事里说的要矮一点。"
 
 #. Open Season (desc)
 msgid "Don't look so surprised. The whole world's talking about you. A Viking up the road told me twice before I'd finished asking for directions."
-msgstr ""
+msgstr "别这么吃惊，全世界都在议论你。路那头有个维京人，我还没问完路，他就已经跟我讲了两遍你的事了。"
 
 #. Open Season (desc)
 msgid "My name is Teresa. I hunt things. Have done since before you were born, probably. Except for the last ten years, when something hunted me."
-msgstr ""
+msgstr "我叫特蕾莎。我是干狩猎的。大概从你出生之前就开始干这行了。除了过去十年——那段时间有东西在猎杀我。"
 
 #. Open Season (desc)
 msgid "Three days ago the locks on my cage just... broke. No key, no rescue, no explanation. One moment I'm staring at the same wall I've stared at for a decade. The next, I'm standing in the sun, wondering if I'd finally lost my mind."
-msgstr ""
+msgstr "三天前，我牢笼上的锁就那么……断了。没有钥匙，没有人来救我，也没有任何解释。前一秒我还在盯着那面我盯了十年的墙。下一秒，我就站在了阳光下，怀疑自己是不是终于疯了。"
 
 #. Open Season (desc)
 msgid "I walked for a day before I believed it. I ate a whole loaf of bread standing in a field. Don't tell anyone that."
-msgstr ""
+msgstr "我走了一天，才敢相信这是真的。我站在一片田野里，吃下了一整条面包。别把这事告诉别人。"
 
 #. Open Season (desc)
 msgid "You did that, by the way. Whatever you did to him, it opened every cage he had. Mine. And a lot of others I'd rather were still shut."
-msgstr ""
+msgstr "顺便说一句，那是你干的。不管你对他做了什么，都打开了他所有的笼子。除了我的，还有很多我宁愿仍然关着的笼子。"
 
 #. Open Season (desc)
 msgid "So here's how this goes. I don't do thank-yous. I do business. There's more to hunt out there than there's been in years, and I'm short on help I can trust."
-msgstr ""
+msgstr "所以事情是这样的。我不说谢谢，我只谈生意。外面可狩猎的东西比这些年来都多，而我缺信得过的帮手。"
 
 #. Open Season (desc)
 msgid "Want a contract?"
-msgstr ""
+msgstr "想接个契约吗？"
 
 #. Open Season (desc)
 msgid "Your loss. The scorpions will still be here. So will I. I'm not going anywhere I don't choose to, anymore."
-msgstr ""
+msgstr "那是你的损失。蝎子还会在这儿，我也会。从现在起，我不会再去任何我不愿意去的地方。"
 
 #. Open Season (desc)
 msgid "I heard what you almost became. I don't care. The contract pays the same."
-msgstr ""
+msgstr "我听说你差点变成什么了。我不在乎，契约的报酬照付不误。"
 
 #. Open Season (intro)
 msgid "First contract. Scorpions, out in the sand. Easy work. Consider it an interview."
-msgstr ""
+msgstr "第一份契约。沙地里的蝎子。轻松的活儿，就当是面试吧。"
 
 #. Open Season (desc)
 msgid "Stinger's on the tail. Don't let it get personal."
-msgstr ""
+msgstr "毒刺在尾巴上，别让它近身。"
 
 #. Open Season (finish)
 msgid "Ten. Clean work. You pass the interview."
-msgstr ""
+msgstr "十只。干得干净利落。你通过面试了。"
 
 #. Open Season (label)
 msgid "Tell Teresa you have slain the Scorpions."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些蝎子。"
 
 #. Deeper Stings (title)
 msgid "Deeper Stings"
-msgstr ""
+msgstr "更深的毒刺"
 
 #. Deeper Stings (desc)
 msgid "Ten Scorpions, ten clean kills. You didn't waste a single swing. I watched."
-msgstr ""
+msgstr "十只蝎子，十次干净利落的击杀。你一次挥砍都没浪费。我都看着呢。"
 
 #. Deeper Stings (desc)
 msgid "Yes, I followed you. You'd do the same, hiring a stranger off the road."
-msgstr ""
+msgstr "是的，我跟着你了。换作是你，在路边雇了个陌生人，你也会这么做的。"
 
 #. Deeper Stings (desc)
 msgid "You fight like someone who's done this a lot and doesn't enjoy it much. Good. The ones who enjoy it get careless, and the careless ones don't come back to collect."
-msgstr ""
+msgstr "你打起架来，像个干过很多次、但并不怎么享受的人。很好。喜欢这行的人会变得粗心，而粗心的人不会活着回来领报酬。"
 
 #. Deeper Stings (desc)
 msgid "You've been paid. Don't spend it all on bread."
-msgstr ""
+msgstr "你已经拿到报酬了。别全花在面包上。"
 
 #. Deeper Stings (desc)
 msgid "The ones in the sand were the babies. Their bigger cousins live in caves, and they don't just sting. They spit.\n\nCave Scorpions fire venom at you from across the cave. Keep moving, and use the rocks for cover."
-msgstr ""
+msgstr "沙地里的那些只是幼崽。它们更大的表亲住在洞穴里，而且它们不只是蜇人，还会喷毒。\n\n洞穴蝎子会隔着洞穴向你喷射毒液。保持移动，并利用岩石作掩体。"
 
 #. Deeper Stings (desc)
 msgid "I'd go myself, but I've had enough of small, dark places for one lifetime."
-msgstr ""
+msgstr "我本来会亲自去的，但那种又小又黑的地方，我这辈子已经受够了。"
 
 #. Deeper Stings (desc)
 msgid "So you go in. I'll be out here, in the open. Come back with eight."
-msgstr ""
+msgstr "那就你进去。我待在外面，开阔的地方。带八只回来。"
 
 #. Deeper Stings (intro)
 msgid "Eight Cave Scorpions. Bring a torch. And a healing potion. And maybe a second healing potion."
-msgstr ""
+msgstr "八只洞穴蝎子。带上一支火把。再带一瓶治疗药水。也许还要再带一瓶治疗药水。"
 
 #. Deeper Stings (desc)
 msgid "Still breathing? Good. That's the only progress report I need."
-msgstr ""
+msgstr "还喘着气？很好。这就是我唯一需要的进度报告。"
 
 #. Deeper Stings (finish)
 msgid "You came back. Most of my old partners didn't, from that sort of cave."
-msgstr ""
+msgstr "你回来了。我以前的大多数老搭档都没能从那种洞穴里回来。"
 
 #. Deeper Stings (label)
 msgid "Tell Teresa you have slain the Cave Scorpions."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了洞穴蝎子。"
 
 #. Deeper Stings (desc)
 msgid "Don't ask about the old partners."
-msgstr ""
+msgstr "别问那些老搭档的事。"
 
 #. Thick Skin (title)
 msgid "Thick Skin"
-msgstr ""
+msgstr "厚皮"
 
 #. Thick Skin (desc)
 msgid "Eight Cave Scorpions, and you walked out in one piece. A few new holes in your armour, though. They spit straight, don't they?"
-msgstr ""
+msgstr "八只洞穴蝎子，你居然还能完整地走出来。不过盔甲上多了几个新洞。它们喷得可真准，对吧？"
 
 #. Thick Skin (desc)
 msgid "I waited by the entrance the whole time. Not because I was worried. Someone had to count."
-msgstr ""
+msgstr "我一直在入口等着。不是因为我担心。总得有人数数。"
 
 #. Thick Skin (desc)
 msgid "You're starting to look like a partner instead of a hire. Don't let it go to your head. I've had partners before."
-msgstr ""
+msgstr "你开始看起来像个搭档，而不是个雇来的人了。别得意忘形。我以前也有过搭档。"
 
 #. Thick Skin (desc)
 msgid "Next contract's a Triceratops herd. Three horns, one temper. A Viking called Ted posted the bounty. Loudly. Go and talk to him before you start. He'll want to tell you about it himself."
-msgstr ""
+msgstr "下一份契约是一群三角龙。三只角，一个暴脾气。一个叫泰德的维京人发布了悬赏，嗓门还挺大。动手前先去跟他谈谈。他会想亲自跟你讲这件事。"
 
 #. Thick Skin (desc)
 msgid "This one pays better than coin. Bring down the herd and I'll give you a way into the dream realm."
-msgstr ""
+msgstr "这一份的报酬比金币更好。放倒那群三角龙，我就给你进入梦境领域的方法。"
 
 #. Thick Skin (desc)
 msgid "It's a world that sits just beside this one. Quiet. Safe. Nothing in there wants to eat you. Mostly."
-msgstr ""
+msgstr "那是一个紧挨着这个世界的世界。安静。安全。那里没什么东西想吃你。大部分情况下。"
 
 #. Thick Skin (desc)
 msgid "There's a little glowing whisp in there who's been having trouble with a couple of nightmares. Help it if you like. Not my contract."
-msgstr ""
+msgstr "里面有个发光的小精灵，最近被几个噩梦缠上了。你想帮就帮吧。反正不在我的契约范围内。"
 
 #. Thick Skin (desc)
 msgid "You can keep your things there, too. Somewhere no thief, no monster and no old Wizard can get at them."
-msgstr ""
+msgstr "你也可以把你的东西存放在那里。一个没有小偷、没有怪物、也没有老巫师能碰到它们的地方。"
 
 #. Thick Skin (desc)
 msgid "Ted's the loud one. You'll hear him before you see him."
-msgstr ""
+msgstr "泰德就是那个大嗓门。你会先听到他，再看到他。"
 
 #. Thick Skin (label)
 msgid "Talk to Ted about the Triceratops bounty."
-msgstr ""
+msgstr "与泰德谈谈三角龙悬赏的事。"
 
 #. Thick Skin (desc)
 msgid "Go on. Ted first. He'll sulk if you skip him."
-msgstr ""
+msgstr "去吧。先去找泰德。你要是跳过他不先找他，他会闹别扭的。"
 
 #. Thick Skin (intro)
 msgid "Three Triceratops, up in the rocky peaks. Go for the side. Nobody survives going at the front."
-msgstr ""
+msgstr "三只三角龙，在山地上。从侧面下手。从正面硬上的人没一个能活下来。"
 
 #. Thick Skin (desc)
 msgid "The horns are decorative until they aren't."
-msgstr ""
+msgstr "那些角看着像装饰——直到它们不再只是装饰。"
 
 #. Thick Skin (finish)
 msgid "Three. You're officially worth paying."
-msgstr ""
+msgstr "三只。你现在正式值得拿报酬了。"
 
 #. Thick Skin (label)
 msgid "Tell Teresa you have slain the Triceratops."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了三角龙。"
 
 #. Thick Skin (desc)
 msgid "As promised. Realm Crystals. Hold one up and the door to the dream realm opens."
-msgstr ""
+msgstr "如约。领域水晶。举起一块，通往梦境领域的门就会打开。"
 
 #. Thick Skin (desc)
 msgid "Three should get you started. And here's how they're made, for when you run out. You'll need a few things from up among the stars."
-msgstr ""
+msgstr "这些应该够你起步了。还有它们的制作方法，用完了可以自己做。你需要从群星之间弄到一些东西。"
 
 #. Thick Skin (desc)
 msgid "How do I have them? They were the locks on my cage. The vault sat right on the edge of the dream realm. Ten years locked next door to the safest place in the world, and I never once saw it."
-msgstr ""
+msgstr "我怎么会有它们？它们原本是我牢笼上的锁。那座城堡就坐落在梦境领域的边缘。我被锁在世界上最安全的地方隔壁整整十年，却一次都没见过它。"
 
 #. Thick Skin (desc)
 msgid "All the locks broke when he lost his power. ...All but one, maybe. I never saw the bottom cage open."
-msgstr ""
+msgstr "所有锁都在他失去力量时坏掉了。……也许只剩一把。我从没见过最底层的笼子打开过。"
 
 #. Hard to Catch (title)
 msgid "Hard to Catch"
-msgstr ""
+msgstr "难以捕捉"
 
 #. Hard to Catch (desc)
 msgid "Next contract takes you into the jungle. Bring a blade you trust, and don't wander off the path."
-msgstr ""
+msgstr "下一份契约会带你进入丛林。带上一把你信得过的剑，别偏离小路。"
 
 #. Hard to Catch (desc)
 msgid "Raptors. They hunt alone, and they're faster than anything else out there. By the time you've seen one, it's already decided what you taste like."
-msgstr ""
+msgstr "迅猛龙。它们独自狩猎，而且比野外任何东西都快。等你看见一只的时候，它已经决定好你尝起来是什么味道了。"
 
 #. Hard to Catch (desc)
 msgid "I spent two days chasing my first one through that jungle. Never caught up. In the end I sat down, and it came to me."
-msgstr ""
+msgstr "我在那片丛林里追我狩猎的第一只，追了整整两天。始终没追上。最后我坐下来，它反倒自己找上我了。"
 
 #. Hard to Catch (desc)
 msgid "That's the trick. You can't outrun them, so don't try. Plant your feet, let it come, and hit it when it does."
-msgstr ""
+msgstr "这就是诀窍。你跑不过它们，所以别试着跑。站稳脚跟，让它冲过来，等它到了再狠狠打。"
 
 #. Hard to Catch (intro)
 msgid "Three of them, one at a time. Keep your back to a tree, so it can only come at you from the front."
-msgstr ""
+msgstr "三只，一次对付一只。背靠一棵树，这样它就只能从正面扑过来。"
 
 #. Hard to Catch (desc)
 msgid "If you hear something rushing through the leaves, it's already too late to run. So don't."
-msgstr ""
+msgstr "如果你听见有什么东西在树叶间疾冲而来，那就已经来不及逃了。所以别逃。"
 
 #. Hard to Catch (finish)
 msgid "Three Raptors. Contract says three. I counted two heads. ...Fine. That one was very fast."
-msgstr ""
+msgstr "三只迅猛龙。契约上写的是三只。我却只数到两个脑袋。……好吧。那只确实快得离谱。"
 
 #. Hard to Catch (label)
 msgid "Tell Teresa you have slain the Raptors."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些迅猛龙。"
 
 #. Something in the Sky (title)
 msgid "Something in the Sky"
-msgstr ""
+msgstr "天空中的东西"
 
 #. Something in the Sky (desc)
 msgid "Ever been swallowed by the sky, Rider? You will be, if you're careless on this one. Head out to the volcanoes. Wyverns nest up on the slopes, where the rock stays warm and nothing else wants to live."
-msgstr ""
+msgstr "你被天空吞没过吗，龙骑士？要是这次粗心大意，你就会被吞掉。去火山那边吧。双足飞龙在斜坡上筑巢，那里的岩石一直温热，也没别的生物愿意住在那种地方。"
 
 #. Something in the Sky (desc)
 msgid "Wyverns are dragon cousins. Not as smart, not as big, and they've got a trick real dragons don't."
-msgstr ""
+msgstr "双足飞龙是龙的远亲。不如龙聪明，也不如龙大，而且它们还有一招真正的龙不会的。"
 
 #. Something in the Sky (desc)
 msgid "They can tear open a small hole into the void. It grabs you, pulls you in, and squeezes. It hurts more than anything else they do."
-msgstr ""
+msgstr "它们能撕开一个小洞，通向虚空。那东西会抓住你，把你往里拽，然后狠狠挤压。那比它们其他任何攻击都更疼。"
 
 #. Something in the Sky (desc)
 msgid "If the air goes dark and starts to pull, get clear. Don't be brave about it."
-msgstr ""
+msgstr "如果空气变暗并开始拉扯你，就赶紧躲开。别逞强。"
 
 #. Something in the Sky (desc)
 msgid "Odd thing, too. I've been watching them at night. They all fly the same direction. Wyverns don't flock. Two in one sky usually means a fight."
-msgstr ""
+msgstr "还有件怪事。我一直在夜里观察它们。它们全都朝同一个方向飞。双足飞龙不会成群。同一片天空里有两只，通常就意味着要打起来。"
 
 #. Something in the Sky (desc)
 msgid "I don't like it when things change their nature. It usually means someone changed it for them."
-msgstr ""
+msgstr "我不喜欢事物改变自己的天性。这通常意味着有人替它们改了。"
 
 #. Something in the Sky (intro)
 msgid "Eight of them. Bring them down, and watch for that portal."
-msgstr ""
+msgstr "八只。把它们打下来，留意那个传送门。"
 
 #. Something in the Sky (desc)
 msgid "Look up. That's where the problem is. Sometimes it's also behind you."
-msgstr ""
+msgstr "抬头看。问题就在上面。有时候它也会出现在你身后。"
 
 #. Something in the Sky (finish)
 msgid "Eight. You fight well with something over your head."
-msgstr ""
+msgstr "八只。头顶上有东西的时候，你也能打得很好。"
 
 #. Something in the Sky (label)
 msgid "Tell Teresa you have slain the Wyverns."
-msgstr ""
+msgstr "告诉特蕾莎你已经杀死了那些双足飞龙。"
 
 #. Something in the Sky (desc)
 msgid "Here. The Gale Sword. I took the design off a smith who owed me. It wants Nebula Cloud and Electrite. Don't ask me where you find either. I've been in a cage."
-msgstr ""
+msgstr "给你。疾风之剑。我从一个欠我人情的铁匠那儿弄来了图纸。它需要星云和雷晶。别问我这两样东西去哪儿找。我一直在笼子里待着。"
 
 #. Two Heads, Twice the Pay (title)
 msgid "Two Heads, Twice the Pay"
