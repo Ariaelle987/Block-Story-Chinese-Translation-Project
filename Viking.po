@@ -1474,217 +1474,217 @@ msgid "Store"
 msgstr "商店"
 
 msgid "Scary Giant"
-msgstr ""
+msgstr "恐怖巨人"
 
 msgid "Tell Ted that you caught the Rainbow Basilisk."
-msgstr ""
+msgstr "告訴泰德你抓住了彩虹蛇怪。"
 
 msgid "Clean the Water"
-msgstr ""
+msgstr "淨化水源"
 
 msgid "Down there"
-msgstr ""
+msgstr "在下面"
 
 msgid "Lost underwater world"
-msgstr ""
+msgstr "失落的水下世界"
 
 msgid "Myth of the Megalodon"
-msgstr ""
+msgstr "巨齒鯊的傳說"
 
 msgid "Sharks"
-msgstr ""
+msgstr "鯊魚"
 
 msgid "Strange Tooth"
-msgstr ""
+msgstr "奇怪的牙齒"
 
 msgid "Supplies for the Trip"
-msgstr ""
+msgstr "旅途補給"
 
 msgid "Ted is Hurt"
-msgstr ""
+msgstr "泰德受傷了"
 
 msgid "Ted the Viking"
-msgstr ""
+msgstr "維京人泰德"
 
 msgid "Wimpy Kid"
-msgstr ""
+msgstr "膽小鬼"
 
 msgid "All right, then. Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you."
-msgstr ""
+msgstr "好吧，那就讓它值得我花時間。給我帶[FF0000]10塊金礦石[-]和[FF0000]20塊煤礦石[-]，我就幫你。"
 
 msgid "Please, get me [FF0000]10 coconut tree leaves[-] to stop the bleeding. Once I'm patched up, I'll go see a doctor."
-msgstr ""
+msgstr "請給我弄[FF0000]10片椰子樹葉[-]來止血。等我包紮好，我就去看醫生。"
 
 msgid "Hello! I'm Ted the Viking.\nMy ship sank, so now I'm stranded on this forsaken beach.\nSay... can you help me build a new boat so I can get back home?"
-msgstr ""
+msgstr "你好！我是維京人泰德。\n我的船沉了，所以現在被困在這片荒涼的海灘上。\n我說... 你能幫我造一艘新船，好讓我回家嗎？"
 
 msgid "Great!\nTo build a new boat, I'm going to need lots of wood.\nPlease bring me [FF0000]30 blocks of wood[-].\n\nTo collect wood:\n* Find the nearest tree\n* Tap and hold on the trunk until it breaks\n* Walk over the block that was dropped\n\nIn the future, you can dig faster if you use a [FF0000]Pickaxe[-]. Talk to Shadow Hunter, he might be able to sell you one."
-msgstr ""
+msgstr "太好了！\n想要造一艘新船的話，我需要大量木頭。\n請給我帶[FF0000]30塊木頭[-]。\n\n收集木頭的方法：\n* 找到最近的樹\n* 按住樹幹直到它被破壞\n* 走過去撿起掉落的方塊\n\n以後如果你使用[FF0000]斧頭[-]，挖掘會更快。去和鍊金術士談談，他也許能賣你一把。"
 
 msgid "Bring Ted the wood."
-msgstr ""
+msgstr "把木頭帶給泰德。"
 
 msgid "Thank you!\nI'll start working on my new boat right away.\nCome back when you get a little stronger, since I might need more help."
-msgstr ""
+msgstr "謝謝你！\n我馬上就開始造我的新船。\n等你變得更強一點再回來吧，因為我可能還需要更多幫助。"
 
 msgid "Hey kid, you sure do look wimpy. You'll never make it here without some weapons! You probably can't even kill a fly.\nI can give you something to defend yourself with, but it's gonna cost you.\nWhat do you say? Do you want to stop being such a weakling?"
-msgstr ""
+msgstr "嘿，小子，你看起來真是弱不禁風。沒有武器，你在這裡絕對混不下去！你大概連只蒼蠅都殺不死。\n我可以給你點東西防身，但你得付錢。\n怎麼樣？想不想不再當這麼個軟蛋？"
 
 msgid "All right, then. Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you.\n\nYou can find Gold Ore underground. So either search around cliffs and inside caves, or dig down until you find some."
-msgstr ""
+msgstr "好吧，那就讓它值得我花時間。給我帶[FF0000]10塊金礦石[-]和[FF0000]20塊煤礦石[-]，我就幫你。\n\n你可以在地下找到金礦石。所以要麼去懸崖附近和洞穴裡找找，要麼一直往下挖，直到挖到為止。"
 
 msgid "Make it worth my time. Bring me [FF0000]10 gold ore[-] and [FF0000]20 coal ore[-] and I'll help you."
-msgstr ""
+msgstr "讓它值得我花時間。給我帶[FF0000]10塊金礦石[-]和[FF0000]20塊煤礦石[-]，我就幫你。"
 
 msgid "Bring Ted the ores."
-msgstr ""
+msgstr "把礦石帶給泰德。"
 
 msgid "You brought the loot?!?!\nMaybe you're not as soft as I thought! Here, you've earned this.\n\nTo use the Sword:\n* Go to the inventory\n* Select the Sword\n* Tap and hold on a monster to attack it.\n\nKeep the Soul Catchers safe, you'll need them soon!"
-msgstr ""
+msgstr "你把東西帶來了？！？！\n也許你沒我想的那麼軟！給，這是你應得的。\n\n使用劍的方法：\n* 打開物品欄\n* 選擇劍\n* 按住怪物即可攻擊它。\n\n把噬魂法杖保管好，你很快會用到它們！"
 
 msgid "Ouch! I hurt my hand!\nOh... You see it? Can you help me?"
-msgstr ""
+msgstr "哎喲！我傷到手了！\n哦...你看到了嗎？你能幫幫我嗎？"
 
 msgid "To build a new boat, I'm going to need lots of wood. Please bring me [FF0000]30 blocks of wood[-]."
-msgstr ""
+msgstr "要造一艘新船，我需要大量木頭。請給我帶[FF0000]30塊木頭[-]來。"
 
 msgid "Please, get me [FF0000]10 coconut tree leaves[-] to stop the bleeding."
-msgstr ""
+msgstr "請給我弄[FF0000]10片椰子樹葉[-]來止血。"
 
 msgid "Thanks! I'll live! Here, take some arrows to defend yourself with.\nWhat? You actually want to shoot them? Well, talk to Paula, she is really good with a bow."
-msgstr ""
+msgstr "謝謝！我死不了！給，拿些箭防身。\n什麼？你還真想射箭？那去和寶拉談談吧，她可是個使弓的好手。"
 
 msgid "When my boat sank, I had to swim to shore.\nBut I almost became shark bait!\nSee this scar over here? One of the monsters bit me.\nIt's alright, though. You should see the scar my bite left in the shark!\nIf you get rid of some sharks, I will tell you another story."
-msgstr ""
+msgstr "我的船沉了的時候，我只好游到岸邊。\n但我差點成了鯊魚的餌料！\n看到這道疤了嗎？有隻怪物咬了我。\n不過沒關係。你該看看我咬那鯊魚留下的疤！\n如果你能除掉一些鯊魚，我就再給你講個故事。"
 
 msgid "Ok, go ahead and kill [FF0000]20 sharks[-] for me will ya?\n(The idiot is actually going to try to do it?! Just when I was starting to like him, too...)"
-msgstr ""
+msgstr "好，那就去幫我殺掉[FF0000]20條鯊魚[-]吧，行嗎？\n（這笨蛋居然真打算去幹？！偏偏就在我開始有點喜歡他的時候……）"
 
 msgid "Tell Ted you have killed the sharks."
-msgstr ""
+msgstr "告訴泰德你已經殺死了那些鯊魚。"
 
 msgid "What the....? How did you...?\n(clear throat)\nI mean... not bad. But I bet you are too scared to capture them alive."
-msgstr ""
+msgstr "搞什麼....？你怎麼...？\n（清了清嗓子）\n我是說...還不錯。但我打賭你太害怕，不敢活捉它們。"
 
 msgid "Take this Soul Catcher. Use it to capture [FF0000]5 sharks[-] and bring them to me, if you dare."
-msgstr ""
+msgstr "拿著這個噬魂法杖。用它捕捉[FF0000]5條鯊魚[-]並帶給我，如果你敢的話。"
 
 msgid "Bring Ted the captured sharks."
-msgstr ""
+msgstr "把捕獲的鯊魚帶給泰德。"
 
 msgid "(Do my eyes deceive me? Are these actual live sharks?)\nI suppose you think you're tough now, huh? YAWN.\nWell, I have nothing better to do, so I'll tell you a story.\nThere is a legend that deep inside the forest lives a creature that is connected to all other living things.\nIt's rumored to have incredible powers.\nWhat? You didn't like that story? Well, scram then!\n\nHey, wait! When you have a chance, you should visit my old friend Hugo.\nHe is hard to find, look for big floating islands in the sky and dig down. He lives in huge underground caves below the floating islands.\nWhen you find him, give him this letter. Once he sees it, he'll know you're a friend."
-msgstr ""
+msgstr "（我的眼睛騙我了嗎？這些是活鯊魚？）\n我猜你現在覺得自己很厲害了，是吧？哈欠。\n好吧，我也沒別的事可做，就給你講個故事。\n有個傳說，森林深處住著一種與所有生物相連的生物。\n據說它擁有不可思議的力量。\n什麼？你不喜歡這個故事？那就滾吧！\n\n嘿，等等！有機會的話，你該去看看我的老朋友雨果。\n他很難找，去找天空中那些巨大的浮空島，然後往下挖。他住在浮空島下方巨大的地下洞穴裡。\n找到他後，把這封信給他。他一看到信，就會知道你是朋友。"
 
 msgid "I have sailed the 7 seas, and I look at the blue sea and wonder what is down there.\nI have been thinking about a suit that allows me to breathe underwater.\nHelp me make it or else..."
-msgstr ""
+msgstr "我已航行過七大洋，望著蔚藍的大海，總在想下面到底有什麼。\n我一直在琢磨一套能讓我在水下呼吸的套裝。\n幫我把它做出來，否則……"
 
 msgid "I think I can make it out of iron, and we need an engine to pump air into it.\nBring me [FF0000]4 iron blocks[-], [FF0000]5 glass[-] and [FF0000]1 engine[-].\nTo make an iron block, you need iron ore and fire.\nAnd do me a favor: Hurry up."
-msgstr ""
+msgstr "我想我可以用鐵來做，還需要一臺發動機把空氣泵進去。\n給我帶[FF0000]4塊鐵塊[-]、[FF0000]5塊玻璃[-]和[FF0000]1臺發動機[-]。\n要製作鐵塊，你需要鐵礦石和火。\n幫我個忙：快點。"
 
 msgid "Bring me [FF0000]4 iron blocks[-], [FF0000]5 glass[-] and [FF0000]1 engine[-]. And hurry up."
-msgstr ""
+msgstr "給我帶[FF0000]4塊鐵塊[-]、[FF0000]5塊玻璃[-]和[FF0000]1臺發動機[-]。快點。"
 
 msgid "I think this will do. While I work on my suit, I will show you how to make one.\nLook in your recipe book for a Diver Suit."
-msgstr ""
+msgstr ""這樣應該就夠了。在我做我的套裝時，我會教你怎麼做一套。\n去你的配方書裡找找潛水服。""
 
 msgid "When I was a kid (not as wimpy as you), a very strange animal washed up on the shore. It was green and had fangs.\nIt carried some strange ore that the elders called \"Graviton\".\nI think it came from deep underwater, though I have never been able to dive too far.\nGo deep and see if you can figure out what is down there, will ya?\n(While I stay here safe and comfortable.)"
-msgstr ""
+msgstr "在我小時候（可沒你這麼弱不禁風），有一隻非常奇怪的動物被衝上了岸。它是綠色的，還長著獠牙。\n它帶著一些奇怪的礦石，長輩們管它叫\"引力\"。\n我覺得它是從深海里來的，雖然我從沒能潛得太深。\n潛到深處去看看，搞清楚那下面到底有什麼，行嗎？\n（我就待在這兒，安全又舒服。）"
 
 msgid "I have never been able to dive down more than 180 meters. So whatever is down there must be deeper.\nUse your Diver Suit and find out what is down there.\nBring me [FF0000]5 Graviton[-].\nI would advise you to use either gravity boots or flippers to help you get there."
-msgstr ""
+msgstr "我從來沒能潛到180米以下。所以那下面的東西一定更深。\n穿上你的潛水服，去弄清楚那下面有什麼。\n給我帶[FF0000]5個引力子[-]。\n我建議你穿上重力靴或腳蹼，幫你潛到那裡。"
 
 msgid "Bring Ted the Graviton."
-msgstr ""
+msgstr "把引力帶給泰德。"
 
 msgid "You saw WHAT?!?\nI think you are pulling my leg.\nOk, if you don't want to tell me the truth then don't.\nBut this is indeed what the elders called the Graviton.\nTake some to [FF0000]Mr. Goblin[-]. He is really good with machines and might have an idea for what to do with it.\nHe is hard to find. Pay attention:\nLook for floating islands, big ones. Then dig down, he lives in huge underground caves under the floating islands."
-msgstr ""
+msgstr "你看到了什麼？！？\n我覺得你在耍我。\n好吧，如果你不想說實話，那就算了。\n但這確實就是長輩們所說的引力。\n帶一些去給[FF0000]哥布林先生[-]。他很擅長機械，也許知道該拿它做什麼。\n他很難找。注意聽：\n去找浮空島，大一點的。然後往下挖，他住在浮空島下方巨大的地下洞穴裡。"
 
 msgid "I've heard rumors that deep under the water there's a shark the size of 5 men.\nI've sailed the 7 seas, and have never seen such a creature.\nIf it's real, can you find one for me?"
-msgstr ""
+msgstr "我聽說深水之下有一條有五個人那麼大的鯊魚。\n我航行過七大洋，卻從沒見過這樣的生物。\n如果它是真的，你能幫我找到一條嗎？"
 
 msgid "Ok idio.... ahem.... I mean buddy.\nPut on your Diver Suit, and use it to go deep underwater.\nSee if you can find one of those legendary Megalodons.\nBring me a [FF0000]Megalodon Spawner[-] and a [FF0000]Megalodon Tooth[-].\nWith those I'll be able to prove that the monsters exist!"
-msgstr ""
+msgstr "好吧，白....啊咳....我是說，夥計。\n穿上你的潛水服，用它潛到深水下去。\n看看你能不能找到一條傳說中的巨齒鯊。\n給我帶一個[FF0000]巨齒鯊生怪磚[-]和一顆[FF0000]巨齒鯊牙齒[-]。\n有了這些，我就能證明那些怪物確實存在！"
 
 msgid "Capture a Megalodon with a Soul Catcher, and bring me the [FF0000]Megalodon Spawner[-] and a [FF0000]Megalodon Tooth[-]."
-msgstr ""
+msgstr "用噬魂法杖捕獲一條巨齒鯊，並給我帶來[FF0000]巨齒鯊生怪磚[-]和一顆[FF0000]巨齒鯊牙齒[-]。"
 
 msgid "You expect me to believe this is real?\n(THIS IS REAL!!! GULP...)\nOk, let's say these are real. I don't care who you stole them from, here you go."
-msgstr ""
+msgstr "你指望我相信這是真的？\n（這是真的！！！咕咚……）\n好吧，就算這些是真的。我不管你是從誰那兒偷來的，給你。"
 
 msgid "You know that tooth you stole?\nWell, I have been studying it and it has some quite remarkable properties.\nLook, when I put it in water it seems to build up an electric charge.\nThese sharks are not ordinary animals.\nI think I can make a weapon out of these.\nWhat do you say?"
-msgstr ""
+msgstr "你知道你偷來的那顆牙嗎？\n嗯，我一直在研究它，它有一些相當了不起的特性。\n你看，我把它放進水裡時，它似乎會積聚電荷。\n這些鯊魚可不是普通動物。\n我想我可以用這些東西做一件武器。\n你覺得怎麼樣？"
 
 msgid "Good.\nNow go bring me [FF0000]3 megalodon teeth[-] and [FF0000]2 sticks[-].\n(Either this kid will die and stop bugging me, or he will bring me the stuff. Either way, I win.)"
-msgstr ""
+msgstr "好。\n現在去給我帶[FF0000]3顆巨齒鯊牙齒[-]和[FF0000]2根木棍[-]。\n（要麼這小子會死掉，不再來煩我，要麼他會把東西帶來。不管怎樣，都是我贏。）"
 
 msgid "So you stole some more?\nGive it to me....\n\nI MADE IT: The ultimate weapon.\nThose sharks will learn not to mess with me.\nHeck, forget about the sharks, I shall RULE THE SEA!\n\nWhat? You are still here?\nI suppose you want a reward for your effort?\nWell, I will give you just a couple of tridents. You can go make your own.\nI wrote down how to make them in your recipe book.\nTo use them, equip them and click and hold on a monster.\nAlso, go in the water with them, see what happens.\nNow get lost before I use one on you."
-msgstr ""
+msgstr "所以你又偷來了一些？\n給我……\n\n我做出來了：終極武器。\n那些鯊魚會知道別來惹我。\n見鬼，別管那些鯊魚了，我要統治大海！\n\n什麼？你還在這兒？\n我猜你是想要點辛苦費？\n好吧，我就給你幾支三叉戟。你可以自己去做。\n我已經把製作方法寫進你的配方書裡了。\n使用方法：裝備它們，然後按住怪物。\n另外，帶著它們下水，看看會發生什麼。\n現在滾吧，趁我還沒拿一支用在你身上。"
 
 msgid "I'm going to need some supplies for my trip back home.\nI'll make you a deal, since you've already helped me so much. If you bring me what I need, I'll tell you a story. How's that?"
-msgstr ""
+msgstr "我回家路上需要一些補給。\n既然你已經幫了我這麼多，我就跟你做個交易。如果你把我要的東西帶來給我，我就給你講個故事。怎麼樣？"
 
 msgid "Bring me [FF0000]20 pieces of meat[-].\nTo get meat, just hunt down some animals."
-msgstr ""
+msgstr "給我帶[FF0000]20塊肉[-]。\n要獲得肉，去獵殺一些動物就行。"
 
 msgid "Great, you brought the meat...\nBut you expect me to only eat meat?! That's not a balanced meal! I'm watching my cholesterol, you know."
-msgstr ""
+msgstr "很好，你把肉帶來了……\n但你以為我只吃肉就行？！那可不是均衡飲食！你知道的，我還在注意營養均衡呢。"
 
 msgid "Bring me something else. How about [FF0000]10 apples[-]?"
-msgstr ""
+msgstr "給我帶點別的東西吧。[FF0000]10個蘋果[-]怎麼樣？"
 
 msgid "Bring me [FF0000]10 apples[-] for a balanced meal."
-msgstr ""
+msgstr "給我帶[FF0000]10個蘋果[-]來，湊一頓均衡的飯。"
 
 msgid "What took you so long?\nWell, in return, I'll tell you what happened to me the other day.\nI was exploring the area and got lost. I wandered into a cave and inside there was a creature that offered me shelter for a day. After, the stranger helped me find my way back.\nIf you ever find the cave and see Hugo, tell him that Ted sends his regards."
-msgstr ""
+msgstr "你怎麼去了這麼久？\n好吧，作為回報，我告訴你前幾天我遇到的事。\n我在這一帶探索時迷了路。我晃進了一個洞穴，裡面有隻生物讓我借住了一天。之後，那個陌生人幫我找到了回來的路。\n如果你找到那個洞穴、見到雨果，告訴他泰德向他問好。"
 
 msgid "Horns and Roaring"
-msgstr ""
+msgstr "犄角與咆哮"
 
 msgid "Oi! Dragon Rider! Thank gravy ya came. Dinosaurs AGAIN. I thought we'd squashed the lot of 'em!"
-msgstr ""
+msgstr "喂！龍騎士！謝天謝地你可算來了。又是恐龍！我還以為咱們早把它們全踩扁了呢！"
 
 msgid "Go on, sort 'em out. And tell that knight lady her bounty's fair. Mostly. Okay, it's a bit steep."
-msgstr ""
+msgstr "去吧，把它們收拾了。順便告訴那位女騎士，她的賞金還算公道。大體上。好吧，是有點高。"
 
 msgid "These ones got horns. HORNS, Dragon Rider. They're stompin' all over the mountains, knockin' rocks loose on anyone climbin' up there. Head up into the peaks and you'll find 'em. Or they'll find you."
-msgstr ""
+msgstr "這些傢伙長著角。角，龍騎士。它們在山上到處亂踩，把石頭都震鬆了，誰往上爬就砸誰。你往山峰上走就能找到它們。或者它們會先找到你。"
 
 msgid "And somethin' else. At night I hear roarin' out past the city. Big roarin'. Not dinosaur roarin'."
-msgstr ""
+msgstr "還有件事。晚上我聽到城外面傳來吼聲。很大的吼聲。不是恐龍的吼聲。"
 
 msgid "Talk to Ted the Viking."
-msgstr ""
+msgstr "與維京人泰德交談。"
 
 msgid "Go ahead and kill [FF0000]20 sharks[-] for me will ya?"
-msgstr ""
+msgstr "好，那就去幫我殺掉[FF0000]20條鯊魚[-]吧，行嗎？"
 
 msgid "Use the Soul Catcher to capture [FF0000]5 sharks[-] and bring them to me, if you dare."
-msgstr ""
+msgstr "使用噬魂法杖捕捉[FF0000]5條鯊魚[-]並把它們帶給我，如果你敢的話。"
 
 msgid "Bring Ted the diver suit parts."
-msgstr ""
+msgstr "把潛水服的部件帶給泰德。"
 
 msgid "Use your Diver Suit, dive deep and bring me [FF0000]5 Graviton[-]."
-msgstr ""
+msgstr "穿上你的潛水服，潛到深處，給我帶[FF0000]5個引力[-]來。"
 
 msgid "Bring Ted the Megalodon proof."
-msgstr ""
+msgstr "把巨齒鯊的證據帶給泰德。"
 
 msgid "Bring me [FF0000]3 megalodon teeth[-] and [FF0000]2 sticks[-]."
-msgstr ""
+msgstr "給我帶[FF0000]3顆巨齒鯊牙齒[-]和[FF0000]2根木棍[-]。"
 
 msgid "Bring Ted the teeth and sticks."
-msgstr ""
+msgstr "把牙齒和木棍帶給泰德。"
 
 msgid "Bring me [FF0000]20 pieces of meat[-]. To get meat, just hunt down some animals."
-msgstr ""
+msgstr "給我帶[FF0000]20塊肉[-]。要獲得肉，去獵殺一些動物就行。"
 
 msgid "Bring Ted the meat."
-msgstr ""
+msgstr "把肉帶給泰德。"
 
 msgid "Bring Ted the apples."
-msgstr ""
+msgstr "把蘋果帶給泰德。"
 
 msgid "Bring Ted the coconut tree leaves."
-msgstr ""
+msgstr "把椰子樹葉帶給泰德。"
