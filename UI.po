@@ -3420,10 +3420,10 @@ msgid "Original world folder not found."
 msgstr "未找到原始世界文件夹。"
 
 msgid "Lucid Dream: Light"
-msgstr "澄梦：光"
+msgstr "梦境支配者：光"
 
 msgid "Lucid Dream: Dark"
-msgstr "澄梦：暗"
+msgstr "梦境支配者：暗"
 
 msgid "Awarded Respawn"
 msgstr "已获得重生"
