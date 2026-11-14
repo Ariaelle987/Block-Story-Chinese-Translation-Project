@@ -15,7 +15,7 @@ msgstr ""
 
 msgid "Sky Leaves"
 msgstr ""
-"[FF0000]被遗忘的天空[-]里的树叶。如果你看近一点，里面有橡树果。我好奇松鼠会不会来。"
+"[FF0000]被遗忘的天空[-]里的树叶。如果你靠近一点看，里面会有橡果。松鼠会来吗？"
 
 msgid "Axe"
 msgstr ""
@@ -28,7 +28,7 @@ msgstr "生长于[FF0000]泥土[-]或[FF0000]草[-]上。"
 
 msgid "Spider Venom"
 msgstr ""
-"如果你以为被蜘蛛咬一下只是很疼没什么大不了的话，你是完全不了解呢！毒液流经你的血管，烧灼你的血液，融化你的骨头。巴哈哈哈！"
+"如果你以为被蜘蛛咬一下只是很疼没什么大不了的话，你是完全不了解！毒液会流经你的血管，烧灼你的血液，融化你的骨头。巴哈哈哈！"
 
 msgid "Saw Shield"
 msgstr ""
@@ -36,18 +36,18 @@ msgstr ""
 
 msgid "Animal Spawner"
 msgstr ""
-"和平产卵，几乎随处可见。它通常会诞下动物和"友好"的生物。发出一道绿色的光辉。"
+"和平生成器，几乎随处可见。它通常会诞下动物和"友好"的生物。发出一道绿色的光辉。"
 
 msgid "Old Stone Fence"
 msgstr ""
 "华丽的石栏。非常适合诱捕或饲养动物。"
 
 msgid "Palm Bark"
-msgstr "椰子树上的手工艺材料。"
+msgstr "椰子树上的制作材料。"
 
 msgid "TRex"
 msgstr ""
-"一直以来，这些天生的杀手被认为已经灭绝。"
+"一直以来，这些天生的杀手被认为已经灭绝了。"
 
 msgid "Bricks"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr "[00FF00]从背包中移除了 {0} x {1}。[-]"
 
 msgid "Warrior Boots"
 msgstr ""
-"用[FF0000]鹿皮[-]和[FF0000]铁锭[-]制成的靴子。设计用来更快速地移动。"
+"用[FF0000]鹿皮[-]和[FF0000]铁锭[-]制成的靴子。被设计用来更快速地移动。"
 
 msgid "Arrow"
 msgstr ""
@@ -105,7 +105,7 @@ msgstr ""
 
 msgid "Gravity Boots"
 msgstr ""
-"魔法靴子会人工制造重力。\n"
+"会人工制造重力的魔法靴。\n"
 "可以和[FF0000]潜水服[-]一起使用。"
 
 msgid "Ticket"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgid "Red Leaves"
 msgstr ""
-"噩梦中的树叶将永远燃烧。"
+"将永远燃烧的地狱树叶。"
 
 msgid "Storage Row Player"
 msgstr "在背包中多增添5个槽位。"
@@ -130,11 +130,11 @@ msgid "Wood Window"
 msgstr "美丽的柳条编制成的窗户。与小房子是绝配。"
 
 msgid "Soul Catcher"
-msgstr "这种魔力能够将生物变成刷怪箱。"
+msgstr "这种魔杖能够将生物变成刷怪箱。"
 
 msgid "Miner Helmet"
 msgstr ""
-"如果你想成为一位真正的矿工你显然需要它。\n"
+"如果你想成为一位真正的矿工，你显然需要它。\n"
 "\n"
 "装备它来照明洞穴或在漆黑的夜晚中看见东西。"
 
@@ -155,7 +155,7 @@ msgstr ""
 
 msgid "Cryptonite"
 msgstr ""
-"氪石是自然疗愈力量的化身。这种珍贵的物质主要用于制作能够治疗佩戴者的首饰。"
+"自然疗愈力量的化身。这种珍贵的物质主要用于制作能够治疗佩戴者的首饰。"
 
 msgid "Life Magic"
 msgstr ""
@@ -185,7 +185,7 @@ msgid "Skull"
 msgstr ""
 "一个你变得自大时会发生什么事的证据。\n"
 "\n"
-"去到[FF0000]地狱[-]中的废墟里来得到它。"
+"去[FF0000]地狱[-]中的废墟里来得到它。"
 
 msgid "Pan Tool"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Apple Tree Plant"
 msgstr ""
 "生长在[FF0000]泥土[-]或[FF0000]草[-]上。\n"
-"结苹果。"
+"会结苹果。"
 
 msgid "Gun"
 msgstr ""
@@ -265,7 +265,7 @@ msgstr ""
 
 msgid "Goblin Pants"
 msgstr ""
-"把你变成地精的样子。哥布林很在行做他们自己的衣服。\n"
+"把你变成地精的样子。哥布林对做他们自己的衣服很在行。\n"
 "\n"
 "唯一的问题是这些裤子让你看起来很肥胖。"
 
@@ -279,7 +279,7 @@ msgid "Glass"
 msgstr ""
 "很好的透明方块，让你能看到它对面某个地方。\n"
 "\n"
-"制作玻璃前先染沙以获得不同的色调。"
+"制作玻璃前先给沙子染色以获得不同的色调。"
 
 msgid "Diver Suit"
 msgstr ""
@@ -354,7 +354,7 @@ msgstr ""
 
 msgid "Spider Web"
 msgstr ""
-"有黏性的白色方块会生成害虫(蜘蛛)。大部分的洞穴里都能找到。"
+"会生成害虫(蜘蛛)的有黏性的白色方块。大部分的洞穴里都能找到。"
 
 msgid "Iron Hammer"
 msgstr ""
@@ -373,7 +373,7 @@ msgstr ""
 
 msgid "Aragog Eye"
 msgstr ""
-"巨大蜘蛛[FF0000]阿拉戈克[-]的眼睛。是恶心还是好吃，取决于你问的谁。"
+"巨大蜘蛛[FF0000]阿拉戈克[-]的眼睛。是恶心还是好吃，取决于你的用途。"
 
 msgid "Spider Fang"
 msgstr ""
@@ -396,17 +396,17 @@ msgid "Stick"
 msgstr "确保你不会把木棒丢到垃圾桶。"
 
 msgid "Green Coral"
-msgstr "绿色荧光珊瑚养育众多的海洋生命。"
+msgstr "绿色荧光珊瑚，养育了众多的海洋生命。"
 
 msgid "Cauldron"
 msgstr "用来制作各种药水。"
 
 msgid "Wood Door"
-msgstr "一扇木门，相当于两个木块的长度。"
+msgstr "一扇木门，相当于两个木块的高度。"
 
 msgid "Antique Spawner"
 msgstr ""
-"所有哥布林家族都有一个东西让他们尽全力守护。\n"
+"所有哥布林家族都有一个让他们尽全力守护的东西。\n"
 "\n"
 "用[FF0000]灵魂的守望者[-]来抓一些生物以制成刷怪箱。"
 
@@ -419,7 +419,7 @@ msgstr "希瓦,一只大青蛙！！！超大！！！还会舔你"
 
 msgid "Megalodon Tooth"
 msgstr ""
-"巨齿鲨的牙齿。可以作为武器使用。"
+"巨齿鲨的牙齿。尖锐得作为武器（并不）使用。"
 
 msgid "Hunting Knife"
 msgstr ""
@@ -430,7 +430,7 @@ msgstr "古老的柱子和城堡的就是用这种经久不衰的材料制成的
 
 msgid "Dig"
 msgstr ""
-"冒险家的面包与黄油。没有镐子你不能快速挖掘石头。"
+"冒险家的面包与黄油。没有镐子你就不能快速挖掘石头。"
 
 msgid "Pumpkin Head"
 msgstr ""
@@ -438,7 +438,7 @@ msgstr ""
 
 msgid "Unobtainium"
 msgstr ""
-"在[FF0000]地狱[-]里的非常石头被注满[FF0000]巴洛克[-]讨厌的贪欲。他的黑暗满溢进难得素。只有真正强大的冒险家才能得到它的黑暗秘密。……但是，真的难得吗？\n"
+"在[FF0000]地狱[-]里的被注满[FF0000]巴洛克[-]讨厌的贪欲的特殊石头。他的黑暗倾注进难得素。只有真正强大的冒险家才能得到它的黑暗秘密。……但是，真的难得吗？\n"
 "\n"
 "要取得它，你得进入[FF0000]地狱[-]，到了之后，再更下去。或者就在那里寻找。"
 
@@ -459,7 +459,7 @@ msgid "Iron Axe"
 msgstr ""
 "挖木头的好工具。比用一般的斧头都挖得要快。\n"
 "\n"
-"要使用时，打开目录，选择[FF0000]铁斧[-]，然后长按你想打碎的方块。"
+"要使用时，打开背包，选择[FF0000]铁斧[-]，然后长按你想打碎的方块。"
 
 msgid "Dragon Pants"
 msgstr "由[FF0000]龙鳞[-]制成。"
@@ -473,7 +473,7 @@ msgstr "连接网络以扩容背包。"
 
 msgid "Cactus"
 msgstr ""
-"多刺的沙漠植物。我不管你看到什么。除非头脑发热，不要抱它！"
+"多刺的沙漠植物。我不管你看到什么。除非头脑发热，否则不要抱它！"
 
 msgid "Graviton"
 msgstr ""
@@ -492,7 +492,7 @@ msgstr "鹿皮。能制作战士盔甲以及其他有用的东西。"
 
 msgid "Elevator"
 msgstr ""
-"放置于[FF0000]发电机[-]附近的管道，然后你就能随管道移动。当你准备好时，点击[FF0000]发电机[-]。"
+"放置于[FF0000]发电机[-]附近的管道，然后你就能用[FF0000]电梯[-]随管道移动。当你准备好时，点击[FF0000]发电机[-]。"
 
 msgid "Blue Crystals"
 msgstr ""
@@ -506,7 +506,7 @@ msgid "Snow"
 msgstr ""
 "一种奇怪冰冷的物质组成冰元素所在的山区领域。致死的冷，但出奇的软和漂亮。\n"
 "能被染成很多颜色。\n"
-"不要吃黄色的雪。"
+"但不要吃黄色的雪。"
 
 msgid "TNT"
 msgstr ""
@@ -516,14 +516,14 @@ msgstr ""
 
 msgid "Great Sword"
 msgstr ""
-"看起来很滑稽，但是一种有力的武器。杀死在它面前的所有东西。近距离攻击很适合。"
+"看起来很滑稽，但是一种有力的武器。杀死在它面前的所有东西。很适合近距离攻击。"
 
 msgid "Jungle Tree Plant"
 msgstr "生长在[FF0000]泥土[-]或[FF0000]草[-]上。"
 
 msgid "Epic Sword"
 msgstr ""
-"一把单手剑名为史诗。拥有强大的破坏力。"
+"一把名为史诗的单手剑。拥有强大的破坏力。"
 
 msgid "Bullet"
 msgstr ""
@@ -533,7 +533,7 @@ msgstr ""
 
 msgid "Torch"
 msgstr ""
-"一个燃烧者的方块，由[FF0000]木材[-]、[FF0000]玻璃[-]及被法力限制住的火制成。\n"
+"一个燃烧着的方块，由[FF0000]木材[-]、[FF0000]玻璃[-]及被法力限制住的火制成。\n"
 "\n"
 "要照亮你的营地时很好用，也可以拿在手上。"
 
@@ -596,7 +596,7 @@ msgid "Dragon Boots"
 msgstr "由[FF0000]龙鳞[-]制成。"
 
 msgid "Iron Block"
-msgstr "有价值的的全金属方块。"
+msgstr "有价值的的金属方块。"
 
 msgid "Electric Pipe"
 msgstr "与[FF0000]管道[-]和[FF0000]发电机[-]相连接。"
@@ -645,7 +645,7 @@ msgstr ""
 "一个给你理由可以不用木板做天花板的方块。也是很好的阶梯替代品。"
 
 msgid "Springs"
-msgstr "将这些垫在长靴底可以跳得更高。"
+msgstr "将这些垫在脚底可以跳得更高。"
 
 msgid "Dragon Heart"
 msgstr ""
@@ -686,7 +686,7 @@ msgstr "一般家居装饰物品。"
 
 msgid "Fire"
 msgstr ""
-"你妈妈告訴你不要玩火。\n"
+"你妈妈告诉你不要玩火。\n"
 "\n"
 "如果你够小心，你可以用它烹调食物、点燃弓箭、制作火把、蜡烛、一些魔法物品，熔金属及制作玻璃。"
 
@@ -730,7 +730,7 @@ msgstr ""
 
 msgid "Swamp Stone"
 msgstr ""
-"风化石。结合[FF0000]纯石[-]与[FF0000]泥土[-]制作。\n"
+"苔石。结合[FF0000]纯石[-]与[FF0000]泥土[-]制作。\n"
 "\n"
 "盛产于[FF0000]亚特兰蒂斯[-]。"
 
@@ -785,7 +785,7 @@ msgstr "连接网络以扩容宠物背包。"
 
 msgid "Crystal Block Green"
 msgstr ""
-"发光的丛林绿方块，由美丽的[FF0000]翡翠[-]制成。"
+"发光的草绿色方块，由美丽的[FF0000]翡翠[-]制成。"
 
 msgid "Acid"
 msgstr ""
@@ -887,7 +887,7 @@ msgstr ""
 
 msgid "Boat"
 msgstr ""
-"一艘木头制成的小船。可以快速在水、沼泽和熔岩上前行。"
+"一艘木头制成的小船。可以快速在水、沼泽和熔岩上前行……自然地……"
 
 msgid "Palm Leaves"
 msgstr ""
@@ -933,7 +933,7 @@ msgstr ""
 
 msgid "Teleport"
 msgstr ""
-"未来性的装置，让你瞬间移动到任何设好的[FF0000]床[-]。\n"
+"未来性的装置，让你瞬间移动到任何设好的[FF0000]传送点[-]。\n"
 "\n"
 "不要没带上一个就出门，如果你在森林里迷路了也不要因为你没有带而哭。"
 
@@ -1064,7 +1064,7 @@ msgstr ""
 
 msgid "Furnace"
 msgstr ""
-"熔炉可以用来熔炼金属，将他们变成有用的材料。\n"
+"可以用来熔炼金属的熔炉，将他们变成有用的材料。\n"
 "\n"
 "加入一些燃料，例如[FF0000]煤[-]、[FF0000]木头[-]、[FF0000]木棒[-]、[FF0000]木板[-]，和一些可熔炼的物品，然后等待一段时间。"
 
@@ -1406,7 +1406,7 @@ msgstr "一把被火焰吞没的神奇战斧。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Ice Axe"
 msgstr ""
-"神奇的战斧可以冻结任何接触到的东西。"
+"可以冻结任何接触到的东西的神奇的战斧。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1494,7 +1494,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Minecart"
 msgstr ""
-"小型的矿车可以在铁路上快速行驶。\n"
+"可以在铁路上快速行驶的小型的矿车。\n"
 "\n"
 "可在[FF0000]着色方块[-]处上色。"
 
@@ -1891,7 +1891,7 @@ msgstr "用于钓强大的外星鱼。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Sunshard"
 msgstr ""
-"可以将陨石带给对手的法杖。"
+"可以用陨石攻击对手的法杖。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1928,7 +1928,7 @@ msgstr "允许你不消耗法力值飞行。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Phoenix Shield"
-msgstr "坚固的防火罩。"
+msgstr "坚固的防火护盾。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2013,7 +2013,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Phoenix Swords"
-msgstr "在不死鸟之火中锻造了不可思议的双剑。"
+msgstr "在不死鸟之火中锻造的不可思议的双剑。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -2049,7 +2049,7 @@ msgstr "射速极快的武器，但准度较差。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Chain"
-msgstr "常见的家居饰品。"
+msgstr "“常见”的家居饰品。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2182,7 +2182,7 @@ msgstr "用金属锭制成的门。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Simple Wood Door"
-msgstr "一扇木门，相当于两个木块的长度。"
+msgstr "一扇木门，相当于两个木块的高度。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2341,9 +2341,6 @@ msgstr "一块橘色的木板，看起来像有人洒了染料。 无论如何�
 msgid "Clear Planks Vertical"
 msgstr "一块橘色的木板，看起来像有人洒了染料。 无论如何，它都非常适合地板或墙壁。"
 
-"存在于世中的最坚硬的方块之一，为良好的防御打下基础。\n"
-"\n"
-"用[FF0000]纯石[-]制成。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2789,7 +2786,7 @@ msgstr "来自太空的小鱼，但别被它可爱的外表给欺骗了。。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fried Purplefish"
-msgstr "烹饪过的紫雷达鱼。"
+msgstr "烹饪过的紫鱼。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3143,7 +3140,7 @@ msgstr "丛林中最常见的草。"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Cheat Diamond"
-msgstr "当你尝试作弊时，你会得到这些假钻石。"
+msgstr "当你尝试作弊时，你会得到这些假钻石。你这个肮脏的黑客！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3351,7 +3348,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dragon Egg"
 msgstr ""
-"这颗难以置信的稀有的龙蛋被用来召唤[FF0000]艾德里亚[-]。 传说这颗蛋被藏在一个没有任何人去过的地方的箱子里。"
+"这颗难以置信的稀有的龙蛋被用来孵化[FF0000]艾德里亚[-]。 传说这颗蛋被藏在一个没有任何人去过的地方的箱子里。"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3628,7 +3625,7 @@ msgstr "电流控制装置。"
 #, fuzzy
 msgid "Heavy Metal Swords"
 msgstr ""
-"用外星顶级工匠秘方打造出的刀剑。你可以称自己为大师！"
+"用外星顶级工匠秘方打造出的刀剑。你可以称自己为大师了！"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -4372,7 +4369,7 @@ msgstr "在[FF0000]被遗忘的天空[-]中发现的翡翠绿色矿石方块。\
 
 msgid "Forgotten Light"
 msgstr "世界上最奇异的存在之一，由凝结成晶体的光子构成的异常方块。\n"
-"或许能在你从[FF0000]被遗忘的天空[-]边缘坠落时救你一命。"
+"或许能在你即将从[FF0000]被遗忘的天空[-]边缘坠落时救你一命。"
 
 msgid "Meteorite Block"
 msgstr "一种极其坚硬的材料……真的不是正朝我们世界飞来吧？"
@@ -4477,319 +4474,333 @@ msgid "Cosmic Pants"
 msgstr "轻便利落的长裤，可显著提升法术能力与移动速度。"
 
 msgid "Mech Leg Right"
-msgstr ""
+msgstr "机械宠物的一部分。"
 
 msgid "Sand Spawner"
-msgstr ""
+msgstr "一个由沙构成的发光的刷怪箱"
 
 msgid "Mud"
-msgstr ""
+msgstr "让你感觉你吐在水里的绿色泥泞方块。它们在丛林群系里最常见"
 
 msgid "Realm Crystal"
-msgstr ""
+msgstr "一个由[FF0000]领域[-]中的能量铸造而成的水晶。用它来从你的世界中进入梦境。"
 
 msgid "Fools Gold"
-msgstr ""
+msgstr "这是黄金，相信我兄弟（它其实是黄铁，从[FF0000]黄铁矿[-]中采集"
 
 msgid "Amethyst Shard"
-msgstr ""
+msgstr "一个发光的紫色晶体。挖掘[FF0000]紫水晶碎片[-]时掉落。"
 
 msgid "Ember Sword"
-msgstr ""
+msgstr "一把由地下深处的余烬和熔岩铸造而成的剑，他的剑刃永不停止阴燃，每次攻击都让敌人燃烧。"
 
 msgid "Elongata Soul"
-msgstr ""
+msgstr "一个由花编织而成的温顺的蛇的灵魂。它在地面上移动并与你并肩作战。用鱼翅汤，面包，肉，烤肉，烤海胆，苹果，椰子和健康药水来满足它的饥饿。"
 
 msgid "Undead Dragon Soul"
-msgstr ""
+msgstr "从死亡中带回第一条龙,奥瑟莫。现在为你而战。用鱼翅汤，面包，肉，烤肉，烤海胆，苹果，椰子和健康药水来满足它的饥饿。"
 
 msgid "Pegasus Soul"
-msgstr ""
+msgstr "给予一只飞马生命。一只可以带你在天空飞翔的翼马,甚至可以进入太空。现在为你而战。用鱼翅汤，面包，肉，烤肉，烤海胆，苹果，椰子和健康药水来满足它的饥饿。"
 
 msgid "Manticore Soul"
-msgstr ""
+msgstr "给予一只蝎狮生命。同时是蝎子，狮子，龙, 它终于站在你这一边了。用鱼翅汤，面包，肉，烤肉，烤海胆，苹果，椰子和健康药水来满足它的饥饿。"
 
 msgid "Frozen Coral"
-msgstr ""
+msgstr "被冻实了的珊瑚"
 
 msgid "Jungle Sod"
-msgstr ""
+msgstr "厚厚的草质表层土，杂草丛生，潮湿。"
 
 msgid "Green Coral Spawner"
-msgstr ""
+msgstr "一个让鱼，鱿鱼，海龟和其他海洋生物孵化的绿色发光珊瑚。"
 
 msgid "Salt"
-msgstr ""
+msgstr "盐的硬质白色结晶。试试去舔它，但大概不会是个好主意……"
 
 msgid "Cobalt Ore"
-msgstr ""
+msgstr "蓝银色的矿石。在挖掘时掉落[FF0000]钴[-]。"
 
 msgid "Cobalt Block"
-msgstr ""
+msgstr "由[FF0000]钴[-]制成的实心方块,在[FF0000]熔炉[-]中铸造而成。再次把它熔化来重新获得钴。"
 
 msgid "Dream Bricks"
-msgstr ""
+msgstr "构成领域中的[FF0000]梦境城堡[-]的苍白方块。"
 
 msgid "Marble Bricks"
-msgstr ""
+msgstr "抛光的大理石砖块。一种用于建筑的明亮洁净方块。"
 
 msgid "Realm Spawner"
-msgstr ""
+msgstr "来自梦境领域的刷怪箱,[FF0000]梦之低语[-]的家。"
 
 msgid "Bronze"
-msgstr ""
+msgstr "由一个[FF0000]金条[-]和一个[FF0000]铁锭[-]制作而成的温暖的金棕色的合金。"
 
 msgid "Steel"
-msgstr ""
+msgstr "在[FF0000]大锅[-]融合[FF0000]铁块[-]和[FF0000]熔岩[-]制成的坚硬金属.比铁更硬,在制作[FF0000]圈地机[-]时会用到。"
 
 msgid "Pyrite"
-msgstr ""
+msgstr "由[FF0000]愚人金[-]制成的闪闪发光的方块。它看起来像个宝藏但一文不值。"
 
 msgid "Pyrite Ore"
-msgstr ""
+msgstr "闪闪发光的矿石。挖掘时掉落[FF0000]愚人金[-]。别高兴的太早。"
 
 msgid "Broken Dreams"
-msgstr ""
+msgstr "它们是谁的? 用[FF0000]铁锤[-]砸碎[FF0000]梦境砖[-]时掉落。"
 
 msgid "Gravel"
-msgstr ""
+msgstr "非常细的岩石。像[FF0000]沙子[-]一样,没东西托着它的时候会掉落。"
 
 msgid "Fall Grass"
-msgstr ""
+msgstr "被金秋染色的草"
 
 msgid "Alien Spawner"
-msgstr ""
+msgstr "一个来自星星之外的奇怪刷怪箱。警告：可能会传送。"
 
 msgid "Dream Pillar Top"
-msgstr ""
+msgstr "[FF0000]梦境柱[-]的顶部。"
 
 msgid "Dream Pillar"
-msgstr ""
+msgstr "由[FF0000]破碎之梦[-]雕刻而成的柱子。在锻造[FF0000]梦境支配者[-]时会需要。"
 
 msgid "Dream Pillar Bottom"
-msgstr ""
+msgstr "[FF0000]梦境柱[-]的底部。"
 
 msgid "Terrain Stasis Machine"
-msgstr ""
+msgstr "用来在多人模式里圈地。由[FF0000]钢[-],一个[FF0000]钴块[-],一个[FF0000]蓝水晶块[-]和一个[FF0000]发电机[-]制成。"
 
 msgid "Large Dream Bricks"
-msgstr ""
+msgstr "由[FF0000]梦境砖[-]压制而成的更大的方块。"
 
 msgid "Unsettling Dream"
-msgstr ""
+msgstr "我始终无法从中释怀。由[FF0000]破碎之梦[-]和[FF0000]大型梦境砖[-]制成。"
 
 msgid "Wool"
-msgstr ""
+msgstr "由[FF0000]羊皮[-]纺成的柔软方块。可以被做成[FF0000]地毯[-]。"
 
 msgid "CreativeEmeraldOre"
-msgstr ""
+msgstr "创造模式的[FF0000]翡翠[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。"
 
 msgid "CreativeSaphireOre"
-msgstr ""
+msgstr "创造模式的[FF0000]蓝水晶[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。"
 
 msgid "CreativeRubyOre"
-msgstr ""
+msgstr "创造模式的[FF0000]红水晶[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。"
 
 msgid "CreativeCoalOre"
-msgstr ""
+msgstr "创造模式的[FF0000]煤矿[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。"
 
 msgid "CreativeApple"
-msgstr ""
+msgstr "创造模式的[FF0000]苹果[-]方块，用于建筑。"
 
 msgid "CreativeCoconut"
-msgstr ""
+msgstr "创造模式的[FF0000]椰子[-]方块，用于建筑。"
 
 msgid "CreativeUnobtainium"
-msgstr ""
+msgstr "创造模式的[FF0000]难得素[-]方块，用于建筑。"
 
 msgid "CreativeCryptonite"
-msgstr ""
+msgstr "创造模式的[FF0000]氪石[-]方块，用于建筑。"
 
 msgid "CreativeKlorium"
-msgstr ""
+msgstr "创造模式的[FF0000]辉石[-]方块，用于建筑。"
 
 msgid "CreativeGoldOre"
-msgstr ""
+msgstr 创造模式的[FF0000]金矿[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。""
 
 msgid "CreativeSulphureOre"
-msgstr ""
+msgstr "创造模式的[FF0000]硫磺[-]方块，用于建筑。和矿石看起来挖起来一样,不受到世界生成的影响（这里指版本变化时的区块变化）。"
 
 msgid "Diamond"
-msgstr ""
+msgstr "用来加速制作和买特殊物品的珍贵宝石。"
 
 msgid "Storage Row"
-msgstr ""
+msgstr "解锁一排额外的储存空间"
 
 msgid "Record Dark Boss"
-msgstr ""
+msgstr "唱片，可在留声机处使用。"
 
 msgid "Fake Coin"
-msgstr ""
+msgstr "由[FF0000]愚人金[-]制成，用来代替真品骗人。可能会让你陷入麻烦。"
 
 msgid "Cobalt"
-msgstr ""
+msgstr "从[FF0000]钴矿[-]中采集的一块坚硬，蓝银色的金属。在制造像发电机这样的机械时很重要。"
 
 msgid "Ammonite Shell"
-msgstr ""
+msgstr "[FF0000]菊石[-]的一个螺旋壳, 一种早已被认为灭绝了的海洋生物。"
 
 msgid "Honey"
-msgstr ""
+msgstr "甜蜜，粘稠且金光闪闪。没人会问蜜蜂在哪。"
 
 msgid "Blubber"
-msgstr ""
+msgstr "来自海洋哺乳动物的厚重脂肪。可以生吃, 但制成鲸皮肉会好得多。事后动物保护组织一定会找你喝茶。"
 
 msgid "Muktuk"
-msgstr ""
+msgstr "在熔炉里煮至变软的鲸脂。丰盛的菜肴。"
 
 msgid "Burning Ember"
-msgstr ""
+msgstr "永不冷却的煤, 从一个陨落的[FF0000]熔岩傀儡[-]上撕下。仍然烫的足以烧伤你自己。"
 
 msgid "Gust"
-msgstr ""
+msgstr "一片由[FF0000]飞龙[-]发出的狂风。"
 
 msgid "Static Water"
-msgstr ""
+msgstr "一滩保持在你放置的位置且永不流动的[FF0000]水[-]。用来在创造模式中建筑"
 
 msgid "Static Lava"
-msgstr ""
+msgstr "一滩保持在你放置的位置且永不流动的[FF0000]岩浆[-]。用来在创造模式中建筑"
 
 msgid "Static Swamp"
-msgstr ""
+msgstr "一滩保持在你放置的位置且永不流动的[FF0000]沼泽[-]。用来在创造模式中建筑"
 
 msgid "Pyrite Fence"
-msgstr ""
+msgstr "由[FF0000]愚人金[-]制成的闪亮栅栏。很适合用来抓捕或圈养动物。"
 
 msgid "Pyrite Triangle"
-msgstr ""
+msgstr "一块斜着的黄铁块, 由[FF0000]愚人金[-]制成。"
 
 msgid "Pyrite Half"
-msgstr ""
+msgstr "半块黄铁块, 由[FF0000]愚人金[-]制成。"
 
 msgid "Pyrite Vertical"
-msgstr ""
+msgstr "一块立着的黄铁台阶, 由[FF0000]愚人金[-]制成。"
 
 msgid "Steel Fence"
-msgstr ""
+msgstr "由[FF0000]钢[-]制成的结实栅栏。很适合用来抓捕或圈养动物。"
 
 msgid "Bronze Fence"
-msgstr ""
+msgstr "由[FF0000]黄铜[-]制成的华丽栅栏。很适合用来抓捕或圈养动物。"
 
 msgid "Steel Triangle"
-msgstr ""
+msgstr "一块由[FF0000]钢[-]制成的斜着的方块。"
 
 msgid "Bronze Triangle"
-msgstr ""
+msgstr "一块由[FF0000]黄铜[-]制成的斜着的方块。"
 
 msgid "Steel Half"
-msgstr ""
+msgstr "半块[FF0000]钢[-]块。"
 
 msgid "Bronze Half"
-msgstr ""
+msgstr "半块[FF0000]黄铜[-]块"
 
 msgid "Steel Vertical"
-msgstr ""
+msgstr "一块由[FF0000]钢[-]制成的立着的薄台阶。"
 
 msgid "Bronze Vertical"
-msgstr ""
+msgstr "一块由[FF0000]黄铜[-]制成的立着的薄台阶"
 
 msgid "Dream Brick Stairs"
-msgstr ""
+msgstr "由[FF0000]梦境砖[-]制成的楼梯。"
 
 msgid "Dream Bricks Triangle"
-msgstr ""
+msgstr "一块由[FF0000]梦境砖[-]制成的斜方块。"
 
 msgid "Dream Bricks Half"
-msgstr ""
+msgstr "半块[FF0000]梦境砖[-]。"
 
 msgid "Dream Bricks Vertical"
-msgstr ""
+msgstr "一块由[FF0000]梦境砖[-]制成的立着的薄台阶"
 
 msgid "Dream Bricks Fence"
-msgstr ""
+msgstr "由[FF0000]梦境砖[-]制成的梦幻栅栏。很适合用来抓捕或圈养动物。"
 
 msgid "Gale Sword"
-msgstr ""
+msgstr "风暴之刃。每次攻击都会把敌人抛向空中，并留下一阵切割任何被捕获怪物的风暴。击退6格并击飞6格。风暴在4.5格内每0.5秒造成15伤害，持续5秒，冷却7秒。"
 
 msgid "Lucid Dream"
-msgstr ""
+msgstr "这把剑真的存在吗？使用以切换光与暗。光格挡并治疗；暗用生命来换取梦魇与魔力，并根据你的魔法伤害来提高威力。"
+"\n[FFFF00]光[-]\n"
+"[00FF00]造成70普通伤害，40神圣伤害[-] [FF0000]消耗8%魔力[-]\n"
+"[00FF00]每次攻击回复3%生命[-]\n"
+"[00FF00]增加10%护甲[-]\n"
+"[00FF00]减速敌怪50%，持续1.5秒[-]\n"
+"\n[FFFF00]暗[-]\n"
+"[00FF00]造成85普通伤害，20黑暗魔法伤害[-] [00FF00](对怪物为45)[-]\n"
+"[00FF00]每20点魔法伤害增加攻击和梦魇的1点黑暗魔法伤害[-]\n"
+"[00FF00]6秒内造成30梦魇伤害[-]\n"
+"[00FF00]减速敌怪70%，持续3秒[-]\n"
+"[FF0000]每次攻击消耗8%生命[-]\n"
+"[00FF00]每次攻击恢复8%魔力[-]\n"
+"[FF0000]你受到的伤害增加12%[-] [00FF00](你每次击中地面都会减少四分之一)[-]\n"
+"\n[00FF00]挥动一秒[-]"
 
 msgid "SandboxSwitch"
-msgstr ""
+msgstr "在沙盒模式下使用它，让巫师后生物在世界中生成。它在其他游戏模式中没有效果。
 
 msgid "Jungle Flowers"
-msgstr ""
+msgstr "彩色的丛林花。"
 
 msgid "Swamp Grass 3D"
-msgstr ""
+msgstr "小簇非立方体沼泽草。"
 
 msgid "Toadstool"
-msgstr ""
+msgstr "一朵红顶蘑菇。最好别吃它"
 
 msgid "Ink Cap"
-msgstr ""
+msgstr "一朵又蓬松又高的蘑菇"
 
 msgid "Morel"
-msgstr ""
+msgstr "一种皱巴巴的、有蜂窝盖的蘑菇。"
 
 msgid "Bug Spawner"
-msgstr ""
+msgstr "一个会滋生虫子的嗡嗡作响的巢穴，。"
 
 msgid "Primula Flower"
-msgstr ""
+msgstr "一朵小而欢快的报春花。"
 
 msgid "Tulip Flower"
-msgstr ""
+msgstr "一朵明亮、欢快的郁金香。"
 
 msgid "Jungle Bouquet"
-msgstr ""
+msgstr "一大束丛林花。制作[FF0000]长躯之魂[-]时会用到。"
 
 msgid "Mythic Flower"
-msgstr ""
+msgstr "一朵稀有而美丽的花。制作[FF0000]长躯之魂[-]时会用到。"
 
 msgid "Clovers"
-msgstr ""
+msgstr "一小片三叶草。也许其中一个有四片叶子。"
 
 msgid "Glowing Mushroom"
-msgstr ""
+msgstr "一朵在黑暗中发出柔光的蘑菇。"
 
 msgid "Reeds"
-msgstr ""
+msgstr "细长摇曳的芦苇。"
 
 msgid "Amethyst"
 msgstr ""
 
 msgid "Amethyst Antique"
-msgstr ""
+msgstr “一颗由[FF0000]紫水晶[-]切割而成的葡萄芥末味宝石。熔合四个来重新制作方块。”
 
 msgid "Klorium Antique"
-msgstr ""
+msgstr "[FF0000]辉石块[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Black Crystal Antique"
-msgstr ""
+msgstr "[FF0000]黑水晶[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Cobalt Antique"
-msgstr ""
+msgstr "[FF0000]钴块[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Green Crystal Antique"
-msgstr ""
+msgstr "[FF0000]绿水晶[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Cryptonite Antique"
-msgstr ""
+msgstr "[FF0000]氪石[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Red Crystal Antique"
-msgstr ""
+msgstr "[FF0000]红水晶[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Blue Crystal Antique"
-msgstr ""
+msgstr "[FF0000]黑水晶[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Yellow Crystal Antique"
-msgstr ""
+msgstr "[FF0000]黄水晶[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Unobtainium Antique"
-msgstr ""
+msgstr "[FF0000]难得素[-]的纪念物，镶嵌在[FF0000]棕榈木[-]中。哥布林不惜一切代价保护这样的文物。"
 
 msgid "Fading Dream"
-msgstr ""
+msgstr "发出让人悲伤的光。在[FF0000]梦境城堡[-]的墙壁中发现, 在铸造[FF0000]梦境支配者[-]时会需要。"
 
 msgid "Cat Tails"
-msgstr ""
+msgstr "高大、顶部毛茸茸的植物。"
