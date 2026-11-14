@@ -4079,7 +4079,7 @@ msgid "Cobalt Block"
 msgstr "钴块"
 
 msgid "Lucid Dream"
-msgstr "澄梦之剑"
+msgstr "梦境支配者"
 
 msgid "Cobalt"
 msgstr "钴"
@@ -4151,7 +4151,7 @@ msgid "CreativeSulphureOre"
 msgstr "硫磺原矿"
 
 msgid "Elongata Soul"
-msgstr "大嘴花之魂"
+msgstr "异形奇花之魂"
 
 msgid "Manticore Soul"
 msgstr "蝎狮之魂"

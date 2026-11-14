@@ -11,7 +11,7 @@ msgstr ""
 "Language: zh_CN\n"
 
 msgid "Lucid Dreams"
-msgstr "清明梦"
+msgstr "清明之梦"
 
 msgid ""
 "Shhh... you can see me? Few dreamers ever do. Two nightmares have broken "
@@ -107,4 +107,4 @@ msgid "The nightmares know you are coming. Infelix Centrum and Orbis Felix are w
 msgstr "噩梦们知道你要来了。因费利克斯·森特鲁姆和奥比斯·菲利克斯正在群星之间等着你，它们靠吞噬梦境长得如此巨大。"
 
 msgid "The nightmares are gone and the realm sleeps peacefully again. As promised, here is the secret of the Lucid Dream. Dream Pillars for the handle and a Realm Crystal for its core."
-msgstr "噩梦已经消失，领域再次安然沉睡。如约，这就是澄梦的秘密：用梦境柱做剑柄，用领域水晶做核心。"
+msgstr "噩梦已经消失，领域再次安然沉睡。如约，这就是梦境支配者的秘密：用梦境柱做剑柄，用领域水晶做核心。"
