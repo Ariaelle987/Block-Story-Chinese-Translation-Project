@@ -11,7 +11,7 @@ msgstr ""
 "Language: zh_CN\n"
 
 msgid "Sign in to play online."
-msgstr "登錄以在線遊玩。"
+msgstr "登錄以聯機遊玩。"
 
 msgid "Authentication failed."
 msgstr "身份驗證失敗。"
@@ -26,7 +26,7 @@ msgid "This Steam account does not own Block Story."
 msgstr "此 Steam 賬戶未擁有 Block Story。"
 
 msgid "This Steam account can't be used for online play."
-msgstr "此 Steam 賬戶無法用於在線遊玩。"
+msgstr "此 Steam 賬戶無法用於聯機遊玩。"
 
 msgid "This Block Story account is disabled."
 msgstr "此 Block Story 賬戶已被禁用。"
@@ -179,13 +179,13 @@ msgid "Saved {0}"
 msgstr "已儲存 {0}"
 
 msgid "Play Online"
-msgstr "在線遊玩"
+msgstr "聯機遊玩"
 
 msgid "Online License Agreement"
-msgstr "在線許可協議"
+msgstr "聯機許可協議"
 
 msgid "Scroll to the end of the agreement, then accept to play online."
-msgstr "滾動到協議末尾，然後接受即可在線遊玩。"
+msgstr "滾動到協議末尾，然後接受即可聯機遊玩。"
 
 msgid "Connecting to your Steam friend"
 msgstr "正在連接你的 Steam 好友"
