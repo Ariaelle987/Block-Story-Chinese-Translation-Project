@@ -874,7 +874,7 @@ msgid "Load Successful"
 msgstr "载入成功"
 
 msgid "Split Touch Controls"
-msgstr "拆分触控"
+msgstr "准心模式"
 
 msgid ""
 "Screen\n"
