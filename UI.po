@@ -3150,7 +3150,7 @@ msgid "'"
 msgstr "'"
 
 msgid "Online"
-msgstr "在线"
+msgstr "联机"
 
 msgid "IP Address"
 msgstr "IP 地址"
@@ -3177,7 +3177,7 @@ msgid "/"
 msgstr "/"
 
 msgid "Online\n(Beta)\n\n"
-msgstr "在线\n(测试版)\n\n"
+msgstr "联机\n(测试版)\n\n"
 
 msgid "Add Server"
 msgstr "添加服务器"
