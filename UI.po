@@ -46,7 +46,7 @@ msgid ""
 "Increases flying speed.  Allows faster travel, and the ability to reach "
 "floating islands."
 msgstr ""
-"提高飞行速度。允许更快地旅行及抵达"
+"提高飞行速度能够更快地旅行及抵达"
 "浮岛。"
 
 msgid "Simple"
