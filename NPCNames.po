@@ -15,556 +15,556 @@ msgid "{0} {1}"
 msgstr ""
 
 msgid "Angel"
-msgstr ""
+msgstr "安吉尔"
 
 msgid "Anvil"
-msgstr ""
+msgstr "安维尔"
 
 msgid "Battle"
-msgstr ""
+msgstr "拜托"
 
 msgid "Black"
-msgstr ""
+msgstr "布莱克"
 
 msgid "Blood"
-msgstr ""
+msgstr "布洛德"
 
 msgid "Blue"
-msgstr ""
+msgstr "布鲁"
 
 msgid "Bor"
-msgstr ""
+msgstr "波尔"
 
 msgid "Brale"
-msgstr ""
+msgstr "布雷尔"
 
 msgid "Break"
-msgstr ""
+msgstr "卜锐克"
 
 msgid "Candle"
-msgstr ""
+msgstr "坎德尔"
 
 msgid "Castle"
-msgstr ""
+msgstr "卡斯托"
 
 msgid "Cold"
-msgstr ""
+msgstr "库德"
 
 msgid "Crazy"
-msgstr ""
+msgstr "克雷兹"
 
 msgid "Dark"
-msgstr ""
+msgstr "达克"
 
 msgid "Deep"
-msgstr ""
+msgstr "迪普"
 
 msgid "Down"
-msgstr ""
+msgstr "唐"
 
 msgid "Dragon"
-msgstr ""
+msgstr "至亚根"
 
 msgid "Dusk"
-msgstr ""
+msgstr "杜斯克"
 
 msgid "Dust"
-msgstr ""
+msgstr "达斯特"
 
 msgid "Ender"
-msgstr ""
+msgstr "安德"
 
 msgid "Ever"
-msgstr ""
+msgstr "艾维尔"
 
 msgid "Evil"
-msgstr ""
+msgstr "伊维尔"
 
 msgid "Fade"
-msgstr ""
+msgstr "费德"
 
 msgid "Fall"
-msgstr ""
+msgstr "弗"
 
 msgid "Fallen"
-msgstr ""
+msgstr "弗仑"
 
 msgid "Fore"
-msgstr ""
+msgstr "弗尔"
 
 msgid "Frost"
-msgstr ""
+msgstr "弗若斯特"
 
 msgid "Gale"
-msgstr ""
+msgstr "盖尔"
 
 msgid "Gaze"
-msgstr ""
+msgstr "盖兹"
 
 msgid "Gold"
-msgstr ""
+msgstr "古德"
 
 msgid "Gore"
-msgstr ""
+msgstr "戈尔"
 
 msgid "Grave"
-msgstr ""
+msgstr "格雷"
 
 msgid "Gravel"
-msgstr ""
+msgstr "格拉维尔"
 
 msgid "Green"
-msgstr ""
+msgstr "格林"
 
 msgid "Grey"
-msgstr ""
+msgstr "格雷"
 
 msgid "Hacken"
-msgstr ""
+msgstr "哈肯"
 
 msgid "Half"
-msgstr ""
+msgstr "哈弗"
 
 msgid "Harrow"
-msgstr ""
+msgstr "哈罗"
 
 msgid "Hawk"
-msgstr ""
+msgstr "霍克"
 
 msgid "Head"
-msgstr ""
+msgstr "赫德"
 
 msgid "Heavy"
-msgstr ""
+msgstr "赫威"
 
 msgid "Hels"
-msgstr ""
+msgstr "赫尔斯"
 
 msgid "Holy"
-msgstr ""
+msgstr "霍利"
 
 msgid "Hunts"
-msgstr ""
+msgstr "亨特"
 
 msgid "Inner"
-msgstr ""
+msgstr "伊内尔"
 
 msgid "Innis"
-msgstr ""
+msgstr "伊尼斯"
 
 msgid "Iron"
-msgstr ""
+msgstr "艾恩"
 
 msgid "Jade"
-msgstr ""
+msgstr "杰德"
 
 msgid "Jail"
-msgstr ""
+msgstr "杰恩"
 
 msgid "Kalen"
-msgstr ""
+msgstr "卡仑"
 
 msgid "Land"
-msgstr ""
+msgstr "兰德"
 
 msgid "Lava"
-msgstr ""
+msgstr "拉瓦"
 
 msgid "Locke"
-msgstr ""
+msgstr "洛克"
 
 msgid "Lone"
-msgstr ""
+msgstr "罗恩"
 
 msgid "Mael"
-msgstr ""
+msgstr "梅尔"
 
 msgid "Master"
-msgstr ""
+msgstr "马斯特"
 
 msgid "Mount"
-msgstr ""
+msgstr "莽特"
 
 msgid "Nex"
-msgstr ""
+msgstr "聂克斯"
 
 msgid "Orange"
-msgstr ""
+msgstr "欧兰吉"
 
 msgid "Over"
-msgstr ""
+msgstr "欧沃尔"
 
 msgid "Pale"
-msgstr ""
+msgstr "佩尔"
 
 msgid "Plains"
-msgstr ""
+msgstr "普莱斯"
 
 msgid "Quell"
-msgstr ""
+msgstr "奎尔"
 
 msgid "Quick"
-msgstr ""
+msgstr "奎克"
 
 msgid "Rabid"
-msgstr ""
+msgstr "拉比德"
 
 msgid "Radi"
-msgstr ""
+msgstr "拉迪"
 
 msgid "Raka"
-msgstr ""
+msgstr "拉卡"
 
 msgid "Ram"
-msgstr ""
+msgstr "拉姆"
 
 msgid "Red"
-msgstr ""
+msgstr "瑞德"
 
 msgid "Rel"
-msgstr ""
+msgstr "雷尔"
 
 msgid "Rend"
-msgstr ""
+msgstr "兰德"
 
 msgid "Rust"
-msgstr ""
+msgstr "鲁斯蒂"
 
 msgid "Scale"
-msgstr ""
+msgstr "斯凯尔"
 
 msgid "Sea"
-msgstr ""
+msgstr "西"
 
 msgid "Shade"
-msgstr ""
+msgstr "谢德"
 
 msgid "Shatter"
-msgstr ""
+msgstr "沙特尔"
 
 msgid "Silver"
-msgstr ""
+msgstr "斯利尔"
 
 msgid "Slash"
-msgstr ""
+msgstr "斯莱什"
 
 msgid "Sledge"
-msgstr ""
+msgstr "斯列吉"
 
 msgid "Soft"
-msgstr ""
+msgstr "索芙特"
 
 msgid "Spine"
-msgstr ""
+msgstr "索菲"
 
 msgid "Spore"
-msgstr ""
+msgstr "斯波尔"
 
 msgid "Stale"
-msgstr ""
+msgstr "斯泰尔"
 
 msgid "Steam"
-msgstr ""
+msgstr "斯蒂姆"
 
 msgid "Storm"
-msgstr ""
+msgstr "斯卓姆"
 
 msgid "Stout"
-msgstr ""
+msgstr "斯陶特"
 
 msgid "Tail"
-msgstr ""
+msgstr "特尔"
 
 msgid "Tower"
-msgstr ""
+msgstr "塔尔"
 
 msgid "Ty"
-msgstr ""
+msgstr "泰"
 
 msgid "Under"
-msgstr ""
+msgstr "恩德"
 
 msgid "Vex"
-msgstr ""
+msgstr "维克斯"
 
 msgid "War"
-msgstr ""
+msgstr "瓦"
 
 msgid "Warg"
-msgstr ""
+msgstr "瓦格"
 
 msgid "Wharf"
-msgstr ""
+msgstr "沃夫"
 
 msgid "Winter"
-msgstr ""
+msgstr "温特"
 
 msgid "Wither"
-msgstr ""
+msgstr "威泽"
 
 msgid "Wrath"
-msgstr ""
+msgstr "沃思"
 
 msgid "Wurm"
-msgstr ""
+msgstr "乌姆"
 
 msgid "Yellow"
-msgstr ""
+msgstr "耶娄"
 
 msgid "Yore"
-msgstr ""
+msgstr "优尔"
 
 msgid "Zen"
-msgstr ""
+msgstr "泽"
 
 msgid "Angry"
-msgstr ""
+msgstr "安格锐"
 
 msgid "Apple"
-msgstr ""
+msgstr "阿普尔"
 
 msgid "Arm"
-msgstr ""
+msgstr "阿姆"
 
 msgid "Bath"
-msgstr ""
+msgstr "巴斯"
 
 msgid "Bean"
-msgstr ""
+msgstr "比斯"
 
 msgid "Boney"
-msgstr ""
+msgstr "博尼"
 
 msgid "Bongo"
-msgstr ""
+msgstr "邦戈"
 
 msgid "Bottom"
-msgstr ""
+msgstr "博顿"
 
 msgid "Brown"
-msgstr ""
+msgstr "布郎"
 
 msgid "Bubbly"
-msgstr ""
+msgstr "布比"
 
 msgid "Chubby"
-msgstr ""
+msgstr "恰比"
 
 msgid "Chunky"
-msgstr ""
+msgstr "昌斯"
 
 msgid "Circle"
-msgstr ""
+msgstr "塞克尔"
 
 msgid "City"
-msgstr ""
+msgstr "希蒂"
 
 msgid "Coco"
-msgstr ""
+msgstr "可可"
 
 msgid "Daisy"
-msgstr ""
+msgstr "戴希"
 
 msgid "Dinner"
-msgstr ""
+msgstr "丁尔"
 
 msgid "Dusty"
-msgstr ""
+msgstr "达斯汀"
 
 msgid "East"
-msgstr ""
+msgstr "易斯特"
 
 msgid "Every"
-msgstr ""
+msgstr "艾维伊"
 
 msgid "Fast"
-msgstr ""
+msgstr "法斯特"
 
 msgid "Feather"
-msgstr ""
+msgstr "菲瑟"
 
 msgid "Flavour"
-msgstr ""
+msgstr "弗雷沃"
 
 msgid "Flower"
-msgstr ""
+msgstr "弗拉沃"
 
 msgid "Fly"
-msgstr ""
+msgstr "费莱"
 
 msgid "Giggle"
-msgstr ""
+msgstr "吉格"
 
 msgid "Goofy"
-msgstr ""
+msgstr "格塞"
 
 msgid "Happy"
-msgstr ""
+msgstr "哈比"
 
 msgid "House"
-msgstr ""
+msgstr "霍斯"
 
 msgid "Ice"
-msgstr ""
+msgstr "艾希"
 
 msgid "Icky"
-msgstr ""
+msgstr "伊基"
 
 msgid "In"
-msgstr ""
+msgstr "伊"
 
 msgid "Jingle"
-msgstr ""
+msgstr "金格"
 
 msgid "Jump"
-msgstr ""
+msgstr "简普"
 
 msgid "Jumpin"
-msgstr ""
+msgstr "加匹"
 
 msgid "Kick"
-msgstr ""
+msgstr "奇克"
 
 msgid "Left"
-msgstr ""
+msgstr "列夫特"
 
 msgid "Loony"
-msgstr ""
+msgstr "卢尼"
 
 msgid "Lost"
-msgstr ""
+msgstr "洛斯特"
 
 msgid "Lunch"
-msgstr ""
+msgstr "兰驰"
 
 msgid "Mega"
-msgstr ""
+msgstr "梅戛"
 
 msgid "Nap"
-msgstr ""
+msgstr "纳普"
 
 msgid "Nickel"
-msgstr ""
+msgstr "尼克尔"
 
 msgid "North"
-msgstr ""
+msgstr "诺斯"
 
 msgid "Ocean"
-msgstr ""
+msgstr "欧申"
 
 msgid "Odd"
-msgstr ""
+msgstr "欧第"
 
 msgid "Omni"
-msgstr ""
+msgstr "欧尼"
 
 msgid "Out"
-msgstr ""
+msgstr "奥特"
 
 msgid "Phony"
-msgstr ""
+msgstr "珀尼"
 
 msgid "Pickle"
-msgstr ""
+msgstr "皮克尔"
 
 msgid "Pillow"
-msgstr ""
+msgstr "皮洛"
 
 msgid "Pink"
-msgstr ""
+msgstr "匹克"
 
 msgid "Poppin"
-msgstr ""
+msgstr "珀乒"
 
 msgid "Punch"
-msgstr ""
+msgstr "潘驰"
 
 msgid "Purple"
-msgstr ""
+msgstr "普尔普"
 
 msgid "Rain"
-msgstr ""
+msgstr "瑞"
 
 msgid "Really"
-msgstr ""
+msgstr "瑞里"
 
 msgid "Renta"
-msgstr ""
+msgstr "仁塔"
 
 msgid "Right"
-msgstr ""
+msgstr "瑞特"
 
 msgid "Sad"
-msgstr ""
+msgstr "赛德"
 
 msgid "Salami"
-msgstr ""
+msgstr "莎拉米"
 
 msgid "Stuffed"
-msgstr ""
+msgstr "斯图夫"
 
 msgid "Shaky"
-msgstr ""
+msgstr "沙奇"
 
 msgid "Skinny"
-msgstr ""
+msgstr "斯金尼"
 
 msgid "Slime"
-msgstr ""
+msgstr "史莱姆"
 
 msgid "Slow"
-msgstr ""
+msgstr "斯娄"
 
 msgid "Sludgy"
-msgstr ""
+msgstr "斯拉吉"
 
 msgid "Snow"
-msgstr ""
+msgstr "斯诺"
 
 msgid "Soap"
-msgstr ""
+msgstr "索普"
 
 msgid "Soggy"
-msgstr ""
+msgstr "索基"
 
 msgid "South"
-msgstr ""
+msgstr "绍斯"
 
 msgid "Spaghetti"
-msgstr ""
+msgstr "斯普盖蒂"
 
 msgid "Square"
-msgstr ""
+msgstr "斯凯尔"
 
 msgid "Sticky"
-msgstr ""
+msgstr "斯蒂奇"
 
 msgid "Strong"
-msgstr ""
+msgstr "斯卓"
 
 msgid "Super"
-msgstr ""
+msgstr "苏普"
 
 msgid "Takea"
-msgstr ""
+msgstr "塔可"
 
 msgid "Talky"
-msgstr ""
+msgstr "托奇"
 
 msgid "Tasty"
-msgstr ""
+msgstr "塔斯带"
 
 msgid "Tiny"
-msgstr ""
+msgstr "泰尼"
 
 msgid "Top"
-msgstr ""
+msgstr "托普"
 
 msgid "Uber"
-msgstr ""
+msgstr "尤布"
 
 msgid "Up"
-msgstr ""
+msgstr "厄普"
 
 msgid "Upper"
 msgstr ""
