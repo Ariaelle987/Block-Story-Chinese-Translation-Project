@@ -567,28 +567,28 @@ msgid "Up"
 msgstr "厄普"
 
 msgid "Upper"
-msgstr ""
+msgstr "厄普爾"
 
 msgid "Wacky"
-msgstr ""
+msgstr "沃奇"
 
 msgid "Weak"
-msgstr ""
+msgstr "維依克"
 
 msgid "West"
-msgstr ""
+msgstr "衛斯特"
 
 msgid "Wiggle"
-msgstr ""
+msgstr "威格爾"
 
 msgid "Worm"
-msgstr ""
+msgstr "沃魯"
 
 msgid "Yester"
-msgstr ""
+msgstr "耶斯特"
 
 msgid "Yummy"
-msgstr ""
+msgstr "露米"
 
 msgid "Zoomin"
-msgstr ""
+msgstr "佐明"
