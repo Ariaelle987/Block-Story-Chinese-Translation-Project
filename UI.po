@@ -152,7 +152,7 @@ msgid "View distance: [FF0000]{0:0}"
 msgstr "视距: [FF0000]{0:0}"
 
 msgid "Elevator move forward"
-msgstr "电梯前行"
+msgstr "电梯运作"
 
 msgid ""
 "Increases maximum health.  The more health you have, the better you feel.  :)"
@@ -584,7 +584,7 @@ msgid "Coming Soon..."
 msgstr "敬请期待..."
 
 msgid "Can't mount enemy creature with less than 50% health!"
-msgstr "低于50%生命值无法骑乘敌方怪物！"
+msgstr "当敌方怪物生命值低于50%时不可骑乘！"
 
 msgid ""
 "Are You sure you want to delete this\n"
@@ -608,7 +608,7 @@ msgid "Time Remaining:"
 msgstr "剩余时间:"
 
 msgid "Native"
-msgstr "原生"
+msgstr "原屏分辨率"
 
 msgid "Audio"
 msgstr "声音"
@@ -937,8 +937,7 @@ msgid "Load this character and world by default"
 msgstr "默认载入该角色和世界"
 
 msgid "Main Menu"
-msgstr ""
-"主菜单"
+msgstr "主菜单"
 
 msgid "Current level: {0}"
 msgstr "当前等级: {0}"
@@ -1206,7 +1205,7 @@ msgstr "最高生物数目: [FF0000]{0}[-]"
 msgid "Chinese"
 msgstr "中文"
 
-msgid "Chinese (Taiwan)"
+msgid "Chinese (Traditional)"
 msgstr "中文 (繁体)"
 
 msgid "Not enough room in inventory."
@@ -3276,10 +3275,10 @@ msgid "Rewarded [0000FF]{0:0}[-] Diamonds!"
 msgstr "已获得 [0000FF]{0:0}[-] 颗钻石奖励！"
 
 msgid "Sand Physics"
-msgstr "沙子物理"
+msgstr "沙子物理效果"
 
 msgid "Water Physics"
-msgstr "水物理"
+msgstr "水物理效果"
 
 msgid "Wizard Vault Mobs"
 msgstr "魔法师城堡生物"
@@ -3420,10 +3419,10 @@ msgid "Original world folder not found."
 msgstr "未找到原始世界文件夹。"
 
 msgid "Lucid Dream: Light"
-msgstr "梦境支配者：光"
+msgstr "梦境支配者：光明形态"
 
 msgid "Lucid Dream: Dark"
-msgstr "梦境支配者：暗"
+msgstr "梦境支配者：黑暗形态"
 
 msgid "Awarded Respawn"
 msgstr "已获得重生"
