@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2.3\n"
 
 msgid "You can enable Split Touch Controls in the Controls settings."
-msgstr "你可以在控制設置中啟用拆分觸控。"
+msgstr "你可以在控制設置中啟用準心模式。"
 
 msgid ""
 "To place block, equip it in inventory and simply click on the spot where you "

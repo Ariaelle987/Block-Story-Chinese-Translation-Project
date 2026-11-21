@@ -46,7 +46,7 @@ msgid ""
 "Increases flying speed.  Allows faster travel, and the ability to reach "
 "floating islands."
 msgstr ""
-"提高飛行速度。允許更快地旅行及抵達"
+"提高飛行速度能夠更快地旅行及抵達"
 "浮島。"
 
 msgid "Simple"
@@ -874,7 +874,7 @@ msgid "Load Successful"
 msgstr "載入成功"
 
 msgid "Split Touch Controls"
-msgstr "拆分觸控"
+msgstr "準心模式"
 
 msgid ""
 "Screen\n"
