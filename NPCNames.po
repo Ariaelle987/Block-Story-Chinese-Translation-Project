@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-18 17:50-0700\n"
+"PO-Revision-Date: 2026-10-18 17:50-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+
+#. Full NPC name: {0} = first name (e.g. Skeleton), {1} = last name. Change the order or spacing if your language needs it.
+msgid "{0} {1}"
+msgstr ""
+
+msgid "Angel"
+msgstr ""
+
+msgid "Anvil"
+msgstr ""
+
+msgid "Battle"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Blood"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Bor"
+msgstr ""
+
+msgid "Brale"
+msgstr ""
+
+msgid "Break"
+msgstr ""
+
+msgid "Candle"
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Cold"
+msgstr ""
+
+msgid "Crazy"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Deep"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Dragon"
+msgstr ""
+
+msgid "Dusk"
+msgstr ""
+
+msgid "Dust"
+msgstr ""
+
+msgid "Ender"
+msgstr ""
+
+msgid "Ever"
+msgstr ""
+
+msgid "Evil"
+msgstr ""
+
+msgid "Fade"
+msgstr ""
+
+msgid "Fall"
+msgstr ""
+
+msgid "Fallen"
+msgstr ""
+
+msgid "Fore"
+msgstr ""
+
+msgid "Frost"
+msgstr ""
+
+msgid "Gale"
+msgstr ""
+
+msgid "Gaze"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Gore"
+msgstr ""
+
+msgid "Grave"
+msgstr ""
+
+msgid "Gravel"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "Hacken"
+msgstr ""
+
+msgid "Half"
+msgstr ""
+
+msgid "Harrow"
+msgstr ""
+
+msgid "Hawk"
+msgstr ""
+
+msgid "Head"
+msgstr ""
+
+msgid "Heavy"
+msgstr ""
+
+msgid "Hels"
+msgstr ""
+
+msgid "Holy"
+msgstr ""
+
+msgid "Hunts"
+msgstr ""
+
+msgid "Inner"
+msgstr ""
+
+msgid "Innis"
+msgstr ""
+
+msgid "Iron"
+msgstr ""
+
+msgid "Jade"
+msgstr ""
+
+msgid "Jail"
+msgstr ""
+
+msgid "Kalen"
+msgstr ""
+
+msgid "Land"
+msgstr ""
+
+msgid "Lava"
+msgstr ""
+
+msgid "Locke"
+msgstr ""
+
+msgid "Lone"
+msgstr ""
+
+msgid "Mael"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Mount"
+msgstr ""
+
+msgid "Nex"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Over"
+msgstr ""
+
+msgid "Pale"
+msgstr ""
+
+msgid "Plains"
+msgstr ""
+
+msgid "Quell"
+msgstr ""
+
+msgid "Quick"
+msgstr ""
+
+msgid "Rabid"
+msgstr ""
+
+msgid "Radi"
+msgstr ""
+
+msgid "Raka"
+msgstr ""
+
+msgid "Ram"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Rel"
+msgstr ""
+
+msgid "Rend"
+msgstr ""
+
+msgid "Rust"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "Sea"
+msgstr ""
+
+msgid "Shade"
+msgstr ""
+
+msgid "Shatter"
+msgstr ""
+
+msgid "Silver"
+msgstr ""
+
+msgid "Slash"
+msgstr ""
+
+msgid "Sledge"
+msgstr ""
+
+msgid "Soft"
+msgstr ""
+
+msgid "Spine"
+msgstr ""
+
+msgid "Spore"
+msgstr ""
+
+msgid "Stale"
+msgstr ""
+
+msgid "Steam"
+msgstr ""
+
+msgid "Storm"
+msgstr ""
+
+msgid "Stout"
+msgstr ""
+
+msgid "Tail"
+msgstr ""
+
+msgid "Tower"
+msgstr ""
+
+msgid "Ty"
+msgstr ""
+
+msgid "Under"
+msgstr ""
+
+msgid "Vex"
+msgstr ""
+
+msgid "War"
+msgstr ""
+
+msgid "Warg"
+msgstr ""
+
+msgid "Wharf"
+msgstr ""
+
+msgid "Winter"
+msgstr ""
+
+msgid "Wither"
+msgstr ""
+
+msgid "Wrath"
+msgstr ""
+
+msgid "Wurm"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Yore"
+msgstr ""
+
+msgid "Zen"
+msgstr ""
+
+msgid "Angry"
+msgstr ""
+
+msgid "Apple"
+msgstr ""
+
+msgid "Arm"
+msgstr ""
+
+msgid "Bath"
+msgstr ""
+
+msgid "Bean"
+msgstr ""
+
+msgid "Boney"
+msgstr ""
+
+msgid "Bongo"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Brown"
+msgstr ""
+
+msgid "Bubbly"
+msgstr ""
+
+msgid "Chubby"
+msgstr ""
+
+msgid "Chunky"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Coco"
+msgstr ""
+
+msgid "Daisy"
+msgstr ""
+
+msgid "Dinner"
+msgstr ""
+
+msgid "Dusty"
+msgstr ""
+
+msgid "East"
+msgstr ""
+
+msgid "Every"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Feather"
+msgstr ""
+
+msgid "Flavour"
+msgstr ""
+
+msgid "Flower"
+msgstr ""
+
+msgid "Fly"
+msgstr ""
+
+msgid "Giggle"
+msgstr ""
+
+msgid "Goofy"
+msgstr ""
+
+msgid "Happy"
+msgstr ""
+
+msgid "House"
+msgstr ""
+
+msgid "Ice"
+msgstr ""
+
+msgid "Icky"
+msgstr ""
+
+msgid "In"
+msgstr ""
+
+msgid "Jingle"
+msgstr ""
+
+msgid "Jump"
+msgstr ""
+
+msgid "Jumpin"
+msgstr ""
+
+msgid "Kick"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Loony"
+msgstr ""
+
+msgid "Lost"
+msgstr ""
+
+msgid "Lunch"
+msgstr ""
+
+msgid "Mega"
+msgstr ""
+
+msgid "Nap"
+msgstr ""
+
+msgid "Nickel"
+msgstr ""
+
+msgid "North"
+msgstr ""
+
+msgid "Ocean"
+msgstr ""
+
+msgid "Odd"
+msgstr ""
+
+msgid "Omni"
+msgstr ""
+
+msgid "Out"
+msgstr ""
+
+msgid "Phony"
+msgstr ""
+
+msgid "Pickle"
+msgstr ""
+
+msgid "Pillow"
+msgstr ""
+
+msgid "Pink"
+msgstr ""
+
+msgid "Poppin"
+msgstr ""
+
+msgid "Punch"
+msgstr ""
+
+msgid "Purple"
+msgstr ""
+
+msgid "Rain"
+msgstr ""
+
+msgid "Really"
+msgstr ""
+
+msgid "Renta"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Sad"
+msgstr ""
+
+msgid "Salami"
+msgstr ""
+
+msgid "Stuffed"
+msgstr ""
+
+msgid "Shaky"
+msgstr ""
+
+msgid "Skinny"
+msgstr ""
+
+msgid "Slime"
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Sludgy"
+msgstr ""
+
+msgid "Snow"
+msgstr ""
+
+msgid "Soap"
+msgstr ""
+
+msgid "Soggy"
+msgstr ""
+
+msgid "South"
+msgstr ""
+
+msgid "Spaghetti"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Sticky"
+msgstr ""
+
+msgid "Strong"
+msgstr ""
+
+msgid "Super"
+msgstr ""
+
+msgid "Takea"
+msgstr ""
+
+msgid "Talky"
+msgstr ""
+
+msgid "Tasty"
+msgstr ""
+
+msgid "Tiny"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Uber"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Upper"
+msgstr ""
+
+msgid "Wacky"
+msgstr ""
+
+msgid "Weak"
+msgstr ""
+
+msgid "West"
+msgstr ""
+
+msgid "Wiggle"
+msgstr ""
+
+msgid "Worm"
+msgstr ""
+
+msgid "Yester"
+msgstr ""
+
+msgid "Yummy"
+msgstr ""
+
+msgid "Zoomin"
+msgstr ""
