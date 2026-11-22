@@ -112,7 +112,7 @@ msgstr "那就你进去。我待在外面，开阔的地方。带八只回来。
 
 #. Deeper Stings (intro)
 msgid "Eight Cave Scorpions. Bring a torch. And a healing potion. And maybe a second healing potion."
-msgstr "八只洞穴蝎子。带上一支火把。再带一瓶治疗药水。也许还要再带一瓶治疗药水。"
+msgstr "八只洞穴蝎子。带上一支火把。再带一瓶治疗药水。也许还要多带一瓶治疗药水。"
 
 #. Deeper Stings (desc)
 msgid "Still breathing? Good. That's the only progress report I need."
