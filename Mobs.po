@@ -40,7 +40,7 @@ msgid "DuckM"
 msgstr "鸭先生"
 
 msgid "ForgottenGoblin"
-msgstr "天使哥布林"
+msgstr "天堂哥布林"
 
 msgid "ClownFish"
 msgstr "小丑鱼"
