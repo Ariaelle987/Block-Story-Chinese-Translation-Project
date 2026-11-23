@@ -21,7 +21,7 @@ msgid "Anvil"
 msgstr "安维尔"
 
 msgid "Battle"
-msgstr "拜托"
+msgstr "巴特尔"
 
 msgid "Black"
 msgstr "布莱克"
