@@ -3940,6 +3940,96 @@ msgstr "精灵石柱"
 msgid "Elf Brick Fence"
 msgstr "精灵砖栅栏"
 
+msgid "Sand Spawner"
+msgstr ""
+
+msgid "Jungle Flowers"
+msgstr ""
+
+msgid "Tulip Flower"
+msgstr ""
+
+msgid "Green Coral Spawner"
+msgstr ""
+
+msgid "Mud"
+msgstr ""
+
+msgid "Record Dark Boss"
+msgstr ""
+
+msgid "Devil Sulfur"
+msgstr ""
+
+msgid "Saphire Ore"
+msgstr ""
+
+msgid "Ruby Ore"
+msgstr ""
+
+msgid "Emerald Ore"
+msgstr ""
+
+msgid "Unobtamium Ore"
+msgstr ""
+
+msgid "Khlorium Ore"
+msgstr ""
+
+msgid "Realm Crystal"
+msgstr ""
+
+msgid "Dream Bricks"
+msgstr ""
+
+msgid "Clovers"
+msgstr ""
+
+msgid "Marble Bricks"
+msgstr ""
+
+msgid "Bronze"
+msgstr ""
+
+msgid "Steel"
+msgstr ""
+
+msgid "Pyrite"
+msgstr ""
+
+msgid "Pyrite Ore"
+msgstr ""
+
+msgid "Broken Dreams"
+msgstr ""
+
+msgid "Amethyst"
+msgstr ""
+
+msgid "Amethyst Antique"
+msgstr ""
+
+msgid "Klorium Antique"
+msgstr ""
+
+msgid "Black Crystal Antique"
+msgstr ""
+
+msgid "Cobalt Antique"
+msgstr ""
+
+msgid "Green Crystal Antique"
+msgstr ""
+
+msgid "Cryptonite Antique"
+msgstr ""
+
+msgid "Red Crystal Antique"
+msgstr ""
+
+msgid "Blue Crystal Antique"
+msgstr ""
+
 msgid "Yellow Crystal Antique"
 msgstr "远古黄水晶块"
 
