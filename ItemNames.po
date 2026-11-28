@@ -1893,7 +1893,7 @@ msgstr "大理石豎半磚"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Triangle"
-msgstr "大理石三角版"
+msgstr "大理石三角塊"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3941,94 +3941,94 @@ msgid "Elf Brick Fence"
 msgstr "精靈磚柵欄"
 
 msgid "Sand Spawner"
-msgstr ""
+msgstr "沙子生成者"
 
 msgid "Jungle Flowers"
-msgstr ""
+msgstr "叢林花"
 
 msgid "Tulip Flower"
-msgstr ""
+msgstr "鬱金香"
 
 msgid "Green Coral Spawner"
-msgstr ""
+msgstr "綠珊瑚生成者"
 
 msgid "Mud"
-msgstr ""
+msgstr "泥"
 
 msgid "Record Dark Boss"
-msgstr ""
+msgstr "黑暗魔王唱片"
 
 msgid "Devil Sulfur"
-msgstr ""
+msgstr "惡魔硫磺"
 
 msgid "Saphire Ore"
-msgstr ""
+msgstr "藍寶石"
 
 msgid "Ruby Ore"
-msgstr ""
+msgstr "紅寶石"
 
 msgid "Emerald Ore"
-msgstr ""
+msgstr "翡翠"
 
 msgid "Unobtamium Ore"
-msgstr ""
+msgstr "難得素"
 
 msgid "Khlorium Ore"
-msgstr ""
+msgstr "氪石"
 
 msgid "Realm Crystal"
-msgstr ""
+msgstr "領域水晶"
 
 msgid "Dream Bricks"
-msgstr ""
+msgstr "夢境磚塊"
 
 msgid "Clovers"
-msgstr ""
+msgstr "四葉草"
 
 msgid "Marble Bricks"
-msgstr ""
+msgstr "大理石磚塊"
 
 msgid "Bronze"
-msgstr ""
+msgstr "青銅"
 
 msgid "Steel"
-msgstr ""
+msgstr "鋼鐵"
 
 msgid "Pyrite"
-msgstr ""
+msgstr "黃鐵"
 
 msgid "Pyrite Ore"
-msgstr ""
+msgstr "黃鐵礦"
 
 msgid "Broken Dreams"
-msgstr ""
+msgstr "殘夢"
 
 msgid "Amethyst"
-msgstr ""
+msgstr "紫水晶"
 
 msgid "Amethyst Antique"
-msgstr ""
+msgstr "遠古紫水晶"
 
 msgid "Klorium Antique"
-msgstr ""
+msgstr "遠古天堂礦"
 
 msgid "Black Crystal Antique"
-msgstr ""
+msgstr "遠古黑水晶"
 
 msgid "Cobalt Antique"
-msgstr ""
+msgstr "遠古鈷"
 
 msgid "Green Crystal Antique"
-msgstr ""
+msgstr "遠古綠水晶"
 
 msgid "Cryptonite Antique"
-msgstr ""
+msgstr "遠古氪石"
 
 msgid "Red Crystal Antique"
-msgstr ""
+msgstr "遠古紅水晶"
 
 msgid "Blue Crystal Antique"
-msgstr ""
+msgstr "遠古藍水晶"
 
 msgid "Yellow Crystal Antique"
 msgstr "遠古黃水晶塊"
@@ -4052,7 +4052,7 @@ msgid "Reeds"
 msgstr "蘆葦"
 
 msgid "Pyrite Triangle"
-msgstr "愚人金三角版"
+msgstr "愚人金三角塊"
 
 msgid "Pyrite Half"
 msgstr "愚人金橫半磚"
@@ -4061,10 +4061,10 @@ msgid "Pyrite Vertical"
 msgstr "愚人金豎半磚"
 
 msgid "Steel Triangle"
-msgstr "鋼三角版"
+msgstr "鋼三角塊"
 
 msgid "Bronze Triangle"
-msgstr "青銅三角版"
+msgstr "青銅三角塊"
 
 msgid "Steel Half"
 msgstr "鋼橫半磚"
@@ -4190,7 +4190,7 @@ msgid "Muktuk"
 msgstr "熟鯨皮脂"
 
 msgid "Cat Tails"
-msgstr "香蒲"
+msgstr "貓尾草"
 
 msgid "Burning Ember"
 msgstr "灼熱餘燼"
@@ -4205,7 +4205,7 @@ msgid "Realm Spawner"
 msgstr "領域生怪磚"
 
 msgid "Alien Spawner"
-msgstr "外星生怪磚"
+msgstr "外星人生怪磚"
 
 msgid "CreativeEmeraldOre"
 msgstr "翡翠原礦"
@@ -4281,3 +4281,4 @@ msgstr "蘋果方塊"
 
 msgid "Coco Bean Block"
 msgstr "椰子方塊"
+
